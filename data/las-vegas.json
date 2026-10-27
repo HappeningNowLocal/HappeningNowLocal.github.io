@@ -1,0 +1,210 @@
+{
+ "city": "Las Vegas, NV",
+ "checked": "2026-10-27",
+ "events": [
+  {
+   "name": "D\u00eda de los Muertos Festival",
+   "category": "Festival",
+   "place": "Las Vegas Civic Center Plaza, 525 S. Main St",
+   "time": "1pm\u20137pm",
+   "free": true,
+   "source": "https://www.lasvegasnevada.gov/Residents/Events/Details?id=dia-de-los-muertos-nov-1-2026",
+   "date": "2026-11-01",
+   "note": "Altars, artisan vendors, kids' activities, food."
+  },
+  {
+   "name": "Life in Death: Day of the Dead Festival",
+   "category": "Festival",
+   "place": "Winchester Dondero Cultural Center, 3130 McLeod Dr",
+   "time": "4pm\u20139pm",
+   "free": true,
+   "source": "https://www.clarkcountynv.gov/news/102126-day-of-the-dead",
+   "date": "2026-11-01",
+   "end": "2026-11-02",
+   "note": "Free admission and parking. Community altars, mariachi, artisan market."
+  },
+  {
+   "name": "D\u00eda de los Muertos Community Market",
+   "category": "Art & Craft",
+   "place": "Llama Lot, 900 E Fremont St",
+   "time": "2pm\u20137pm",
+   "free": true,
+   "source": "https://shopandseeklv.com/events",
+   "date": "2026-11-01",
+   "note": "Local makers and a community ofrenda."
+  },
+  {
+   "name": "Arts District First Friday",
+   "category": "Art & Craft",
+   "place": "18b Arts District (Boulder Ave & 1st St)",
+   "time": "6pm\u201310pm",
+   "free": true,
+   "source": "https://www.18b.org/event-details/arts-district-first-friday-2026-11-06-18-00",
+   "rule": {
+    "dow": [
+     5
+    ],
+    "nth": [
+     1
+    ]
+   },
+   "note": "Every first Friday: 100+ local artists, food trucks, live music. Free to attend."
+  },
+  {
+   "name": "Lunchtime Concert: Enchanted Tiki Cats",
+   "category": "Movies & Music",
+   "place": "Las Vegas Civic Center Plaza",
+   "time": "12pm\u20131pm",
+   "free": true,
+   "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
+   "date": "2026-11-05"
+  },
+  {
+   "name": "Veterans Appreciation Concert: Swing It Girls",
+   "category": "Movies & Music",
+   "place": "Las Vegas Civic Center Plaza",
+   "time": "12pm\u20131pm",
+   "free": true,
+   "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
+   "date": "2026-11-12"
+  },
+  {
+   "name": "Desert Dusk Evening Market",
+   "category": "Art & Craft",
+   "place": "Craig Ranch Regional Park, 628 W. Craig Rd (North Las Vegas)",
+   "time": "4pm\u20138pm",
+   "free": true,
+   "source": "https://shopandseeklv.com/events/desert-dusk-2026",
+   "date": "2026-11-13",
+   "note": "60+ local vendors, food trucks. Free entry and parking."
+  },
+  {
+   "name": "Her Story Through Art: Women in Poetry",
+   "category": "Art & Craft",
+   "place": "Las Vegas Civic Center Plaza",
+   "time": "5:30pm\u20136:30pm",
+   "free": true,
+   "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
+   "date": "2026-11-20"
+  },
+  {
+   "name": "Lunchtime Concert: Rita Lim Holiday Concert",
+   "category": "Holiday",
+   "place": "Las Vegas Civic Center Plaza",
+   "time": "12pm\u20131pm",
+   "free": true,
+   "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
+   "date": "2026-12-03"
+  },
+  {
+   "name": "Tamales & Mariachi Festival",
+   "category": "Festival",
+   "place": "Las Vegas Civic Center Plaza, 525 S. Main St",
+   "time": "11am\u20134pm",
+   "free": true,
+   "source": "https://www.lasvegasnevada.gov/Residents/Arts-Culture/Annual-Festivals",
+   "date": "2026-12-05"
+  },
+  {
+   "name": "Her Story Through Art: Market in the Plaza",
+   "category": "Art & Craft",
+   "place": "Las Vegas Civic Center Plaza",
+   "time": "10am\u20132pm",
+   "free": true,
+   "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
+   "date": "2026-12-12"
+  },
+  {
+   "name": "Vegas City Opera: A Symphonic Holiday Concert",
+   "category": "Holiday",
+   "place": "Historic Fifth Street School, 401 S. Fourth St",
+   "time": "2pm\u20134pm",
+   "free": true,
+   "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
+   "date": "2026-12-12"
+  },
+  {
+   "name": "The Corner Open Mic: CommUNITY",
+   "category": "Movies & Music",
+   "place": "West Las Vegas Arts Center, 947 W. Lake Mead Blvd",
+   "time": "7pm",
+   "free": true,
+   "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
+   "date": "2026-12-18"
+  },
+  {
+   "name": "Film Screening: Sankofa",
+   "category": "Movies & Music",
+   "place": "West Las Vegas Arts Center, 947 W. Lake Mead Blvd",
+   "time": "2pm",
+   "free": true,
+   "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
+   "date": "2026-12-19"
+  },
+  {
+   "name": "Young Artists Orchestra Holiday Symphony",
+   "category": "Holiday",
+   "place": "Centennial Hills Park Amphitheatre, 7101 N. Buffalo Dr",
+   "time": "2pm",
+   "free": true,
+   "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
+   "date": "2026-12-19"
+  },
+  {
+   "name": "Downtown Summerlin Farmers Market",
+   "category": "Market",
+   "place": "1980 Festival Plaza Dr",
+   "time": "9am\u20132pm",
+   "free": true,
+   "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
+   "rule": {
+    "dow": [
+     6
+    ]
+   },
+   "note": "Every Saturday."
+  },
+  {
+   "name": "Fresh52 Market \u2013 Bruce Trent Park",
+   "category": "Market",
+   "place": "1600 N. Rampart Blvd",
+   "time": "4pm\u20138pm",
+   "free": true,
+   "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
+   "rule": {
+    "dow": [
+     3
+    ]
+   },
+   "note": "Every Wednesday."
+  },
+  {
+   "name": "Fresh52 Market \u2013 Skye Canyon Park",
+   "category": "Market",
+   "place": "10111 W. Skye Canyon Pkwy",
+   "time": "4pm\u20138pm",
+   "free": true,
+   "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
+   "rule": {
+    "dow": [
+     4
+    ]
+   },
+   "note": "Every Thursday."
+  },
+  {
+   "name": "Las Vegas Farmers' Market \u2013 The Uncommons",
+   "category": "Market",
+   "place": "6880 Helen Toland St",
+   "time": "10am\u20132pm",
+   "free": true,
+   "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
+   "rule": {
+    "dow": [
+     0
+    ]
+   },
+   "note": "Every Sunday."
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+ "city": "Henderson, NV",
+ "checked": "2026-10-27",
+ "events": [
+  {
+   "name": "Henderson Farmers Market \u2013 Cornerstone Park",
+   "category": "Market",
+   "place": "Cornerstone Park, 1600 Wigwam Pkwy",
+   "time": "9am\u20132pm",
+   "free": true,
+   "source": "https://www.cityofhenderson.com/residents/special-interest/henderson-farmers-market",
+   "rule": {
+    "dow": [
+     6
+    ],
+    "skip": [
+     "2026-11-28",
+     "2026-12-26"
+    ]
+   },
+   "note": "Every Saturday. Free entry; EBT/SNAP accepted on produce."
+  },
+  {
+   "name": "Henderson Farmers Market \u2013 Fox Ridge Park",
+   "category": "Market",
+   "place": "Fox Ridge Park, 420 N. Valle Verde Dr",
+   "time": "3pm\u20137pm",
+   "free": true,
+   "source": "https://www.cityofhenderson.com/residents/special-interest/henderson-farmers-market",
+   "rule": {
+    "dow": [
+     5
+    ],
+    "nth": [
+     1,
+     3
+    ],
+    "skip": [
+     "2026-11-27",
+     "2026-12-25"
+    ]
+   },
+   "note": "1st & 3rd Fridays."
+  },
+  {
+   "name": "Army Street Farmers Market",
+   "category": "Market",
+   "place": "129 S. Water St",
+   "time": "4pm\u20138pm",
+   "free": true,
+   "source": "https://www.cityofhenderson.com/residents/special-interest/henderson-farmers-market",
+   "date": "2026-11-20",
+   "note": "Moved up a week for Thanksgiving. Closed in December."
+  },
+  {
+   "name": "Farmers Market at The Village, Lake Las Vegas",
+   "category": "Market",
+   "place": "20 Costa Di Lago",
+   "time": "10am\u20132pm",
+   "free": true,
+   "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
+   "rule": {
+    "dow": [
+     0
+    ],
+    "nth": [
+     1,
+     3
+    ]
+   },
+   "note": "1st & 3rd Sundays."
+  },
+  {
+   "name": "Farmers Market at The District",
+   "category": "Market",
+   "place": "2240 Village Walk Dr",
+   "time": "10am\u20132pm",
+   "free": true,
+   "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
+   "rule": {
+    "dow": [
+     4
+    ]
+   },
+   "note": "Every Thursday."
+  },
+  {
+   "name": "Fresh52 Market \u2013 St. Rose Corporate Center",
+   "category": "Market",
+   "place": "2580 St. Rose Pkwy",
+   "time": "8:30am\u20131:30pm",
+   "free": true,
+   "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
+   "rule": {
+    "dow": [
+     0
+    ]
+   },
+   "note": "Every Sunday."
+  },
+  {
+   "name": "Fresh52 Market \u2013 Inspirada (Solista Park)",
+   "category": "Market",
+   "place": "2000 Via Firenze",
+   "time": "9am\u20131pm",
+   "free": true,
+   "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
+   "rule": {
+    "dow": [
+     6
+    ],
+    "nth": [
+     1,
+     3
+    ]
+   },
+   "note": "1st & 3rd Saturdays."
+  },
+  {
+   "name": "Indigenous American Heritage Celebration",
+   "category": "Festival",
+   "place": "Water Street Plaza, 240 S. Water St",
+   "time": "10am\u20133pm",
+   "free": true,
+   "source": "https://www.vegaspbs.org/blogs/community-events/november-8-indigenous-american-heritage-celebration/",
+   "date": "2026-11-08",
+   "note": "Native artisan vendors, music, dance, storytelling and food trucks."
+  },
+  {
+   "name": "Free Public Skate",
+   "category": "Family",
+   "place": "America First Center, 222 Water St",
+   "time": "7pm\u20139pm",
+   "free": true,
+   "source": "https://www.cityofhenderson.com/government/departments/parks-and-recreation/facilities/america-first-center#freeskate",
+   "date": "2026-11-21",
+   "note": "Free skate rental. Registration required (opens about 3 weeks before)."
+  },
+  {
+   "name": "WinterFest Tree Lighting & Drone Show",
+   "category": "Holiday",
+   "place": "Water Street Plaza",
+   "time": "5pm\u20137:30pm",
+   "free": true,
+   "source": "https://www.cityofhenderson.com/residents/special-interest/winterfest",
+   "date": "2026-12-03"
+  },
+  {
+   "name": "WinterFest Electric Light Parade",
+   "category": "Holiday",
+   "place": "Water Street, Basic Rd to Victory Rd",
+   "time": "6:30pm\u20138:30pm",
+   "free": true,
+   "source": "https://www.cityofhenderson.com/residents/special-interest/winterfest",
+   "date": "2026-12-04"
+  },
+  {
+   "name": "Reindeer Dash 5K",
+   "category": "Holiday",
+   "place": "Cornerstone Park",
+   "time": "10am\u201312pm",
+   "free": true,
+   "source": "https://nvhendersonweb.myvscloud.com/webtrac/web/search.html?module=AR&type=CMEVT",
+   "date": "2026-12-12",
+   "note": "5K is free with registration (1-mile walk is $25). Holiday market and Santa photos after."
+  },
+  {
+   "name": "Puppy Pictures with Santa",
+   "category": "Holiday",
+   "place": "Black Mountain Recreation Center",
+   "time": "11am\u201312pm",
+   "free": false,
+   "source": "https://nvhendersonweb.myvscloud.com/webtrac/web/search.html?module=AR&type=CMEVT",
+   "date": "2026-12-05",
+   "price": "$3"
+  }
+ ]
+}
