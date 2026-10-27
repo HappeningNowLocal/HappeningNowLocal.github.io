@@ -1,1 +1,57 @@
-{"checked": "2026-10-27", "cities": [{"id": "henderson", "name": "Henderson, NV"}, {"id": "las-vegas", "name": "Las Vegas, NV"}, {"id": "st-george", "name": "St. George, UT"}, {"id": "cedar-city", "name": "Cedar City, UT"}, {"id": "boulder-city", "name": "Boulder City, NV"}, {"id": "phoenix", "name": "Phoenix, AZ"}, {"id": "salt-lake-city", "name": "Salt Lake City, UT"}, {"id": "san-diego", "name": "San Diego, CA"}, {"id": "los-angeles", "name": "Los Angeles, CA"}]}
+{
+ "checked": "2026-10-27",
+ "cities": [
+  {
+   "id": "henderson",
+   "name": "Henderson, NV"
+  },
+  {
+   "id": "las-vegas",
+   "name": "Las Vegas, NV"
+  },
+  {
+   "id": "st-george",
+   "name": "St. George, UT"
+  },
+  {
+   "id": "cedar-city",
+   "name": "Cedar City, UT"
+  },
+  {
+   "id": "boulder-city",
+   "name": "Boulder City, NV"
+  },
+  {
+   "id": "phoenix",
+   "name": "Phoenix, AZ"
+  },
+  {
+   "id": "salt-lake-city",
+   "name": "Salt Lake City, UT"
+  },
+  {
+   "id": "san-diego",
+   "name": "San Diego, CA"
+  },
+  {
+   "id": "los-angeles",
+   "name": "Los Angeles, CA"
+  },
+  {
+   "id": "laughlin",
+   "name": "Laughlin, NV"
+  },
+  {
+   "id": "zion-springdale",
+   "name": "Zion / Springdale, UT"
+  },
+  {
+   "id": "hurricane",
+   "name": "Hurricane, UT"
+  },
+  {
+   "id": "kingman",
+   "name": "Kingman, AZ"
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "city": "Zion / Springdale, UT",
+ "checked": "2026-10-27",
+ "events": [
+  {
+   "name": "Zion Canyon Visitor Center Ranger Talk",
+   "category": "Outdoors & Nature",
+   "place": "Zion Canyon Visitor Center Plaza, by the shuttle stop",
+   "time": "10:30am–11am",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=145208",
+   "rule": {
+    "dow": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "from": "2026-10-27",
+    "until": "2026-11-28"
+   },
+   "note": "Park entrance fee applies.",
+   "description": "A short outdoor ranger talk next to the shuttle stop at the Zion Canyon Visitor Center, easy to catch before or after a shuttle ride.",
+   "id": "zi-zion-canyon-visitor-center-ranger-talk-2026-10-27"
+  },
+  {
+   "name": "Ranger-led Stargazing",
+   "category": "Outdoors & Nature",
+   "place": "South Campground Amphitheater (park at Zion Nature Center)",
+   "time": "6:30pm–7:30pm",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=146010",
+   "date": "2026-11-01",
+   "note": "Park entrance fee applies.",
+   "description": "A laser-guided tour of the constellations at Zion's South Campground Amphitheater. Plan to be out after dark and bring your own red light.",
+   "id": "zi-ranger-led-stargazing-2026-11-01"
+  },
+  {
+   "name": "Zion Art Invitational – Artist Demonstrations",
+   "category": "Art & Craft",
+   "place": "Cable Mountain Lodge, Springdale",
+   "time": "9am–2pm",
+   "free": true,
+   "source": "https://www.zionpark.org/pages/artinvitational",
+   "date": "2026-11-03",
+   "end": "2026-11-04",
+   "description": "Sixteen landscape artists give painting demonstrations during the Zion National Park Art Invitational. Their work is also on display and for sale at Worthington Gallery in Springdale through Nov 8, with proceeds benefiting the park.",
+   "id": "zi-zion-art-invitational-artist-demonstrations-2026-11-03"
+  },
+  {
+   "name": "Zion Art Invitational Gala & Art Sale",
+   "category": "Art & Craft",
+   "place": "Springdale",
+   "time": "6pm–9pm",
+   "free": false,
+   "source": "https://www.zionpark.org/pages/artinvitational",
+   "date": "2026-11-06",
+   "note": "Ticketed.",
+   "description": "The Art Invitational's evening gala and art sale, benefiting Zion National Park.",
+   "id": "zi-zion-art-invitational-gala-art-sale-2026-11-06"
+  },
+  {
+   "name": "Wet Paint & Silent Auction",
+   "category": "Art & Craft",
+   "place": "Zion Lodge, inside Zion National Park",
+   "time": "10am–12pm",
+   "free": false,
+   "source": "https://www.zionpark.org/pages/artinvitational",
+   "date": "2026-11-07",
+   "note": "Park entrance fee required.",
+   "description": "Watch all sixteen Invitational artists paint live in Zion National Park, followed by a silent auction.",
+   "id": "zi-wet-paint-silent-auction-2026-11-07"
+  },
+  {
+   "name": "Fee-Free Day at Zion (Veterans Day)",
+   "category": "Outdoors & Nature",
+   "place": "Zion National Park",
+   "time": "All day",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/fee-free-parks.htm",
+   "date": "2026-11-11",
+   "description": "Veterans Day is a National Park Service fee-free day, so Zion's entrance fee is waived for U.S. citizens and residents. Other fees, like camping, still apply.",
+   "id": "zi-fee-free-day-at-zion-veterans-day-2026-11-11"
+  },
+  {
+   "name": "Butch Cassidy 10K/5K",
+   "category": "Outdoors & Nature",
+   "place": "Springdale to Grafton ghost town",
+   "time": "9am",
+   "free": false,
+   "source": "https://www.springdale.utah.gov/396/Butch-Cassidy-10K5K-Race",
+   "date": "2026-11-14",
+   "price": "$60 ($25 kids 10 & under)",
+   "note": "Registration closes Nov 11 or when the cap is reached.",
+   "description": "Springdale's 43rd annual race runs along the Virgin River and over the Rockville Bridge to the historic ghost town of Grafton. Spectators and runners park in Springdale and ride race shuttles; there is no parking in Grafton.",
+   "id": "zi-butch-cassidy-10k-5k-2026-11-14"
+  },
+  {
+   "name": "Zion Canyon Arts & Crafts Fair",
+   "category": "Art & Craft",
+   "place": "Canyon Community Center, 126 Lion Blvd, Springdale",
+   "time": "From 10am",
+   "free": true,
+   "source": "https://go-do.live/event/2026-zion-canyon-arts-and-crafts-fair-canyon-community-springdale-ut-10d1d364be66/",
+   "date": "2026-11-27",
+   "end": "2026-11-28",
+   "note": "Listed on an aggregator; confirm before going.",
+   "description": "Springdale's annual arts and crafts fair at the Canyon Community Center over Thanksgiving weekend.",
+   "id": "zi-zion-canyon-arts-crafts-fair-2026-11-27"
+  }
+ ]
+}

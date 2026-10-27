@@ -1,0 +1,108 @@
+{
+ "city": "Kingman, AZ",
+ "checked": "2026-10-27",
+ "events": [
+  {
+   "name": "Downtown First Friday – Giving Thanks & Giving Back",
+   "category": "Festival",
+   "place": "Beale Street, Downtown Kingman",
+   "time": "5:30pm–9pm",
+   "free": true,
+   "source": "https://www.kingmanchamber.com/first-fridays",
+   "date": "2026-11-06",
+   "description": "The last Downtown First Friday of the season, themed Giving Thanks & Giving Back, on Beale Street.",
+   "id": "ki-downtown-first-friday-giving-thanks-giving-back-2026-11-06"
+  },
+  {
+   "name": "Route 66 UltraRun",
+   "category": "Outdoors & Nature",
+   "place": "Route 66, Kingman to Seligman",
+   "time": "See source",
+   "free": false,
+   "source": "https://visitkingman.com/events",
+   "date": "2026-11-13",
+   "end": "2026-11-15",
+   "description": "An ultramarathon along historic Route 66 between Kingman and Seligman, listed among Kingman's signature annual events.",
+   "id": "ki-route-66-ultrarun-2026-11-13"
+  },
+  {
+   "name": "Kingman Veterans Day Parade",
+   "category": "Holiday",
+   "place": "Beale Street, 5th St to 1st St",
+   "time": "10am–11am",
+   "free": true,
+   "source": "https://www.explorekingman.com/2026-11-14-event-verterans-day-parade/",
+   "date": "2026-11-14",
+   "description": "Kingman's Veterans Day parade down Beale Street in historic downtown, organized with the Kingman Area Veterans Association.",
+   "id": "ki-kingman-veterans-day-parade-2026-11-14"
+  },
+  {
+   "name": "Gobble Wobble in the Pai's 5K/10K",
+   "category": "Outdoors & Nature",
+   "place": "Hualapai Mountain Park",
+   "time": "9am",
+   "free": false,
+   "source": "https://runsignup.com/Race/AZ/Kingman/HMPGobblewobble",
+   "date": "2026-11-14",
+   "note": "Entry fee; see registration page.",
+   "description": "Hualapai Mountain Park's 3rd annual Gobble Wobble trail race with 5K and 10K options. Race-day registration closes at 8:30am.",
+   "id": "ki-gobble-wobble-in-the-pai-s-5k-10k-2026-11-14"
+  },
+  {
+   "name": "Chillin' on Beale",
+   "category": "Festival",
+   "place": "Beale Street, Downtown Kingman",
+   "time": "3pm–6pm",
+   "free": true,
+   "source": "https://www.explorekingman.com/2026-event-chillin-on-beale/",
+   "date": "2026-11-21",
+   "description": "Downtown Kingman's monthly third-Saturday street gathering on Beale Street, in its final month of the season.",
+   "id": "ki-chillin-on-beale-2026-11-21"
+  },
+  {
+   "name": "Radar Hill Tree Lighting",
+   "category": "Holiday",
+   "place": "Heritage Complex, 701 N Stockton Hill Rd",
+   "time": "4pm–6:30pm",
+   "free": true,
+   "source": "https://www.explorekingman.com/2026-11-27-event-radar-hill-tree-lighting/",
+   "date": "2026-11-27",
+   "description": "Kingman Chamber of Commerce and Kingman Premier Properties light the Radar Hill tree. Kids' games, food trucks, free hot cocoa and cookies, and holiday singing. Park off Johnson Ave and Hall St behind Walgreens.",
+   "id": "ki-radar-hill-tree-lighting-2026-11-27"
+  },
+  {
+   "name": "Mingle Jingle Christmas Bazaar",
+   "category": "Market",
+   "place": "Beale Celebrations, 201 N 4th St",
+   "time": "1pm–8pm",
+   "free": true,
+   "source": "https://www.kingmandowntownmerchantsassociation.com/mingle-jingle",
+   "date": "2026-12-05",
+   "description": "A free bazaar of handmade gifts in fabric, wood, ceramic and glass, plus jewelry, candles, jams, baked goods and quilts. Santa visits from 1 to 4pm for photos.",
+   "id": "ki-mingle-jingle-christmas-bazaar-2026-12-05"
+  },
+  {
+   "name": "Very Merry Street of Lights",
+   "category": "Holiday",
+   "place": "Beale Street, 1st to 6th Streets",
+   "time": "5pm–8pm",
+   "free": true,
+   "source": "https://www.kingmandowntownmerchantsassociation.com/street-of-lights",
+   "date": "2026-12-05",
+   "description": "Six blocks of Beale Street fill with dozens of decorated floats and vehicles, vendors, lights and entertainment. Santa arrives by helicopter at 1st and Beale at 5pm, and the city's tree lighting is at Locomotive Park at 6pm. Walking event only.",
+   "id": "ki-very-merry-street-of-lights-2026-12-05"
+  },
+  {
+   "name": "Downtown Cookie Crawl",
+   "category": "Holiday",
+   "place": "Historic Downtown Kingman (Chamber, 309 E Beale St)",
+   "time": "10am–4pm",
+   "free": false,
+   "source": "https://www.explorekingman.com/2026-12-12-event-cookie-crawl/",
+   "date": "2026-12-12",
+   "note": "Check the Chamber for ticket details.",
+   "description": "Grab a cookie container and stroll downtown, collecting holiday cookies from participating businesses. Hosted by the Kingman Area Chamber of Commerce.",
+   "id": "ki-downtown-cookie-crawl-2026-12-12"
+  }
+ ]
+}

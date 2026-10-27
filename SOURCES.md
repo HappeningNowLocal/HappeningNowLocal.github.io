@@ -111,3 +111,39 @@ Checked 2026-10-27. **Reachable** means the page loaded from this box. **Search-
 
 ## Not started (Denver, Albuquerque, Reno, Mesquite)
 Candidate official sources: Colorado Parks & Wildlife (https://cpw.state.co.us/events), New Mexico State Parks (https://www.emnrd.nm.gov/spd/), Nevada State Parks (above), City of Reno (https://www.reno.gov/), City of Mesquite (https://www.mesquitenv.gov/).
+
+## Laughlin, NV (proposed)
+| Name | URL | Covers | Reachable |
+|---|---|---|---|
+| Nevada State Parks: Big Bend of the Colorado | https://parks.nv.gov/events | Ranger hikes at Big Bend SRA | Reachable |
+| Lake Mead NRA | NPS API (lake) | Willow Beach and volunteer events | Reachable (API) |
+| Las Vegas-Clark County Library District (Laughlin Library) | https://events.thelibrarydistrict.org/ | Library crafts, kids' events, free concerts | Search-only (read through aggregators venunite/yodel; need per-event links) |
+| Bullhead City events (Locable, city-run) | https://www.bullheadcity.com/ | Boat parade, Light the Belle, Boom Box Parade, river events | Reachable |
+| Laughlin Chamber of Commerce | https://laughlinchamber.com/ | Annual events, Holly Jolly Bazaar | Reachable (event pages have inconsistent times) |
+
+## Zion / Springdale, UT (proposed)
+| Name | URL | Covers | Reachable |
+|---|---|---|---|
+| Zion NP | NPS API (zion) | Ranger talks, stargazing | Reachable (API) |
+| Town of Springdale | https://www.springdale.utah.gov/ | Butch Cassidy 10K/5K, Joy to the World | Reachable (Joy to the World page still shows 2025 dates; recheck) |
+| Zion Forever Project | https://www.zionpark.org/pages/artinvitational | Art Invitational | Search-only |
+| Duck Creek Village Inn Zion events | https://www.duckcreekvillageinn.com/zion-area-events | Zion corridor roundup (La Verkin Winterfest etc.) | Search-only (secondary) |
+
+## Hurricane, UT (proposed)
+| Name | URL | Covers | Reachable |
+|---|---|---|---|
+| Utah State Parks events API | https://stateparks.utah.gov/wp-json/tribe/events/v1/events/ | Sand Hollow and Quail Creek ranger programs | Reachable |
+| Hurricane Recreation | https://www.hurricanerecreation.com/ | Christmas Tree Festival, city events | Search-only |
+| City of Hurricane | https://www.cityofhurricane.com/ | City events (Peach Days in Sept) | Search-only |
+| Legacy Park | https://thelegacypark.com/events/ | Fairgrounds shows and markets | Search-only |
+| SGWOM | https://sgwom.com/ | Regional roundup (tree lighting) | Search-only (secondary) |
+| The Farm Zion | https://thefarmzion.com/ | Christmas on The Farm | Search-only |
+
+## Kingman, AZ (proposed)
+| Name | URL | Covers | Reachable |
+|---|---|---|---|
+| Explore Kingman (city tourism) | https://www.explorekingman.com/events/ | Parades, tree lighting, Chillin' on Beale, Cookie Crawl | Reachable (JS-heavy; event pages load) |
+| Visit Kingman | https://visitkingman.com/events | Signature events (Route 66 UltraRun) | Search-only |
+| Kingman Downtown Merchants Association | https://www.kingmandowntownmerchantsassociation.com/ | Street of Lights, Mingle Jingle | Search-only |
+| Kingman Area Chamber | https://www.kingmanchamber.com/ | First Fridays, Cookie Crawl | Search-only |
+| Hualapai Mountain Park (Mohave County) | https://runsignup.com/Race/AZ/Kingman/HMPGobblewobble | Park races; check county parks for ranger hikes | Search-only |

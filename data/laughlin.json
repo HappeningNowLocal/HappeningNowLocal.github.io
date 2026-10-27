@@ -1,0 +1,108 @@
+{
+ "city": "Laughlin, NV",
+ "checked": "2026-10-27",
+ "events": [
+  {
+   "name": "Creepy Crawler Hike",
+   "category": "Outdoors & Nature",
+   "place": "Big Bend of the Colorado State Recreation Area, North Trail Loop",
+   "time": "See source",
+   "free": false,
+   "source": "https://parks.nv.gov/events/creepy-crawler-hike-2026-1",
+   "date": "2026-10-30",
+   "note": "State park entry fee may apply.",
+   "description": "Join a ranger at Big Bend of the Colorado State Recreation Area for a creepy crawler adventure through the North Trail Loop.",
+   "id": "lau-creepy-crawler-hike-2026-10-30"
+  },
+  {
+   "name": "Willow Beach Cleanup (Leave No Trace Spotlight)",
+   "category": "Outdoors & Nature",
+   "place": "Willow Beach, Lake Mead NRA (AZ side)",
+   "time": "9am–11am",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=142689",
+   "date": "2026-10-30",
+   "note": "Registration required.",
+   "description": "Part of Leave No Trace's Spotlight visit to Lake Mead National Recreation Area Oct 29–31. Volunteers help clean up Willow Beach; the meeting location and a password for free entry are sent after you sign up.",
+   "id": "lau-willow-beach-cleanup-leave-no-trace-spotlight-2026-10-30"
+  },
+  {
+   "name": "Falling Leaves Craft",
+   "category": "Art & Craft",
+   "place": "Laughlin Library, 2840 S Needles Hwy",
+   "time": "4pm–5:30pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/",
+   "date": "2026-11-06",
+   "description": "Create a door or wall hanging using cardboard and old books. Adults, teens and tweens are welcome.",
+   "id": "lau-falling-leaves-craft-2026-11-06"
+  },
+  {
+   "name": "28th Annual CRWC Boom Box Parade",
+   "category": "Holiday",
+   "place": "River Gardens Dr & Hancock Rd to Alona Way, Bullhead City",
+   "time": "6pm Arizona time (5pm Laughlin time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/12/4/585045/28th-annual-crwc-boom-box-parade/",
+   "date": "2026-12-04",
+   "description": "Bullhead City's holiday parade, themed American Christmas this year, with decorated floats and vehicles from local businesses, schools, nonprofits and first responders. Bring chairs; the route runs from River Gardens Dr & Hancock Rd to Alona Way.",
+   "id": "lau-28th-annual-crwc-boom-box-parade-2026-12-04"
+  },
+  {
+   "name": "Holly Jolly Holiday Bazaar",
+   "category": "Market",
+   "place": "Anderson Auto Group Fieldhouse, Bullhead City",
+   "time": "10am–5pm Arizona time (9am–4pm Laughlin time)",
+   "free": true,
+   "source": "https://laughlinchamber.com/",
+   "date": "2026-12-05",
+   "note": "Hours listed in Arizona time; confirm with the organizer.",
+   "description": "A holiday bazaar at the Anderson Auto Group Fieldhouse across the river in Bullhead City, listed by the Laughlin Chamber.",
+   "id": "lau-holly-jolly-holiday-bazaar-2026-12-05"
+  },
+  {
+   "name": "Nik at Nite – A Jazzy Holiday Concert",
+   "category": "Movies & Music",
+   "place": "Laughlin Library, 2840 S Needles Hwy",
+   "time": "1pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/",
+   "date": "2026-12-07",
+   "description": "Nik sings classic holiday songs in a Sinatra-style sing-along. Free and open to the public; seating is first come, first served.",
+   "id": "lau-nik-at-nite-a-jazzy-holiday-concert-2026-12-07"
+  },
+  {
+   "name": "Light the Belle",
+   "category": "Holiday",
+   "place": "Bullhead Belle, Community Park, Bullhead City",
+   "time": "5:30pm Arizona time (4:30pm Laughlin time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/12/7/651006/light-the-belle-holiday-lights-on-the-colorado-river/",
+   "date": "2026-12-07",
+   "description": "Thousands of holiday lights switch on at the Bullhead Belle on the Colorado River at sundown. The lights stay up through the holiday season for photos and evening strolls.",
+   "id": "lau-light-the-belle-2026-12-07"
+  },
+  {
+   "name": "Graham Cracker Cottages",
+   "category": "Family",
+   "place": "Laughlin Library, 2840 S Needles Hwy",
+   "time": "4pm–5:30pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/",
+   "date": "2026-12-18",
+   "description": "Kids build holiday houses out of graham crackers, candy and frosting. Ages 0–17 welcome; free while supplies last.",
+   "id": "lau-graham-cracker-cottages-2026-12-18"
+  },
+  {
+   "name": "Christmas on the Colorado Lighted Boat Parade",
+   "category": "Holiday",
+   "place": "Colorado River (watch from the Laughlin Riverwalk or Bullhead City Community Park)",
+   "time": "5pm Laughlin time (6pm Arizona time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/12/19/596164/christmas-on-the-colorado-lighted-boat-parade/",
+   "date": "2026-12-19",
+   "description": "Decorated boats light up the Colorado River at sunset. Watch from anywhere along the river, or from the Bullhead Belle.",
+   "id": "lau-christmas-on-the-colorado-lighted-boat-parade-2026-12-19"
+  }
+ ]
+}

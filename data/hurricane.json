@@ -1,0 +1,162 @@
+{
+ "city": "Hurricane, UT",
+ "checked": "2026-10-27",
+ "events": [
+  {
+   "name": "Winged Wonders at Sand Hollow",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "8am",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/winged-wonders-15/",
+   "date": "2026-10-30",
+   "note": "State park day-use fee applies.",
+   "description": "Sand Hollow gets over 250 bird species a year. Bring a chair or blanket and join a ranger off the main boat ramp near the jetty; binoculars are provided.",
+   "id": "hu-winged-wonders-at-sand-hollow-2026-10-30"
+  },
+  {
+   "name": "Community Action – Weed Pulling at Sand Hollow",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "4pm",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/community-action-weed-pulling-8/",
+   "date": "2026-11-04",
+   "note": "State park day-use fee applies.",
+   "description": "Help a park ranger pull invasive plants that popped up after monsoon season at Sand Hollow.",
+   "id": "hu-community-action-weed-pulling-at-sand-hollow-2026-11-04"
+  },
+  {
+   "name": "Campfire Chat at Sand Hollow",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "7:30pm",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/campfire-chat-8/",
+   "date": "2026-11-09",
+   "note": "State park day-use fee applies.",
+   "description": "An evening around the campfire with a park ranger. Bring chairs and hot cocoa; s'mores are provided by Lin's in Hurricane.",
+   "id": "hu-campfire-chat-at-sand-hollow-2026-11-09"
+  },
+  {
+   "name": "Winged Wonders at Sand Hollow",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "8am",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/winged-wonders-16/",
+   "date": "2026-11-11",
+   "note": "State park day-use fee applies.",
+   "description": "Sand Hollow gets over 250 bird species a year. Bring a chair or blanket and join a ranger off the main boat ramp near the jetty; binoculars are provided.",
+   "id": "hu-winged-wonders-at-sand-hollow-2026-11-11"
+  },
+  {
+   "name": "Art of Adventure at Sand Hollow",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "10am",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/art-of-adventure-8/",
+   "date": "2026-11-14",
+   "note": "State park day-use fee applies.",
+   "description": "A mid-morning nature journaling outing with a park ranger. Journals and drawing materials are provided.",
+   "id": "hu-art-of-adventure-at-sand-hollow-2026-11-14"
+  },
+  {
+   "name": "Movie Meetup at Sand Hollow",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "7pm",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/movie-meetup-9/",
+   "date": "2026-11-18",
+   "note": "State park day-use fee applies.",
+   "description": "An outdoor movie night at Sand Hollow. Bring blankets and chairs; food vendors will be there. Weather dependent.",
+   "id": "hu-movie-meetup-at-sand-hollow-2026-11-18"
+  },
+  {
+   "name": "EKO: Share Nature with a Friend at Sand Hollow",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "2pm",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/eko-share-nature-with-a-friend/",
+   "date": "2026-11-21",
+   "note": "State park day-use fee applies.",
+   "description": "An Every Kid Outdoors challenge with Utah's Division of Outdoor Recreation. Kids join a ranger for fun in the sand and earn an EKO sticker.",
+   "id": "hu-eko-share-nature-with-a-friend-at-sand-hollow-2026-11-21"
+  },
+  {
+   "name": "Community Action – Trash Cleanup at Sand Hollow",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "4pm",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/community-action-trash-cleanup-9/",
+   "date": "2026-11-24",
+   "note": "State park day-use fee applies.",
+   "description": "Join a park ranger to pick up trash along the Sand Hollow beach during the off-season.",
+   "id": "hu-community-action-trash-cleanup-at-sand-hollow-2026-11-24"
+  },
+  {
+   "name": "Full Moon Stroll at Sand Hollow",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "6pm",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/full-moon-stroll-3/",
+   "date": "2026-11-25",
+   "note": "State park day-use fee applies.",
+   "description": "A ranger chat about the full moon during a stroll along the Sand Hollow beach.",
+   "id": "hu-full-moon-stroll-at-sand-hollow-2026-11-25"
+  },
+  {
+   "name": "Crazy Daisy St. George Christmas Show",
+   "category": "Market",
+   "place": "Washington County Legacy Park, Hurricane",
+   "time": "10am–6pm",
+   "free": true,
+   "source": "https://thelegacypark.com/events/crazy-daisy-christmas-show/",
+   "date": "2026-11-13",
+   "end": "2026-11-14",
+   "description": "A free holiday shopping show with 80-plus local vendors, food trucks and giveaways at Legacy Park.",
+   "id": "hu-crazy-daisy-st-george-christmas-show-2026-11-13"
+  },
+  {
+   "name": "Christmas on The Farm",
+   "category": "Holiday",
+   "place": "The Farm, 1162 W 3000 S",
+   "time": "Select days; see source",
+   "free": false,
+   "source": "https://thefarmzion.com/events/general-admission-winter/",
+   "date": "2026-11-28",
+   "end": "2026-12-31",
+   "note": "2026 hours and prices not posted yet.",
+   "description": "The Farm's winter season with holiday lights, Christmas music and barnyard animals. Depending on the day there are Santa visits, tractor rides, slides and kid zones. Tickets are booked online by date.",
+   "id": "hu-christmas-on-the-farm-2026-11-28"
+  },
+  {
+   "name": "Hurricane City Christmas Tree Lighting",
+   "category": "Holiday",
+   "place": "Hurricane Community Center & Splash Pad, 63 S 100 W",
+   "time": "6pm–8pm",
+   "free": true,
+   "source": "https://sgwom.com/events/hurricane-city-christmas-tree-lighting-2026/",
+   "date": "2026-11-30",
+   "description": "Hurricane's community tree lighting with donuts and hot cocoa, a live nativity, horse-drawn carriage rides and a visit from Santa.",
+   "id": "hu-hurricane-city-christmas-tree-lighting-2026-11-30"
+  },
+  {
+   "name": "Hurricane Valley Christmas Tree Festival",
+   "category": "Holiday",
+   "place": "Hurricane Community Center, 63 S 100 W",
+   "time": "Opens 4pm Thu Dec 10",
+   "free": true,
+   "source": "https://www.hurricanerecreation.com/christmas-tree-festival",
+   "date": "2026-12-10",
+   "end": "2026-12-12",
+   "description": "Decorated Christmas trees up for auction, a bake sale, local vendors, Christmas trains, nativity displays, raffles and live entertainment, plus Santa. Proceeds benefit the Hurricane Police Department's Shop with a Cop program.",
+   "id": "hu-hurricane-valley-christmas-tree-festival-2026-12-10"
+  }
+ ]
+}
