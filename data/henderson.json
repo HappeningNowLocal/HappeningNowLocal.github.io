@@ -3,10 +3,10 @@
  "checked": "2026-10-27",
  "events": [
   {
-   "name": "Henderson Farmers Market \u2013 Cornerstone Park",
+   "name": "Henderson Farmers Market – Cornerstone Park",
    "category": "Market",
    "place": "Cornerstone Park, 1600 Wigwam Pkwy",
-   "time": "9am\u20132pm",
+   "time": "9am–2pm",
    "free": true,
    "source": "https://www.cityofhenderson.com/residents/special-interest/henderson-farmers-market",
    "rule": {
@@ -18,13 +18,19 @@
      "2026-12-26"
     ]
    },
-   "note": "Every Saturday. Free entry; EBT/SNAP accepted on produce."
+   "note": "Every Saturday. Free entry; EBT/SNAP accepted on produce.",
+   "description": "A year-round City of Henderson farmers market with fresh produce and handmade products from a curated group of local merchants. It runs every Saturday at Cornerstone Park.",
+   "know": [
+    "EBT/SNAP accepted on fresh produce.",
+    "Closed Nov 28 and Dec 26 for the holidays."
+   ],
+   "id": "he-henderson-farmers-market-cornerstone-par"
   },
   {
-   "name": "Henderson Farmers Market \u2013 Fox Ridge Park",
+   "name": "Henderson Farmers Market – Fox Ridge Park",
    "category": "Market",
    "place": "Fox Ridge Park, 420 N. Valle Verde Dr",
-   "time": "3pm\u20137pm",
+   "time": "3pm–7pm",
    "free": true,
    "source": "https://www.cityofhenderson.com/residents/special-interest/henderson-farmers-market",
    "rule": {
@@ -40,23 +46,35 @@
      "2026-12-25"
     ]
    },
-   "note": "1st & 3rd Fridays."
+   "note": "1st & 3rd Fridays.",
+   "description": "A year-round City of Henderson farmers market held on the 1st and 3rd Friday afternoons at Fox Ridge Park. Shop fresh produce and handmade goods from local merchants.",
+   "know": [
+    "EBT/SNAP accepted on fresh produce.",
+    "Closed Nov 27 and Dec 25."
+   ],
+   "id": "he-henderson-farmers-market-fox-ridge-park"
   },
   {
    "name": "Water Street Farmers Market (Army St)",
    "category": "Market",
    "place": "129 S. Water St",
-   "time": "4pm\u20138pm",
+   "time": "4pm–8pm",
    "free": true,
    "source": "https://www.cityofhenderson.com/residents/special-interest/henderson-farmers-market",
    "date": "2026-11-20",
-   "note": "Moved up a week for Thanksgiving. Closed in December."
+   "note": "Moved up a week for Thanksgiving. Closed in December.",
+   "description": "The City of Henderson's seasonal evening market on Army Street in the Water Street District. In November it moves up a week to Nov 20 for the Thanksgiving weekend.",
+   "know": [
+    "The market is closed in December.",
+    "EBT/SNAP accepted on fresh produce."
+   ],
+   "id": "he-water-street-farmers-market-army-st"
   },
   {
    "name": "Farmers Market at The Village, Lake Las Vegas",
    "category": "Market",
    "place": "20 Costa Di Lago",
-   "time": "10am\u20132pm",
+   "time": "10am–2pm",
    "free": true,
    "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
    "rule": {
@@ -68,13 +86,15 @@
      3
     ]
    },
-   "note": "1st & 3rd Sundays."
+   "note": "1st & 3rd Sundays.",
+   "description": "A lakeside farmers market at The Village at Lake Las Vegas on the 1st and 3rd Sundays of each month, with local vendors and handcrafted goods.",
+   "id": "he-farmers-market-at-the-village-lake-las-v"
   },
   {
    "name": "Farmers Market at The District",
    "category": "Market",
    "place": "2240 Village Walk Dr",
-   "time": "10am\u20132pm",
+   "time": "10am–2pm",
    "free": true,
    "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
    "rule": {
@@ -82,13 +102,15 @@
      4
     ]
    },
-   "note": "Every Thursday."
+   "note": "Every Thursday.",
+   "description": "A weekly Thursday farmers market at The District at Green Valley Ranch, run by Las Vegas Farmers' Market.",
+   "id": "he-farmers-market-at-the-district"
   },
   {
-   "name": "Fresh52 Market \u2013 St. Rose Corporate Center",
+   "name": "Fresh52 Market – St. Rose Corporate Center",
    "category": "Market",
    "place": "2580 St. Rose Pkwy",
-   "time": "8:30am\u20131:30pm",
+   "time": "8:30am–1:30pm",
    "free": true,
    "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
    "rule": {
@@ -96,13 +118,15 @@
      0
     ]
    },
-   "note": "Every Sunday."
+   "note": "Every Sunday.",
+   "description": "A Fresh52 farmers and artisan market held every Sunday morning at St. Rose Corporate Center.",
+   "id": "he-fresh52-market-st-rose-corporate-center"
   },
   {
-   "name": "Fresh52 Market \u2013 Inspirada (Solista Park)",
+   "name": "Fresh52 Market – Inspirada (Solista Park)",
    "category": "Market",
    "place": "2000 Via Firenze",
-   "time": "9am\u20131pm",
+   "time": "9am–1pm",
    "free": true,
    "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
    "rule": {
@@ -114,146 +138,212 @@
      3
     ]
    },
-   "note": "1st & 3rd Saturdays."
+   "note": "1st & 3rd Saturdays.",
+   "description": "A Fresh52 farmers and artisan market at Solista Park in Inspirada on the 1st and 3rd Saturdays of each month.",
+   "id": "he-fresh52-market-inspirada-solista-park"
   },
   {
    "name": "Indigenous American Heritage Celebration",
    "category": "Festival",
    "place": "Water Street Plaza, 240 S. Water St",
-   "time": "10am\u20133pm",
+   "time": "10am–3pm",
    "free": true,
    "source": "https://www.vegaspbs.org/blogs/community-events/november-8-indigenous-american-heritage-celebration/",
    "date": "2026-11-08",
-   "note": "Native artisan vendors, music, dance, storytelling and food trucks."
+   "note": "Native artisan vendors, music, dance, storytelling and food trucks.",
+   "description": "An annual free celebration of Indigenous cultures presented by the City of Henderson with Nuwu Art. Expect live music, dance and storytelling, plus Native artisan vendors selling paintings, jewelry, sculpture and beadwork. Food trucks will be on site.",
+   "know": [
+    "Fully outdoors; weather may change the schedule.",
+    "Free parking in two public garages and several lots in the Water Street District."
+   ],
+   "id": "he-indigenous-american-heritage-celebration"
   },
   {
    "name": "Free Public Skate",
    "category": "Family",
    "place": "America First Center, 222 Water St",
-   "time": "7pm\u20139pm",
+   "time": "7pm–9pm",
    "free": true,
    "source": "https://www.cityofhenderson.com/government/departments/parks-and-recreation/facilities/america-first-center#freeskate",
    "date": "2026-11-21",
-   "note": "Free skate rental. Registration required (opens about 3 weeks before)."
+   "note": "Free skate rental. Registration required (opens about 3 weeks before).",
+   "description": "The City of Henderson and America First Center offer free public skating on select dates, with free skate rentals. Skaters of all ages and experience levels are welcome.",
+   "know": [
+    "Registration is required; it opens about 3 weeks before the skate date."
+   ],
+   "id": "he-free-public-skate"
   },
   {
    "name": "WinterFest Tree Lighting & Drone Show",
    "category": "Holiday",
    "place": "Water Street Plaza",
-   "time": "5pm\u20137:30pm",
+   "time": "5pm–7:30pm",
    "free": true,
    "source": "https://www.cityofhenderson.com/residents/special-interest/winterfest",
-   "date": "2026-12-03"
+   "date": "2026-12-03",
+   "description": "Night one of Henderson's WinterFest: the annual tree lighting on Water Street Plaza with music from The Swingles and local chorus groups, food vendors, and a drone show. It kicks off the city's holiday season.",
+   "know": [
+    "Free parking at the Water Street and City Hall garages and nearby lots; no shuttle, so arrive early.",
+    "Schedule subject to change."
+   ],
+   "id": "he-winterfest-tree-lighting-drone-show"
   },
   {
    "name": "WinterFest Electric Light Parade",
    "category": "Holiday",
    "place": "Water Street, Basic Rd to Victory Rd",
-   "time": "6:30pm\u20138:30pm",
+   "time": "6:30pm–8:30pm",
    "free": true,
    "source": "https://www.cityofhenderson.com/residents/special-interest/winterfest",
-   "date": "2026-12-04"
+   "date": "2026-12-04",
+   "description": "Night two of WinterFest: glowing floats, bands, cheer teams and costumes travel along Water Street between Basic Road and Victory Road. The parade runs about 90 minutes.",
+   "know": [
+    "Free parking at the Water Street and City Hall garages; no shuttle.",
+    "Street closures will be posted closer to the event."
+   ],
+   "id": "he-winterfest-electric-light-parade"
   },
   {
    "name": "Reindeer Dash 5K",
    "category": "Holiday",
    "place": "Cornerstone Park",
-   "time": "10am\u201312pm",
+   "time": "10am–12pm",
    "free": true,
    "source": "https://nvhendersonweb.myvscloud.com/webtrac/web/search.html?module=AR&type=CMEVT",
    "date": "2026-12-12",
-   "note": "5K is free with registration (1-mile walk is $25). Holiday market and Santa photos after."
+   "note": "5K is free with registration (1-mile walk is $25). Holiday market and Santa photos after.",
+   "description": "A festive 5K fun run from Cornerstone Park along the Pittman Wash Trail; costumes and ugly holiday sweaters encouraged. Afterwards there's a holiday market and photos with Santa. The first 400 participants get a souvenir shirt and 5K runners get a finisher medal.",
+   "know": [
+    "Registration required. The 5K is free; the 1-mile walk is $25.",
+    "Packet pickup Dec 10 (10am–7pm), Dec 11 (10am–3pm), or race day 8–9:30am.",
+    "Ages 5+."
+   ],
+   "id": "he-reindeer-dash-5k"
   },
   {
    "name": "Puppy Pictures with Santa",
    "category": "Holiday",
    "place": "Black Mountain Recreation Center",
-   "time": "11am\u201312pm",
+   "time": "11am–12pm",
    "free": false,
    "source": "https://nvhendersonweb.myvscloud.com/webtrac/web/search.html?module=AR&type=CMEVT",
    "date": "2026-12-05",
-   "price": "$3"
+   "price": "$3",
+   "description": "Santa visits Black Mountain Recreation Center to pose for pictures with your dog. A digital photo is emailed to you, and you can bring your own camera too.",
+   "know": [
+    "Registration through the city; $3 fee."
+   ],
+   "id": "he-puppy-pictures-with-santa"
   },
   {
    "name": "Henderson Veterans Day Ceremony",
    "category": "Family",
    "place": "Water Street Plaza Amphitheater, 240 S. Water St",
-   "time": "10am\u201311am",
+   "time": "10am–11am",
    "free": true,
    "source": "https://www.vegas4locals.com/venue/water-street-plaza-downtown-henderson/",
    "date": "2026-11-07",
-   "note": "Honors local veterans; new names added to the Veterans Memorial Wall."
+   "note": "Honors local veterans; new names added to the Veterans Memorial Wall.",
+   "description": "Henderson's annual ceremony at the Water Street Plaza Amphitheater honoring local veterans and military organizations. Names of Henderson residents are added to the Veterans Memorial Wall, with a presentation of colors.",
+   "id": "he-henderson-veterans-day-ceremony"
   },
   {
    "name": "Holiday Artisan Night Market",
    "category": "Art & Craft",
    "place": "Water Street District",
-   "time": "5pm\u20139pm",
+   "time": "5pm–9pm",
    "free": true,
    "source": "https://www.linkedin.com/posts/discoverhenderson_waterstreetdistrict-hendersonholidays-activity-7504675696032702464-GlrA",
    "date": "2026-11-20",
-   "note": "Local makers, acoustic music, hot cocoa. Same night as the Army Street Farmers Market."
+   "note": "Local makers, acoustic music, hot cocoa. Same night as the Army Street Farmers Market.",
+   "description": "An evening holiday market under the string lights of downtown Henderson's Water Street District. Local makers sell jewelry, ceramics, candles and seasonal treats, with live acoustic music and a hot cocoa stand.",
+   "id": "he-holiday-artisan-night-market"
   },
   {
    "name": "Shop Small Henderson",
    "category": "Art & Craft",
    "place": "Henderson Events Plaza, 240 S. Water St",
-   "time": "10am\u20133pm",
+   "time": "10am–3pm",
    "free": true,
    "source": "https://vegaseventsandmore.ourhoasite.com/event_details.php?eid=1905045526880165",
    "date": "2026-11-28",
-   "note": "10th annual Small Business Saturday market. Free admission."
+   "note": "10th annual Small Business Saturday market. Free admission.",
+   "description": "The 10th annual Small Business Saturday market at Water Street Plaza, hosted with the City of Henderson and the Water Street District Business Association. Shop small businesses, artisans, makers, crafters and food trucks.",
+   "know": [
+    "Outdoor event."
+   ],
+   "id": "he-shop-small-henderson"
   },
   {
    "name": "Water Street Holiday Artisan Fair",
    "category": "Holiday",
    "place": "Water Street Plaza",
-   "time": "10am\u20133pm",
+   "time": "10am–3pm",
    "free": true,
    "source": "https://www.linkedin.com/posts/discoverhenderson_waterstreetplaza-shopsmallhenderson-hendersonartisans-activity-7506020185619709952-Z-Gh",
    "date": "2026-12-19",
-   "note": "Local makers, hot cocoa, live acoustic holiday music. Free admission."
+   "note": "Local makers, hot cocoa, live acoustic holiday music. Free admission.",
+   "description": "A free holiday artisan fair at Water Street Plaza with dozens of local makers: candles, leather goods, knitted textiles, ceramics and holiday treats. There will be hot cocoa stations and live acoustic holiday music.",
+   "id": "he-water-street-holiday-artisan-fair"
   },
   {
    "name": "Giant Garage Sale",
    "category": "Market",
    "place": "Black Mountain Recreation Center parking lot, 599 Greenway Rd",
-   "time": "7am\u201312pm",
+   "time": "7am–12pm",
    "free": true,
    "source": "https://www.cityofhenderson.com/residents/special-interest/garage-sales",
    "date": "2026-11-07",
-   "note": "Second-hand bargains from local sellers. Free to shop."
+   "note": "Second-hand bargains from local sellers. Free to shop.",
+   "description": "A city-run garage sale in the Black Mountain Recreation Center parking lot where locals sell second-hand clothes, toys, books and more. Admission is free and all ages are welcome to shop.",
+   "know": [
+    "Sellers must register a booth at least a week ahead."
+   ],
+   "id": "he-giant-garage-sale"
   },
   {
    "name": "Silver Springs Garage Sale",
    "category": "Market",
    "place": "Silver Springs Recreation Center, 1951 Silver Springs Pkwy",
-   "time": "8am\u20131pm",
+   "time": "8am–1pm",
    "free": true,
    "source": "https://www.cityofhenderson.com/residents/special-interest/garage-sales",
    "date": "2026-11-07",
-   "note": "Free to shop."
+   "note": "Free to shop.",
+   "description": "A city-run garage sale at Silver Springs Recreation Center. Admission is free and all ages are welcome to shop.",
+   "know": [
+    "Sellers register a booth in advance through the city."
+   ],
+   "id": "he-silver-springs-garage-sale"
   },
   {
    "name": "Heritage Harvest Festival",
    "category": "Festival",
    "place": "Heritage Park Senior Facility, 300 S. Racetrack Rd",
-   "time": "11am\u20132pm",
+   "time": "11am–2pm",
    "free": false,
    "price": "$5",
    "source": "https://nvhendersonweb.myvscloud.com/webtrac/web/iteminfo.html?FMID=361638094&Module=AR",
    "date": "2026-11-07",
-   "note": "Live entertainment, 40+ craft vendors, petting zoo, bounce houses, games. City lists a $5 fee and requires registration for all ages."
+   "note": "Live entertainment, 40+ craft vendors, petting zoo, bounce houses, games. City lists a $5 fee and requires registration for all ages.",
+   "description": "Henderson's annual family-friendly fall festival with live entertainment and a craft fair of 40+ vendors. Kids' activities include a petting zoo, bounce houses, face painting and games, and there are free food items and light refreshments.",
+   "know": [
+    "Registration is required for all ages ($5 fee).",
+    "Children must be with an adult."
+   ],
+   "id": "he-heritage-harvest-festival"
   },
   {
    "name": "Upscale Craft & Yard Sale",
    "category": "Art & Craft",
    "place": "Heritage Park Senior Facility, 300 S. Racetrack Rd",
-   "time": "9am\u201312pm",
+   "time": "9am–12pm",
    "free": true,
    "source": "https://www.cityofhenderson.com/residents/special-interest/garage-sales",
    "date": "2026-12-05",
-   "note": "Crafts and yard-sale finds. Free to shop."
+   "note": "Crafts and yard-sale finds. Free to shop.",
+   "description": "A city-run craft and yard sale at Heritage Park Senior Facility. Admission is free and all ages are welcome to shop.",
+   "id": "he-upscale-craft-yard-sale"
   }
  ]
 }

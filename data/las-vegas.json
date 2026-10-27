@@ -3,41 +3,58 @@
  "checked": "2026-10-27",
  "events": [
   {
-   "name": "D\u00eda de los Muertos Festival",
+   "name": "Día de los Muertos Festival",
    "category": "Festival",
    "place": "Las Vegas Civic Center Plaza, 525 S. Main St",
-   "time": "1pm\u20137pm",
+   "time": "1pm–7pm",
    "free": true,
    "source": "https://www.lasvegasnevada.gov/Residents/Events/Details?id=dia-de-los-muertos-nov-1-2026",
    "date": "2026-11-01",
-   "note": "Altars, artisan vendors, kids' activities, food."
+   "note": "Altars, artisan vendors, kids' activities, food.",
+   "description": "The City of Las Vegas's free celebration of Día de los Muertos at the Civic Center plaza. It features entertainment, children's activities, artisan vendors, food, face painting and an exhibition of community altars.",
+   "know": [
+    "Bring low-back chairs and blankets for the lawn.",
+    "No glass containers or pets."
+   ],
+   "id": "la-d-a-de-los-muertos-festival"
   },
   {
    "name": "Life in Death: Day of the Dead Festival",
    "category": "Festival",
    "place": "Winchester Dondero Cultural Center, 3130 McLeod Dr",
-   "time": "4pm\u20139pm",
+   "time": "4pm–9pm",
    "free": true,
    "source": "https://www.clarkcountynv.gov/news/102126-day-of-the-dead",
    "date": "2026-11-01",
    "end": "2026-11-02",
-   "note": "Free admission and parking. Community altars, mariachi, artisan market."
+   "note": "Free admission and parking. Community altars, mariachi, artisan market.",
+   "description": "Clark County's two-night Day of the Dead festival at Winchester Dondero Cultural Center. See community altars, a juried art exhibit, mariachi and folklórico performances, calavera readings, and an artisan marketplace with family art workshops.",
+   "know": [
+    "Admission and parking are free, but parking is limited; ride-sharing is encouraged."
+   ],
+   "id": "la-life-in-death-day-of-the-dead-festival"
   },
   {
-   "name": "D\u00eda de los Muertos Community Market",
+   "name": "Día de los Muertos Community Market",
    "category": "Art & Craft",
    "place": "Llama Lot, 900 E Fremont St",
-   "time": "2pm\u20137pm",
+   "time": "2pm–7pm",
    "free": true,
    "source": "https://shopandseeklv.com/events",
    "date": "2026-11-01",
-   "note": "Local makers and a community ofrenda."
+   "note": "Local makers and a community ofrenda.",
+   "description": "A small, free Día de los Muertos celebration and market by Shop & Seek in Downtown Las Vegas. Visit the community ofrenda, shop local makers, and enjoy food, sweets and face painting.",
+   "know": [
+    "Free RSVP on Eventbrite.",
+    "Paid parking nearby; limited free street parking."
+   ],
+   "id": "la-d-a-de-los-muertos-community-market"
   },
   {
    "name": "Arts District First Friday",
    "category": "Art & Craft",
    "place": "18b Arts District (Boulder Ave & 1st St)",
-   "time": "6pm\u201310pm",
+   "time": "6pm–10pm",
    "free": true,
    "source": "https://www.18b.org/event-details/arts-district-first-friday-2026-11-06-18-00",
    "rule": {
@@ -48,80 +65,107 @@
      1
     ]
    },
-   "note": "Every first Friday: 100+ local artists, food trucks, live music. Free to attend."
+   "note": "Every first Friday: 100+ local artists, food trucks, live music. Free to attend.",
+   "description": "Every first Friday the 18b Arts District becomes a block party with 100+ local artists along Boulder Avenue and 1st Street, live painting, open galleries, 20+ food trucks and live music. It's free to attend and has run since 2002.",
+   "id": "la-arts-district-first-friday"
   },
   {
    "name": "Lunchtime Concert: Enchanted Tiki Cats",
    "category": "Movies & Music",
    "place": "Las Vegas Civic Center Plaza",
-   "time": "12pm\u20131pm",
+   "time": "12pm–1pm",
    "free": true,
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
-   "date": "2026-11-05"
+   "date": "2026-11-05",
+   "description": "A free retro/exotica lunchtime concert in the City of Las Vegas's series at the Civic Center Plaza.",
+   "id": "la-lunchtime-concert-enchanted-tiki-cats"
   },
   {
    "name": "Veterans Appreciation Concert: Swing It Girls",
    "category": "Movies & Music",
    "place": "Las Vegas Civic Center Plaza",
-   "time": "12pm\u20131pm",
+   "time": "12pm–1pm",
    "free": true,
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
-   "date": "2026-11-12"
+   "date": "2026-11-12",
+   "description": "A free Veterans Appreciation lunchtime concert by the vintage vocal trio Swing It Girls at the Las Vegas Civic Center Plaza.",
+   "id": "la-veterans-appreciation-concert-swing-it-g"
   },
   {
    "name": "Desert Dusk Evening Market",
    "category": "Art & Craft",
    "place": "Craig Ranch Regional Park, 628 W. Craig Rd (North Las Vegas)",
-   "time": "4pm\u20138pm",
+   "time": "4pm–8pm",
    "free": true,
    "source": "https://shopandseeklv.com/events/desert-dusk-2026",
    "date": "2026-11-13",
-   "note": "60+ local vendors, food trucks. Free entry and parking."
+   "note": "60+ local vendors, food trucks. Free entry and parking.",
+   "description": "An evening market by Shop & Seek with 60+ local vendors, food trucks, specialty drinks and sweet treats at Craig Ranch Regional Park in North Las Vegas.",
+   "know": [
+    "Free entry and free parking.",
+    "Leashed, well-behaved pets welcome in the outdoor area.",
+    "No registration needed."
+   ],
+   "id": "la-desert-dusk-evening-market"
   },
   {
    "name": "Her Story Through Art: Women in Poetry",
    "category": "Art & Craft",
    "place": "Las Vegas Civic Center Plaza",
-   "time": "5:30pm\u20136:30pm",
+   "time": "5:30pm–6:30pm",
    "free": true,
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
-   "date": "2026-11-20"
+   "date": "2026-11-20",
+   "description": "A free poetry event in the City of Las Vegas's Her Story Through Art series at the Civic Center Plaza.",
+   "id": "la-her-story-through-art-women-in-poetry"
   },
   {
    "name": "Lunchtime Concert: Rita Lim Holiday Concert",
    "category": "Holiday",
    "place": "Las Vegas Civic Center Plaza",
-   "time": "12pm\u20131pm",
+   "time": "12pm–1pm",
    "free": true,
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
-   "date": "2026-12-03"
+   "date": "2026-12-03",
+   "description": "A free jazz and holiday lunchtime concert by Rita Lim at the Las Vegas Civic Center Plaza.",
+   "id": "la-lunchtime-concert-rita-lim-holiday-conce"
   },
   {
    "name": "Tamales & Mariachi Festival",
    "category": "Festival",
    "place": "Las Vegas Civic Center Plaza, 525 S. Main St",
-   "time": "11am\u20134pm",
+   "time": "11am–4pm",
    "free": true,
    "source": "https://www.lasvegasnevada.gov/Residents/Arts-Culture/Annual-Festivals",
-   "date": "2026-12-05"
+   "date": "2026-12-05",
+   "description": "The City of Las Vegas kicks off the holidays with tamales from local vendors and live mariachi and folklórico performances at the Civic Center outdoor plaza. Free to attend.",
+   "know": [
+    "Refreshments for sale.",
+    "No glass containers or pets."
+   ],
+   "id": "la-tamales-mariachi-festival"
   },
   {
    "name": "Her Story Through Art: Market in the Plaza",
    "category": "Art & Craft",
    "place": "Las Vegas Civic Center Plaza",
-   "time": "10am\u20132pm",
+   "time": "10am–2pm",
    "free": true,
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
-   "date": "2026-12-12"
+   "date": "2026-12-12",
+   "description": "A free market at the Las Vegas Civic Center Plaza, part of the city's Her Story Through Art series.",
+   "id": "la-her-story-through-art-market-in-the-plaz"
   },
   {
    "name": "Vegas City Opera: A Symphonic Holiday Concert",
    "category": "Holiday",
    "place": "Historic Fifth Street School, 401 S. Fourth St",
-   "time": "2pm\u20134pm",
+   "time": "2pm–4pm",
    "free": true,
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
-   "date": "2026-12-12"
+   "date": "2026-12-12",
+   "description": "A free holiday choir concert by Vegas City Opera at the Historic Fifth Street School, listed in the City of Las Vegas cultural season.",
+   "id": "la-vegas-city-opera-a-symphonic-holiday-con"
   },
   {
    "name": "The Corner Open Mic: CommUNITY",
@@ -130,7 +174,9 @@
    "time": "7pm",
    "free": true,
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
-   "date": "2026-12-18"
+   "date": "2026-12-18",
+   "description": "A free open mic night in The Corner series at the West Las Vegas Arts Center.",
+   "id": "la-the-corner-open-mic-community"
   },
   {
    "name": "Film Screening: Sankofa",
@@ -139,7 +185,9 @@
    "time": "2pm",
    "free": true,
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
-   "date": "2026-12-19"
+   "date": "2026-12-19",
+   "description": "The West Las Vegas Arts Center presents a free screening of the film Sankofa.",
+   "id": "la-film-screening-sankofa"
   },
   {
    "name": "Young Artists Orchestra Holiday Symphony",
@@ -148,13 +196,15 @@
    "time": "2pm",
    "free": true,
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
-   "date": "2026-12-19"
+   "date": "2026-12-19",
+   "description": "A free holiday concert by the Young Artists Orchestra at the Centennial Hills Park Amphitheatre.",
+   "id": "la-young-artists-orchestra-holiday-symphony"
   },
   {
    "name": "Downtown Summerlin Farmers Market",
    "category": "Market",
    "place": "1980 Festival Plaza Dr",
-   "time": "9am\u20132pm",
+   "time": "9am–2pm",
    "free": true,
    "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
    "rule": {
@@ -162,13 +212,15 @@
      6
     ]
    },
-   "note": "Every Saturday."
+   "note": "Every Saturday.",
+   "description": "A weekly Saturday farmers market at Downtown Summerlin, run by Las Vegas Farmers' Market.",
+   "id": "la-downtown-summerlin-farmers-market"
   },
   {
-   "name": "Fresh52 Market \u2013 Bruce Trent Park",
+   "name": "Fresh52 Market – Bruce Trent Park",
    "category": "Market",
    "place": "1600 N. Rampart Blvd",
-   "time": "4pm\u20138pm",
+   "time": "4pm–8pm",
    "free": true,
    "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
    "rule": {
@@ -176,13 +228,15 @@
      3
     ]
    },
-   "note": "Every Wednesday."
+   "note": "Every Wednesday.",
+   "description": "A Fresh52 farmers and artisan market every Wednesday afternoon at Bruce Trent Park.",
+   "id": "la-fresh52-market-bruce-trent-park"
   },
   {
-   "name": "Fresh52 Market \u2013 Skye Canyon Park",
+   "name": "Fresh52 Market – Skye Canyon Park",
    "category": "Market",
    "place": "10111 W. Skye Canyon Pkwy",
-   "time": "4pm\u20138pm",
+   "time": "4pm–8pm",
    "free": true,
    "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
    "rule": {
@@ -190,13 +244,15 @@
      4
     ]
    },
-   "note": "Every Thursday."
+   "note": "Every Thursday.",
+   "description": "A Fresh52 farmers and artisan market every Thursday afternoon at Skye Canyon Park.",
+   "id": "la-fresh52-market-skye-canyon-park"
   },
   {
-   "name": "Las Vegas Farmers' Market \u2013 The Uncommons",
+   "name": "Las Vegas Farmers' Market – The Uncommons",
    "category": "Market",
    "place": "6880 Helen Toland St",
-   "time": "10am\u20132pm",
+   "time": "10am–2pm",
    "free": true,
    "source": "https://agri.nv.gov/uploadedFiles/agrinvgov/Content/Food/Senior_Farmers_Market_Nutrition_Program/2026%20Market%20Locations%20Southern%20NV%207.1.26.pdf",
    "rule": {
@@ -204,30 +260,46 @@
      0
     ]
    },
-   "note": "Every Sunday."
+   "note": "Every Sunday.",
+   "description": "A weekly Sunday farmers market at The Uncommons in the southwest valley.",
+   "id": "la-las-vegas-farmers-market-the-uncommons"
   },
   {
    "name": "SEMA Show (industry only)",
    "category": "Shows & Expos",
    "place": "Las Vegas Convention Center, 3150 Paradise Rd",
-   "time": "9am\u20135pm",
+   "time": "9am–5pm",
    "free": false,
    "source": "https://www.semashow.com/node/950457",
    "date": "2026-11-03",
    "end": "2026-11-05",
    "price": "Industry only",
-   "note": "Trade-only days for qualified automotive industry attendees."
+   "note": "Trade-only days for qualified automotive industry attendees.",
+   "description": "The SEMA Show is the automotive aftermarket's major trade show at the Las Vegas Convention Center. Tuesday through Thursday are trade-only days.",
+   "know": [
+    "Industry only: you must meet SEMA's qualifying guidelines and register.",
+    "The public can attend only on Friday, Nov 6."
+   ],
+   "id": "la-sema-show-industry-only"
   },
   {
-   "name": "SEMA Show Friday \u2013 Open to the Public",
+   "name": "SEMA Show Friday – Open to the Public",
    "category": "Shows & Expos",
    "place": "Las Vegas Convention Center, 3150 Paradise Rd",
-   "time": "9am\u20134pm",
+   "time": "9am–4pm",
    "free": false,
    "source": "https://semashow.com/public",
    "date": "2026-11-06",
    "price": "$130",
-   "note": "Public day, ages 16+. Buy ahead at semafest.com; no day-of sales; photo ID needed at pickup."
+   "note": "Public day, ages 16+. Buy ahead at semafest.com; no day-of sales; photo ID needed at pickup.",
+   "description": "The one day the SEMA Show opens to the public. See the latest automotive aftermarket builds and products across the Las Vegas Convention Center show floor.",
+   "know": [
+    "Ages 16+.",
+    "Buy tickets ahead at semafest.com; no day-of sales.",
+    "Pick up your own ticket 7:30am–2pm with photo ID at South or West Hall.",
+    "Does not include the SEMA Fest concert."
+   ],
+   "id": "la-sema-show-friday-open-to-the-public"
   },
   {
    "name": "Holiday Craft & Gift Festival",
@@ -239,51 +311,77 @@
    "date": "2026-11-06",
    "end": "2026-11-08",
    "price": "See source",
-   "note": "Handmade gifts, make & takes, Santa on Saturday. Free parking."
+   "note": "Handmade gifts, make & takes, Santa on Saturday. Free parking.",
+   "description": "A three-day holiday craft show at The Expo at World Market Center with ornaments, stockings, clothing, ceramics, candles, jewelry, specialty foods and more. There are demonstrations, make-and-takes, and Santa on Saturday.",
+   "know": [
+    "Free parking.",
+    "Hug-A-Bear Drive: bring a new 10\"+ stuffed animal for kids in need."
+   ],
+   "id": "la-holiday-craft-gift-festival"
   },
   {
    "name": "Fabulous Home & Garden Expo",
    "category": "Shows & Expos",
    "place": "Rio Hotel, 3700 W Flamingo Rd",
-   "time": "10am\u20136pm",
+   "time": "10am–6pm",
    "free": true,
    "source": "https://www.eventeny.com/events/fabuloushomeandgardenexpo-32784/",
    "date": "2026-11-07",
    "end": "2026-11-08",
-   "note": "Remodeling, outdoor living, local vendors, demos. Free admission."
+   "note": "Remodeling, outdoor living, local vendors, demos. Free admission.",
+   "description": "A two-day home and garden expo at the Rio with remodeling, landscaping, outdoor living, décor and home services from local and regional businesses. Expect live demonstrations and larger exhibits like spas, tiny homes and EVs.",
+   "know": [
+    "Free admission.",
+    "Park in the lot next to the convention center, the garages, or valet."
+   ],
+   "id": "la-fabulous-home-garden-expo"
   },
   {
    "name": "Vegas Valley Comic Book Festival",
    "category": "Shows & Expos",
    "place": "Clark County Library, 1401 E Flamingo Rd",
-   "time": "9:30am\u20134:30pm",
+   "time": "9:30am–4:30pm",
    "free": true,
    "source": "https://www.playpivot.org/las-vegas/annual-events/vegas-valley-comic-book-festival",
    "date": "2026-11-07",
-   "note": "Free library-run comic and cosplay festival with artist alley and kids' courtyard."
+   "note": "Free library-run comic and cosplay festival with artist alley and kids' courtyard.",
+   "description": "A free all-ages comic and cosplay festival run by the Las Vegas-Clark County Library District. Enjoy panels, workshops and an artist alley, with a Kids Courtyard for crafts and face painting.",
+   "id": "la-vegas-valley-comic-book-festival"
   },
   {
    "name": "Crossroads Las Vegas Gun Show",
    "category": "Shows & Expos",
    "place": "Las Vegas Motor Speedway, 7000 Las Vegas Blvd N",
-   "time": "Sat 9am\u20135pm, Sun 9am\u20133pm",
+   "time": "Sat 9am–5pm, Sun 9am–3pm",
    "free": false,
    "source": "https://www.thesafekeeper.com/blogs/news/las-vegas-gun-shows",
    "date": "2026-11-21",
    "end": "2026-11-22",
    "price": "See source",
-   "note": "Dates listed as tentative; check crossroadsgunshows.com."
+   "note": "Dates listed as tentative; check crossroadsgunshows.com.",
+   "description": "Crossroads of the West's gun show at Las Vegas Motor Speedway.",
+   "know": [
+    "Dates are listed as tentative; confirm with Crossroads before going.",
+    "No loaded firearms or magazines allowed."
+   ],
+   "id": "la-crossroads-las-vegas-gun-show"
   },
   {
    "name": "Las Vegas Gun Show (MAC Shows)",
    "category": "Shows & Expos",
    "place": "Alexis Park Resort, 375 E Harmon Ave",
-   "time": "9am\u20135pm",
+   "time": "9am–5pm",
    "free": false,
    "source": "https://macshows.com/show/las-vegas-gun-show-12-12/",
    "date": "2026-12-12",
    "price": "$13",
-   "note": "Adults $13, kids under 12 free. Tickets at the door too."
+   "note": "Adults $13, kids under 12 free. Tickets at the door too.",
+   "description": "MAC Shows' Las Vegas gun show at Alexis Park Resort.",
+   "know": [
+    "Adults $13; kids under 12 free.",
+    "Tickets online or at the door."
+   ],
+   "id": "la-las-vegas-gun-show-mac-shows"
   }
  ]
 }

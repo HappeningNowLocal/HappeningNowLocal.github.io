@@ -6,7 +6,7 @@
    "name": "Downtown Farmers Market",
    "category": "Market",
    "place": "Vernon Worthen Park, 300 S 400 E",
-   "time": "10am\u20132pm",
+   "time": "10am–2pm",
    "free": true,
    "source": "https://www.upr.org/community-calendar/event/st-george-downtown-farmers-market-21-10-2026-14-36-23",
    "rule": {
@@ -19,17 +19,28 @@
      "2026-11-14"
     ]
    },
-   "note": "Every Saturday, 50+ regional vendors and live music. No market Nov 14."
+   "note": "Every Saturday, 50+ regional vendors and live music. No market Nov 14.",
+   "description": "The largest farmers market in Washington County, at Vernon Worthen Park every Saturday. Vendors from Washington and Iron counties bring produce, pasture-raised meats, cheeses and artisan goods, and live music starts about 30 minutes after opening.",
+   "know": [
+    "No market Nov 14.",
+    "Free street parking and nearby public lots."
+   ],
+   "id": "st-downtown-farmers-market"
   },
   {
    "name": "MOD the Modern Market",
    "category": "Art & Craft",
    "place": "Vernon Worthen Park",
-   "time": "10am\u20133pm",
+   "time": "10am–3pm",
    "free": true,
    "source": "https://modthemarket.com/",
    "date": "2026-11-14",
-   "note": "Local artisans, boutiques and food trucks. Free admission."
+   "note": "Local artisans, boutiques and food trucks. Free admission.",
+   "description": "A semi-annual pop-up market of local artisans, boutiques and food trucks in Vernon Worthen Park, now in its 9th edition.",
+   "know": [
+    "Free admission."
+   ],
+   "id": "st-mod-the-modern-market"
   },
   {
    "name": "Concerts at the Electric: The Bombshell Flowers",
@@ -39,7 +50,12 @@
    "free": true,
    "source": "https://www.sgcityutah.gov/activity/special_events/special_events/electric_series/concerts_at_the_electric.php",
    "date": "2026-11-09",
-   "note": "Free city concert series; first-come seating, donations welcome."
+   "note": "Free city concert series; first-come seating, donations welcome.",
+   "description": "A free City of St. George concert at the historic Electric Theater featuring The Bombshell Flowers, a Utah alternative rock trio.",
+   "know": [
+    "First-come, first-served seating; donations appreciated."
+   ],
+   "id": "st-concerts-at-the-electric-the-bombshell-f"
   },
   {
    "name": "Concerts at the Electric: Color Country Choir",
@@ -48,35 +64,51 @@
    "time": "7pm",
    "free": true,
    "source": "https://www.sgcityutah.gov/activity/special_events/special_events/electric_series/concerts_at_the_electric.php",
-   "date": "2026-12-14"
+   "date": "2026-12-14",
+   "description": "A free City of St. George concert at the Electric Theater with the Color Country Choir.",
+   "know": [
+    "First-come, first-served seating; donations appreciated."
+   ],
+   "id": "st-concerts-at-the-electric-color-country-c"
   },
   {
    "name": "Kickoff to Christmas",
    "category": "Holiday",
    "place": "Downtown St. George (Town Square)",
-   "time": "6pm\u20138pm",
+   "time": "6pm–8pm",
    "free": true,
    "source": "https://www.sgcityutah.gov/activity/special_events/kickoff_to_christmas.php",
    "date": "2026-11-30",
-   "note": "Santa photos, choirs, cookies and cocoa. Children's museum open late."
+   "note": "Santa photos, choirs, cookies and cocoa. Children's museum open late.",
+   "description": "St. George's yearly holiday kickoff on the Monday after Thanksgiving. Santa visits for pictures, school choirs and local talent perform, hot chocolate and cookies are served while supplies last, and the Children's Museum stays open late with crafts.",
+   "know": [
+    "The event is free, but standard carousel fees apply."
+   ],
+   "id": "st-kickoff-to-christmas"
   },
   {
    "name": "Dickens' Christmas Festival",
    "category": "Shows & Expos",
    "place": "Dixie Convention Center, 1835 Convention Center Dr",
-   "time": "10am\u20139pm",
+   "time": "10am–9pm",
    "free": false,
    "source": "https://www.dickenschristmasfestival.com/",
    "date": "2026-12-02",
    "end": "2026-12-05",
    "price": "$12",
-   "note": "Victorian holiday craft market. Adults $12, seniors/kids 5\u201312 $10, 4 & under free."
+   "note": "Victorian holiday craft market. Adults $12, seniors/kids 5–12 $10, 4 & under free.",
+   "description": "A Victorian 'Olde London' holiday market at the Dixie Convention Center with costumed merchants, handpicked vendors and characters like Father Christmas. It's a craft show and family holiday outing in one.",
+   "know": [
+    "Adults $12; seniors 65+ and kids 5–12 $10; 4 and under free.",
+    "Tickets online or onsite; 4-day passes $20 onsite."
+   ],
+   "id": "st-dickens-christmas-festival"
   },
   {
    "name": "North Pole Express",
    "category": "Holiday",
    "place": "Thunder Junction All Abilities Park",
-   "time": "6pm\u20138pm",
+   "time": "6pm–8pm",
    "free": false,
    "source": "https://www.sgcityutah.gov/activity/special_events/special_events/north_pole_express.php",
    "rule": {
@@ -93,17 +125,26 @@
     ]
    },
    "price": "$12",
-   "note": "Santa, cookies, crafts and a train ride. Tickets on sale Nov 16; buy ahead."
+   "note": "Santa, cookies, crafts and a train ride. Tickets on sale Nov 16; buy ahead.",
+   "description": "A City of St. George holiday event at Thunder Junction All Abilities Park. Meet Santa, decorate cookies, enjoy cocoa and crafts, and ride the North Pole Express train under the park lights.",
+   "know": [
+    "Tickets go on sale Nov 16 at 10am and must be bought ahead; no refunds.",
+    "$12 per person; ages 2 and under free.",
+    "Limit 10 tickets per account."
+   ],
+   "id": "st-north-pole-express"
   },
   {
    "name": "Light the Night",
    "category": "Holiday",
    "place": "St. George Art Museum",
-   "time": "5pm\u20138pm",
+   "time": "5pm–8pm",
    "free": true,
    "source": "https://www.sgcityutah.gov/parksandrec/arts___culture/art_museum/events/light_the_night.php",
    "date": "2026-12-05",
-   "note": "Make a luminary, cocoa, crafts, live music and the new winter exhibits."
+   "note": "Make a luminary, cocoa, crafts, live music and the new winter exhibits.",
+   "description": "The St. George Art Museum opens its winter exhibitions with hot chocolate, donuts, crafts and live music. Make a luminary for the courtyard and meet the incoming artists.",
+   "id": "st-light-the-night"
   }
  ]
 }

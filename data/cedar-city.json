@@ -6,7 +6,7 @@
    "name": "Festival City Farmers Market",
    "category": "Market",
    "place": "100 W Center St",
-   "time": "10am\u20132pm",
+   "time": "10am–2pm",
    "free": true,
    "source": "https://www.duckcreekvillageinn.com/southern-utah-events",
    "rule": {
@@ -16,44 +16,52 @@
     "from": "2026-10-31",
     "until": "2026-11-21"
    },
-   "note": "Saturday market downtown; becomes the Christmas Market from Nov 28."
+   "note": "Saturday market downtown; becomes the Christmas Market from Nov 28.",
+   "description": "Downtown Cedar City's Saturday market. It becomes the Festival City Christmas Market from Nov 28.",
+   "id": "ce-festival-city-farmers-market"
   },
   {
    "name": "Iron Mission Days & Old Town Market",
    "category": "Festival",
    "place": "Frontier Homestead State Park",
-   "time": "10am\u20134pm",
+   "time": "10am–4pm",
    "free": true,
    "source": "https://www.duckcreekvillageinn.com/southern-utah-events",
    "date": "2026-11-13",
    "end": "2026-11-14",
-   "note": "Living-history demos and an old-town market."
+   "note": "Living-history demos and an old-town market.",
+   "description": "Living-history demonstrations and an Old Town Market at Frontier Homestead State Park.",
+   "id": "ce-iron-mission-days-old-town-market"
   },
   {
-   "name": "Cedar City's 175th Birthday \u2013 Lobby Activities",
+   "name": "Cedar City's 175th Birthday – Lobby Activities",
    "category": "Family",
    "place": "Heritage Theater, 105 N 100 E",
-   "time": "5pm\u20137pm",
+   "time": "5pm–7pm",
    "free": true,
    "source": "https://www.duckcreekvillageinn.com/southern-utah-events",
    "date": "2026-11-11",
-   "note": "Free lobby activities before the 7:30pm Birthday Spectacular."
+   "note": "Free lobby activities before the 7:30pm Birthday Spectacular.",
+   "description": "Free lobby activities at the Heritage Theater celebrating Cedar City's 175th birthday, before the evening's Birthday Spectacular.",
+   "id": "ce-cedar-city-s-175th-birthday-lobby-activi"
   },
   {
    "name": "Downtown Holiday Lighting Ceremony",
    "category": "Holiday",
    "place": "Historic Downtown Cedar City",
-   "time": "12pm\u20139pm",
+   "time": "12pm–9pm",
    "free": true,
    "source": "https://visitcedarcity.com/america250/",
    "date": "2026-11-28",
-   "note": "Lighting and fireworks at 6pm. Free."
+   "note": "Lighting and fireworks at 6pm. Free.",
+   "description": "Cedar City's holiday celebration in the historic downtown, with the lighting and fireworks at 6pm. Free admission.",
+   "id": "ce-downtown-holiday-lighting-ceremony"
   },
   {
    "name": "Festival City Christmas Market",
    "category": "Holiday",
    "place": "100 W Center St",
-   "time": "12pm\u20138pm",
+   "time": "12pm–8pm",
    "free": true,
    "source": "https://www.duckcreekvillageinn.com/events/festival-city-christmas-market-cedar-city-2026-11-28",
    "rule": {
@@ -65,29 +73,41 @@
     "from": "2026-11-28",
     "until": "2026-12-19"
    },
-   "note": "Thursdays\u2013Saturdays: produce, baked goods, handmade gifts."
+   "note": "Thursdays–Saturdays: produce, baked goods, handmade gifts.",
+   "description": "A free holiday market at the Festival City Farmers Market site, held Thursdays to Saturdays through Dec 19. Local vendors sell produce, baked goods and handmade items.",
+   "id": "ce-festival-city-christmas-market"
   },
   {
    "name": "Holiday Tree Jubilee",
    "category": "Holiday",
    "place": "Cedar City",
-   "time": "Nov 28 3\u20138pm; Nov 30\u2013Dec 1 5\u20138pm",
+   "time": "Nov 28 3–8pm; Nov 30–Dec 1 5–8pm",
    "free": false,
    "source": "https://www.duckcreekvillageinn.com/southern-utah-events",
    "date": "2026-11-28",
    "end": "2026-12-01",
-   "price": "See source"
+   "price": "See source",
+   "description": "Cedar City's Holiday Tree Jubilee, open Nov 28 and Nov 30–Dec 1.",
+   "know": [
+    "Hours: Nov 28 3–8pm; Nov 30–Dec 1 5–8pm."
+   ],
+   "id": "ce-holiday-tree-jubilee"
   },
   {
    "name": "SUMA Exhibition: Tooveep (The Land)",
    "category": "Art & Craft",
    "place": "Southern Utah Museum of Art, 13 S 300 W",
-   "time": "10am\u20136pm",
+   "time": "10am–6pm",
    "free": true,
    "source": "https://visitcedarcity.com/america250/",
    "date": "2026-10-17",
    "end": "2027-03-06",
-   "note": "Free admission. Running exhibit."
+   "note": "Free admission. Running exhibit.",
+   "description": "A Southern Utah Museum of Art exhibition, part of Iron County's America 250 celebration, running through March 6.",
+   "know": [
+    "Free admission."
+   ],
+   "id": "ce-suma-exhibition-tooveep-the-land"
   }
  ]
 }
