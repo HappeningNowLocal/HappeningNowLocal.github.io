@@ -103,6 +103,19 @@
    "date": "2026-12-19",
    "description": "Decorated boats light up the Colorado River at sunset. Watch from anywhere along the river, or from the Bullhead Belle.",
    "id": "lau-christmas-on-the-colorado-lighted-boat-parade-2026-12-19"
+  },
+  {
+   "name": "Desert Artisan Exchange",
+   "category": "Art & Craft",
+   "place": "Aquarius Casino Resort, 1900 S Casino Dr, Laughlin",
+   "time": "10am–5pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/desert-artisan-exchange-tickets-2003962682328",
+   "date": "2026-12-11",
+   "end": "2026-12-13",
+   "note": "Free admission.",
+   "description": "A seasonal art and craft market with 40–90 curated artists, makers and designers. This December weekend is the first of five monthly market weekends running through April 2027.",
+   "id": "lau-desert-artisan-exchange-eb"
   }
  ]
 }

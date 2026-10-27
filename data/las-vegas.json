@@ -779,6 +779,77 @@
    "price": "Industry only · registration required",
    "convention": true,
    "industry": true
+  },
+  {
+   "name": "Trunk or Treat at ER at South Summerlin",
+   "category": "Holiday",
+   "place": "ER at South Summerlin, 10290 W Flamingo Rd Suite 100, Las Vegas",
+   "time": "5pm–7pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/er-at-south-summerlin-trunk-or-treat-tickets-1992823354298",
+   "date": "2026-10-30",
+   "note": "Free; no registration needed.",
+   "description": "A free Halloween event with games, treats and tours of the ER. Registration isn't required, so bring family and friends.",
+   "id": "la-trunk-or-treat-at-er-at-south-summerlin-eb"
+  },
+  {
+   "name": "WALK Church Trunk or Treat",
+   "category": "Holiday",
+   "place": "Jack L. Schofield Middle School, 8625 S Spencer St, Las Vegas",
+   "time": "5pm–7pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/walk-church-trunk-or-treat-tickets-2003033419879",
+   "date": "2026-10-30",
+   "note": "Free; costumes encouraged.",
+   "description": "A free community trunk-or-treat on the Schofield Middle School blacktop. Kids collect candy from decorated car trunks, with games, raffles, prizes and free food.",
+   "id": "la-walk-church-trunk-or-treat-eb"
+  },
+  {
+   "name": "Sin City Anime 2026",
+   "category": "Shows & Expos",
+   "place": "The Orleans Hotel & Casino, 4500 W Tropicana Ave, Las Vegas",
+   "time": "Fri 12pm – Sun 9pm",
+   "free": false,
+   "source": "https://www.eventbrite.com/e/sin-city-anime-2026-anime-convention-las-vegas-nv-tickets-1986378286928",
+   "date": "2026-11-20",
+   "end": "2026-11-22",
+   "price": "$15–$108",
+   "note": "Tickets on Eventbrite.",
+   "description": "Las Vegas's locally run anime convention, now in its 6th year at The Orleans. Three days of cosplay, voice-actor and cosplay guests, an exhibitor hall of anime merch and art, performances and free-play video game arcades.",
+   "id": "la-sin-city-anime-2026-eb"
+  },
+  {
+   "name": "Night Market at Tivoli Village",
+   "category": "Art & Craft",
+   "place": "Tivoli Village, 440 S Rampart Blvd, Las Vegas",
+   "time": "4pm–9pm",
+   "free": true,
+   "source": "https://tivolivillagelv.com/events/tivoli-village-night-market-9df98658-f224-47cb-ae78-3c8349f82462",
+   "date": "2026-11-14",
+   "note": "Free to browse.",
+   "description": "Browse aisle after aisle of handcrafted goods at the Las Vegas Night Market at Tivoli Village. Vendors sell decorations, clothing, ceramics, candles, photography, jewelry, specialty foods and more.",
+   "id": "la-night-market-at-tivoli-village"
+  },
+  {
+   "name": "Nutcracker Night Market at Tivoli Village",
+   "category": "Holiday",
+   "place": "The Piazza, Tivoli Village, 440 S Rampart Blvd, Las Vegas",
+   "time": "4pm–8pm",
+   "free": true,
+   "source": "https://tivolivillagelv.com/events/tivoli-village-nutcracker-night-market-4d150e31-b64c-4e0c-adaa-02390f9f9812",
+   "note": "Free; Thursdays Dec 3, 10 & 17.",
+   "description": "Tivoli Village's annual holiday night market on Thursdays in December, featuring LV Craft Shows. Shop handcrafted gifts from local artisans with live entertainment, holiday lights and family fun in The Piazza, plus Wish Across the Valley with Make-A-Wish Nevada.",
+   "know": [
+    "Dates listed by Tivoli Village: Dec 3, Dec 10, Dec 17 (4–8pm)."
+   ],
+   "rule": {
+    "dates": [
+     "2026-12-03",
+     "2026-12-10",
+     "2026-12-17"
+    ]
+   },
+   "id": "la-nutcracker-night-market-at-tivoli-village"
   }
  ]
 }

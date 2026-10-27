@@ -148,6 +148,21 @@
     "Register: LAKE_volunteer_coordinator@nps.gov"
    ],
    "id": "bc-christmas-bird-count-at-lake-mead-2026-12-"
+  },
+  {
+   "name": "Hike 'N' Heal (Avery Burton Foundation)",
+   "category": "Outdoors & Nature",
+   "place": "Historic Railroad Trail access, Boulder City",
+   "time": "10am–12pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/avery-burton-foundation-6th-annual-hike-n-heal-tickets-2002977764412",
+   "date": "2026-11-14",
+   "note": "Free; advance registration required, space limited.",
+   "description": "The Avery Burton Foundation's 6th annual community hike on the Historic Railroad Trail, combining movement, reflection and mental-health awareness. Participants learn ABF's Recognize–Respond–Refer approach and get resources for supporting family and friends.",
+   "know": [
+    "Final location, parking and prep details are emailed to registrants."
+   ],
+   "id": "bc-hike-n-heal-avery-burton-foundation-eb"
   }
  ]
 }

@@ -169,6 +169,18 @@
     "Park entrance fee applies."
    ],
    "id": "ce-bryce-canyon-full-moon-hike-december-2026-"
+  },
+  {
+   "name": "Bookdom Turns Two",
+   "category": "Family",
+   "place": "Bookdom Apothecary, 1579 N Main St Ste 110, Cedar City",
+   "time": "11am–8pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/bookdom-turns-two-tickets-2001954540923",
+   "date": "2026-10-27",
+   "note": "Free entry; craft tables ticketed.",
+   "description": "Local bookshop Bookdom Apothecary celebrates its 2nd birthday with a family-friendly festival. There are craft tables (book bedazzling, laminated bookmarks, mask decorating), a food truck, treats and store-wide discounts.",
+   "id": "ce-bookdom-turns-two-eb"
   }
  ]
 }

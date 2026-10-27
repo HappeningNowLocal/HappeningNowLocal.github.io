@@ -13,6 +13,7 @@ Checked 2026-10-27. **Reachable** means the page loaded from this box. **Search-
 ## Henderson, NV
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
+| Eventbrite | https://www.eventbrite.com/d/nv--henderson/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
 | City/gov | https://www.cityofhenderson.com/ (events, farmers market, garage sales, Water Street Plaza page) | City events, Water Street District | **Blocked (403) from this box** for some pages; earlier pass used whatever loaded |
 | Water Street District | https://www.cityofhenderson.com/government/departments/parks-and-recreation/facilities/other-venues/water-street-plaza/-toggle-all-1287 | Water Street Plaza events | **Blocked** |
 | Lake Mead NRA | https://www.nps.gov/lake/planyourvisit/calendar.htm | Ranger and volunteer events | Page empty (JS); API works |
@@ -20,6 +21,8 @@ Checked 2026-10-27. **Reachable** means the page loaded from this box. **Search-
 ## Las Vegas, NV (incl. North Las Vegas)
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
+| Eventbrite | https://www.eventbrite.com/d/nv--las-vegas/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
+| Tivoli Village | https://tivolivillagelv.com/events/ (event pages are JS-rendered; dates need a headless browser) | Night Market, Nutcracker Night Market (Thursdays in Dec), craft festivals, tree lighting | Reachable |
 | LVCC calendar (LVCVA) | https://www.lvcva.com/ (convention calendar; site often blocks bots, cross-check with show sites + https://vegasconventioncalendar.com/venues/las-vegas-convention-center/) | Conventions, trade & consumer shows at LVCC | Partial |
 | Clark County news | https://www.clarkcountynv.gov/news/102126-day-of-the-dead | County parks events | Search-only |
 | Red Rock Canyon NCA (BLM) | https://www.redrockcanyonlv.org/events/ | Free BLM ranger hikes, Junior Rangers (TimeTap registration) | Search-only |
@@ -39,11 +42,13 @@ Checked 2026-10-27. **Reachable** means the page loaded from this box. **Search-
 ## Boulder City, NV (proposed)
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
+| Eventbrite | https://www.eventbrite.com/d/nv--boulder-city/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
 | Lake Mead NRA via NPS API | see cross-region | Leave No Trace Spotlight (Oct 29–31), volunteer days, Christmas Bird Count | Reachable (API) |
 
 ## St. George, UT
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
+| Eventbrite | https://www.eventbrite.com/d/ut--st-george/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
 | Utah State Parks events API | https://stateparks.utah.gov/wp-json/tribe/events/v1/events?start_date=2026-10-27&end_date=2026-12-31&per_page=50 | Snow Canyon, Sand Hollow, Quail Creek, Antelope Island, Goblin Valley, Frontier Homestead, Camp Floyd | Reachable. The HTML calendar page shows little |
 | Sand Hollow calendar | https://stateparks.utah.gov/parks/sand-hollow/events-calendar/ | Tournaments, closures | Search-only |
 | Zion NP | https://www.nps.gov/zion/planyourvisit/calendar.htm | Ranger stargazing | JS-only; API works |
@@ -57,6 +62,7 @@ Checked 2026-10-27. **Reachable** means the page loaded from this box. **Search-
 ## Cedar City, UT
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
+| Eventbrite | https://www.eventbrite.com/d/ut--cedar-city/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
 | Frontier Homestead State Park | https://stateparks.utah.gov/event/storytime-tuesday-17/ | Weekly storytime | Search-only + API |
 | Bryce Canyon NP | NPS API (brca) | Full moon hikes, fee-free day | Reachable (API) |
 | Cedar Breaks NM | NPS API (cebr) | No events listed Oct–Dec | Reachable (API) |
@@ -64,6 +70,7 @@ Checked 2026-10-27. **Reachable** means the page loaded from this box. **Search-
 ## Phoenix, AZ (proposed)
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
+| Eventbrite | https://www.eventbrite.com/d/az--phoenix/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
 | City of Phoenix calendar | https://www.phoenix.gov/calendar | City events, S'edav Va'aki Museum, library | Search-only |
 | APS Electric Light Parade | https://www.phoenix.gov/administration/departments/parks/classes-programs/featured-events/aps-electric-light-parade.html | Parade | Reachable |
 | Downtown Phoenix Inc. | https://dtphx.org/ | First Friday, markets, PJs in the Park | Reachable |
@@ -78,6 +85,7 @@ Checked 2026-10-27. **Reachable** means the page loaded from this box. **Search-
 ## Salt Lake City, UT (proposed)
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
+| Eventbrite | https://www.eventbrite.com/d/ut--salt-lake-city/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
 | Utah State Parks API | see above | Antelope Island, Camp Floyd | Reachable |
 | Salt Lake County calendar (Clark Planetarium) | https://slco.trumba.com/ | Free planetarium programs | Reachable |
 | Tracy Aviary | https://tracyaviary.org/liberty-park/events/ | Bird demos, plant walks | Reachable |
@@ -90,6 +98,7 @@ Checked 2026-10-27. **Reachable** means the page loaded from this box. **Search-
 ## San Diego, CA (proposed)
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
+| Eventbrite | https://www.eventbrite.com/d/ca--san-diego/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
 | City of San Diego | https://www.sandiego.gov/december-nights | December Nights | Search-only |
 | San Diego Tourism Authority | https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities | Free holiday events list | Search-only (start times not listed) |
 | La Jolla Parade | https://www.ljparade.com/ | Parade | Search-only |
@@ -100,6 +109,7 @@ Checked 2026-10-27. **Reachable** means the page loaded from this box. **Search-
 ## Los Angeles, CA (proposed)
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
+| Eventbrite | https://www.eventbrite.com/d/ca--los-angeles/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
 | Griffith Observatory | https://griffithobservatory.lacity.gov/ | Star parties, Sunset Walk & Talk | Reachable |
 | LA Public Library | https://www.lapl.org/events | Library programs | Search-only |
 | LA County Beaches & Harbors | https://beaches.lacounty.gov/holidayboatparade/ | Marina del Rey boat parade | Search-only |
@@ -116,6 +126,7 @@ Candidate official sources: Colorado Parks & Wildlife (https://cpw.state.co.us/e
 ## Laughlin, NV (proposed)
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
+| Eventbrite | https://www.eventbrite.com/d/nv--laughlin/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
 | Nevada State Parks: Big Bend of the Colorado | https://parks.nv.gov/events | Ranger hikes at Big Bend SRA | Reachable |
 | Lake Mead NRA | NPS API (lake) | Willow Beach and volunteer events | Reachable (API) |
 | Las Vegas-Clark County Library District (Laughlin Library) | https://events.thelibrarydistrict.org/ | Library crafts, kids' events, free concerts | Search-only (read through aggregators venunite/yodel; need per-event links) |
@@ -125,6 +136,7 @@ Candidate official sources: Colorado Parks & Wildlife (https://cpw.state.co.us/e
 ## Zion / Springdale, UT (proposed)
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
+| Eventbrite | https://www.eventbrite.com/d/ut--springdale/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
 | Zion NP | NPS API (zion) | Ranger talks, stargazing | Reachable (API) |
 | Town of Springdale | https://www.springdale.utah.gov/ | Butch Cassidy 10K/5K, Joy to the World | Reachable (Joy to the World page still shows 2025 dates; recheck) |
 | Zion Forever Project | https://www.zionpark.org/pages/artinvitational | Art Invitational | Search-only |
@@ -133,6 +145,7 @@ Candidate official sources: Colorado Parks & Wildlife (https://cpw.state.co.us/e
 ## Hurricane, UT (proposed)
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
+| Eventbrite | https://www.eventbrite.com/d/ut--hurricane/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
 | Utah State Parks events API | https://stateparks.utah.gov/wp-json/tribe/events/v1/events/ | Sand Hollow and Quail Creek ranger programs | Reachable |
 | Hurricane Recreation | https://www.hurricanerecreation.com/ | Christmas Tree Festival, city events | Search-only |
 | City of Hurricane | https://www.cityofhurricane.com/ | City events (Peach Days in Sept) | Search-only |
@@ -143,6 +156,7 @@ Candidate official sources: Colorado Parks & Wildlife (https://cpw.state.co.us/e
 ## Kingman, AZ (proposed)
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
+| Eventbrite | https://www.eventbrite.com/d/az--kingman/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
 | Explore Kingman (city tourism) | https://www.explorekingman.com/events/ | Parades, tree lighting, Chillin' on Beale, Cookie Crawl | Reachable (JS-heavy; event pages load) |
 | Visit Kingman | https://visitkingman.com/events | Signature events (Route 66 UltraRun) | Search-only |
 | Kingman Downtown Merchants Association | https://www.kingmandowntownmerchantsassociation.com/ | Street of Lights, Mingle Jingle | Search-only |

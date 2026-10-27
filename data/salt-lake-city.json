@@ -163,6 +163,80 @@
    "note": "Holiday decorations and a Santa visit.",
    "description": "See how the soldiers of Camp Floyd celebrated the winter holidays, tour the Commissary and the Inn decorated for the season, and visit with Santa Claus.",
    "id": "sl-spirit-of-the-season-at-camp-floyd-2026-12"
+  },
+  {
+   "name": "Monster Dash 5K",
+   "category": "Family",
+   "place": "Wheeler Historic Farm, 6351 S 900 E, Murray",
+   "time": "8am–12pm",
+   "free": false,
+   "source": "https://www.eventbrite.com/e/monster-dash-5k-tickets-1994592067567",
+   "date": "2026-10-31",
+   "price": "Free–$75",
+   "note": "Registration on Eventbrite.",
+   "description": "A costume-friendly 5K run or walk supporting teens affected by foster care and homelessness. After the race there's free trick-or-treating for kids, games, food, music and a costume contest.",
+   "id": "sl-monster-dash-5k-eb"
+  },
+  {
+   "name": "Yoga Forward Gratitude Fest",
+   "category": "Family",
+   "place": "Utah Cultural Celebration Center, 1355 W 3100 S, West Valley City",
+   "time": "9am–5pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/yoga-forwards-5th-annual-gratitude-fest-tickets-1985546789898",
+   "date": "2026-11-07",
+   "note": "Free.",
+   "description": "A free, family-friendly day of yoga, meditation, mindfulness, sound baths and kids' activities running every hour. Browse local vendors and enter hourly prize drawings that support Yoga Forward's community programs.",
+   "id": "sl-yoga-forward-gratitude-fest-eb"
+  },
+  {
+   "name": "Folk Arts Workshop: Navajo Sandpainting",
+   "category": "Art & Craft",
+   "place": "Chase Home Museum, Liberty Park, Salt Lake City",
+   "time": "2pm–4pm",
+   "free": false,
+   "source": "https://www.eventbrite.com/e/folk-arts-workshop-at-chase-home-navajo-sandpainting-tickets-2003679843349",
+   "date": "2026-11-07",
+   "price": "$10",
+   "note": "Registration on Eventbrite.",
+   "description": "Navajo beadworker and cultural educator Lapita Frewin shares the history of sandpainting, then guides participants in making their own piece with non-sacred symbols to take home.",
+   "id": "sl-folk-arts-workshop-navajo-sandpainting-eb"
+  },
+  {
+   "name": "Great Gray Owls – Audubon Fall Forum",
+   "category": "Outdoors & Nature",
+   "place": "Westminster University, 1840 S 1300 E, Salt Lake City",
+   "time": "7pm–9pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/15th-annual-fall-forum-great-gray-owls-of-the-yellowstone-ecosystem-tickets-1998749221727",
+   "date": "2026-11-05",
+   "note": "Free; register on Eventbrite.",
+   "description": "Great Salt Lake Audubon's 15th annual Fall Forum features Dr. Katherine Gura on her long-term study of the Great Gray Owl. Learn about its behavior, breeding, movements and conservation challenges.",
+   "id": "sl-great-gray-owls-audubon-fall-forum-eb"
+  },
+  {
+   "name": "Science Utah: Moon Bases & Mars Cities",
+   "category": "Family",
+   "place": "Clark Planetarium, 110 S 400 W, Salt Lake City",
+   "time": "7pm–8pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/science-utah-moon-bases-mars-cities-and-humanitys-future-in-space-tickets-1996113673732",
+   "date": "2026-11-12",
+   "note": "Free; register on Eventbrite.",
+   "description": "A Science Utah lecture at Clark Planetarium on humanity's future in space, from Moon settlements to interstellar travel. It blends real science with informed speculation about where exploration goes next.",
+   "id": "sl-science-utah-moon-bases-mars-cities-eb"
+  },
+  {
+   "name": "Dolly & Denim at the Utah Capitol",
+   "category": "Family",
+   "place": "Utah State Capitol Rotunda, 350 N State St, Salt Lake City",
+   "time": "7pm–9pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/dolly-denim-at-the-utah-capitol-tickets-1999054288189",
+   "date": "2026-11-16",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "A free party for early literacy supporting Dolly Parton's Imagination Library in Utah. It features a conversation with Sheri Dew and live music, and guests are invited to come in their best Dolly-inspired denim.",
+   "id": "sl-dolly-denim-at-the-utah-capitol-eb"
   }
  ]
 }

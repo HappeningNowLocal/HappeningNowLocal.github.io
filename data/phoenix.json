@@ -176,6 +176,98 @@
    "note": "Monthly Oct–Mar; registration required.",
    "description": "Head to Lost Dutchman State Park for a monthly star party to learn about the stars and planets. Registration is required; check the park's event page for the time.",
    "id": "ph-lost-dutchman-star-party-2026-11-14"
+  },
+  {
+   "name": "PV Boo Bash",
+   "category": "Holiday",
+   "place": "The Park at PV, 12750 N Tatum Blvd, Phoenix",
+   "time": "5pm–8:30pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/pv-boo-bash-tickets-1998786068938",
+   "date": "2026-10-30",
+   "note": "Free; outdoor movie at 6:30pm.",
+   "description": "Trick-or-treat around PV from 5–6pm at participating shops, then settle onto the lawn for an outdoor screening of Hocus Pocus at 6:30. Costumes are encouraged.",
+   "id": "ph-pv-boo-bash-eb"
+  },
+  {
+   "name": "ASU Prep Día de los Muertos Celebration",
+   "category": "Festival",
+   "place": "ASU Prep South Phoenix, 4445 S 12th St, Phoenix",
+   "time": "6pm–8:30pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/dia-de-los-muertos-celebration-tickets-2003062529948",
+   "date": "2026-10-29",
+   "note": "Free; register for raffle.",
+   "description": "A free neighborhood Day of the Dead celebration on the ASU Prep South Phoenix campus. Enjoy sugar skull and paper flower crafts, face painting, food trucks, live music and a community altar.",
+   "id": "ph-asu-prep-d-a-de-los-muertos-celebration-eb"
+  },
+  {
+   "name": "Family Fun Halloween Bash",
+   "category": "Holiday",
+   "place": "Arizona Boardwalk (OdySea in the Desert), 9500 E Vía de Ventura, Scottsdale",
+   "time": "10am–2pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/free-6th-annual-family-fun-halloween-bash-tickets-1994374345354",
+   "date": "2026-10-31",
+   "note": "Free; costume contest 1pm.",
+   "description": "Family Fun Arizona's free 6th annual Halloween bash inside the Arizona Boardwalk. Kids can trick-or-treat, bounce, slide and get face painting, and a kids' costume contest at 1pm splits $1,000 in prizes.",
+   "id": "ph-family-fun-halloween-bash-eb"
+  },
+  {
+   "name": "SerbFest Phoenix",
+   "category": "Festival",
+   "place": "St. Sava Serbian Orthodox Church, 4436 E McKinley St, Phoenix",
+   "time": "Sat 11am–10pm, Sun 12pm–5pm",
+   "free": false,
+   "source": "https://www.eventbrite.com/e/serbfest-tickets-1998266697484",
+   "date": "2026-11-07",
+   "end": "2026-11-08",
+   "price": "$10–$300",
+   "note": "Tickets on Eventbrite.",
+   "description": "A celebration of Serbian food, folk music and culture held at Saint Sava Serbian Orthodox Church since 2003. All ages are welcome, with free parking.",
+   "id": "ph-serbfest-phoenix-eb"
+  },
+  {
+   "name": "Taste of Korea Phoenix",
+   "category": "Festival",
+   "place": "Kingdom in the Valley Christian Church, 11640 N 19th Ave, Phoenix",
+   "time": "11am–4pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/taste-of-korea-phoenix-indoor-tickets-2002902531388",
+   "date": "2026-11-14",
+   "note": "Free admission; food for purchase.",
+   "description": "An indoor celebration of Korean food, traditions and culture for all ages. Try Korean dishes (sold separately), cultural activities and traditional games.",
+   "id": "ph-taste-of-korea-phoenix-eb"
+  },
+  {
+   "name": "PV Heroes & Hounds",
+   "category": "Family",
+   "place": "The Park at PV, 12750 N Tatum Blvd, Phoenix",
+   "time": "12pm–3pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/pv-heroes-hounds-tickets-2001096466399",
+   "date": "2026-11-14",
+   "note": "Free.",
+   "description": "A community afternoon honoring Phoenix police, firefighters and their K9 partners. Watch K9 and search-and-rescue demos, tour fire trucks and SWAT vehicles, meet therapy dogs and enjoy family activities.",
+   "id": "ph-pv-heroes-hounds-eb"
+  },
+  {
+   "name": "Phoenix Pizza Festival",
+   "category": "Festival",
+   "place": "Margaret T. Hance Park (east side), 1202 N 3rd St, Phoenix",
+   "time": "Sat 11am–6pm, Sun 11am–4pm",
+   "free": false,
+   "source": "https://www.eventbrite.com/e/phoenix-pizza-festival-2026-tickets-1992057923875",
+   "date": "2026-11-14",
+   "end": "2026-11-15",
+   "price": "$21.82",
+   "note": "Single-day admission; food and drink extra.",
+   "description": "The 11th annual Phoenix Pizza Festival takes over Hance Park with pizza makers, local craft beer, live bands, lawn games and a kids' zone. Small leashed dogs under 25 lbs are welcome.",
+   "know": [
+    "Admission doesn't include food or drink.",
+    "Tickets usually sell out."
+   ],
+   "id": "ph-phoenix-pizza-festival-eb"
   }
  ]
 }

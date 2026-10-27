@@ -103,6 +103,18 @@
    "note": "Check the Chamber for ticket details.",
    "description": "Grab a cookie container and stroll downtown, collecting holiday cookies from participating businesses. Hosted by the Kingman Area Chamber of Commerce.",
    "id": "ki-downtown-cookie-crawl-2026-12-12"
+  },
+  {
+   "name": "Sound the Alarm – Free Smoke Alarm Installs",
+   "category": "Family",
+   "place": "749 Egar Rd, Golden Valley",
+   "time": "9am–4pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/sound-the-alarm-tickets-2003616658361",
+   "date": "2026-11-14",
+   "note": "Free; volunteer sign-up.",
+   "description": "An American Red Cross volunteer day installing free smoke alarms in local homes, making escape plans and sharing fire safety information. Sign up on Eventbrite to volunteer.",
+   "id": "ki-sound-the-alarm-free-smoke-alarm-installs-eb"
   }
  ]
 }

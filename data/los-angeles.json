@@ -198,6 +198,94 @@
    "note": "Free tickets available starting Dec 8.",
    "description": "Southern California's largest free holiday show features folklórico, gospel, mariachi, klezmer, Filipino and Indian dance ensembles. For the first time there are two 90-minute shows.",
    "id": "lac-l-a-county-holiday-celebration-2026-12-20"
+  },
+  {
+   "name": "Boonion Station",
+   "category": "Holiday",
+   "place": "Los Angeles Union Station South Patio, 800 N Alameda St",
+   "time": "11:30am–3:30pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/7th-annual-boonion-station-tickets-2001414567849",
+   "date": "2026-10-31",
+   "note": "Free; no tickets required.",
+   "description": "Union Station's free 7th annual family Halloween bash. Expect balloon artists, face painting, crafts, Treats-on-Track trick-or-treating with Metro and LAPD, stilt walkers and a costume contest for all ages.",
+   "id": "lac-boonion-station-eb"
+  },
+  {
+   "name": "Trick or Treat Hollywood",
+   "category": "Holiday",
+   "place": "4810 Sunset Blvd, Los Angeles",
+   "time": "4pm–9pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/trick-or-treat-hollywood-halloween-festival-for-kids-families-tickets-2002687226405",
+   "date": "2026-10-31",
+   "note": "Free.",
+   "description": "A free family Halloween street festival with trick-or-treat stations, pumpkin carving, a costume contest with prizes, sing-alongs, face painting and games.",
+   "id": "lac-trick-or-treat-hollywood-eb"
+  },
+  {
+   "name": "Paws & Pages Storytime at PetSpace",
+   "category": "Family",
+   "place": "Wallis Annenberg PetSpace, 12005 Bluff Creek Dr, Playa Vista",
+   "time": "11:30am–12pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/paws-pages-storytime-at-petspace-tickets-1980278124177",
+   "date": "2026-10-31",
+   "note": "Free; RSVP encouraged. Every Saturday.",
+   "description": "A weekly Saturday pet-themed storytime with a hands-on craft and a chance to meet an adoptable pet or ambassador animal. Leashed, well-behaved dogs are welcome on the first floor.",
+   "id": "lac-paws-pages-storytime-at-petspace-eb"
+  },
+  {
+   "name": "Self Help Graphics Día de los Muertos",
+   "category": "Festival",
+   "place": "Self Help Graphics & Art, 1300 E 1st St, Boyle Heights",
+   "time": "3pm–10pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/self-help-graphics-arts-53rd-annual-dia-de-los-muertos-celebration-tickets-2000318072201",
+   "date": "2026-11-07",
+   "note": "Free.",
+   "description": "Self Help Graphics & Art's 53rd annual Día de los Muertos celebration in Boyle Heights. There's live music and dance as ofrendas to ancestors, community altars, art and food vendors, and art activities.",
+   "id": "lac-self-help-graphics-d-a-de-los-muertos-eb"
+  },
+  {
+   "name": "Rose Bowl Flea Market",
+   "category": "Market",
+   "place": "Rose Bowl Stadium, 1001 Rose Bowl Dr, Pasadena",
+   "time": "5am–4:30pm",
+   "free": false,
+   "source": "https://www.eventbrite.com/e/rose-bowl-flea-market-sunday-november-8-2026-tickets-1977731982599",
+   "date": "2026-11-08",
+   "price": "$16.88–$24.29",
+   "note": "Tickets online only; no onsite sales.",
+   "description": "The famous Rose Bowl Flea Market, held the second Sunday of every month, has over 2,500 vendors selling antiques, vintage finds and new goods. Early-bird entry runs 5–8:45am and general admission 9am–3pm.",
+   "id": "lac-rose-bowl-flea-market-eb"
+  },
+  {
+   "name": "Lens on Life Film Screening (CD13)",
+   "category": "Movies & Music",
+   "place": "Barnsdall Gallery Theatre, 4800 Hollywood Blvd, Los Angeles",
+   "time": "7pm–10pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/lens-on-life-a-monthly-film-screening-by-cd13-tickets-1981045441243",
+   "date": "2026-11-18",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "A free monthly screening series from Council District 13 and the Department of Cultural Affairs, held the third Wednesday of each month. Each program pairs films on a local issue with a conversation with experts afterward.",
+   "id": "lac-lens-on-life-film-screening-cd13-eb"
+  },
+  {
+   "name": "Winter Festival Toy Distribution & Health Fair",
+   "category": "Holiday",
+   "place": "Salt Lake Park, 3401 E Florence Ave, Huntington Park",
+   "time": "8am–1pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/toy-distribution-health-fair-distribucion-de-juguetes-y-feria-de-salud-tickets-1998514732363",
+   "date": "2026-12-12",
+   "note": "Free; one toy per child, child must be present.",
+   "description": "A free bilingual winter festival with toy giveaways for kids, health screenings, haircuts, kids' activities, raffles and pantry distribution.",
+   "know": [
+    "Haircuts limited to the first 200 people."
+   ],
+   "id": "lac-winter-festival-toy-distribution-health-eb"
   }
  ]
 }
