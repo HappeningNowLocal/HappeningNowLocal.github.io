@@ -1,4 +1,4 @@
-const CATS=["All","Market","Festival","Art & Craft","Movies & Music","Family","Holiday"],M=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],D=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+const CATS=["All","Market","Festival","Art & Craft","Movies & Music","Family","Holiday","Shows & Expos"],M=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],D=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
 const st={city:localStorage.hnlCity||"henderson",tab:"today",cat:"All",free:false,events:[]};
 const $=s=>document.querySelector(s),iso=d=>d.getFullYear()+"-"+String(d.getMonth()+1).padStart(2,"0")+"-"+String(d.getDate()).padStart(2,"0"),parse=s=>{const[a,b,c]=s.split("-");return new Date(a,b-1,c)};
 const today=()=>{const d=new Date();d.setHours(0,0,0,0);return d};

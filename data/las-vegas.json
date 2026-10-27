@@ -205,6 +205,85 @@
     ]
    },
    "note": "Every Sunday."
+  },
+  {
+   "name": "SEMA Show (industry only)",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "9am\u20135pm",
+   "free": false,
+   "source": "https://www.semashow.com/node/950457",
+   "date": "2026-11-03",
+   "end": "2026-11-05",
+   "price": "Industry only",
+   "note": "Trade-only days for qualified automotive industry attendees."
+  },
+  {
+   "name": "SEMA Show Friday \u2013 Open to the Public",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "9am\u20134pm",
+   "free": false,
+   "source": "https://semashow.com/public",
+   "date": "2026-11-06",
+   "price": "$130",
+   "note": "Public day, ages 16+. Buy ahead at semafest.com; no day-of sales; photo ID needed at pickup."
+  },
+  {
+   "name": "Holiday Craft & Gift Festival",
+   "category": "Shows & Expos",
+   "place": "The Expo at World Market Center, 435 S Grand Central Pkwy",
+   "time": "See source",
+   "free": false,
+   "source": "https://www.lvcraftfestival.com/",
+   "date": "2026-11-06",
+   "end": "2026-11-08",
+   "price": "See source",
+   "note": "Handmade gifts, make & takes, Santa on Saturday. Free parking."
+  },
+  {
+   "name": "Fabulous Home & Garden Expo",
+   "category": "Shows & Expos",
+   "place": "Rio Hotel, 3700 W Flamingo Rd",
+   "time": "10am\u20136pm",
+   "free": true,
+   "source": "https://www.eventeny.com/events/fabuloushomeandgardenexpo-32784/",
+   "date": "2026-11-07",
+   "end": "2026-11-08",
+   "note": "Remodeling, outdoor living, local vendors, demos. Free admission."
+  },
+  {
+   "name": "Vegas Valley Comic Book Festival",
+   "category": "Shows & Expos",
+   "place": "Clark County Library, 1401 E Flamingo Rd",
+   "time": "9:30am\u20134:30pm",
+   "free": true,
+   "source": "https://www.playpivot.org/las-vegas/annual-events/vegas-valley-comic-book-festival",
+   "date": "2026-11-07",
+   "note": "Free library-run comic and cosplay festival with artist alley and kids' courtyard."
+  },
+  {
+   "name": "Crossroads Las Vegas Gun Show",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Motor Speedway, 7000 Las Vegas Blvd N",
+   "time": "Sat 9am\u20135pm, Sun 9am\u20133pm",
+   "free": false,
+   "source": "https://www.thesafekeeper.com/blogs/news/las-vegas-gun-shows",
+   "date": "2026-11-21",
+   "end": "2026-11-22",
+   "price": "See source",
+   "note": "Dates listed as tentative; check crossroadsgunshows.com."
+  },
+  {
+   "name": "Las Vegas Gun Show (MAC Shows)",
+   "category": "Shows & Expos",
+   "place": "Alexis Park Resort, 375 E Harmon Ave",
+   "time": "9am\u20135pm",
+   "free": false,
+   "source": "https://macshows.com/show/las-vegas-gun-show-12-12/",
+   "date": "2026-12-12",
+   "price": "$13",
+   "note": "Adults $13, kids under 12 free. Tickets at the door too."
   }
  ]
 }
