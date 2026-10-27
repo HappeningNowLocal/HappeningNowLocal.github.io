@@ -43,7 +43,7 @@
    "note": "1st & 3rd Fridays."
   },
   {
-   "name": "Army Street Farmers Market",
+   "name": "Water Street Farmers Market (Army St)",
    "category": "Market",
    "place": "129 S. Water St",
    "time": "4pm\u20138pm",
@@ -173,6 +173,46 @@
    "source": "https://nvhendersonweb.myvscloud.com/webtrac/web/search.html?module=AR&type=CMEVT",
    "date": "2026-12-05",
    "price": "$3"
+  },
+  {
+   "name": "Henderson Veterans Day Ceremony",
+   "category": "Family",
+   "place": "Water Street Plaza Amphitheater, 240 S. Water St",
+   "time": "10am\u201311am",
+   "free": true,
+   "source": "https://www.vegas4locals.com/venue/water-street-plaza-downtown-henderson/",
+   "date": "2026-11-07",
+   "note": "Honors local veterans; new names added to the Veterans Memorial Wall."
+  },
+  {
+   "name": "Holiday Artisan Night Market",
+   "category": "Art & Craft",
+   "place": "Water Street District",
+   "time": "5pm\u20139pm",
+   "free": true,
+   "source": "https://www.linkedin.com/posts/discoverhenderson_waterstreetdistrict-hendersonholidays-activity-7504675696032702464-GlrA",
+   "date": "2026-11-20",
+   "note": "Local makers, acoustic music, hot cocoa. Same night as the Army Street Farmers Market."
+  },
+  {
+   "name": "Shop Small Henderson",
+   "category": "Art & Craft",
+   "place": "Henderson Events Plaza, 240 S. Water St",
+   "time": "10am\u20133pm",
+   "free": true,
+   "source": "https://vegaseventsandmore.ourhoasite.com/event_details.php?eid=1905045526880165",
+   "date": "2026-11-28",
+   "note": "10th annual Small Business Saturday market. Free admission."
+  },
+  {
+   "name": "Water Street Holiday Artisan Fair",
+   "category": "Holiday",
+   "place": "Water Street Plaza",
+   "time": "10am\u20133pm",
+   "free": true,
+   "source": "https://www.linkedin.com/posts/discoverhenderson_waterstreetplaza-shopsmallhenderson-hendersonartisans-activity-7506020185619709952-Z-Gh",
+   "date": "2026-12-19",
+   "note": "Local makers, hot cocoa, live acoustic holiday music. Free admission."
   }
  ]
 }

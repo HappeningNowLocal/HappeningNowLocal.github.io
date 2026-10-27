@@ -1,0 +1,109 @@
+{
+ "city": "St. George, UT",
+ "checked": "2026-10-27",
+ "events": [
+  {
+   "name": "Downtown Farmers Market",
+   "category": "Market",
+   "place": "Vernon Worthen Park, 300 S 400 E",
+   "time": "10am\u20132pm",
+   "free": true,
+   "source": "https://www.upr.org/community-calendar/event/st-george-downtown-farmers-market-21-10-2026-14-36-23",
+   "rule": {
+    "dow": [
+     6
+    ],
+    "from": "2026-11-07",
+    "until": "2026-12-19",
+    "skip": [
+     "2026-11-14"
+    ]
+   },
+   "note": "Every Saturday, 50+ regional vendors and live music. No market Nov 14."
+  },
+  {
+   "name": "MOD the Modern Market",
+   "category": "Art & Craft",
+   "place": "Vernon Worthen Park",
+   "time": "10am\u20133pm",
+   "free": true,
+   "source": "https://modthemarket.com/",
+   "date": "2026-11-14",
+   "note": "Local artisans, boutiques and food trucks. Free admission."
+  },
+  {
+   "name": "Concerts at the Electric: The Bombshell Flowers",
+   "category": "Movies & Music",
+   "place": "The Electric Theater",
+   "time": "7pm",
+   "free": true,
+   "source": "https://www.sgcityutah.gov/activity/special_events/special_events/electric_series/concerts_at_the_electric.php",
+   "date": "2026-11-09",
+   "note": "Free city concert series; first-come seating, donations welcome."
+  },
+  {
+   "name": "Concerts at the Electric: Color Country Choir",
+   "category": "Holiday",
+   "place": "The Electric Theater",
+   "time": "7pm",
+   "free": true,
+   "source": "https://www.sgcityutah.gov/activity/special_events/special_events/electric_series/concerts_at_the_electric.php",
+   "date": "2026-12-14"
+  },
+  {
+   "name": "Kickoff to Christmas",
+   "category": "Holiday",
+   "place": "Downtown St. George (Town Square)",
+   "time": "6pm\u20138pm",
+   "free": true,
+   "source": "https://www.sgcityutah.gov/activity/special_events/kickoff_to_christmas.php",
+   "date": "2026-11-30",
+   "note": "Santa photos, choirs, cookies and cocoa. Children's museum open late."
+  },
+  {
+   "name": "Dickens' Christmas Festival",
+   "category": "Shows & Expos",
+   "place": "Dixie Convention Center, 1835 Convention Center Dr",
+   "time": "10am\u20139pm",
+   "free": false,
+   "source": "https://www.dickenschristmasfestival.com/",
+   "date": "2026-12-02",
+   "end": "2026-12-05",
+   "price": "$12",
+   "note": "Victorian holiday craft market. Adults $12, seniors/kids 5\u201312 $10, 4 & under free."
+  },
+  {
+   "name": "North Pole Express",
+   "category": "Holiday",
+   "place": "Thunder Junction All Abilities Park",
+   "time": "6pm\u20138pm",
+   "free": false,
+   "source": "https://www.sgcityutah.gov/activity/special_events/special_events/north_pole_express.php",
+   "rule": {
+    "dates": [
+     "2026-12-04",
+     "2026-12-05",
+     "2026-12-07",
+     "2026-12-11",
+     "2026-12-12",
+     "2026-12-14",
+     "2026-12-18",
+     "2026-12-19",
+     "2026-12-21"
+    ]
+   },
+   "price": "$12",
+   "note": "Santa, cookies, crafts and a train ride. Tickets on sale Nov 16; buy ahead."
+  },
+  {
+   "name": "Light the Night",
+   "category": "Holiday",
+   "place": "St. George Art Museum",
+   "time": "5pm\u20138pm",
+   "free": true,
+   "source": "https://www.sgcityutah.gov/parksandrec/arts___culture/art_museum/events/light_the_night.php",
+   "date": "2026-12-05",
+   "note": "Make a luminary, cocoa, crafts, live music and the new winter exhibits."
+  }
+ ]
+}
