@@ -54,3 +54,14 @@ dialog#sheet::backdrop{background:rgba(15,22,20,.45);animation:fade .2s ease}@ke
 .desc{font-size:15px;color:var(--ink2);border-top:1px solid var(--line);padding-top:var(--s4);margin:0}.know{background:#F6F3EE;border-radius:12px;padding:var(--s3) var(--s4);margin-top:var(--s4)}.know h3{margin:0 0 4px;font-size:13px;text-transform:uppercase;letter-spacing:.06em;color:var(--ink2)}.know ul{margin:0;padding-left:18px;font-size:14px;color:var(--ink2)}.know li{margin:3px 0}
 .acts{display:flex;flex-wrap:wrap;gap:var(--s2);margin-top:var(--s5)}.acts .btn{flex:1 1 100%;text-align:center}.btn2{flex:1;border:1px solid var(--line);background:var(--surf);border-radius:10px;padding:10px 14px;font-weight:650;font-size:15px;color:var(--ink)}.btn2:hover{background:#F6F3EE}
 .toast{font-size:13px;color:var(--c-market);text-align:center;margin:var(--s2) 0 0;min-height:1em}body:has(dialog[open]){overflow:hidden}
+
+.cal-h h2{flex:1;margin-left:var(--s3)!important}.cal-h .tdy{width:auto;padding:0 12px;font-size:13px;font-weight:600;margin-right:var(--s2)}
+.cal-h{gap:0}.cal-h button[data-nav="-1"]{order:0}.cal-h h2{order:1}.cal-h .tdy{order:2}.cal-h button[data-nav="1"]{order:3}
+.day.we{background:#FAF7F2}.day.past:not([aria-pressed=true]){opacity:.55}.day:focus-visible{outline:2px solid var(--acc);outline-offset:1px}
+.chs{display:none}
+@media(min-width:700px){.grid{gap:0;border-top:1px solid var(--line);border-left:1px solid var(--line)}.dow{border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+.day{aspect-ratio:auto;min-height:104px;border-radius:0;border-right:1px solid var(--line);border-bottom:1px solid var(--line);align-items:stretch;padding:4px;gap:2px;overflow:hidden}
+.day .n{width:24px;height:24px;font-size:13px}.day .dots{display:none}.chs{display:flex;flex-direction:column;gap:2px;min-width:0}
+.ec{display:block;font-size:11px;font-weight:600;line-height:1.3;padding:2px 5px;border-radius:5px;background:color-mix(in srgb,var(--c) 14%,#fff);color:color-mix(in srgb,var(--c) 75%,#000);border-left:3px solid var(--c);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-align:left}
+.ec.span{border-radius:0;margin:0 -4px;padding-left:8px}.more{font-size:11px;color:var(--mute);font-weight:600;text-align:left;padding-left:4px}
+.day[aria-pressed=true]{box-shadow:inset 0 0 0 2px var(--brand)}}
