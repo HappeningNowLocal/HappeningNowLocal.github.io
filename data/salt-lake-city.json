@@ -1,0 +1,168 @@
+{
+ "city": "Salt Lake City, UT",
+ "checked": "2026-10-27",
+ "events": [
+  {
+   "name": "Hanukkah Market",
+   "category": "Art & Craft",
+   "place": "IJ & Jeanné Wagner JCC, 2 North Medical Dr",
+   "time": "12pm–5pm",
+   "free": true,
+   "source": "https://www.slcjcc.org/pages/events-hanukkah-market/",
+   "date": "2026-11-08",
+   "note": "Free; 40+ artists and makers.",
+   "description": "For more than 25 years the Hanukkah Market has kicked off the holiday season at the JCC, with 40+ artists and makers, good food and activities for kids. Everyone is welcome and admission is free.",
+   "id": "sl-hanukkah-market-2026-11-08"
+  },
+  {
+   "name": "SLC Winter Farmers Market",
+   "category": "Market",
+   "place": "Rio Grande Depot, 209 E 500 S",
+   "time": "10am–2pm",
+   "free": true,
+   "source": "https://thehaps.app/event/80bfc0ad-5201-4611-adbe-30cdd631270a/",
+   "rule": {
+    "dow": [
+     6
+    ],
+    "from": "2026-11-21"
+   },
+   "note": "Every Saturday, indoors.",
+   "description": "An indoor winter farmers market with local produce, prepared foods and artisan goods every Saturday at the Rio Grande Depot. Free to attend.",
+   "id": "sl-slc-winter-farmers-market"
+  },
+  {
+   "name": "Around the World Holiday Market",
+   "category": "Holiday",
+   "place": "Historic Scott School, 3280 S 540 E, South Salt Lake",
+   "time": "6pm–8pm",
+   "free": true,
+   "source": "https://sslarts.org/programs/events/holiday-market",
+   "date": "2026-11-19",
+   "note": "Tree lighting, international food and performances.",
+   "description": "South Salt Lake Arts turns the Historic Scott School into an international holiday market with local artisans, live music and dance, small bites and warm drinks from many cultures. Includes a tree lighting ceremony and kids' crafts.",
+   "id": "sl-around-the-world-holiday-market-2026-11-19"
+  },
+  {
+   "name": "Yule Fairs at Crone's Hollow",
+   "category": "Art & Craft",
+   "place": "Crone's Hollow, 3834 S Main St, South Salt Lake",
+   "time": "12pm–6pm",
+   "free": true,
+   "source": "https://nowplayingutah.com/event/yule-fairs-at-crones-hollow/",
+   "rule": {
+    "dates": [
+     "2026-11-28",
+     "2026-12-05",
+     "2026-12-12"
+    ]
+   },
+   "note": "Free; different vendors each week.",
+   "description": "A three-Saturday series of Yule vendor fairs with handcrafted goods and magical treasures from local artisans. Dec 5 brings the Holly King and Krampus; Dec 12 has a Father and Mother Yule photo booth.",
+   "id": "sl-yule-fairs-at-crone-s-hollow"
+  },
+  {
+   "name": "Christkindlmarkt SLC",
+   "category": "Holiday",
+   "place": "This Is The Place Heritage Park, 2601 E Sunnyside Ave",
+   "time": "From 11am",
+   "free": true,
+   "source": "https://www.ksl.com/events/details/557858",
+   "date": "2026-12-02",
+   "note": "Free; multi-day — check source for all dates.",
+   "description": "Inspired by Germany's famous Christmas markets, Christkindlmarkt SLC offers holiday shopping, food and festive entertainment. Free to the public.",
+   "id": "sl-christkindlmarkt-slc-2026-12-02"
+  },
+  {
+   "name": "Fun Science Friday",
+   "category": "Family",
+   "place": "Clark Planetarium Learning Space, 130 S 400 W",
+   "time": "2:30pm–6:30pm",
+   "free": true,
+   "source": "https://slco.trumba.com/salt-lake-county-events-calendar-planetarium/Fun-Science-Friday/E212179574",
+   "rule": {
+    "dates": [
+     "2026-11-06",
+     "2026-11-13",
+     "2026-11-20",
+     "2026-11-27"
+    ]
+   },
+   "note": "Free, no registration. Nov 13 theme: Dark Skies.",
+   "description": "Free hands-on science projects every Friday at Clark Planetarium. November topics are tornadoes, dark skies, space toilet science and the life cycle of stars.",
+   "id": "sl-fun-science-friday"
+  },
+  {
+   "name": "The Shoshone Plant Experience",
+   "category": "Outdoors & Nature",
+   "place": "Tracy Aviary, Liberty Park, 589 E 1300 S",
+   "time": "10am–11am",
+   "free": false,
+   "source": "https://tracyaviary.org/liberty-park/event/the-shoshone-plant-experience-3/2026-11-18/",
+   "price": "Aviary admission",
+   "date": "2026-11-18",
+   "note": "Monthly plant walk, 3rd Wednesdays.",
+   "description": "A plant walk with Rios Pacheco (Northwest Shoshone/Kewa Pueblo), sharing the NWB Shoshone language and traditional uses of native plants for medicine, food and shelter. Free with Tracy Aviary admission.",
+   "id": "sl-the-shoshone-plant-experience-2026-11-18"
+  },
+  {
+   "name": "Working of the Bison",
+   "category": "Outdoors & Nature",
+   "place": "Antelope Island State Park",
+   "time": "See source",
+   "free": false,
+   "source": "https://stateparks.utah.gov/event/the-working-of-the-bison/",
+   "price": "Park entry",
+   "date": "2026-10-27",
+   "end": "2026-10-29",
+   "note": "Free public tours of the annual bison roundup.",
+   "description": "During the Working of the Bison, Antelope Island's bison are sorted one at a time for vaccinations and health screenings. Free public tours are offered.",
+   "id": "sl-working-of-the-bison-2026-10-27"
+  },
+  {
+   "name": "Bird Walk at Fielding Garr Ranch",
+   "category": "Outdoors & Nature",
+   "place": "Fielding Garr Ranch, Antelope Island State Park",
+   "time": "9am–10am",
+   "free": false,
+   "source": "https://stateparks.utah.gov/event/bird-walk-at-fielding-garr-ranch-30/",
+   "price": "Park entry",
+   "rule": {
+    "dow": [
+     3
+    ],
+    "from": "2026-11-04",
+    "until": "2026-12-16"
+   },
+   "note": "Weekly Wednesdays; binoculars to borrow.",
+   "description": "Walk the ranch's densely populated wetland in search of your bucket-list bird. Binoculars are available to borrow; no extra charge beyond park entry.",
+   "id": "sl-bird-walk-at-fielding-garr-ranch"
+  },
+  {
+   "name": "Camp Floyd Walking Tour",
+   "category": "Outdoors & Nature",
+   "place": "Camp Floyd State Park Museum, 69 W Main St, Fairfield",
+   "time": "2pm–3pm",
+   "free": false,
+   "source": "https://stateparks.utah.gov/event/history-of-camp-floyd-fairfield-walking-tour/",
+   "price": "See source",
+   "date": "2026-11-28",
+   "note": "About an hour from SLC. Reserve: campfloyd@utah.gov.",
+   "description": "A guided walking tour of Camp Floyd and Fairfield, including the commissary, historic Fairfield School and Stagecoach Inn.",
+   "id": "sl-camp-floyd-walking-tour-2026-11-28"
+  },
+  {
+   "name": "Spirit of the Season at Camp Floyd",
+   "category": "Holiday",
+   "place": "Camp Floyd State Park Museum, Fairfield",
+   "time": "10am–4pm",
+   "free": false,
+   "source": "https://stateparks.utah.gov/event/spirit-of-the-season-at-camp-floyd/",
+   "price": "See source",
+   "date": "2026-12-12",
+   "note": "Holiday decorations and a Santa visit.",
+   "description": "See how the soldiers of Camp Floyd celebrated the winter holidays, tour the Commissary and the Inn decorated for the season, and visit with Santa Claus.",
+   "id": "sl-spirit-of-the-season-at-camp-floyd-2026-12"
+  }
+ ]
+}

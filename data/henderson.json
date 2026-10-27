@@ -344,6 +344,18 @@
    "note": "Crafts and yard-sale finds. Free to shop.",
    "description": "A city-run craft and yard sale at Heritage Park Senior Facility. Admission is free and all ages are welcome to shop.",
    "id": "he-upscale-craft-yard-sale"
+  },
+  {
+   "name": "Fee-Free Day at Lake Mead (Veterans Day)",
+   "category": "Outdoors & Nature",
+   "place": "Lake Mead NRA (Lake Mead Pkwy entrance)",
+   "time": "All day",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/fee-free-parks.htm",
+   "date": "2026-11-11",
+   "note": "Entrance fee waived for U.S. residents.",
+   "description": "Veterans Day is a National Park Service fee-free day, so entrance to nearby Lake Mead National Recreation Area is free for U.S. citizens and residents. Camping and other fees still apply.",
+   "id": "he-fee-free-day-at-lake-mead-veterans-day-202"
   }
  ]
 }

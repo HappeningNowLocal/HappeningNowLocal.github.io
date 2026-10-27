@@ -382,6 +382,170 @@
     "Tickets online or at the door."
    ],
    "id": "la-las-vegas-gun-show-mac-shows"
+  },
+  {
+   "name": "Red Rock Junior Rangers",
+   "category": "Outdoors & Nature",
+   "place": "Red Rock Canyon NCA",
+   "time": "10:30am–12pm",
+   "free": true,
+   "source": "https://www.redrockcanyonlv.org/events/red-rock-junior-rangers-11-8-26-1030-1200pm/",
+   "date": "2026-11-08",
+   "note": "Free BLM program; advance registration required. No Scenic Drive fee needed.",
+   "description": "Kids join a Bureau of Land Management ranger to learn a Leave No Trace principle (this month: Be Kind to Other Visitors), play a game and take a short hike. Junior Rangers earn a monthly badge; collect all seven for a display banner.",
+   "know": [
+    "Register at rrjr-nov.timetap.com.",
+    "No age limit."
+   ],
+   "id": "la-red-rock-junior-rangers-2026-11-08"
+  },
+  {
+   "name": "Red Rock History Hike",
+   "category": "Outdoors & Nature",
+   "place": "Red Rock Canyon NCA (directions sent on registration)",
+   "time": "8:30am–10:30am",
+   "free": true,
+   "source": "https://www.redrockcanyonlv.org/events/history-hike-2/",
+   "date": "2026-11-19",
+   "note": "Free 3-mile ranger hike, ages 12+. Registration required.",
+   "description": "A guided 3-mile BLM ranger hike with sweeping views of Red Rock Canyon, uncovering the hidden history of the area and Cottonwood Valley. The program does not start at the Visitor Center or Scenic Drive.",
+   "know": [
+    "Register at redrockcanyonlvprograms.timetap.com.",
+    "Ages 12+."
+   ],
+   "id": "la-red-rock-history-hike-2026-11-19"
+  },
+  {
+   "name": "Wilderness Hike: Limestone Arches",
+   "category": "Outdoors & Nature",
+   "place": "Rainbow Mountain Wilderness, Red Rock Canyon NCA",
+   "time": "8am–2pm",
+   "free": true,
+   "source": "https://www.redrockcanyonlv.org/events/wilderness-hikes-limestone-arches/",
+   "date": "2026-11-29",
+   "note": "Strenuous 6-mile off-trail ranger hike. Registration required.",
+   "description": "A special off-trail BLM ranger hike into the Rainbow Mountain Wilderness to learn about wilderness areas and how to keep them wild. Expect about 6 miles, 1,500 ft of gain and some scrambling; for experienced hikers only.",
+   "know": [
+    "Register at redrockcanyonlvprograms.timetap.com."
+   ],
+   "id": "la-wilderness-hike-limestone-arches-2026-11-2"
+  },
+  {
+   "name": "Stargazing at Spring Mountain Ranch",
+   "category": "Outdoors & Nature",
+   "place": "Spring Mountain Ranch State Park, 6375 NV-159, Blue Diamond",
+   "time": "5:30pm–8pm",
+   "free": false,
+   "source": "https://parks.nv.gov/events/star-gazing-with-the-las-vegas-astronomical-society-2",
+   "price": "$10/vehicle",
+   "date": "2026-11-14",
+   "note": "With the Las Vegas Astronomical Society. Cash-only entry.",
+   "description": "The Las Vegas Astronomical Society sets up 10 or more telescopes at Spring Mountain Ranch State Park for an evening of stargazing. Look for the Pleiades, Capella and possibly Saturn's rings, weather permitting.",
+   "know": [
+    "$10 per vehicle, cash only; bring exact change.",
+    "Leave pets at home; bring warm layers and a red light."
+   ],
+   "id": "la-stargazing-at-spring-mountain-ranch-2026-1"
+  },
+  {
+   "name": "Bird Walk with Red Rock Audubon",
+   "category": "Outdoors & Nature",
+   "place": "Spring Mountain Ranch State Park",
+   "time": "7:30am–10:30am",
+   "free": false,
+   "source": "https://parks.nv.gov/events/bird-walk-with-red-rock-audubon-society-3",
+   "price": "Park entry",
+   "date": "2026-11-15",
+   "note": "Registration required. Includes the restricted Lake Harriet area.",
+   "description": "Red Rock Audubon leads a 2–3 mile birding walk on easy-to-moderate trails at historic Spring Mountain Ranch, including a special visit to the restricted Lake Harriet to look at waterfowl.",
+   "know": [
+    "Registration required via Red Rock Audubon.",
+    "Bring binoculars, water and layers."
+   ],
+   "id": "la-bird-walk-with-red-rock-audubon-2026-11-15"
+  },
+  {
+   "name": "A Long Walk Through History",
+   "category": "Outdoors & Nature",
+   "place": "Spring Mountain Ranch State Park",
+   "time": "9am (gates 8am)",
+   "free": false,
+   "source": "https://parks.nv.gov/events/a-long-walk-through-history",
+   "price": "$10 NV vehicle",
+   "date": "2026-11-21",
+   "note": "Docent-led 5.5-mile hike; registration required.",
+   "description": "A docent-led morning hike on all three trails at Spring Mountain Ranch, with stops to share the ranch's history and a peek into the historic cabin (the 2nd-oldest building in Southern Nevada) and blacksmith shop. About 4 hours at a brisk pace for intermediate hikers.",
+   "know": [
+    "$10 NV vehicles / $15 non-resident; hike itself is free.",
+    "Trails cross water and mud."
+   ],
+   "id": "la-a-long-walk-through-history-2026-11-21"
+  },
+  {
+   "name": "Sketch Scribble Discover (Nature Journaling)",
+   "category": "Outdoors & Nature",
+   "place": "Main Ranch House, Spring Mountain Ranch State Park",
+   "time": "8:45am",
+   "free": false,
+   "source": "https://parks.nv.gov/events/sketch-scribble-discover",
+   "price": "Park entry",
+   "date": "2026-11-30",
+   "note": "All ages; supplies provided.",
+   "description": "A gentle, creative hour exploring nature through words and sketches at Spring Mountain Ranch. No art or science experience needed and all art supplies are provided.",
+   "know": [
+    "Included with park entry ($10 NV / $15 non-resident vehicle)."
+   ],
+   "id": "la-sketch-scribble-discover-nature-journaling"
+  },
+  {
+   "name": "Gingerbread Craft Boutique",
+   "category": "Art & Craft",
+   "place": "Aliante Casino (Scottsdale Ballroom), 7300 N. Aliante Pkwy, North Las Vegas",
+   "time": "10am–5pm",
+   "free": true,
+   "source": "https://festivalnet.com/96995/Las-Vegas-Nevada/Festivals/Gingerbread-Craft-Boutique",
+   "date": "2026-11-22",
+   "note": "65+ crafters. Free admission and parking.",
+   "description": "An indoor craft show with 65+ creative artists, crafters and vendors selling original crafts, gifts and cottage foods. Admission and parking are free.",
+   "id": "la-gingerbread-craft-boutique-2026-11-22"
+  },
+  {
+   "name": "Neon City Festival",
+   "category": "Festival",
+   "place": "Fremont Street Experience & Downtown Las Vegas Events Center",
+   "time": "See source",
+   "free": true,
+   "source": "https://lasvegassun.com/news/2026/aug/21/neon-city-festival-announces-star-studded-lineup-f/",
+   "date": "2026-11-20",
+   "end": "2026-11-22",
+   "note": "Free, all-ages downtown music and culinary festival.",
+   "description": "The free, all-ages Neon City Festival returns downtown for its third year across the Fremont Street Experience's three stages and the Downtown Las Vegas Events Center. Announced headliners include Fat Joe, Kaskade, Marshmello, Subtronics and The Fray.",
+   "id": "la-neon-city-festival-2026-11-20"
+  },
+  {
+   "name": "Las Vegas Veterans Day Parade",
+   "category": "Holiday",
+   "place": "Fourth St. between Gass Ave. and Stewart Ave., Downtown",
+   "time": "10am–12pm",
+   "free": true,
+   "source": "https://www.lasvegashowto.com/las-vegas-events-november",
+   "date": "2026-11-11",
+   "note": "Free. Confirm route with the City of Las Vegas.",
+   "description": "The annual downtown Veterans Day Parade, one of the largest in the nation, runs along Fourth Street from 10 a.m. to noon.",
+   "id": "la-las-vegas-veterans-day-parade-2026-11-11"
+  },
+  {
+   "name": "Las Vegas Days Rodeo",
+   "category": "Festival",
+   "place": "CORE Arena at Plaza Hotel & Casino",
+   "time": "See source",
+   "free": true,
+   "source": "https://www.lasvegashowto.com/las-vegas-events-november",
+   "date": "2026-11-13",
+   "end": "2026-11-14",
+   "note": "Free family event (formerly Helldorado Days).",
+   "description": "An annual cowboy-themed event celebrating Las Vegas' Wild West past, with bull riding, barrel racing, roping and bronc riding. Listed as free for the whole family.",
+   "id": "la-las-vegas-days-rodeo-2026-11-13"
   }
  ]
 }

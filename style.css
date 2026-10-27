@@ -1,5 +1,5 @@
 :root{--bg:#F7F5F1;--surf:#fff;--ink:#1B1F1E;--ink2:#4A5250;--mute:#6B7370;--line:#E4E0D8;--brand:#1F3A34;--acc:#E8643C;--accd:#B9441F;--r:14px;--s1:4px;--s2:8px;--s3:12px;--s4:16px;--s5:24px;--s6:32px;--sh:0 1px 2px rgba(20,30,28,.06),0 4px 14px rgba(20,30,28,.06);
---c-market:#2E7D4F;--c-festival:#C2410C;--c-art:#7C3AED;--c-music:#2563EB;--c-family:#0E7490;--c-holiday:#B91C1C;--c-shows:#A16207}
+--c-market:#2E7D4F;--c-festival:#C2410C;--c-art:#7C3AED;--c-music:#2563EB;--c-family:#0E7490;--c-holiday:#B91C1C;--c-shows:#A16207;--c-outdoors:#4D7C0F}
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{margin:0;font:400 16px/1.5 ui-sans-serif,-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Roboto,"Helvetica Neue",Arial,sans-serif;background:var(--bg);color:var(--ink);-webkit-font-smoothing:antialiased}
 .wrap{max-width:960px;margin:0 auto;padding:0 var(--s4)}.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
 button{font:inherit;cursor:pointer}:focus-visible{outline:2px solid var(--acc);outline-offset:2px}

@@ -1,0 +1,153 @@
+{
+ "city": "Boulder City, NV",
+ "checked": "2026-10-27",
+ "events": [
+  {
+   "name": "Leave No Trace Trivia Night",
+   "category": "Outdoors & Nature",
+   "place": "Boulder City Adventure Center, 102 Nevada Way",
+   "time": "6pm–8pm",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=44365373-D6C8-3E98-9BE8713E754E7386",
+   "date": "2026-10-29",
+   "note": "Kicks off Lake Mead's Leave No Trace Spotlight weekend.",
+   "description": "Lake Mead National Recreation Area is a 2026 Leave No Trace Spotlight location, and the weekend opens with an interactive trivia night. Test your Leave No Trace knowledge and pick up tips for protecting Black Canyon and the park.",
+   "id": "bc-leave-no-trace-trivia-night-2026-10-29"
+  },
+  {
+   "name": "Campfire Program at Boulder Beach",
+   "category": "Outdoors & Nature",
+   "place": "Boulder Beach Campground Amphitheater, Lake Mead NRA",
+   "time": "5pm–7pm",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=3A8169F4-0F87-3E68-4A518B2C942DF2A8",
+   "date": "2026-10-30",
+   "note": "Free; register by emailing LAKE_Volunteer_Coordinator@nps.gov.",
+   "description": "An evening around the campfire at the Boulder Beach Campground amphitheater, watching the desert sunset over Lake Mead. Listen to stories and ask park rangers about how they protect public lands; light refreshments from Get Outdoors Nevada.",
+   "know": [
+    "Registration required by email; space is limited."
+   ],
+   "id": "bc-campfire-program-at-boulder-beach-2026-10-"
+  },
+  {
+   "name": "Willow Beach Cleanup",
+   "category": "Outdoors & Nature",
+   "place": "Willow Beach, Lake Mead NRA",
+   "time": "9am–11am",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=767EE6AC-09F5-8C57-943FF4229A084369",
+   "date": "2026-10-30",
+   "note": "Volunteers get free park entry. Register by email.",
+   "description": "Join NPS and Willow Beach Marina staff to clear trash from the beaches and surrounding desert at this heavily visited spot. Registered volunteers receive the meeting location and a password for free park entry.",
+   "know": [
+    "Register: LAKE_Volunteer_Coordinator@nps.gov"
+   ],
+   "id": "bc-willow-beach-cleanup-2026-10-30"
+  },
+  {
+   "name": "Goldstrike Canyon Stewardship Project",
+   "category": "Outdoors & Nature",
+   "place": "Goldstrike Canyon Trailhead",
+   "time": "8am–12pm",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=3AA4EA42-B2B9-7038-02A5F1B7DD70405B",
+   "date": "2026-10-31",
+   "note": "Graffiti removal and litter pickup with NPS and Leave No Trace. Registration required.",
+   "description": "Help restore Goldstrike Canyon by removing spray-paint graffiti and picking up litter alongside National Park Service and Leave No Trace staff. Partners will be tabling at the trailhead.",
+   "know": [
+    "Register: LAKE_Volunteer_Coordinator@nps.gov"
+   ],
+   "id": "bc-goldstrike-canyon-stewardship-project-2026"
+  },
+  {
+   "name": "Dragonfly Mercury Project",
+   "category": "Outdoors & Nature",
+   "place": "Lake Mead NRA (location sent on registration)",
+   "time": "8:30am–12pm",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=7647DF1C-F37B-7CF3-29EAC3843223CCA4",
+   "date": "2026-11-05",
+   "note": "Citizen science; involves wading in water. Registration required.",
+   "description": "A citizen-science project where volunteers help NPS staff collect dragonfly larvae for mercury analysis. The data helps scientists understand and fight mercury contamination.",
+   "know": [
+    "Register: LAKE_Volunteer_Coordinator@nps.gov"
+   ],
+   "id": "bc-dragonfly-mercury-project-2026-11-05"
+  },
+  {
+   "name": "Fee-Free Day at Lake Mead (Veterans Day)",
+   "category": "Outdoors & Nature",
+   "place": "Lake Mead National Recreation Area",
+   "time": "All day",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/fee-free-parks.htm",
+   "date": "2026-11-11",
+   "note": "Entrance fee waived for U.S. residents.",
+   "description": "Veterans Day is a National Park Service fee-free day, so entrance to Lake Mead is free for U.S. citizens and residents. Camping and other fees still apply.",
+   "know": [
+    "Nonresidents still pay entrance fees in 2026."
+   ],
+   "id": "bc-fee-free-day-at-lake-mead-veterans-day-202"
+  },
+  {
+   "name": "Lake Mead Lodge Native Planting",
+   "category": "Outdoors & Nature",
+   "place": "Former Lake Mead Lodge site",
+   "time": "8:30am–12pm",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=7770B0B3-C0E0-2B62-A450103B5A3EF6FE",
+   "date": "2026-11-14",
+   "note": "Restoration volunteer day. Registration required.",
+   "description": "Help Lake Mead's Song Dog Nursery restore the site of the former Lake Mead Lodge by planting native plants. Registered volunteers get the meeting spot and a free-entry password.",
+   "know": [
+    "Register: LAKE_Volunteer_Coordinator@nps.gov"
+   ],
+   "id": "bc-lake-mead-lodge-native-planting-2026-11-14"
+  },
+  {
+   "name": "Bighorn Sheep Guzzler Cleanup",
+   "category": "Outdoors & Nature",
+   "place": "Lake Mead NRA (location sent on registration)",
+   "time": "8:30am–12pm",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=77F5864D-B296-6B16-E757C213837A6E3F",
+   "date": "2026-12-04",
+   "note": "Volunteer day. Registration required.",
+   "description": "Support the park's native bighorn sheep by trimming vegetation around guzzlers, which provide a valuable water source for the herds. Space is limited.",
+   "know": [
+    "Register: LAKE_Volunteer_Coordinator@nps.gov"
+   ],
+   "id": "bc-bighorn-sheep-guzzler-cleanup-2026-12-04"
+  },
+  {
+   "name": "International Volunteer Day Cleanup",
+   "category": "Outdoors & Nature",
+   "place": "Lake Mead NRA (location sent on registration)",
+   "time": "8:30am–12pm",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=77E5F0E5-F77D-FDB1-B33B5FBB5F07FD68",
+   "date": "2026-12-05",
+   "note": "Volunteer cleanup. Registration required.",
+   "description": "Celebrate International Volunteer Day by cleaning up trash from a popular area of the park. Registered volunteers receive the location and a free-entry password.",
+   "know": [
+    "Register: LAKE_Volunteer_Coordinator@nps.gov"
+   ],
+   "id": "bc-international-volunteer-day-cleanup-2026-1"
+  },
+  {
+   "name": "Christmas Bird Count at Lake Mead",
+   "category": "Outdoors & Nature",
+   "place": "Lake Mead NRA (location sent on registration)",
+   "time": "8:30am–2pm",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=7780B225-F604-7546-9231485C5B023A5F",
+   "date": "2026-12-17",
+   "note": "Beginners welcome; hike or boat survey routes. Registration required.",
+   "description": "Join NPS biologists for the nation's longest-running community-science bird project, surveying birds of Lake Mead and Lake Mohave. Choose a hike or a (longer) boat survey route.",
+   "know": [
+    "Register: LAKE_volunteer_coordinator@nps.gov"
+   ],
+   "id": "bc-christmas-bird-count-at-lake-mead-2026-12-"
+  }
+ ]
+}

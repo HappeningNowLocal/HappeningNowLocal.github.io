@@ -145,6 +145,203 @@
    "note": "Make a luminary, cocoa, crafts, live music and the new winter exhibits.",
    "description": "The St. George Art Museum opens its winter exhibitions with hot chocolate, donuts, crafts and live music. Make a luminary for the courtyard and meet the incoming artists.",
    "id": "st-light-the-night"
+  },
+  {
+   "name": "Batty and Beautiful Bat Hike",
+   "category": "Outdoors & Nature",
+   "place": "Snow Canyon State Park, 1002 Snow Canyon Dr, Ivins",
+   "time": "6pm–8pm",
+   "free": false,
+   "source": "https://stateparks.utah.gov/event/batty-and-beautiful/",
+   "price": "Park entry",
+   "date": "2026-10-30",
+   "note": "Registration required: (435) 628-2255.",
+   "description": "A moderate ranger-led hike at Snow Canyon State Park to learn about the beauty of bats. Register by phone or in person at the Snow Canyon Visitor Center.",
+   "id": "st-batty-and-beautiful-bat-hike-2026-10-30"
+  },
+  {
+   "name": "Snow Canyon Trunk or Treat",
+   "category": "Family",
+   "place": "Snow Canyon State Park campground lawn",
+   "time": "5pm–6:30pm",
+   "free": false,
+   "source": "https://stateparks.utah.gov/event/trunk-or-treat-3/",
+   "price": "Park entry",
+   "date": "2026-10-31",
+   "note": "Costumes welcome; no registration.",
+   "description": "Wear your costume and bring a candy bag for trick-or-treating around the Snow Canyon campground lawn, with spooky crafts and ranger-led activities.",
+   "id": "st-snow-canyon-trunk-or-treat-2026-10-31"
+  },
+  {
+   "name": "Winged Wonders Bird Watch",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park main boat ramp, Hurricane",
+   "time": "8am–9am",
+   "free": false,
+   "source": "https://stateparks.utah.gov/event/winged-wonders-16/",
+   "price": "Park entry",
+   "rule": {
+    "dates": [
+     "2026-10-30",
+     "2026-11-11"
+    ]
+   },
+   "note": "Binoculars provided.",
+   "description": "Over 250 bird species visit the Sand Hollow reservoir each year. Bring a chair or blanket and join a park ranger near the jetty to spot them; binoculars are provided.",
+   "id": "st-winged-wonders-bird-watch"
+  },
+  {
+   "name": "Ranger-led Stargazing in Zion",
+   "category": "Outdoors & Nature",
+   "place": "South Campground Amphitheater (park at Zion Nature Center)",
+   "time": "6:30pm–7:30pm",
+   "free": false,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=86071589-965F-C3B4-481CEE150D2E5977",
+   "price": "Park entry",
+   "date": "2026-11-01",
+   "note": "Bring a red light; white lights not allowed.",
+   "description": "Tour the constellations in a laser-guided stargazing talk at Zion's South Campground Amphitheater. Dress for cool nighttime temperatures; seating is provided.",
+   "know": [
+    "Park entrance fees apply."
+   ],
+   "id": "st-ranger-led-stargazing-in-zion-2026-11-01"
+  },
+  {
+   "name": "Love Local Holiday Market",
+   "category": "Market",
+   "place": "Dixie Convention Center parking lot, 1835 S Convention Center Dr",
+   "time": "10am–3pm",
+   "free": true,
+   "source": "https://sgwom.com/events/love-local-holiday-market-2026/",
+   "date": "2026-11-07",
+   "note": "Free; Santa photos, food trucks, free bounce houses.",
+   "description": "A free Christmas-themed market with local vendors, food trucks, photo ops, giveaways and pictures with Santa. Bounce houses are free for kids.",
+   "id": "st-love-local-holiday-market-2026-11-07"
+  },
+  {
+   "name": "Campfire Chat with s'mores",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park, Hurricane",
+   "time": "7:30pm",
+   "free": false,
+   "source": "https://stateparks.utah.gov/event/campfire-chat-8/",
+   "price": "Park entry",
+   "date": "2026-11-09",
+   "note": "S'mores provided; bring chairs and cocoa.",
+   "description": "Join a park ranger for an evening around the fire at Sand Hollow. Bring chairs; s'mores are provided by Lin's in Hurricane.",
+   "id": "st-campfire-chat-with-s-mores-2026-11-09"
+  },
+  {
+   "name": "Fee-Free Day at Zion (Veterans Day)",
+   "category": "Outdoors & Nature",
+   "place": "Zion National Park",
+   "time": "All day",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/fee-free-parks.htm",
+   "date": "2026-11-11",
+   "note": "Entrance fee waived for U.S. residents.",
+   "description": "Veterans Day is a National Park Service fee-free day, so Zion's entrance fee is waived for U.S. citizens and residents. Other fees, like camping, still apply.",
+   "id": "st-fee-free-day-at-zion-veterans-day-2026-11-"
+  },
+  {
+   "name": "Art of Adventure Nature Journaling",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park",
+   "time": "10am–11am",
+   "free": false,
+   "source": "https://stateparks.utah.gov/event/art-of-adventure-8/",
+   "price": "Park entry",
+   "date": "2026-11-14",
+   "note": "Journals and drawing materials provided.",
+   "description": "A mid-morning nature journaling adventure with a park ranger, learning ways to be creative outdoors. Nature journals and drawing materials are provided.",
+   "id": "st-art-of-adventure-nature-journaling-2026-11"
+  },
+  {
+   "name": "Movie Meetup at Sand Hollow",
+   "category": "Movies & Music",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd, Hurricane",
+   "time": "7pm–8:30pm",
+   "free": false,
+   "source": "https://stateparks.utah.gov/event/movie-meetup-9/",
+   "price": "Park entry",
+   "date": "2026-11-18",
+   "note": "Outdoor movie; food vendors. Weather dependent.",
+   "description": "Sand Hollow State Park hosts an outdoor movie night; bring blankets and chairs. Food vendors will be on site, so come early for snacks.",
+   "id": "st-movie-meetup-at-sand-hollow-2026-11-18"
+  },
+  {
+   "name": "Every Kid Outdoors: Share Nature with a Friend",
+   "category": "Family",
+   "place": "Sand Hollow State Park",
+   "time": "2pm–3pm",
+   "free": false,
+   "source": "https://stateparks.utah.gov/event/eko-share-nature-with-a-friend/",
+   "price": "Park entry",
+   "date": "2026-11-21",
+   "note": "Kids earn an EKO sticker.",
+   "description": "Join a park ranger for fun in the sand as part of the Share Nature With A Friend 'Every Kid Outdoors' challenge, and walk away with an EKO sticker.",
+   "id": "st-every-kid-outdoors-share-nature-with-a-fri"
+  },
+  {
+   "name": "Full Moon Stroll",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park beach",
+   "time": "6pm–7:15pm",
+   "free": false,
+   "source": "https://stateparks.utah.gov/event/full-moon-stroll-3/",
+   "price": "Park entry",
+   "date": "2026-11-25",
+   "description": "Join a park ranger for a chat about the full moon while strolling along Sand Hollow's beach.",
+   "id": "st-full-moon-stroll-2026-11-25"
+  },
+  {
+   "name": "Holiday Lights at Red Hills Desert Garden",
+   "category": "Holiday",
+   "place": "Red Hills Desert Garden",
+   "time": "5pm–10pm nightly",
+   "free": true,
+   "source": "https://nowplayingutah.com/event/2026-holiday-lights-at-red-hills-desert-garden/",
+   "date": "2026-11-25",
+   "end": "2026-12-31",
+   "note": "Free nightly light display.",
+   "description": "A winter wonderland of thousands of lights and displays at Red Hills Desert Garden, on nightly until 10 p.m. All events are free and open to the public.",
+   "id": "st-holiday-lights-at-red-hills-desert-garden-"
+  },
+  {
+   "name": "Tabernacle: St. George Interfaith Choir",
+   "category": "Movies & Music",
+   "place": "Historic St. George Tabernacle",
+   "time": "7pm",
+   "free": true,
+   "source": "https://stgeorgechamber.com/november-2026-tabernacle-events/",
+   "date": "2026-11-04",
+   "note": "Free.",
+   "description": "The St. George Interfaith Choir, with members from more than 10 faith communities, performs with the new young-adult choir St. George Voices. All Tabernacle events are free.",
+   "id": "st-tabernacle-st-george-interfaith-choir-2026"
+  },
+  {
+   "name": "Tabernacle: Christian Erickson Jazz & Holiday",
+   "category": "Movies & Music",
+   "place": "Historic St. George Tabernacle",
+   "time": "7pm",
+   "free": true,
+   "source": "https://stgeorgechamber.com/november-2026-tabernacle-events/",
+   "date": "2026-11-13",
+   "note": "Free.",
+   "description": "Local jazz and blues singer Christian Erickson swings into the holidays with standards and a few holiday tunes. Free to the public.",
+   "id": "st-tabernacle-christian-erickson-jazz-holiday"
+  },
+  {
+   "name": "Tabernacle: Bar G Wranglers",
+   "category": "Movies & Music",
+   "place": "Historic St. George Tabernacle",
+   "time": "7pm",
+   "free": true,
+   "source": "https://stgeorgechamber.com/november-2026-tabernacle-events/",
+   "date": "2026-11-14",
+   "note": "Free western harmony show.",
+   "description": "The Bar G Wranglers, known for true western harmony and family-friendly shows, perform a free evening at the Tabernacle.",
+   "id": "st-tabernacle-bar-g-wranglers-2026-11-14"
   }
  ]
 }

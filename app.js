@@ -1,4 +1,4 @@
-const CATS=[["Market","market"],["Festival","festival"],["Art & Craft","art"],["Movies & Music","music"],["Family","family"],["Holiday","holiday"],["Shows & Expos","shows"]];
+const CATS=[["Market","market"],["Festival","festival"],["Art & Craft","art"],["Movies & Music","music"],["Family","family"],["Holiday","holiday"],["Shows & Expos","shows"],["Outdoors & Nature","outdoors"]];
 const CV=Object.fromEntries(CATS.map(([n,k])=>[n,`var(--c-${k})`]));
 const M=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],ML=["January","February","March","April","May","June","July","August","September","October","November","December"],D=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
 const $=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];
@@ -27,7 +27,7 @@ function setTab(t){st.tab=t;$$("#tabs button").forEach(b=>b.setAttribute("aria-s
 async function load(){const j=await (await fetch(`data/${st.city}.json`)).json();st.events=j.events;$("#checked").textContent=`${j.city} listings last checked ${ML[parse(j.checked).getMonth()]} ${parse(j.checked).getDate()}.`;
  if(st.auto&&st.view=="list"){setTab("today");if(!renderList())setTab("weekend")}render()}
 (async()=>{const t=today();st.month=new Date(t.getFullYear(),t.getMonth(),1);st.sel=iso(t);
- const c=await (await fetch("data/cities.json")).json();$("#city").innerHTML=c.cities.map(x=>`<option value="${x.id}">${x.name}</option>`).join("");$("#city").value=st.city;
+ const c=await (await fetch("data/cities.json")).json();const ST={NV:"Nevada",UT:"Utah",AZ:"Arizona",CA:"California"},g={};c.cities.forEach(x=>{const s=x.name.split(", ").pop();(g[s]=g[s]||[]).push(x)});$("#city").innerHTML=Object.keys(g).map(s=>`<optgroup label="${ST[s]||s}">${g[s].sort((p,q)=>p.name.localeCompare(q.name)).map(x=>`<option value="${x.id}">${x.name}</option>`).join("")}</optgroup>`).join("");if(!c.cities.some(x=>x.id==st.city))st.city="henderson";$("#city").value=st.city;
  $("#city").onchange=e=>{st.city=localStorage.hnlCity=e.target.value;load()};
  $("#chips").innerHTML=`<button class="chip" aria-pressed="true" data-cat="All">All</button>`+CATS.map(([n,k])=>`<button class="chip" aria-pressed="false" data-cat="${n}" style="--c:var(--c-${k})"><i></i>${n}</button>`).join("");
  $("#chips").onclick=e=>{const b=e.target.closest(".chip");if(!b)return;st.cat=b.dataset.cat;$$(".chip").forEach(x=>x.setAttribute("aria-pressed",x==b));render()};
@@ -50,8 +50,8 @@ const ics=d=>d.getFullYear()+String(d.getMonth()+1).padStart(2,"0")+String(d.get
 const icsEsc=s=>String(s).replace(/[\\;,]/g,m=>"\\"+m).replace(/\n/g,"\\n");
 function makeIcs(e,d){const t=times(e,d),k=iso(d).replace(/-/g,"");let dt;if(t)dt=`DTSTART;TZID=${TZ}:${ics(t[0])}\r\nDTEND;TZID=${TZ}:${ics(t[1])}`;else{const s=e.date&&e.end?e.date:iso(d),en=add(parse(e.end&&e.date?e.end:iso(d)),1);dt=`DTSTART;VALUE=DATE:${s.replace(/-/g,"")}\r\nDTEND;VALUE=DATE:${iso(en).replace(/-/g,"")}`}
  return ["BEGIN:VCALENDAR","VERSION:2.0","PRODID:-//Happening Now Local//EN","BEGIN:VEVENT",`UID:${e.id}-${k}@happeningnowlocal.github.io`,`DTSTAMP:${new Date().toISOString().replace(/[-:]/g,"").slice(0,15)}Z`,dt,`SUMMARY:${icsEsc(e.name)}`,`LOCATION:${icsEsc(e.place)}`,`DESCRIPTION:${icsEsc(e.description+"\n"+e.source)}`,`URL:${e.source}`,"END:VEVENT","END:VCALENDAR"].join("\r\n")}
-const CITY_TZ={henderson:"America/Los_Angeles","las-vegas":"America/Los_Angeles","st-george":"America/Denver","cedar-city":"America/Denver"};let TZ="America/Los_Angeles";
-const CITY_NAME={henderson:"Henderson, NV","las-vegas":"Las Vegas, NV","st-george":"St. George, UT","cedar-city":"Cedar City, UT"},PRE={he:"henderson",la:"las-vegas",st:"st-george",ce:"cedar-city"};
+const CITY_TZ={henderson:"America/Los_Angeles","las-vegas":"America/Los_Angeles","boulder-city":"America/Los_Angeles","st-george":"America/Denver","cedar-city":"America/Denver","salt-lake-city":"America/Denver",phoenix:"America/Phoenix","san-diego":"America/Los_Angeles","los-angeles":"America/Los_Angeles"};let TZ="America/Los_Angeles";
+const CITY_NAME={henderson:"Henderson, NV","las-vegas":"Las Vegas, NV","boulder-city":"Boulder City, NV","st-george":"St. George, UT","cedar-city":"Cedar City, UT","salt-lake-city":"Salt Lake City, UT",phoenix:"Phoenix, AZ","san-diego":"San Diego, CA","los-angeles":"Los Angeles, CA"},PRE={he:"henderson",la:"las-vegas",st:"st-george",ce:"cedar-city",bc:"boulder-city",ph:"phoenix",sl:"salt-lake-city",sd:"san-diego",lac:"los-angeles"};
 let lastFocus=null,cur=null;
 function openEv(id,dk,push=true){const e=st.events.find(x=>x.id==id);if(!e)return;let d=dk?parse(dk):null;if(!d||!on(e,d)){const t=today();d=null;for(let i=0;i<120&&!d;i++){const x=add(t,i);if(on(e,x))d=x}d=d||parse(e.date||iso(today()))}
  cur={e,d};TZ=CITY_TZ[st.city];const q=encodeURIComponent(e.place+", "+CITY_NAME[st.city]);const pr=e.free?'<span class="price free">Free</span>':`<span class="price">${esc(e.price||"Paid")}</span>`;
@@ -67,7 +67,7 @@ function closeEv(fromPop){const dl=$("#sheet");if(!dl.open)return;dl.classList.a
 document.addEventListener("click",e=>{const c=e.target.closest(".card");if(c&&!e.target.closest("a"))openEv(c.dataset.id,c.dataset.d)});
 document.addEventListener("keydown",e=>{const c=e.target.closest&&e.target.closest(".card");if(c&&(e.key=="Enter"||e.key==" ")){e.preventDefault();openEv(c.dataset.id,c.dataset.d)}});
 window.addEventListener("popstate",()=>{if(!location.hash.startsWith("#event="))closeEv(true);else route(false)});
-async function route(push){const m=/#event=([^&]+)(?:&d=([\d-]+))?/.exec(location.hash);if(!m)return;const c=PRE[m[1].slice(0,2)];if(c&&c!=st.city){st.city=c;$("#city").value=c;await load()}openEv(m[1],m[2],push)}
+async function route(push){const m=/#event=([^&]+)(?:&d=([\d-]+))?/.exec(location.hash);if(!m)return;const c=PRE[m[1].split("-")[0]];if(c&&c!=st.city){st.city=c;$("#city").value=c;await load()}openEv(m[1],m[2],push)}
 document.addEventListener("DOMContentLoaded",()=>{});
 (function(){const dl=document.createElement("dialog");dl.id="sheet";dl.setAttribute("aria-labelledby","sh-title");document.body.appendChild(dl);
  dl.addEventListener("cancel",e=>{e.preventDefault();closeEv()});dl.addEventListener("click",e=>{if(e.target==dl||e.target.closest("[data-close]"))closeEv();

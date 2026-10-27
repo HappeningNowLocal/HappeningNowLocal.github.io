@@ -1,0 +1,203 @@
+{
+ "city": "Los Angeles, CA",
+ "checked": "2026-10-27",
+ "events": [
+  {
+   "name": "Autry Pow Wow",
+   "category": "Festival",
+   "place": "Autry Museum, Griffith Park",
+   "time": "10am–8pm",
+   "free": true,
+   "source": "http://theautry.org/events/family-activities/sacred-path-x-autry-pow-wow-2026",
+   "date": "2026-11-07",
+   "note": "Grand Entry 1pm. Free.",
+   "description": "A full-day celebration of Native culture with traditional powwow dancing and songs, Indian tacos and fry bread, and vendors selling Native arts and crafts. Free and open to the public.",
+   "id": "lac-autry-pow-wow-2026-11-07"
+  },
+  {
+   "name": "Griffith Observatory Public Star Party",
+   "category": "Outdoors & Nature",
+   "place": "Griffith Observatory lawn",
+   "time": "2pm–9:45pm",
+   "free": true,
+   "source": "https://griffithobservatory.lacity.gov/event/public-star-party-november-14-2026/",
+   "rule": {
+    "dates": [
+     "2026-11-14",
+     "2026-12-19"
+    ]
+   },
+   "note": "Free, dozens of telescopes.",
+   "description": "Volunteers from the LA Astronomical Society, LA Sidewalk Astronomers and The Planetary Society set up dozens of telescopes to view the Sun, Moon and planets. Lines close so all viewing ends by 9:45 p.m.",
+   "id": "lac-griffith-observatory-public-star-party"
+  },
+  {
+   "name": "Griffith Park Sunset Walk & Talk",
+   "category": "Outdoors & Nature",
+   "place": "Greek Theatre Parking Lot F/G, 2700 N Vermont Ave",
+   "time": "3:30pm–6pm",
+   "free": true,
+   "source": "https://griffithobservatory.lacity.gov/event/sunset-walk-talk-november-2026/",
+   "date": "2026-11-14",
+   "note": "2.25 mi, 375 ft gain, moderate.",
+   "description": "Observatory staff, urban ecologists and Griffith Park Rangers lead a sunset hike up the Boy Scout Trail to the Berlin Forest. Stops cover park history and objects visible in the evening sky.",
+   "id": "lac-griffith-park-sunset-walk-talk-2026-11-14"
+  },
+  {
+   "name": "Neighborhood Sing (LAPL)",
+   "category": "Movies & Music",
+   "place": "North Hollywood Library, 5211 Tujunga Ave",
+   "time": "2pm",
+   "free": true,
+   "source": "https://www.lapl.org/events/urban-voices-neighborhood-sing-0",
+   "rule": {
+    "dow": [
+     2
+    ],
+    "from": "2026-11-10",
+    "until": "2026-12-15"
+   },
+   "note": "Weekly free drop-in.",
+   "description": "A free weekly drop-in community music workshop with participatory singing and mindfulness activities, led by local teaching artists.",
+   "id": "lac-neighborhood-sing-lapl"
+  },
+  {
+   "name": "Citadel Outlets Tree Lighting Concert",
+   "category": "Holiday",
+   "place": "Citadel Outlets, 100 Citadel Dr, Commerce",
+   "time": "5pm",
+   "free": true,
+   "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
+   "date": "2026-11-07",
+   "description": "Santa lights what the Citadel bills as the world's tallest live-cut Christmas tree at the free 25th annual Tree Lighting Concert.",
+   "id": "lac-citadel-outlets-tree-lighting-concert-2026"
+  },
+  {
+   "name": "Sparkle DTLA Light Show",
+   "category": "Holiday",
+   "place": "The Bloc, 700 S Flower St",
+   "time": "Shows 5–9pm hourly",
+   "free": true,
+   "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
+   "date": "2026-11-14",
+   "end": "2026-12-31",
+   "note": "Grand Debut Nov 14 (RSVP).",
+   "description": "Millions of lights dance to holiday music in a free nightly show at The Bloc. All ages (and dogs) welcome.",
+   "id": "lac-sparkle-dtla-light-show-2026-11-14"
+  },
+  {
+   "name": "Hollywood Christmas Parade",
+   "category": "Holiday",
+   "place": "Hollywood Blvd starting at Orange Dr",
+   "time": "Evening (time TBA)",
+   "free": true,
+   "source": "https://thehollywoodchristmasparade.org/",
+   "date": "2026-11-29",
+   "note": "Curbside viewing free; grandstands paid.",
+   "description": "The 94th Hollywood Christmas Parade brings floats, marching bands, performances and Santa down Hollywood Boulevard. Toys for Tots is the official charity.",
+   "id": "lac-hollywood-christmas-parade-2026-11-29"
+  },
+  {
+   "name": "Belmont Shore Christmas Parade",
+   "category": "Holiday",
+   "place": "E 2nd St, Belmont Shore, Long Beach",
+   "time": "6pm–9pm",
+   "free": true,
+   "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
+   "date": "2026-12-05",
+   "description": "About 100 entries and more than a dozen marching bands fill 2nd Street for the 42nd annual parade, themed 'Light up the Night!'",
+   "id": "lac-belmont-shore-christmas-parade-2026-12-05"
+  },
+  {
+   "name": "Montrose Christmas Parade",
+   "category": "Holiday",
+   "place": "Honolulu Ave, Montrose",
+   "time": "6:10pm",
+   "free": true,
+   "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
+   "date": "2026-12-05",
+   "description": "More than 150 groups march down Honolulu Avenue, and Santa flies by in a Glendale Police helicopter.",
+   "id": "lac-montrose-christmas-parade-2026-12-05"
+  },
+  {
+   "name": "Christmas Tree Lane Lighting",
+   "category": "Holiday",
+   "place": "Santa Rosa Ave & Mariposa St, Altadena",
+   "time": "6pm",
+   "free": true,
+   "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
+   "date": "2026-12-05",
+   "description": "A mile of century-old deodar cedars, lit for more than 100 years, comes alive at the annual lighting ceremony. The trees survived the 2025 Eaton Fire.",
+   "id": "lac-christmas-tree-lane-lighting-2026-12-05"
+  },
+  {
+   "name": "San Pedro Spirit of the Holidays Parade",
+   "category": "Holiday",
+   "place": "13th St & Pacific Ave, San Pedro",
+   "time": "1pm–3pm",
+   "free": true,
+   "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
+   "date": "2026-12-06",
+   "description": "The 46th annual hometown parade with little leagues, scouts, high school bands and equestrian units.",
+   "id": "lac-san-pedro-spirit-of-the-holidays-parade-20"
+  },
+  {
+   "name": "Chanukah Celebration at the Original Farmers Market",
+   "category": "Holiday",
+   "place": "Original Farmers Market, 6333 W 3rd St",
+   "time": "2:30pm–5:30pm",
+   "free": true,
+   "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
+   "date": "2026-12-06",
+   "note": "Menorah lighting 5pm.",
+   "description": "Music, kids' crafts and a menorah lighting for the third night of Hanukkah at the Original Farmers Market.",
+   "id": "lac-chanukah-celebration-at-the-original-farme"
+  },
+  {
+   "name": "Marina del Rey Holiday Boat Parade",
+   "category": "Holiday",
+   "place": "Burton Chace Park, 13650 Mindanao Way",
+   "time": "4pm–8pm (parade 6pm)",
+   "free": true,
+   "source": "https://beaches.lacounty.gov/holidayboatparade/",
+   "date": "2026-12-12",
+   "note": "Rain or shine.",
+   "description": "The 64th annual parade of decorated boats, with carolers, food trucks, a photo booth and kids' art corner in Burton Chace Park and a light show at 5:45 p.m.",
+   "id": "lac-marina-del-rey-holiday-boat-parade-2026-12"
+  },
+  {
+   "name": "Redondo Beach Pier Holiday Celebration",
+   "category": "Holiday",
+   "place": "Fisherman's Wharf, Redondo Beach Pier",
+   "time": "1pm–4pm",
+   "free": true,
+   "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
+   "date": "2026-12-12",
+   "description": "A free afternoon with a holiday concert, carolers, crafts, a photo station and a Candy Cane Lane treat hunt.",
+   "id": "lac-redondo-beach-pier-holiday-celebration-202"
+  },
+  {
+   "name": "Manhattan Beach Holiday Fireworks",
+   "category": "Holiday",
+   "place": "Manhattan Beach Pier",
+   "time": "3pm–8pm (fireworks 7pm)",
+   "free": true,
+   "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
+   "date": "2026-12-13",
+   "description": "The 38th annual celebration with carolers, local bands, Santa's float, a Snow Park and fireworks over the pier.",
+   "id": "lac-manhattan-beach-holiday-fireworks-2026-12-"
+  },
+  {
+   "name": "L.A. County Holiday Celebration",
+   "category": "Movies & Music",
+   "place": "Dorothy Chandler Pavilion, The Music Center",
+   "time": "11am & 3pm",
+   "free": true,
+   "source": "https://pressroom.musiccenter.org/news-releases/the-67th-annual-l-a-county-holiday-celebration-returns-to-the-music-centers-dorothy-chandler-pavilion-on-a-new-date-and-time-plus-a-christmas-eve-broadcast-on-pbs-socal",
+   "date": "2026-12-20",
+   "note": "Free tickets available starting Dec 8.",
+   "description": "Southern California's largest free holiday show features folklórico, gospel, mariachi, klezmer, Filipino and Indian dance ensembles. For the first time there are two 90-minute shows.",
+   "id": "lac-l-a-county-holiday-celebration-2026-12-20"
+  }
+ ]
+}

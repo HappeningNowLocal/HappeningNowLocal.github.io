@@ -1,0 +1,181 @@
+{
+ "city": "Phoenix, AZ",
+ "checked": "2026-10-27",
+ "events": [
+  {
+   "name": "First Friday Art Walk",
+   "category": "Art & Craft",
+   "place": "Downtown Phoenix (Tap That Downtown, 909 N 5th St)",
+   "time": "5pm",
+   "free": true,
+   "source": "https://dtphx.org/do/first-friday-1",
+   "rule": {
+    "dates": [
+     "2026-11-06",
+     "2026-12-04"
+    ]
+   },
+   "note": "No cover.",
+   "description": "A neighborhood celebration with art, street vendors, live music, entertainment, food and craft beer. No cover.",
+   "id": "ph-first-friday-art-walk"
+  },
+  {
+   "name": "Pickers Playground Vintage Market",
+   "category": "Market",
+   "place": "Arizona Center, 455 N 3rd St",
+   "time": "12pm–6pm",
+   "free": true,
+   "source": "https://dtphx.org/do/pickers-playground",
+   "rule": {
+    "dates": [
+     "2026-11-15",
+     "2026-12-20"
+    ]
+   },
+   "note": "Third Sundays. Free admission.",
+   "description": "Third-Sunday vintage shopping on a downtown plaza with 30 local vendors selling retro fashion, craft and art. Free admission.",
+   "id": "ph-pickers-playground-vintage-market"
+  },
+  {
+   "name": "Kermés PHX",
+   "category": "Festival",
+   "place": "Arizona Center, 455 N 3rd St",
+   "time": "5pm–9pm",
+   "free": true,
+   "source": "https://dtphx.org/do/kermes-phx",
+   "rule": {
+    "dates": [
+     "2026-11-22",
+     "2026-12-20"
+    ]
+   },
+   "note": "Free admission.",
+   "description": "Chinelos Unidos de Phoenix hosts Kermés PHX with vendors, food, drinks and dancing at Arizona Center. Free admission.",
+   "id": "ph-kerm-s-phx"
+  },
+  {
+   "name": "Portal Fest",
+   "category": "Festival",
+   "place": "S'edav Va'aki Museum, 4619 E Washington St",
+   "time": "10am–2pm",
+   "free": true,
+   "source": "https://www.phoenix.gov/calendar/sedav-vaaki-events/8th-annual-portal-fest.html",
+   "date": "2026-11-21",
+   "note": "Free museum admission all day.",
+   "description": "The 8th annual free family festival connects the community to the Ancient Sonoran Desert People and the traditions of O'odham and Piipaash artists. Activities and performances for all ages, with free museum admission all day.",
+   "id": "ph-portal-fest-2026-11-21"
+  },
+  {
+   "name": "Faire @ The Square",
+   "category": "Art & Craft",
+   "place": "The Square PHX, 113 N Sixth St",
+   "time": "10am–2pm",
+   "free": true,
+   "source": "https://thesquarephx.org/event/faire-the-square-11-21-26/",
+   "date": "2026-11-21",
+   "note": "Free; Rosson House tours $10.",
+   "description": "A free family festival and winter artisan market with local vendors, crafts and lawn games, food, and demonstrations like guided sketching and a build-your-own bouquet bar. Rosson House Museum tours are $10.",
+   "id": "ph-faire-the-square-2026-11-21"
+  },
+  {
+   "name": "PJs in the Park",
+   "category": "Movies & Music",
+   "place": "Patriots Square at CityScape, 11 W. Washington St",
+   "time": "6pm–9pm",
+   "free": true,
+   "source": "https://dtphx.org/events/pjs",
+   "date": "2026-11-28",
+   "note": "Free 'Polar Express' screening and Santa photos.",
+   "description": "Wear your coziest pajamas for a free outdoor screening of 'Shrek the Halls' and 'The Polar Express,' plus a free photo with Santa at 6 p.m. Hot cocoa and snacks are for sale.",
+   "id": "ph-pjs-in-the-park-2026-11-28"
+  },
+  {
+   "name": "APS Electric Light Parade",
+   "category": "Holiday",
+   "place": "Starts Central Ave. & Montebello Ave.",
+   "time": "7pm",
+   "free": true,
+   "source": "https://www.phoenix.gov/administration/departments/parks/classes-programs/featured-events/aps-electric-light-parade.html",
+   "date": "2026-12-05",
+   "note": "Free; arrive early for curb spots.",
+   "description": "The City of Phoenix's 39th annual light parade, where families, neighborhood groups and businesses celebrate the season. The route runs from Central and Montebello to 7th St. and Indian School Rd.",
+   "know": [
+    "Roads close 5–11pm.",
+    "Coolers OK; no alcohol or glass."
+   ],
+   "id": "ph-aps-electric-light-parade-2026-12-05"
+  },
+  {
+   "name": "Tempe Festival of the Arts",
+   "category": "Art & Craft",
+   "place": "Mill Avenue, Downtown Tempe",
+   "time": "Fri–Sat 10am–5pm, Sun 10am–4pm",
+   "free": true,
+   "source": "https://tempefestivalofthearts.com/",
+   "date": "2026-12-04",
+   "end": "2026-12-06",
+   "note": "Free admission; dog friendly.",
+   "description": "One of the oldest festivals in the Southwest, with 350+ artists from around the country, local music, a Kids Block and food on historic Mill Avenue. Free admission.",
+   "id": "ph-tempe-festival-of-the-arts-2026-12-04"
+  },
+  {
+   "name": "Glendale Glitters",
+   "category": "Holiday",
+   "place": "Murphy Park, Historic Downtown Glendale",
+   "time": "Evenings",
+   "free": true,
+   "source": "https://www.visitarizona.com/events/33rd-annual-glendale-glitters",
+   "date": "2026-11-27",
+   "end": "2027-01-01",
+   "note": "Free holiday light display.",
+   "description": "The 33rd annual display of holiday lights with interactive features, vendors, carolers and visits with Santa in downtown Glendale. The lights stay up through January 1.",
+   "id": "ph-glendale-glitters-2026-11-27"
+  },
+  {
+   "name": "Crossroads of the West Gun Show",
+   "category": "Shows & Expos",
+   "place": "Arizona State Fairgrounds, 1826 W. McDowell Rd",
+   "time": "Fri 11–5, Sat 9–5, Sun 9–4",
+   "free": false,
+   "source": "https://www.crossroadsgunshows.com/venue/arizona-state-fairgrounds/",
+   "price": "See source",
+   "date": "2026-12-04",
+   "end": "2026-12-06",
+   "note": "Kids 12 and under free with a parent.",
+   "description": "A three-day Crossroads of the West gun show at the Arizona State Fairgrounds. One ticket is valid all three days, and kids 12 and under get in free with a parent or guardian.",
+   "id": "ph-crossroads-of-the-west-gun-show-2026-12-04"
+  },
+  {
+   "name": "Lost Dutchman Wildlife Guided Hike",
+   "category": "Outdoors & Nature",
+   "place": "Lost Dutchman State Park, 6109 N. Apache Trail, Apache Junction",
+   "time": "10am",
+   "free": false,
+   "source": "https://azstateparks.com/lost-dutchman/events",
+   "price": "$10–$20/vehicle",
+   "rule": {
+    "dates": [
+     "2026-11-20",
+     "2026-12-04",
+     "2026-12-18"
+    ]
+   },
+   "note": "Outdoors250 event with park volunteers.",
+   "description": "Learn about the diverse wildlife of the Sonoran Desert on a guided hike with Arizona State Park volunteers at Lost Dutchman, beneath the Superstition Mountains.",
+   "id": "ph-lost-dutchman-wildlife-guided-hike"
+  },
+  {
+   "name": "Lost Dutchman Star Party",
+   "category": "Outdoors & Nature",
+   "place": "Lost Dutchman State Park, Apache Junction",
+   "time": "See source",
+   "free": false,
+   "source": "https://azstateparks.com/lost-dutchman/events",
+   "price": "See source",
+   "date": "2026-11-14",
+   "note": "Monthly Oct–Mar; registration required.",
+   "description": "Head to Lost Dutchman State Park for a monthly star party to learn about the stars and planets. Registration is required; check the park's event page for the time.",
+   "id": "ph-lost-dutchman-star-party-2026-11-14"
+  }
+ ]
+}

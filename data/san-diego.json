@@ -1,0 +1,202 @@
+{
+ "city": "San Diego, CA",
+ "checked": "2026-10-27",
+ "events": [
+  {
+   "name": "Balboa Park December Nights",
+   "category": "Holiday",
+   "place": "Balboa Park",
+   "time": "Fri 4pm–10pm, Sat 12pm–10pm",
+   "free": true,
+   "source": "https://www.sandiego.gov/december-nights",
+   "date": "2026-12-04",
+   "end": "2026-12-05",
+   "note": "The city's largest free holiday festival.",
+   "description": "The City of San Diego's largest free holiday festival fills Balboa Park with lights, live entertainment on public stages and food from around the world. It draws more than 350,000 people over two days.",
+   "id": "sd-balboa-park-december-nights-2026-12-04"
+  },
+  {
+   "name": "La Jolla Christmas Parade & Holiday Festival",
+   "category": "Holiday",
+   "place": "Parade starts Kline & Girard; festival at La Jolla Rec Center",
+   "time": "1pm–5pm",
+   "free": true,
+   "source": "https://www.ljparade.com/",
+   "date": "2026-12-06",
+   "note": "70th annual; free.",
+   "description": "The 70th annual La Jolla Christmas Parade kicks off at 1 p.m., followed by a holiday festival at the La Jolla Rec Center with Santa visits and a Christmas market. Sponsors help keep it a free community tradition.",
+   "id": "sd-la-jolla-christmas-parade-holiday-festival"
+  },
+  {
+   "name": "San Diego Bay Parade of Lights",
+   "category": "Holiday",
+   "place": "San Diego Bay bayfront",
+   "time": "5:30pm",
+   "free": true,
+   "source": "https://sdparadeoflights.org/",
+   "rule": {
+    "dates": [
+     "2026-12-13",
+     "2026-12-20"
+    ]
+   },
+   "note": "Free to watch; arrive early.",
+   "description": "About 80 decorated boats parade along the San Diego bayfront and turn toward Coronado on two December evenings. There is no cost to view.",
+   "id": "sd-san-diego-bay-parade-of-lights"
+  },
+  {
+   "name": "Cabrillo Open Military Bunker",
+   "category": "Outdoors & Nature",
+   "place": "Cabrillo National Monument, Point Loma",
+   "time": "10am–2:30pm",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=5EE680E2-B82A-15B8-9DE2E9FD64556B04",
+   "rule": {
+    "dow": [
+     6
+    ],
+    "from": "2026-10-31",
+    "until": "2026-12-19"
+   },
+   "note": "Saturdays, conditions permitting. Park entry fee applies.",
+   "description": "Volunteers bring Point Loma's WWII coastal defenses to life on the only days visitors can tour the bunkers. See the weapons and instruments that protected the coast; closed in inclement weather.",
+   "id": "sd-cabrillo-open-military-bunker"
+  },
+  {
+   "name": "Old Point Loma Lighthouse Open Tower Day",
+   "category": "Outdoors & Nature",
+   "place": "Cabrillo National Monument",
+   "time": "10am–3:30pm",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=274452D9-984F-D3DE-FD11B747EDEBD9D3",
+   "date": "2026-11-15",
+   "note": "Half-hour guided tours; same-day tickets, first come.",
+   "description": "Climb to the top of the Old Point Loma Lighthouse on a half-hour guided tour marking the anniversary of its first lighting. These tours are the only way to reach the top of the tower.",
+   "id": "sd-old-point-loma-lighthouse-open-tower-day-2"
+  },
+  {
+   "name": "Guided Bird Watching at Cabrillo",
+   "category": "Outdoors & Nature",
+   "place": "Cabrillo NM tidepool parking lot one",
+   "time": "9:30am–10:30am",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=F4C1ABE5-FD43-B1FF-BBBF81F3B564AC84",
+   "rule": {
+    "dates": [
+     "2026-11-06",
+     "2026-12-04"
+    ]
+   },
+   "note": "1-mile walk; all levels.",
+   "description": "Join park staff for a one-mile birding hike on the coastal trail at Cabrillo, a Pacific Flyway hotspot. All ages and experience levels are welcome.",
+   "id": "sd-guided-bird-watching-at-cabrillo"
+  },
+  {
+   "name": "The Story of Cabrillo Ranger Walk",
+   "category": "Outdoors & Nature",
+   "place": "Cabrillo National Monument",
+   "time": "10am–10:30am",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=56419A0C-ED2D-10E6-1E1A50193C4BA9C5",
+   "rule": {
+    "dow": [
+     5
+    ],
+    "from": "2026-10-30",
+    "until": "2026-12-18"
+   },
+   "note": "Fridays.",
+   "description": "A 30-minute ranger walk introducing Juan Rodríguez Cabrillo's 1542 expedition, the Old Point Loma Lighthouse and how the monument grew.",
+   "id": "sd-the-story-of-cabrillo-ranger-walk"
+  },
+  {
+   "name": "Encinitas Holiday Street Fair",
+   "category": "Festival",
+   "place": "Downtown Encinitas",
+   "time": "See source",
+   "free": true,
+   "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
+   "date": "2026-11-22",
+   "description": "A holiday tradition since 1989 with children's rides, two stages of live entertainment, and food and drink.",
+   "id": "sd-encinitas-holiday-street-fair-2026-11-22"
+  },
+  {
+   "name": "Liberty Station Tree Lighting",
+   "category": "Holiday",
+   "place": "Liberty Station North Promenade",
+   "time": "5pm–9pm",
+   "free": true,
+   "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
+   "date": "2026-11-27",
+   "description": "Liberty Station's Salute the Season main event, a tree lighting and holiday festivities in the North Promenade.",
+   "id": "sd-liberty-station-tree-lighting-2026-11-27"
+  },
+  {
+   "name": "Julian Country Christmas & Tree Lighting",
+   "category": "Holiday",
+   "place": "Pioneer Park, Julian",
+   "time": "See source",
+   "free": true,
+   "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
+   "date": "2026-11-28",
+   "note": "Mountain town about an hour from San Diego.",
+   "description": "Julian kicks off the season by lighting the town's huge living Christmas tree at Pioneer Park, with visits with Santa.",
+   "id": "sd-julian-country-christmas-tree-lighting-202"
+  },
+  {
+   "name": "Surfin' Santa Arrival",
+   "category": "Holiday",
+   "place": "Seaport Village",
+   "time": "See source",
+   "free": true,
+   "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
+   "date": "2026-11-28",
+   "description": "Santa arrives at Seaport Village with a parade along the boardwalk, live music, street performers and photo ops.",
+   "id": "sd-surfin-santa-arrival-2026-11-28"
+  },
+  {
+   "name": "Coronado Holiday Parade",
+   "category": "Holiday",
+   "place": "Ferry Landing to Hotel del Coronado",
+   "time": "See source",
+   "free": true,
+   "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
+   "date": "2026-12-04",
+   "description": "Live music, business open houses, singalongs, a parade down Orange Avenue and a grand tree lighting at Rotary Park.",
+   "id": "sd-coronado-holiday-parade-2026-12-04"
+  },
+  {
+   "name": "Liberty Station Menorah Lighting",
+   "category": "Holiday",
+   "place": "Liberty Station Central Promenade",
+   "time": "See source",
+   "free": true,
+   "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
+   "date": "2026-12-04",
+   "description": "A public menorah lighting for the first night of Hanukkah, with the Chabads of Downtown San Diego and Pacific Beach.",
+   "id": "sd-liberty-station-menorah-lighting-2026-12-0"
+  },
+  {
+   "name": "Starlight Parade & Festival",
+   "category": "Holiday",
+   "place": "Downtown Chula Vista (Third Ave)",
+   "time": "See source",
+   "free": true,
+   "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
+   "date": "2026-12-05",
+   "description": "Ride Santa's Holiday Train through downtown Chula Vista, shop a holiday market, enjoy live music in Memorial Park and get a free family photo with Santa.",
+   "id": "sd-starlight-parade-festival-2026-12-05"
+  },
+  {
+   "name": "Little Italy Tree Lighting",
+   "category": "Holiday",
+   "place": "Little Italy",
+   "time": "See source",
+   "free": true,
+   "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
+   "date": "2026-12-05",
+   "description": "Little Italy lights its 25-foot tower of 1,100 poinsettias, with festive decorations and live music.",
+   "id": "sd-little-italy-tree-lighting-2026-12-05"
+  }
+ ]
+}
