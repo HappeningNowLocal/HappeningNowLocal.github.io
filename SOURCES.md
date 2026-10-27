@@ -148,3 +148,8 @@ Candidate official sources: Colorado Parks & Wildlife (https://cpw.state.co.us/e
 | Kingman Downtown Merchants Association | https://www.kingmandowntownmerchantsassociation.com/ | Street of Lights, Mingle Jingle | Search-only |
 | Kingman Area Chamber | https://www.kingmanchamber.com/ | First Fridays, Cookie Crawl | Search-only |
 | Hualapai Mountain Park (Mohave County) | https://runsignup.com/Race/AZ/Kingman/HMPGobblewobble | Park races; check county parks for ranger hikes | Search-only |
+
+## Tagging convention / trade shows (`convention` and `industry` fields)
+Every event held in a convention center or expo hall (Las Vegas Convention Center, Dixie Convention Center, World Market Center, Mandalay Bay / Venetian expo halls, Phoenix Convention Center, LA / San Diego / Salt Palace convention centers, etc.) must have `"convention": true`. This includes gun shows, craft fairs or home shows *when* held in a convention hall; do not tag them when held at fairgrounds, parks, speedways or hotels' regular ballrooms. Outdoor events in a convention center parking lot are not tagged.
+Add `"industry": true` as well when the show is closed to the public (trade/registration only, e.g. CES, SEMA trade days). Industry-only shows never appear in the main list; they show only on the calendar.
+The site hides `convention` events by default; visitors opt in with the "Show convention shows" switch.

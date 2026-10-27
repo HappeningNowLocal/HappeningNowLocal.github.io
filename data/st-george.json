@@ -102,7 +102,8 @@
     "Adults $12; seniors 65+ and kids 5–12 $10; 4 and under free.",
     "Tickets online or onsite; 4-day passes $20 onsite."
    ],
-   "id": "st-dickens-christmas-festival"
+   "id": "st-dickens-christmas-festival",
+   "convention": true
   },
   {
    "name": "North Pole Express",

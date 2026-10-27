@@ -280,7 +280,9 @@
     "Industry only: you must meet SEMA's qualifying guidelines and register.",
     "The public can attend only on Friday, Nov 6."
    ],
-   "id": "la-sema-show-industry-only"
+   "id": "la-sema-show-industry-only",
+   "convention": true,
+   "industry": true
   },
   {
    "name": "SEMA Show Friday – Open to the Public",
@@ -299,7 +301,8 @@
     "Pick up your own ticket 7:30am–2pm with photo ID at South or West Hall.",
     "Does not include the SEMA Fest concert."
    ],
-   "id": "la-sema-show-friday-open-to-the-public"
+   "id": "la-sema-show-friday-open-to-the-public",
+   "convention": true
   },
   {
    "name": "Holiday Craft & Gift Festival",
@@ -317,7 +320,8 @@
     "Free parking.",
     "Hug-A-Bear Drive: bring a new 10\"+ stuffed animal for kids in need."
    ],
-   "id": "la-holiday-craft-gift-festival"
+   "id": "la-holiday-craft-gift-festival",
+   "convention": true
   },
   {
    "name": "Fabulous Home & Garden Expo",
@@ -562,7 +566,8 @@
     "LVCC South Halls, levels 1 & 2."
    ],
    "id": "la-cowboy-christmas",
-   "end": "2026-12-12"
+   "end": "2026-12-12",
+   "convention": true
   },
   {
    "name": "RMEF Hunter & Outdoor Christmas Expo",
@@ -579,7 +584,8 @@
     "Upstairs in the South Halls; bags may be searched."
    ],
    "id": "la-rmef-hunter-outdoor-christmas-expo",
-   "end": "2026-12-12"
+   "end": "2026-12-12",
+   "convention": true
   },
   {
    "name": "CES 2027",
@@ -597,7 +603,9 @@
    ],
    "id": "la-ces-2027",
    "end": "2027-01-09",
-   "price": "Industry only · registration required"
+   "price": "Industry only · registration required",
+   "convention": true,
+   "industry": true
   },
   {
    "name": "MJBizCon 2026",
@@ -614,7 +622,9 @@
    ],
    "id": "la-mjbizcon-2026",
    "end": "2026-12-04",
-   "price": "Industry only · registration required"
+   "price": "Industry only · registration required",
+   "convention": true,
+   "industry": true
   },
   {
    "name": "LDI Show 2026",
@@ -631,7 +641,9 @@
    ],
    "id": "la-ldi-2026",
    "end": "2026-12-08",
-   "price": "Industry only · registration required"
+   "price": "Industry only · registration required",
+   "convention": true,
+   "industry": true
   },
   {
    "name": "World of Concrete 2027",
@@ -648,7 +660,9 @@
    ],
    "id": "la-world-of-concrete-2027",
    "end": "2027-01-21",
-   "price": "Industry only · registration required"
+   "price": "Industry only · registration required",
+   "convention": true,
+   "industry": true
   },
   {
    "name": "KBIS 2027 (Kitchen & Bath Industry Show)",
@@ -665,7 +679,9 @@
    ],
    "id": "la-kbis-2027",
    "end": "2027-02-04",
-   "price": "Industry only · registration required"
+   "price": "Industry only · registration required",
+   "convention": true,
+   "industry": true
   },
   {
    "name": "NAHB International Builders' Show 2027",
@@ -682,7 +698,9 @@
    ],
    "id": "la-ibs-2027",
    "end": "2027-02-04",
-   "price": "Industry only · registration required"
+   "price": "Industry only · registration required",
+   "convention": true,
+   "industry": true
   },
   {
    "name": "International Roofing Expo 2027",
@@ -700,7 +718,9 @@
    ],
    "id": "la-international-roofing-expo-2027",
    "end": "2027-02-18",
-   "price": "Industry only · registration required"
+   "price": "Industry only · registration required",
+   "convention": true,
+   "industry": true
   },
   {
    "name": "TPE 2027 (Total Product Expo)",
@@ -717,7 +737,9 @@
    ],
    "id": "la-tpe-2027",
    "end": "2027-02-26",
-   "price": "Industry only · registration required"
+   "price": "Industry only · registration required",
+   "convention": true,
+   "industry": true
   },
   {
    "name": "Wedding MBA 2026",
@@ -735,7 +757,9 @@
    ],
    "id": "la-wedding-mba-2026",
    "end": "2026-11-19",
-   "price": "Wedding pros · tickets ~$259–$459"
+   "price": "Wedding pros · tickets ~$259–$459",
+   "convention": true,
+   "industry": true
   },
   {
    "name": "RE+ 2026",
@@ -752,7 +776,9 @@
    ],
    "id": "la-re-plus-2026",
    "end": "2026-11-19",
-   "price": "Industry only · registration required"
+   "price": "Industry only · registration required",
+   "convention": true,
+   "industry": true
   }
  ]
 }
