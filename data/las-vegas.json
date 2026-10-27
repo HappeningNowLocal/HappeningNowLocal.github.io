@@ -546,6 +546,213 @@
    "note": "Free family event (formerly Helldorado Days).",
    "description": "An annual cowboy-themed event celebrating Las Vegas' Wild West past, with bull riding, barrel racing, roping and bronc riding. Listed as free for the whole family.",
    "id": "la-las-vegas-days-rodeo-2026-11-13"
+  },
+  {
+   "name": "NFR Cowboy Christmas Gift Show",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center South Halls, 3150 Paradise Rd",
+   "time": "9am–4pm",
+   "free": true,
+   "source": "https://www.nfrexperience.com/cowboychristmas/",
+   "date": "2026-12-03",
+   "note": "OPEN TO THE PUBLIC · free admission. 375+ western vendors.",
+   "description": "The official gift show of the Wrangler National Finals Rodeo and a Las Vegas tradition since 1986. More than 375 exhibitors fill 500,000+ sq ft with custom jewelry, western wear, boots, furniture, original art and handmade crafts. Open to the public with free admission; no NFR ticket needed.",
+   "know": [
+    "Open to the public, free admission.",
+    "LVCC South Halls, levels 1 & 2."
+   ],
+   "id": "la-cowboy-christmas",
+   "end": "2026-12-12"
+  },
+  {
+   "name": "RMEF Hunter & Outdoor Christmas Expo",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center South Halls (Upper Level), 3150 Paradise Rd",
+   "time": "9am–4pm",
+   "free": true,
+   "source": "https://rmef.org/events/hunter-outdoor-christmas/",
+   "date": "2026-12-03",
+   "note": "OPEN TO THE PUBLIC · free admission. 200+ hunting & outdoor exhibitors.",
+   "description": "The Rocky Mountain Elk Foundation's expo runs alongside Cowboy Christmas during NFR. 200+ exhibitors show hunting and outdoor gear, firearms, optics, outfitters, apparel and western décor, plus the Ariat Rodeo Live Stage. Admission is free and open to the public.",
+   "know": [
+    "Open to the public, free admission.",
+    "Upstairs in the South Halls; bags may be searched."
+   ],
+   "id": "la-rmef-hunter-outdoor-christmas-expo",
+   "end": "2026-12-12"
+  },
+  {
+   "name": "CES 2027",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "Show hours vary",
+   "free": false,
+   "source": "https://www.ces.tech/",
+   "date": "2027-01-06",
+   "note": "INDUSTRY ONLY · not open to the public; registration required.",
+   "description": "CES, run by the Consumer Technology Association, is the world's biggest consumer tech show, spread across the LVCC, Venetian Expo and other venues. It is a trade event for industry professionals and media; the general public cannot attend.",
+   "know": [
+    "Trade only, 18+, registration required.",
+    "Expect heavy traffic and hotel prices citywide."
+   ],
+   "id": "la-ces-2027",
+   "end": "2027-01-09",
+   "price": "Industry only · registration required"
+  },
+  {
+   "name": "MJBizCon 2026",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "Show hours vary",
+   "free": false,
+   "source": "https://mjbizconference.com/",
+   "date": "2026-12-01",
+   "note": "INDUSTRY ONLY · cannabis & hemp B2B trade show.",
+   "description": "MJBizCon is the leading cannabis and hemp business-to-business expo, with education, an expo floor and curated meetings for retail, finance and product professionals. It is a trade event with paid registration.",
+   "know": [
+    "Trade only, 21+, registration required."
+   ],
+   "id": "la-mjbizcon-2026",
+   "end": "2026-12-04",
+   "price": "Industry only · registration required"
+  },
+  {
+   "name": "LDI Show 2026",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "Show hours vary",
+   "free": false,
+   "source": "https://www.ldishow.com/",
+   "date": "2026-12-02",
+   "note": "INDUSTRY ONLY · live-event lighting & production tech.",
+   "description": "LDI is the trade show for live-event technology: lighting, video, audio and staging for concerts, theater and events. It includes training and an expo floor for design and production pros.",
+   "know": [
+    "Trade only, registration required."
+   ],
+   "id": "la-ldi-2026",
+   "end": "2026-12-08",
+   "price": "Industry only · registration required"
+  },
+  {
+   "name": "World of Concrete 2027",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "Exhibits; education Jan 18–21",
+   "free": false,
+   "source": "https://www.worldofconcrete.com/",
+   "date": "2027-01-19",
+   "note": "INDUSTRY ONLY · concrete & masonry construction trade show.",
+   "description": "The concrete and masonry construction industry's annual trade show, with exhibits Jan 19–21 and education sessions Jan 18–21. Big equipment demos fill the halls and outdoor lots.",
+   "know": [
+    "Trade only, registration required."
+   ],
+   "id": "la-world-of-concrete-2027",
+   "end": "2027-01-21",
+   "price": "Industry only · registration required"
+  },
+  {
+   "name": "KBIS 2027 (Kitchen & Bath Industry Show)",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "Show hours vary",
+   "free": false,
+   "source": "https://kbis.com/",
+   "date": "2027-02-02",
+   "note": "INDUSTRY ONLY · kitchen & bath design trade show.",
+   "description": "The premier kitchen and bath show, where designers, dealers and builders see the newest products and technology. Co-located with the International Builders' Show as Design & Construction Week.",
+   "know": [
+    "Trade only, registration required."
+   ],
+   "id": "la-kbis-2027",
+   "end": "2027-02-04",
+   "price": "Industry only · registration required"
+  },
+  {
+   "name": "NAHB International Builders' Show 2027",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "Show hours vary",
+   "free": false,
+   "source": "https://www.buildersshow.com/",
+   "date": "2027-02-02",
+   "note": "INDUSTRY ONLY · home building trade show.",
+   "description": "The National Association of Home Builders' annual show for the residential construction industry, with exhibits, education and official show homes. Paid registration for industry professionals.",
+   "know": [
+    "Trade only, registration required."
+   ],
+   "id": "la-ibs-2027",
+   "end": "2027-02-04",
+   "price": "Industry only · registration required"
+  },
+  {
+   "name": "International Roofing Expo 2027",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center West Hall, 3150 Paradise Rd",
+   "time": "Show hours vary",
+   "free": false,
+   "source": "https://www.theroofingexpo.com/",
+   "date": "2027-02-16",
+   "note": "INDUSTRY ONLY · roofing & exterior trade show.",
+   "description": "The roofing industry's expo and conference in the LVCC West Hall, with a show floor, NRCA education and contractor workshops.",
+   "know": [
+    "Trade only, registration required.",
+    "West Hall."
+   ],
+   "id": "la-international-roofing-expo-2027",
+   "end": "2027-02-18",
+   "price": "Industry only · registration required"
+  },
+  {
+   "name": "TPE 2027 (Total Product Expo)",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center West Hall, 3150 Paradise Rd",
+   "time": "Show hours vary",
+   "free": false,
+   "source": "https://www.totalproductexpo.com/",
+   "date": "2027-02-24",
+   "note": "INDUSTRY ONLY · tobacco, vape & convenience retail trade show.",
+   "description": "Total Product Expo is a trade show for retailers, wholesalers and distributors of tobacco, vape and alternative products. It moves to the LVCC West Hall for 2027.",
+   "know": [
+    "Trade only, 21+, registration required."
+   ],
+   "id": "la-tpe-2027",
+   "end": "2027-02-26",
+   "price": "Industry only · registration required"
+  },
+  {
+   "name": "Wedding MBA 2026",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "Show hours vary",
+   "free": false,
+   "source": "https://www.weddingmba.com/",
+   "date": "2026-11-17",
+   "note": "INDUSTRY ONLY · convention for wedding professionals.",
+   "description": "Wedding MBA is a convention for wedding-industry pros (planners, photographers, venues, vendors) with speakers and exhibits. It's not a bridal show for couples.",
+   "know": [
+    "For wedding professionals, paid ticket.",
+    "Early-bird pricing ended late Oct."
+   ],
+   "id": "la-wedding-mba-2026",
+   "end": "2026-11-19",
+   "price": "Wedding pros · tickets ~$259–$459"
+  },
+  {
+   "name": "RE+ 2026",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "Show hours vary",
+   "free": false,
+   "source": "https://www.re-plus.com/",
+   "date": "2026-11-17",
+   "note": "INDUSTRY ONLY · clean energy trade show (solar, storage, EV).",
+   "description": "RE+ is North America's largest clean-energy industry event, covering solar, energy storage, EV charging and more. Registration is required for industry attendees.",
+   "know": [
+    "Trade only, registration required."
+   ],
+   "id": "la-re-plus-2026",
+   "end": "2026-11-19",
+   "price": "Industry only · registration required"
   }
  ]
 }

@@ -20,6 +20,7 @@ Checked 2026-10-27. **Reachable** means the page loaded from this box. **Search-
 ## Las Vegas, NV (incl. North Las Vegas)
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
+| LVCC calendar (LVCVA) | https://www.lvcva.com/ (convention calendar; site often blocks bots, cross-check with show sites + https://vegasconventioncalendar.com/venues/las-vegas-convention-center/) | Conventions, trade & consumer shows at LVCC | Partial |
 | Clark County news | https://www.clarkcountynv.gov/news/102126-day-of-the-dead | County parks events | Search-only |
 | Red Rock Canyon NCA (BLM) | https://www.redrockcanyonlv.org/events/ | Free BLM ranger hikes, Junior Rangers (TimeTap registration) | Search-only |
 | Spring Mountains NRA / Mt Charleston (USFS) | https://www.gomtcharleston.com/programs/ | Night hikes, Junior Ranger, snowshoe hikes | Search-only; no Nov–Dec dates found |
