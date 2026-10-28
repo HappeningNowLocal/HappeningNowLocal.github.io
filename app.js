@@ -37,7 +37,9 @@ async function load(){const j=await (await fetch(`data/${st.city}.json`)).json()
  if(st.auto&&st.view=="list"){setTab("today");if(!renderList())setTab("weekend")}render()}
 (async()=>{const t=today();st.month=new Date(t.getFullYear(),t.getMonth(),1);st.sel=iso(t);
  const c=await (await fetch("data/cities.json")).json();const ST={NV:"Nevada",UT:"Utah",AZ:"Arizona",CA:"California"},g={};c.cities.forEach(x=>{const s=x.name.split(", ").pop();(g[s]=g[s]||[]).push(x)});$("#city").innerHTML=Object.keys(g).map(s=>`<optgroup label="${ST[s]||s}">${g[s].sort((p,q)=>p.name.localeCompare(q.name)).map(x=>`<option value="${x.id}">${x.name}</option>`).join("")}</optgroup>`).join("");if(!c.cities.some(x=>x.id==st.city))st.city="henderson";$("#city").value=st.city;
- $("#city").onchange=e=>{st.city=localStorage.hnlCity=e.target.value;load()};
+ $("#city").onchange=e=>{st.city=localStorage.hnlCity=e.target.value;locLbl();load()};
+ const locLbl=()=>{$("#locL").textContent=localStorage.hnlCity?"Change location":"Choose a location"};locLbl();
+ $("#locL").onclick=()=>{const s=$("#city");s.focus();try{s.showPicker()}catch(_){s.click()}};
  $("#chips").innerHTML=`<button class="chip" aria-pressed="true" data-cat="All">All</button>`+CATS.map(([n,k])=>`<button class="chip" aria-pressed="false" data-cat="${n}" style="--c:var(--c-${k})"><i></i>${n}</button>`).join("");
  $("#chips").onclick=e=>{const b=e.target.closest(".chip");if(!b)return;st.cat=b.dataset.cat;$$(".chip").forEach(x=>x.setAttribute("aria-pressed",x==b));render()};
  $("#tabs").onclick=e=>{const b=e.target.closest("button");if(!b)return;st.auto=false;setTab(b.dataset.tab);render()};

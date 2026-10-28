@@ -1,4 +1,4 @@
-const C="hnl-v16",A=["./","index.html","style.css?v=16","app.js?v=16","icon.svg","icon-192.png","icon-512.png","apple-touch-icon.png","manifest.webmanifest","data/cities.json"];
+const C="hnl-v17",A=["./","index.html","style.css?v=17","app.js?v=17","icon.svg","icon-192.png","icon-512.png","apple-touch-icon.png","manifest.webmanifest","data/cities.json"];
 self.addEventListener("install",e=>e.waitUntil(caches.open(C).then(c=>c.addAll(A))));
 self.addEventListener("activate",e=>e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!=C).map(x=>caches.delete(x))))));
 self.addEventListener("fetch",e=>{if(e.request.method!="GET")return;e.respondWith(fetch(e.request).then(r=>{const cp=r.clone();caches.open(C).then(c=>c.put(e.request,cp));return r}).catch(()=>caches.match(e.request)))});
