@@ -13,7 +13,9 @@
    "end": "2026-12-05",
    "note": "The city's largest free holiday festival.",
    "description": "The City of San Diego's largest free holiday festival fills Balboa Park with lights, live entertainment on public stages and food from around the world. It draws more than 350,000 people over two days.",
-   "id": "sd-balboa-park-december-nights-2026-12-04"
+   "id": "sd-balboa-park-december-nights-2026-12-04",
+   "lat": 32.73168,
+   "lng": -117.14653
   },
   {
    "name": "La Jolla Christmas Parade & Holiday Festival",
@@ -25,7 +27,9 @@
    "date": "2026-12-06",
    "note": "70th annual; free.",
    "description": "The 70th annual La Jolla Christmas Parade kicks off at 1 p.m., followed by a holiday festival at the La Jolla Rec Center with Santa visits and a Christmas market. Sponsors help keep it a free community tradition.",
-   "id": "sd-la-jolla-christmas-parade-holiday-festival"
+   "id": "sd-la-jolla-christmas-parade-holiday-festival",
+   "lat": 32.84332,
+   "lng": -117.27787
   },
   {
    "name": "San Diego Bay Parade of Lights",
@@ -42,7 +46,9 @@
    },
    "note": "Free to watch; arrive early.",
    "description": "About 80 decorated boats parade along the San Diego bayfront and turn toward Coronado on two December evenings. There is no cost to view.",
-   "id": "sd-san-diego-bay-parade-of-lights"
+   "id": "sd-san-diego-bay-parade-of-lights",
+   "lat": 32.71685,
+   "lng": -117.16956
   },
   {
    "name": "Cabrillo Open Military Bunker",
@@ -60,7 +66,9 @@
    },
    "note": "Saturdays, conditions permitting. Park entry fee applies.",
    "description": "Volunteers bring Point Loma's WWII coastal defenses to life on the only days visitors can tour the bunkers. See the weapons and instruments that protected the coast; closed in inclement weather.",
-   "id": "sd-cabrillo-open-military-bunker"
+   "id": "sd-cabrillo-open-military-bunker",
+   "lat": 32.67223,
+   "lng": -117.24094
   },
   {
    "name": "Old Point Loma Lighthouse Open Tower Day",
@@ -72,7 +80,9 @@
    "date": "2026-11-15",
    "note": "Half-hour guided tours; same-day tickets, first come.",
    "description": "Climb to the top of the Old Point Loma Lighthouse on a half-hour guided tour marking the anniversary of its first lighting. These tours are the only way to reach the top of the tower.",
-   "id": "sd-old-point-loma-lighthouse-open-tower-day-2"
+   "id": "sd-old-point-loma-lighthouse-open-tower-day-2",
+   "lat": 32.67223,
+   "lng": -117.24094
   },
   {
    "name": "Guided Bird Watching at Cabrillo",
@@ -89,7 +99,9 @@
    },
    "note": "1-mile walk; all levels.",
    "description": "Join park staff for a one-mile birding hike on the coastal trail at Cabrillo, a Pacific Flyway hotspot. All ages and experience levels are welcome.",
-   "id": "sd-guided-bird-watching-at-cabrillo"
+   "id": "sd-guided-bird-watching-at-cabrillo",
+   "lat": 32.67223,
+   "lng": -117.24094
   },
   {
    "name": "The Story of Cabrillo Ranger Walk",
@@ -107,7 +119,9 @@
    },
    "note": "Fridays.",
    "description": "A 30-minute ranger walk introducing Juan Rodríguez Cabrillo's 1542 expedition, the Old Point Loma Lighthouse and how the monument grew.",
-   "id": "sd-the-story-of-cabrillo-ranger-walk"
+   "id": "sd-the-story-of-cabrillo-ranger-walk",
+   "lat": 32.67223,
+   "lng": -117.24094
   },
   {
    "name": "Encinitas Holiday Street Fair",
@@ -118,7 +132,9 @@
    "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
    "date": "2026-11-22",
    "description": "A holiday tradition since 1989 with children's rides, two stages of live entertainment, and food and drink.",
-   "id": "sd-encinitas-holiday-street-fair-2026-11-22"
+   "id": "sd-encinitas-holiday-street-fair-2026-11-22",
+   "lat": 33.04613,
+   "lng": -117.29388
   },
   {
    "name": "Liberty Station Tree Lighting",
@@ -129,7 +145,9 @@
    "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
    "date": "2026-11-27",
    "description": "Liberty Station's Salute the Season main event, a tree lighting and holiday festivities in the North Promenade.",
-   "id": "sd-liberty-station-tree-lighting-2026-11-27"
+   "id": "sd-liberty-station-tree-lighting-2026-11-27",
+   "lat": 32.73945,
+   "lng": -117.21279
   },
   {
    "name": "Julian Country Christmas & Tree Lighting",
@@ -141,7 +159,9 @@
    "date": "2026-11-28",
    "note": "Mountain town about an hour from San Diego.",
    "description": "Julian kicks off the season by lighting the town's huge living Christmas tree at Pioneer Park, with visits with Santa.",
-   "id": "sd-julian-country-christmas-tree-lighting-202"
+   "id": "sd-julian-country-christmas-tree-lighting-202",
+   "lat": 32.74942,
+   "lng": -117.17759
   },
   {
    "name": "Surfin' Santa Arrival",
@@ -152,7 +172,9 @@
    "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
    "date": "2026-11-28",
    "description": "Santa arrives at Seaport Village with a parade along the boardwalk, live music, street performers and photo ops.",
-   "id": "sd-surfin-santa-arrival-2026-11-28"
+   "id": "sd-surfin-santa-arrival-2026-11-28",
+   "lat": 32.70919,
+   "lng": -117.17027
   },
   {
    "name": "Coronado Holiday Parade",
@@ -163,7 +185,9 @@
    "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
    "date": "2026-12-04",
    "description": "Live music, business open houses, singalongs, a parade down Orange Avenue and a grand tree lighting at Rotary Park.",
-   "id": "sd-coronado-holiday-parade-2026-12-04"
+   "id": "sd-coronado-holiday-parade-2026-12-04",
+   "lat": 32.69777,
+   "lng": -117.17009
   },
   {
    "name": "Liberty Station Menorah Lighting",
@@ -174,7 +198,9 @@
    "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
    "date": "2026-12-04",
    "description": "A public menorah lighting for the first night of Hanukkah, with the Chabads of Downtown San Diego and Pacific Beach.",
-   "id": "sd-liberty-station-menorah-lighting-2026-12-0"
+   "id": "sd-liberty-station-menorah-lighting-2026-12-0",
+   "lat": 32.73873,
+   "lng": -117.215
   },
   {
    "name": "Starlight Parade & Festival",
@@ -185,7 +211,9 @@
    "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
    "date": "2026-12-05",
    "description": "Ride Santa's Holiday Train through downtown Chula Vista, shop a holiday market, enjoy live music in Memorial Park and get a free family photo with Santa.",
-   "id": "sd-starlight-parade-festival-2026-12-05"
+   "id": "sd-starlight-parade-festival-2026-12-05",
+   "lat": 32.71597,
+   "lng": -117.15955
   },
   {
    "name": "Little Italy Tree Lighting",
@@ -196,7 +224,9 @@
    "source": "https://www.sandiego.org/plan-your-trip/plan-by-season/holidays/free-holiday-activities",
    "date": "2026-12-05",
    "description": "Little Italy lights its 25-foot tower of 1,100 poinsettias, with festive decorations and live music.",
-   "id": "sd-little-italy-tree-lighting-2026-12-05"
+   "id": "sd-little-italy-tree-lighting-2026-12-05",
+   "lat": 32.72327,
+   "lng": -117.16827
   },
   {
    "name": "Trail Tykes at Mission Trails",
@@ -211,7 +241,9 @@
    "know": [
     "Reserve a spot per child ages 2+."
    ],
-   "id": "sd-trail-tykes-at-mission-trails-eb"
+   "id": "sd-trail-tykes-at-mission-trails-eb",
+   "lat": 32.82022,
+   "lng": -117.05692
   },
   {
    "name": "Compost & Costumes",
@@ -223,7 +255,9 @@
    "date": "2026-10-31",
    "note": "Free compost and mulch.",
    "description": "The City of San Diego, I Love A Clean San Diego and the County host a Halloween-themed compost giveaway. Grab free compost and mulch, and kids in costume can try a compost graveyard dig and a sorting game.",
-   "id": "sd-compost-costumes-eb"
+   "id": "sd-compost-costumes-eb",
+   "lat": 32.93875,
+   "lng": -117.13959
   },
   {
    "name": "Mission Valley Family Fun Day Market",
@@ -235,7 +269,9 @@
    "date": "2026-10-31",
    "note": "Kids always free; first 100 adult tickets free.",
    "description": "An every-other-Saturday family market in Mission Valley with 30+ local makers, food trucks, bounce houses, crafts, face painting and live music.",
-   "id": "sd-mission-valley-family-fun-day-market-eb"
+   "id": "sd-mission-valley-family-fun-day-market-eb",
+   "lat": 32.76393,
+   "lng": -117.15486
   },
   {
    "name": "Trick-or-Treating at The Valley",
@@ -247,7 +283,9 @@
    "date": "2026-10-31",
    "note": "Free; tickets encouraged, not required.",
    "description": "Kids in costume can trick-or-treat at participating stores throughout The Valley for an afternoon of Halloween fun.",
-   "id": "sd-trick-or-treating-at-the-valley-eb"
+   "id": "sd-trick-or-treating-at-the-valley-eb",
+   "lat": 32.76756,
+   "lng": -117.14831
   },
   {
    "name": "Great Big Family Play Day",
@@ -260,7 +298,13 @@
    "price": "$7–$29",
    "note": "Tickets on Eventbrite.",
    "description": "A one-day family festival with hourly kids' performances on the main stage, headlined by Laurie Berkner. There are interactive activities and exhibits for all ages, samples and giveaways, and a food truck row.",
-   "id": "sd-great-big-family-play-day-eb"
+   "id": "sd-great-big-family-play-day-eb",
+   "lat": 32.73765,
+   "lng": -117.21244
   }
+ ],
+ "center": [
+  32.7157062,
+  -117.1638284
  ]
 }

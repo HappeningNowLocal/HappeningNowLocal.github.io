@@ -150,3 +150,16 @@ footer{padding-bottom:calc(var(--s6) + env(safe-area-inset-bottom))}
 .loc{display:flex;flex-direction:column;align-items:flex-end;gap:2px;min-width:0;flex:0 1 auto}
 .loc-l{background:none;border:0;padding:2px 6px;margin-right:6px;font:600 11px/1.2 inherit;font-family:inherit;letter-spacing:.03em;color:rgba(255,255,255,.62);cursor:pointer;border-radius:6px;text-decoration:underline;text-decoration-color:rgba(255,255,255,.25);text-underline-offset:2px}
 .loc-l:hover,.loc-l:focus-visible{color:#F6B79F;text-decoration-color:currentColor}
+/* map */
+.mapw{position:relative;margin-top:var(--s4);border-radius:18px;overflow:hidden;border:1px solid var(--line);box-shadow:var(--sh);background:var(--soft)}
+#mapc{height:min(68vh,620px);min-height:360px;z-index:0}
+.near{position:absolute;right:12px;bottom:28px;z-index:500;display:flex;align-items:center;gap:6px;min-height:44px;padding:0 16px;border-radius:999px;border:1px solid var(--line);background:var(--surf);color:var(--ink);font:700 14px/1 inherit;font-family:inherit;box-shadow:var(--sh);cursor:pointer}
+.near svg{color:#2F80ED}.near.busy{opacity:.6}
+.pin span{display:block;width:22px;height:22px;margin:2px;border-radius:50% 50% 50% 0;transform:rotate(-45deg);background:var(--c);border:3px solid #fff;box-shadow:0 2px 6px rgba(0,0,0,.35)}
+.mapw .leaflet-container{font-family:inherit;background:var(--soft)}
+.mapw .leaflet-popup-content-wrapper,.mapw .leaflet-popup-tip{background:var(--surf);color:var(--ink);border-radius:14px}
+.mapw .leaflet-popup-content{margin:12px 14px}.pop{display:flex;flex-direction:column;gap:4px;font-size:13px;color:var(--ink2)}
+.pop b{font-size:15px;color:var(--ink);line-height:1.25}.pop-c{font-size:11px;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:var(--c)}
+.pop-b{margin-top:6px;border:0;border-radius:10px;background:var(--acc);color:#fff;font:700 14px/1 inherit;font-family:inherit;min-height:38px;cursor:pointer}
+@media(prefers-color-scheme:dark){.leaflet-tile-pane{filter:invert(1) hue-rotate(180deg) brightness(.92) contrast(.88) saturate(.7)}
+.mapw .leaflet-bar a{background:var(--surf);color:var(--ink);border-color:var(--line)}.mapw .leaflet-control-attribution{background:rgba(24,32,29,.8)!important;color:var(--mute)}.leaflet-control-attribution a{color:var(--ink2)}.leaflet-container a.leaflet-popup-close-button{color:var(--mute)}}

@@ -24,7 +24,9 @@
    },
    "note": "Park entrance fee applies.",
    "description": "A short outdoor ranger talk next to the shuttle stop at the Zion Canyon Visitor Center, easy to catch before or after a shuttle ride.",
-   "id": "zi-zion-canyon-visitor-center-ranger-talk-2026-10-27"
+   "id": "zi-zion-canyon-visitor-center-ranger-talk-2026-10-27",
+   "lat": 37.20011,
+   "lng": -112.98692
   },
   {
    "name": "Ranger-led Stargazing",
@@ -36,7 +38,9 @@
    "date": "2026-11-01",
    "note": "Park entrance fee applies.",
    "description": "A laser-guided tour of the constellations at Zion's South Campground Amphitheater. Plan to be out after dark and bring your own red light.",
-   "id": "zi-ranger-led-stargazing-2026-11-01"
+   "id": "zi-ranger-led-stargazing-2026-11-01",
+   "lat": 37.20447,
+   "lng": -112.98111
   },
   {
    "name": "Zion Art Invitational – Artist Demonstrations",
@@ -48,7 +52,9 @@
    "date": "2026-11-03",
    "end": "2026-11-04",
    "description": "Sixteen landscape artists give painting demonstrations during the Zion National Park Art Invitational. Their work is also on display and for sale at Worthington Gallery in Springdale through Nov 8, with proceeds benefiting the park.",
-   "id": "zi-zion-art-invitational-artist-demonstrations-2026-11-03"
+   "id": "zi-zion-art-invitational-artist-demonstrations-2026-11-03",
+   "lat": 37.19877,
+   "lng": -112.99001
   },
   {
    "name": "Zion Art Invitational Gala & Art Sale",
@@ -60,7 +66,9 @@
    "date": "2026-11-06",
    "note": "Ticketed.",
    "description": "The Art Invitational's evening gala and art sale, benefiting Zion National Park.",
-   "id": "zi-zion-art-invitational-gala-art-sale-2026-11-06"
+   "id": "zi-zion-art-invitational-gala-art-sale-2026-11-06",
+   "lat": 37.19357,
+   "lng": -112.99286
   },
   {
    "name": "Wet Paint & Silent Auction",
@@ -72,7 +80,9 @@
    "date": "2026-11-07",
    "note": "Park entrance fee required.",
    "description": "Watch all sixteen Invitational artists paint live in Zion National Park, followed by a silent auction.",
-   "id": "zi-wet-paint-silent-auction-2026-11-07"
+   "id": "zi-wet-paint-silent-auction-2026-11-07",
+   "lat": 37.18947,
+   "lng": -112.99693
   },
   {
    "name": "Fee-Free Day at Zion (Veterans Day)",
@@ -83,7 +93,9 @@
    "source": "https://www.nps.gov/planyourvisit/fee-free-parks.htm",
    "date": "2026-11-11",
    "description": "Veterans Day is a National Park Service fee-free day, so Zion's entrance fee is waived for U.S. citizens and residents. Other fees, like camping, still apply.",
-   "id": "zi-fee-free-day-at-zion-veterans-day-2026-11-11"
+   "id": "zi-fee-free-day-at-zion-veterans-day-2026-11-11",
+   "lat": 37.20057,
+   "lng": -112.98707
   },
   {
    "name": "Butch Cassidy 10K/5K",
@@ -96,7 +108,9 @@
    "price": "$60 ($25 kids 10 & under)",
    "note": "Registration closes Nov 11 or when the cap is reached.",
    "description": "Springdale's 43rd annual race runs along the Virgin River and over the Rockville Bridge to the historic ghost town of Grafton. Spectators and runners park in Springdale and ride race shuttles; there is no parking in Grafton.",
-   "id": "zi-butch-cassidy-10k-5k-2026-11-14"
+   "id": "zi-butch-cassidy-10k-5k-2026-11-14",
+   "lat": 37.18887,
+   "lng": -112.99855
   },
   {
    "name": "Zion Canyon Arts & Crafts Fair",
@@ -111,5 +125,9 @@
    "description": "Springdale's annual arts and crafts fair at the Canyon Community Center over Thanksgiving weekend.",
    "id": "zi-zion-canyon-arts-crafts-fair-2026-11-27"
   }
+ ],
+ "center": [
+  37.1834514,
+  -113.0022274
  ]
 }

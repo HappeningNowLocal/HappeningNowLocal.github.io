@@ -17,7 +17,9 @@
    },
    "note": "No cover.",
    "description": "A neighborhood celebration with art, street vendors, live music, entertainment, food and craft beer. No cover.",
-   "id": "ph-first-friday-art-walk"
+   "id": "ph-first-friday-art-walk",
+   "lat": 33.45806,
+   "lng": -112.0672
   },
   {
    "name": "Pickers Playground Vintage Market",
@@ -34,7 +36,9 @@
    },
    "note": "Third Sundays. Free admission.",
    "description": "Third-Sunday vintage shopping on a downtown plaza with 30 local vendors selling retro fashion, craft and art. Free admission.",
-   "id": "ph-pickers-playground-vintage-market"
+   "id": "ph-pickers-playground-vintage-market",
+   "lat": 33.4525,
+   "lng": -112.06897
   },
   {
    "name": "Kermés PHX",
@@ -51,7 +55,9 @@
    },
    "note": "Free admission.",
    "description": "Chinelos Unidos de Phoenix hosts Kermés PHX with vendors, food, drinks and dancing at Arizona Center. Free admission.",
-   "id": "ph-kerm-s-phx"
+   "id": "ph-kerm-s-phx",
+   "lat": 33.4525,
+   "lng": -112.06897
   },
   {
    "name": "Portal Fest",
@@ -63,7 +69,9 @@
    "date": "2026-11-21",
    "note": "Free museum admission all day.",
    "description": "The 8th annual free family festival connects the community to the Ancient Sonoran Desert People and the traditions of O'odham and Piipaash artists. Activities and performances for all ages, with free museum admission all day.",
-   "id": "ph-portal-fest-2026-11-21"
+   "id": "ph-portal-fest-2026-11-21",
+   "lat": 33.44573,
+   "lng": -111.98475
   },
   {
    "name": "Faire @ The Square",
@@ -75,7 +83,9 @@
    "date": "2026-11-21",
    "note": "Free; Rosson House tours $10.",
    "description": "A free family festival and winter artisan market with local vendors, crafts and lawn games, food, and demonstrations like guided sketching and a build-your-own bouquet bar. Rosson House Museum tours are $10.",
-   "id": "ph-faire-the-square-2026-11-21"
+   "id": "ph-faire-the-square-2026-11-21",
+   "lat": 33.44937,
+   "lng": -112.06629
   },
   {
    "name": "PJs in the Park",
@@ -87,7 +97,9 @@
    "date": "2026-11-28",
    "note": "Free 'Polar Express' screening and Santa photos.",
    "description": "Wear your coziest pajamas for a free outdoor screening of 'Shrek the Halls' and 'The Polar Express,' plus a free photo with Santa at 6 p.m. Hot cocoa and snacks are for sale.",
-   "id": "ph-pjs-in-the-park-2026-11-28"
+   "id": "ph-pjs-in-the-park-2026-11-28",
+   "lat": 33.44802,
+   "lng": -112.07435
   },
   {
    "name": "APS Electric Light Parade",
@@ -116,7 +128,9 @@
    "end": "2026-12-06",
    "note": "Free admission; dog friendly.",
    "description": "One of the oldest festivals in the Southwest, with 350+ artists from around the country, local music, a Kids Block and food on historic Mill Avenue. Free admission.",
-   "id": "ph-tempe-festival-of-the-arts-2026-12-04"
+   "id": "ph-tempe-festival-of-the-arts-2026-12-04",
+   "lat": 33.44763,
+   "lng": -111.95117
   },
   {
    "name": "Glendale Glitters",
@@ -129,7 +143,9 @@
    "end": "2027-01-01",
    "note": "Free holiday light display.",
    "description": "The 33rd annual display of holiday lights with interactive features, vendors, carolers and visits with Santa in downtown Glendale. The lights stay up through January 1.",
-   "id": "ph-glendale-glitters-2026-11-27"
+   "id": "ph-glendale-glitters-2026-11-27",
+   "lat": 33.4481,
+   "lng": -112.12709
   },
   {
    "name": "Crossroads of the West Gun Show",
@@ -143,7 +159,9 @@
    "end": "2026-12-06",
    "note": "Kids 12 and under free with a parent.",
    "description": "A three-day Crossroads of the West gun show at the Arizona State Fairgrounds. One ticket is valid all three days, and kids 12 and under get in free with a parent or guardian.",
-   "id": "ph-crossroads-of-the-west-gun-show-2026-12-04"
+   "id": "ph-crossroads-of-the-west-gun-show-2026-12-04",
+   "lat": 33.46962,
+   "lng": -112.09668
   },
   {
    "name": "Lost Dutchman Wildlife Guided Hike",
@@ -162,7 +180,9 @@
    },
    "note": "Outdoors250 event with park volunteers.",
    "description": "Learn about the diverse wildlife of the Sonoran Desert on a guided hike with Arizona State Park volunteers at Lost Dutchman, beneath the Superstition Mountains.",
-   "id": "ph-lost-dutchman-wildlife-guided-hike"
+   "id": "ph-lost-dutchman-wildlife-guided-hike",
+   "lat": 33.45621,
+   "lng": -111.48122
   },
   {
    "name": "Lost Dutchman Star Party",
@@ -175,7 +195,9 @@
    "date": "2026-11-14",
    "note": "Monthly Oct–Mar; registration required.",
    "description": "Head to Lost Dutchman State Park for a monthly star party to learn about the stars and planets. Registration is required; check the park's event page for the time.",
-   "id": "ph-lost-dutchman-star-party-2026-11-14"
+   "id": "ph-lost-dutchman-star-party-2026-11-14",
+   "lat": 33.45621,
+   "lng": -111.48122
   },
   {
    "name": "PV Boo Bash",
@@ -187,7 +209,9 @@
    "date": "2026-10-30",
    "note": "Free; outdoor movie at 6:30pm.",
    "description": "Trick-or-treat around PV from 5–6pm at participating shops, then settle onto the lawn for an outdoor screening of Hocus Pocus at 6:30. Costumes are encouraged.",
-   "id": "ph-pv-boo-bash-eb"
+   "id": "ph-pv-boo-bash-eb",
+   "lat": 33.60244,
+   "lng": -111.98222
   },
   {
    "name": "ASU Prep Día de los Muertos Celebration",
@@ -199,7 +223,9 @@
    "date": "2026-10-29",
    "note": "Free; register for raffle.",
    "description": "A free neighborhood Day of the Dead celebration on the ASU Prep South Phoenix campus. Enjoy sugar skull and paper flower crafts, face painting, food trucks, live music and a community altar.",
-   "id": "ph-asu-prep-d-a-de-los-muertos-celebration-eb"
+   "id": "ph-asu-prep-d-a-de-los-muertos-celebration-eb",
+   "lat": 33.40593,
+   "lng": -112.05571
   },
   {
    "name": "Family Fun Halloween Bash",
@@ -211,7 +237,9 @@
    "date": "2026-10-31",
    "note": "Free; costume contest 1pm.",
    "description": "Family Fun Arizona's free 6th annual Halloween bash inside the Arizona Boardwalk. Kids can trick-or-treat, bounce, slide and get face painting, and a kids' costume contest at 1pm splits $1,000 in prizes.",
-   "id": "ph-family-fun-halloween-bash-eb"
+   "id": "ph-family-fun-halloween-bash-eb",
+   "lat": 33.5553,
+   "lng": -111.87625
   },
   {
    "name": "SerbFest Phoenix",
@@ -225,7 +253,9 @@
    "price": "$10–$300",
    "note": "Tickets on Eventbrite.",
    "description": "A celebration of Serbian food, folk music and culture held at Saint Sava Serbian Orthodox Church since 2003. All ages are welcome, with free parking.",
-   "id": "ph-serbfest-phoenix-eb"
+   "id": "ph-serbfest-phoenix-eb",
+   "lat": 33.45615,
+   "lng": -111.98471
   },
   {
    "name": "Taste of Korea Phoenix",
@@ -237,7 +267,9 @@
    "date": "2026-11-14",
    "note": "Free admission; food for purchase.",
    "description": "An indoor celebration of Korean food, traditions and culture for all ages. Try Korean dishes (sold separately), cultural activities and traditional games.",
-   "id": "ph-taste-of-korea-phoenix-eb"
+   "id": "ph-taste-of-korea-phoenix-eb",
+   "lat": 33.59183,
+   "lng": -112.10074
   },
   {
    "name": "PV Heroes & Hounds",
@@ -249,7 +281,9 @@
    "date": "2026-11-14",
    "note": "Free.",
    "description": "A community afternoon honoring Phoenix police, firefighters and their K9 partners. Watch K9 and search-and-rescue demos, tour fire trucks and SWAT vehicles, meet therapy dogs and enjoy family activities.",
-   "id": "ph-pv-heroes-hounds-eb"
+   "id": "ph-pv-heroes-hounds-eb",
+   "lat": 33.60244,
+   "lng": -111.98222
   },
   {
    "name": "Phoenix Pizza Festival",
@@ -267,7 +301,13 @@
     "Admission doesn't include food or drink.",
     "Tickets usually sell out."
    ],
-   "id": "ph-phoenix-pizza-festival-eb"
+   "id": "ph-phoenix-pizza-festival-eb",
+   "lat": 33.46171,
+   "lng": -112.06995
   }
+ ],
+ "center": [
+  33.4484367,
+  -112.074141
  ]
 }

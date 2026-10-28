@@ -16,7 +16,9 @@
     "Bring low-back chairs and blankets for the lawn.",
     "No glass containers or pets."
    ],
-   "id": "la-d-a-de-los-muertos-festival"
+   "id": "la-d-a-de-los-muertos-festival",
+   "lat": 36.16666,
+   "lng": -115.14952
   },
   {
    "name": "Life in Death: Day of the Dead Festival",
@@ -32,7 +34,9 @@
    "know": [
     "Admission and parking are free, but parking is limited; ride-sharing is encouraged."
    ],
-   "id": "la-life-in-death-day-of-the-dead-festival"
+   "id": "la-life-in-death-day-of-the-dead-festival",
+   "lat": 36.14621,
+   "lng": -115.10991
   },
   {
    "name": "Día de los Muertos Community Market",
@@ -48,7 +52,9 @@
     "Free RSVP on Eventbrite.",
     "Paid parking nearby; limited free street parking."
    ],
-   "id": "la-d-a-de-los-muertos-community-market"
+   "id": "la-d-a-de-los-muertos-community-market",
+   "lat": 36.16043,
+   "lng": -115.12032
   },
   {
    "name": "Arts District First Friday",
@@ -67,7 +73,9 @@
    },
    "note": "Every first Friday: 100+ local artists, food trucks, live music. Free to attend.",
    "description": "Every first Friday the 18b Arts District becomes a block party with 100+ local artists along Boulder Avenue and 1st Street, live painting, open galleries, 20+ food trucks and live music. It's free to attend and has run since 2002.",
-   "id": "la-arts-district-first-friday"
+   "id": "la-arts-district-first-friday",
+   "lat": 36.15953,
+   "lng": -115.15128
   },
   {
    "name": "Lunchtime Concert: Enchanted Tiki Cats",
@@ -78,7 +86,9 @@
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
    "date": "2026-11-05",
    "description": "A free retro/exotica lunchtime concert in the City of Las Vegas's series at the Civic Center Plaza.",
-   "id": "la-lunchtime-concert-enchanted-tiki-cats"
+   "id": "la-lunchtime-concert-enchanted-tiki-cats",
+   "lat": 36.1673,
+   "lng": -115.1485
   },
   {
    "name": "Veterans Appreciation Concert: Swing It Girls",
@@ -89,7 +99,9 @@
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
    "date": "2026-11-12",
    "description": "A free Veterans Appreciation lunchtime concert by the vintage vocal trio Swing It Girls at the Las Vegas Civic Center Plaza.",
-   "id": "la-veterans-appreciation-concert-swing-it-g"
+   "id": "la-veterans-appreciation-concert-swing-it-g",
+   "lat": 36.1673,
+   "lng": -115.1485
   },
   {
    "name": "Desert Dusk Evening Market",
@@ -106,7 +118,9 @@
     "Leashed, well-behaved pets welcome in the outdoor area.",
     "No registration needed."
    ],
-   "id": "la-desert-dusk-evening-market"
+   "id": "la-desert-dusk-evening-market",
+   "lat": 36.23866,
+   "lng": -115.20799
   },
   {
    "name": "Her Story Through Art: Women in Poetry",
@@ -117,7 +131,9 @@
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
    "date": "2026-11-20",
    "description": "A free poetry event in the City of Las Vegas's Her Story Through Art series at the Civic Center Plaza.",
-   "id": "la-her-story-through-art-women-in-poetry"
+   "id": "la-her-story-through-art-women-in-poetry",
+   "lat": 36.1673,
+   "lng": -115.1485
   },
   {
    "name": "Lunchtime Concert: Rita Lim Holiday Concert",
@@ -128,7 +144,9 @@
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
    "date": "2026-12-03",
    "description": "A free jazz and holiday lunchtime concert by Rita Lim at the Las Vegas Civic Center Plaza.",
-   "id": "la-lunchtime-concert-rita-lim-holiday-conce"
+   "id": "la-lunchtime-concert-rita-lim-holiday-conce",
+   "lat": 36.1673,
+   "lng": -115.1485
   },
   {
    "name": "Tamales & Mariachi Festival",
@@ -143,7 +161,9 @@
     "Refreshments for sale.",
     "No glass containers or pets."
    ],
-   "id": "la-tamales-mariachi-festival"
+   "id": "la-tamales-mariachi-festival",
+   "lat": 36.16666,
+   "lng": -115.14952
   },
   {
    "name": "Her Story Through Art: Market in the Plaza",
@@ -154,7 +174,9 @@
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
    "date": "2026-12-12",
    "description": "A free market at the Las Vegas Civic Center Plaza, part of the city's Her Story Through Art series.",
-   "id": "la-her-story-through-art-market-in-the-plaz"
+   "id": "la-her-story-through-art-market-in-the-plaz",
+   "lat": 36.1673,
+   "lng": -115.1485
   },
   {
    "name": "Vegas City Opera: A Symphonic Holiday Concert",
@@ -165,7 +187,9 @@
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
    "date": "2026-12-12",
    "description": "A free holiday choir concert by Vegas City Opera at the Historic Fifth Street School, listed in the City of Las Vegas cultural season.",
-   "id": "la-vegas-city-opera-a-symphonic-holiday-con"
+   "id": "la-vegas-city-opera-a-symphonic-holiday-con",
+   "lat": 36.16539,
+   "lng": -115.14361
   },
   {
    "name": "The Corner Open Mic: CommUNITY",
@@ -176,7 +200,9 @@
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
    "date": "2026-12-18",
    "description": "A free open mic night in The Corner series at the West Las Vegas Arts Center.",
-   "id": "la-the-corner-open-mic-community"
+   "id": "la-the-corner-open-mic-community",
+   "lat": 36.19561,
+   "lng": -115.1547
   },
   {
    "name": "Film Screening: Sankofa",
@@ -187,7 +213,9 @@
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
    "date": "2026-12-19",
    "description": "The West Las Vegas Arts Center presents a free screening of the film Sankofa.",
-   "id": "la-film-screening-sankofa"
+   "id": "la-film-screening-sankofa",
+   "lat": 36.19561,
+   "lng": -115.1547
   },
   {
    "name": "Young Artists Orchestra Holiday Symphony",
@@ -198,7 +226,9 @@
    "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
    "date": "2026-12-19",
    "description": "A free holiday concert by the Young Artists Orchestra at the Centennial Hills Park Amphitheatre.",
-   "id": "la-young-artists-orchestra-holiday-symphony"
+   "id": "la-young-artists-orchestra-holiday-symphony",
+   "lat": 36.28901,
+   "lng": -115.26037
   },
   {
    "name": "Downtown Summerlin Farmers Market",
@@ -214,7 +244,9 @@
    },
    "note": "Every Saturday.",
    "description": "A weekly Saturday farmers market at Downtown Summerlin, run by Las Vegas Farmers' Market.",
-   "id": "la-downtown-summerlin-farmers-market"
+   "id": "la-downtown-summerlin-farmers-market",
+   "lat": 36.15029,
+   "lng": -115.3332
   },
   {
    "name": "Fresh52 Market – Bruce Trent Park",
@@ -230,7 +262,9 @@
    },
    "note": "Every Wednesday.",
    "description": "A Fresh52 farmers and artisan market every Wednesday afternoon at Bruce Trent Park.",
-   "id": "la-fresh52-market-bruce-trent-park"
+   "id": "la-fresh52-market-bruce-trent-park",
+   "lat": 36.18874,
+   "lng": -115.28749
   },
   {
    "name": "Fresh52 Market – Skye Canyon Park",
@@ -246,7 +280,9 @@
    },
    "note": "Every Thursday.",
    "description": "A Fresh52 farmers and artisan market every Thursday afternoon at Skye Canyon Park.",
-   "id": "la-fresh52-market-skye-canyon-park"
+   "id": "la-fresh52-market-skye-canyon-park",
+   "lat": 36.31276,
+   "lng": -115.31678
   },
   {
    "name": "Las Vegas Farmers' Market – The Uncommons",
@@ -262,7 +298,9 @@
    },
    "note": "Every Sunday.",
    "description": "A weekly Sunday farmers market at The Uncommons in the southwest valley.",
-   "id": "la-las-vegas-farmers-market-the-uncommons"
+   "id": "la-las-vegas-farmers-market-the-uncommons",
+   "lat": 36.06379,
+   "lng": -115.27803
   },
   {
    "name": "SEMA Show (industry only)",
@@ -282,7 +320,9 @@
    ],
    "id": "la-sema-show-industry-only",
    "convention": true,
-   "industry": true
+   "industry": true,
+   "lat": 36.13102,
+   "lng": -115.15018
   },
   {
    "name": "SEMA Show Friday – Open to the Public",
@@ -302,7 +342,9 @@
     "Does not include the SEMA Fest concert."
    ],
    "id": "la-sema-show-friday-open-to-the-public",
-   "convention": true
+   "convention": true,
+   "lat": 36.13102,
+   "lng": -115.15018
   },
   {
    "name": "Holiday Craft & Gift Festival",
@@ -321,7 +363,9 @@
     "Hug-A-Bear Drive: bring a new 10\"+ stuffed animal for kids in need."
    ],
    "id": "la-holiday-craft-gift-festival",
-   "convention": true
+   "convention": true,
+   "lat": 36.1679,
+   "lng": -115.15533
   },
   {
    "name": "Fabulous Home & Garden Expo",
@@ -338,7 +382,9 @@
     "Free admission.",
     "Park in the lot next to the convention center, the garages, or valet."
    ],
-   "id": "la-fabulous-home-garden-expo"
+   "id": "la-fabulous-home-garden-expo",
+   "lat": 36.11698,
+   "lng": -115.18696
   },
   {
    "name": "Vegas Valley Comic Book Festival",
@@ -350,7 +396,9 @@
    "date": "2026-11-07",
    "note": "Free library-run comic and cosplay festival with artist alley and kids' courtyard.",
    "description": "A free all-ages comic and cosplay festival run by the Las Vegas-Clark County Library District. Enjoy panels, workshops and an artist alley, with a Kids Courtyard for crafts and face painting.",
-   "id": "la-vegas-valley-comic-book-festival"
+   "id": "la-vegas-valley-comic-book-festival",
+   "lat": 36.11474,
+   "lng": -115.13434
   },
   {
    "name": "Crossroads Las Vegas Gun Show",
@@ -368,7 +416,9 @@
     "Dates are listed as tentative; confirm with Crossroads before going.",
     "No loaded firearms or magazines allowed."
    ],
-   "id": "la-crossroads-las-vegas-gun-show"
+   "id": "la-crossroads-las-vegas-gun-show",
+   "lat": 36.1765,
+   "lng": -115.136
   },
   {
    "name": "Las Vegas Gun Show (MAC Shows)",
@@ -385,7 +435,9 @@
     "Adults $13; kids under 12 free.",
     "Tickets online or at the door."
    ],
-   "id": "la-las-vegas-gun-show-mac-shows"
+   "id": "la-las-vegas-gun-show-mac-shows",
+   "lat": 36.10534,
+   "lng": -115.15617
   },
   {
    "name": "Red Rock Junior Rangers",
@@ -401,7 +453,9 @@
     "Register at rrjr-nov.timetap.com.",
     "No age limit."
    ],
-   "id": "la-red-rock-junior-rangers-2026-11-08"
+   "id": "la-red-rock-junior-rangers-2026-11-08",
+   "lat": 36.13557,
+   "lng": -115.42792
   },
   {
    "name": "Red Rock History Hike",
@@ -417,7 +471,9 @@
     "Register at redrockcanyonlvprograms.timetap.com.",
     "Ages 12+."
    ],
-   "id": "la-red-rock-history-hike-2026-11-19"
+   "id": "la-red-rock-history-hike-2026-11-19",
+   "lat": 36.13557,
+   "lng": -115.42792
   },
   {
    "name": "Wilderness Hike: Limestone Arches",
@@ -432,7 +488,9 @@
    "know": [
     "Register at redrockcanyonlvprograms.timetap.com."
    ],
-   "id": "la-wilderness-hike-limestone-arches-2026-11-2"
+   "id": "la-wilderness-hike-limestone-arches-2026-11-2",
+   "lat": 36.07882,
+   "lng": -115.51525
   },
   {
    "name": "Stargazing at Spring Mountain Ranch",
@@ -449,7 +507,9 @@
     "$10 per vehicle, cash only; bring exact change.",
     "Leave pets at home; bring warm layers and a red light."
    ],
-   "id": "la-stargazing-at-spring-mountain-ranch-2026-1"
+   "id": "la-stargazing-at-spring-mountain-ranch-2026-1",
+   "lat": 36.06959,
+   "lng": -115.45759
   },
   {
    "name": "Bird Walk with Red Rock Audubon",
@@ -466,7 +526,9 @@
     "Registration required via Red Rock Audubon.",
     "Bring binoculars, water and layers."
    ],
-   "id": "la-bird-walk-with-red-rock-audubon-2026-11-15"
+   "id": "la-bird-walk-with-red-rock-audubon-2026-11-15",
+   "lat": 36.06959,
+   "lng": -115.45759
   },
   {
    "name": "A Long Walk Through History",
@@ -483,7 +545,9 @@
     "$10 NV vehicles / $15 non-resident; hike itself is free.",
     "Trails cross water and mud."
    ],
-   "id": "la-a-long-walk-through-history-2026-11-21"
+   "id": "la-a-long-walk-through-history-2026-11-21",
+   "lat": 36.06959,
+   "lng": -115.45759
   },
   {
    "name": "Sketch Scribble Discover (Nature Journaling)",
@@ -499,7 +563,9 @@
    "know": [
     "Included with park entry ($10 NV / $15 non-resident vehicle)."
    ],
-   "id": "la-sketch-scribble-discover-nature-journaling"
+   "id": "la-sketch-scribble-discover-nature-journaling",
+   "lat": 36.06959,
+   "lng": -115.45759
   },
   {
    "name": "Gingerbread Craft Boutique",
@@ -511,7 +577,9 @@
    "date": "2026-11-22",
    "note": "65+ crafters. Free admission and parking.",
    "description": "An indoor craft show with 65+ creative artists, crafters and vendors selling original crafts, gifts and cottage foods. Admission and parking are free.",
-   "id": "la-gingerbread-craft-boutique-2026-11-22"
+   "id": "la-gingerbread-craft-boutique-2026-11-22",
+   "lat": 36.29256,
+   "lng": -115.18014
   },
   {
    "name": "Neon City Festival",
@@ -524,7 +592,9 @@
    "end": "2026-11-22",
    "note": "Free, all-ages downtown music and culinary festival.",
    "description": "The free, all-ages Neon City Festival returns downtown for its third year across the Fremont Street Experience's three stages and the Downtown Las Vegas Events Center. Announced headliners include Fat Joe, Kaskade, Marshmello, Subtronics and The Fray.",
-   "id": "la-neon-city-festival-2026-11-20"
+   "id": "la-neon-city-festival-2026-11-20",
+   "lat": 36.17048,
+   "lng": -115.14353
   },
   {
    "name": "Las Vegas Veterans Day Parade",
@@ -549,7 +619,9 @@
    "end": "2026-11-14",
    "note": "Free family event (formerly Helldorado Days).",
    "description": "An annual cowboy-themed event celebrating Las Vegas' Wild West past, with bull riding, barrel racing, roping and bronc riding. Listed as free for the whole family.",
-   "id": "la-las-vegas-days-rodeo-2026-11-13"
+   "id": "la-las-vegas-days-rodeo-2026-11-13",
+   "lat": 36.17159,
+   "lng": -115.14709
   },
   {
    "name": "NFR Cowboy Christmas Gift Show",
@@ -567,7 +639,9 @@
    ],
    "id": "la-cowboy-christmas",
    "end": "2026-12-12",
-   "convention": true
+   "convention": true,
+   "lat": 36.13102,
+   "lng": -115.15018
   },
   {
    "name": "RMEF Hunter & Outdoor Christmas Expo",
@@ -585,7 +659,9 @@
    ],
    "id": "la-rmef-hunter-outdoor-christmas-expo",
    "end": "2026-12-12",
-   "convention": true
+   "convention": true,
+   "lat": 36.13102,
+   "lng": -115.15018
   },
   {
    "name": "CES 2027",
@@ -605,7 +681,9 @@
    "end": "2027-01-09",
    "price": "Industry only · registration required",
    "convention": true,
-   "industry": true
+   "industry": true,
+   "lat": 36.13102,
+   "lng": -115.15018
   },
   {
    "name": "MJBizCon 2026",
@@ -624,7 +702,9 @@
    "end": "2026-12-04",
    "price": "Industry only · registration required",
    "convention": true,
-   "industry": true
+   "industry": true,
+   "lat": 36.13102,
+   "lng": -115.15018
   },
   {
    "name": "LDI Show 2026",
@@ -643,7 +723,9 @@
    "end": "2026-12-08",
    "price": "Industry only · registration required",
    "convention": true,
-   "industry": true
+   "industry": true,
+   "lat": 36.13102,
+   "lng": -115.15018
   },
   {
    "name": "World of Concrete 2027",
@@ -662,7 +744,9 @@
    "end": "2027-01-21",
    "price": "Industry only · registration required",
    "convention": true,
-   "industry": true
+   "industry": true,
+   "lat": 36.13102,
+   "lng": -115.15018
   },
   {
    "name": "KBIS 2027 (Kitchen & Bath Industry Show)",
@@ -681,7 +765,9 @@
    "end": "2027-02-04",
    "price": "Industry only · registration required",
    "convention": true,
-   "industry": true
+   "industry": true,
+   "lat": 36.13102,
+   "lng": -115.15018
   },
   {
    "name": "NAHB International Builders' Show 2027",
@@ -700,7 +786,9 @@
    "end": "2027-02-04",
    "price": "Industry only · registration required",
    "convention": true,
-   "industry": true
+   "industry": true,
+   "lat": 36.13102,
+   "lng": -115.15018
   },
   {
    "name": "International Roofing Expo 2027",
@@ -720,7 +808,9 @@
    "end": "2027-02-18",
    "price": "Industry only · registration required",
    "convention": true,
-   "industry": true
+   "industry": true,
+   "lat": 36.13102,
+   "lng": -115.15018
   },
   {
    "name": "TPE 2027 (Total Product Expo)",
@@ -739,7 +829,9 @@
    "end": "2027-02-26",
    "price": "Industry only · registration required",
    "convention": true,
-   "industry": true
+   "industry": true,
+   "lat": 36.13102,
+   "lng": -115.15018
   },
   {
    "name": "Wedding MBA 2026",
@@ -759,7 +851,9 @@
    "end": "2026-11-19",
    "price": "Wedding pros · tickets ~$259–$459",
    "convention": true,
-   "industry": true
+   "industry": true,
+   "lat": 36.13102,
+   "lng": -115.15018
   },
   {
    "name": "RE+ 2026",
@@ -778,7 +872,9 @@
    "end": "2026-11-19",
    "price": "Industry only · registration required",
    "convention": true,
-   "industry": true
+   "industry": true,
+   "lat": 36.13102,
+   "lng": -115.15018
   },
   {
    "name": "Trunk or Treat at ER at South Summerlin",
@@ -790,7 +886,9 @@
    "date": "2026-10-30",
    "note": "Free; no registration needed.",
    "description": "A free Halloween event with games, treats and tours of the ER. Registration isn't required, so bring family and friends.",
-   "id": "la-trunk-or-treat-at-er-at-south-summerlin-eb"
+   "id": "la-trunk-or-treat-at-er-at-south-summerlin-eb",
+   "lat": 36.1287,
+   "lng": -115.29773
   },
   {
    "name": "WALK Church Trunk or Treat",
@@ -802,7 +900,9 @@
    "date": "2026-10-30",
    "note": "Free; costumes encouraged.",
    "description": "A free community trunk-or-treat on the Schofield Middle School blacktop. Kids collect candy from decorated car trunks, with games, raffles, prizes and free food.",
-   "id": "la-walk-church-trunk-or-treat-eb"
+   "id": "la-walk-church-trunk-or-treat-eb",
+   "lat": 36.03292,
+   "lng": -115.12842
   },
   {
    "name": "Sin City Anime 2026",
@@ -816,7 +916,9 @@
    "price": "$15–$108",
    "note": "Tickets on Eventbrite.",
    "description": "Las Vegas's locally run anime convention, now in its 6th year at The Orleans. Three days of cosplay, voice-actor and cosplay guests, an exhibitor hall of anime merch and art, performances and free-play video game arcades.",
-   "id": "la-sin-city-anime-2026-eb"
+   "id": "la-sin-city-anime-2026-eb",
+   "lat": 36.10583,
+   "lng": -115.20225
   },
   {
    "name": "Night Market at Tivoli Village",
@@ -828,7 +930,9 @@
    "date": "2026-11-14",
    "note": "Free to browse.",
    "description": "Browse aisle after aisle of handcrafted goods at the Las Vegas Night Market at Tivoli Village. Vendors sell decorations, clothing, ceramics, candles, photography, jewelry, specialty foods and more.",
-   "id": "la-night-market-at-tivoli-village"
+   "id": "la-night-market-at-tivoli-village",
+   "lat": 36.16746,
+   "lng": -115.28733
   },
   {
    "name": "Nutcracker Night Market at Tivoli Village",
@@ -849,7 +953,13 @@
      "2026-12-17"
     ]
    },
-   "id": "la-nutcracker-night-market-at-tivoli-village"
+   "id": "la-nutcracker-night-market-at-tivoli-village",
+   "lat": 36.16746,
+   "lng": -115.28733
   }
+ ],
+ "center": [
+  36.1674263,
+  -115.1484131
  ]
 }

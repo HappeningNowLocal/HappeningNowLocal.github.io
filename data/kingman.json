@@ -11,7 +11,9 @@
    "source": "https://www.kingmanchamber.com/first-fridays",
    "date": "2026-11-06",
    "description": "The last Downtown First Friday of the season, themed Giving Thanks & Giving Back, on Beale Street.",
-   "id": "ki-downtown-first-friday-giving-thanks-giving-back-2026-11-06"
+   "id": "ki-downtown-first-friday-giving-thanks-giving-back-2026-11-06",
+   "lat": 35.19454,
+   "lng": -114.07334
   },
   {
    "name": "Route 66 UltraRun",
@@ -23,7 +25,9 @@
    "date": "2026-11-13",
    "end": "2026-11-15",
    "description": "An ultramarathon along historic Route 66 between Kingman and Seligman, listed among Kingman's signature annual events.",
-   "id": "ki-route-66-ultrarun-2026-11-13"
+   "id": "ki-route-66-ultrarun-2026-11-13",
+   "lat": 35.19001,
+   "lng": -114.03498
   },
   {
    "name": "Kingman Veterans Day Parade",
@@ -34,7 +38,9 @@
    "source": "https://www.explorekingman.com/2026-11-14-event-verterans-day-parade/",
    "date": "2026-11-14",
    "description": "Kingman's Veterans Day parade down Beale Street in historic downtown, organized with the Kingman Area Veterans Association.",
-   "id": "ki-kingman-veterans-day-parade-2026-11-14"
+   "id": "ki-kingman-veterans-day-parade-2026-11-14",
+   "lat": 35.18755,
+   "lng": -114.04291
   },
   {
    "name": "Gobble Wobble in the Pai's 5K/10K",
@@ -46,7 +52,9 @@
    "date": "2026-11-14",
    "note": "Entry fee; see registration page.",
    "description": "Hualapai Mountain Park's 3rd annual Gobble Wobble trail race with 5K and 10K options. Race-day registration closes at 8:30am.",
-   "id": "ki-gobble-wobble-in-the-pai-s-5k-10k-2026-11-14"
+   "id": "ki-gobble-wobble-in-the-pai-s-5k-10k-2026-11-14",
+   "lat": 35.09361,
+   "lng": -113.89304
   },
   {
    "name": "Chillin' on Beale",
@@ -57,7 +65,9 @@
    "source": "https://www.explorekingman.com/2026-event-chillin-on-beale/",
    "date": "2026-11-21",
    "description": "Downtown Kingman's monthly third-Saturday street gathering on Beale Street, in its final month of the season.",
-   "id": "ki-chillin-on-beale-2026-11-21"
+   "id": "ki-chillin-on-beale-2026-11-21",
+   "lat": 35.19454,
+   "lng": -114.07334
   },
   {
    "name": "Radar Hill Tree Lighting",
@@ -68,7 +78,9 @@
    "source": "https://www.explorekingman.com/2026-11-27-event-radar-hill-tree-lighting/",
    "date": "2026-11-27",
    "description": "Kingman Chamber of Commerce and Kingman Premier Properties light the Radar Hill tree. Kids' games, food trucks, free hot cocoa and cookies, and holiday singing. Park off Johnson Ave and Hall St behind Walgreens.",
-   "id": "ki-radar-hill-tree-lighting-2026-11-27"
+   "id": "ki-radar-hill-tree-lighting-2026-11-27",
+   "lat": 35.20634,
+   "lng": -114.0343
   },
   {
    "name": "Mingle Jingle Christmas Bazaar",
@@ -79,7 +91,9 @@
    "source": "https://www.kingmandowntownmerchantsassociation.com/mingle-jingle",
    "date": "2026-12-05",
    "description": "A free bazaar of handmade gifts in fabric, wood, ceramic and glass, plus jewelry, candles, jams, baked goods and quilts. Santa visits from 1 to 4pm for photos.",
-   "id": "ki-mingle-jingle-christmas-bazaar-2026-12-05"
+   "id": "ki-mingle-jingle-christmas-bazaar-2026-12-05",
+   "lat": 35.18974,
+   "lng": -114.05301
   },
   {
    "name": "Very Merry Street of Lights",
@@ -90,7 +104,9 @@
    "source": "https://www.kingmandowntownmerchantsassociation.com/street-of-lights",
    "date": "2026-12-05",
    "description": "Six blocks of Beale Street fill with dozens of decorated floats and vehicles, vendors, lights and entertainment. Santa arrives by helicopter at 1st and Beale at 5pm, and the city's tree lighting is at Locomotive Park at 6pm. Walking event only.",
-   "id": "ki-very-merry-street-of-lights-2026-12-05"
+   "id": "ki-very-merry-street-of-lights-2026-12-05",
+   "lat": 35.19454,
+   "lng": -114.07334
   },
   {
    "name": "Downtown Cookie Crawl",
@@ -102,7 +118,9 @@
    "date": "2026-12-12",
    "note": "Check the Chamber for ticket details.",
    "description": "Grab a cookie container and stroll downtown, collecting holiday cookies from participating businesses. Hosted by the Kingman Area Chamber of Commerce.",
-   "id": "ki-downtown-cookie-crawl-2026-12-12"
+   "id": "ki-downtown-cookie-crawl-2026-12-12",
+   "lat": 35.18999,
+   "lng": -114.0539
   },
   {
    "name": "Sound the Alarm – Free Smoke Alarm Installs",
@@ -114,7 +132,13 @@
    "date": "2026-11-14",
    "note": "Free; volunteer sign-up.",
    "description": "An American Red Cross volunteer day installing free smoke alarms in local homes, making escape plans and sharing fire safety information. Sign up on Eventbrite to volunteer.",
-   "id": "ki-sound-the-alarm-free-smoke-alarm-installs-eb"
+   "id": "ki-sound-the-alarm-free-smoke-alarm-installs-eb",
+   "lat": 35.2075,
+   "lng": -114.3071
   }
+ ],
+ "center": [
+  35.1895921,
+  -114.0532996
  ]
 }

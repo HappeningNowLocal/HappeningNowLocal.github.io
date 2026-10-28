@@ -12,7 +12,9 @@
    "date": "2026-11-08",
    "note": "Free; 40+ artists and makers.",
    "description": "For more than 25 years the Hanukkah Market has kicked off the holiday season at the JCC, with 40+ artists and makers, good food and activities for kids. Everyone is welcome and admission is free.",
-   "id": "sl-hanukkah-market-2026-11-08"
+   "id": "sl-hanukkah-market-2026-11-08",
+   "lat": 40.77363,
+   "lng": -111.83957
   },
   {
    "name": "SLC Winter Farmers Market",
@@ -29,7 +31,9 @@
    },
    "note": "Every Saturday, indoors.",
    "description": "An indoor winter farmers market with local produce, prepared foods and artisan goods every Saturday at the Rio Grande Depot. Free to attend.",
-   "id": "sl-slc-winter-farmers-market"
+   "id": "sl-slc-winter-farmers-market",
+   "lat": 40.75857,
+   "lng": -111.85249
   },
   {
    "name": "Around the World Holiday Market",
@@ -41,7 +45,9 @@
    "date": "2026-11-19",
    "note": "Tree lighting, international food and performances.",
    "description": "South Salt Lake Arts turns the Historic Scott School into an international holiday market with local artisans, live music and dance, small bites and warm drinks from many cultures. Includes a tree lighting ceremony and kids' crafts.",
-   "id": "sl-around-the-world-holiday-market-2026-11-19"
+   "id": "sl-around-the-world-holiday-market-2026-11-19",
+   "lat": 40.7536,
+   "lng": -111.87528
   },
   {
    "name": "Yule Fairs at Crone's Hollow",
@@ -59,7 +65,9 @@
    },
    "note": "Free; different vendors each week.",
    "description": "A three-Saturday series of Yule vendor fairs with handcrafted goods and magical treasures from local artisans. Dec 5 brings the Holly King and Krampus; Dec 12 has a Father and Mother Yule photo booth.",
-   "id": "sl-yule-fairs-at-crone-s-hollow"
+   "id": "sl-yule-fairs-at-crone-s-hollow",
+   "lat": 40.72958,
+   "lng": -111.8911
   },
   {
    "name": "Christkindlmarkt SLC",
@@ -71,7 +79,9 @@
    "date": "2026-12-02",
    "note": "Free; multi-day — check source for all dates.",
    "description": "Inspired by Germany's famous Christmas markets, Christkindlmarkt SLC offers holiday shopping, food and festive entertainment. Free to the public.",
-   "id": "sl-christkindlmarkt-slc-2026-12-02"
+   "id": "sl-christkindlmarkt-slc-2026-12-02",
+   "lat": 40.75094,
+   "lng": -111.81651
   },
   {
    "name": "Fun Science Friday",
@@ -90,7 +100,9 @@
    },
    "note": "Free, no registration. Nov 13 theme: Dark Skies.",
    "description": "Free hands-on science projects every Friday at Clark Planetarium. November topics are tornadoes, dark skies, space toilet science and the life cycle of stars.",
-   "id": "sl-fun-science-friday"
+   "id": "sl-fun-science-friday",
+   "lat": 40.75765,
+   "lng": -111.90263
   },
   {
    "name": "The Shoshone Plant Experience",
@@ -103,7 +115,9 @@
    "date": "2026-11-18",
    "note": "Monthly plant walk, 3rd Wednesdays.",
    "description": "A plant walk with Rios Pacheco (Northwest Shoshone/Kewa Pueblo), sharing the NWB Shoshone language and traditional uses of native plants for medicine, food and shelter. Free with Tracy Aviary admission.",
-   "id": "sl-the-shoshone-plant-experience-2026-11-18"
+   "id": "sl-the-shoshone-plant-experience-2026-11-18",
+   "lat": 40.74161,
+   "lng": -111.88876
   },
   {
    "name": "Working of the Bison",
@@ -117,7 +131,9 @@
    "end": "2026-10-29",
    "note": "Free public tours of the annual bison roundup.",
    "description": "During the Working of the Bison, Antelope Island's bison are sorted one at a time for vaccinations and health screenings. Free public tours are offered.",
-   "id": "sl-working-of-the-bison-2026-10-27"
+   "id": "sl-working-of-the-bison-2026-10-27",
+   "lat": 40.97241,
+   "lng": -112.21124
   },
   {
    "name": "Bird Walk at Fielding Garr Ranch",
@@ -136,7 +152,9 @@
    },
    "note": "Weekly Wednesdays; binoculars to borrow.",
    "description": "Walk the ranch's densely populated wetland in search of your bucket-list bird. Binoculars are available to borrow; no extra charge beyond park entry.",
-   "id": "sl-bird-walk-at-fielding-garr-ranch"
+   "id": "sl-bird-walk-at-fielding-garr-ranch",
+   "lat": 40.92508,
+   "lng": -112.16893
   },
   {
    "name": "Camp Floyd Walking Tour",
@@ -149,7 +167,9 @@
    "date": "2026-11-28",
    "note": "About an hour from SLC. Reserve: campfloyd@utah.gov.",
    "description": "A guided walking tour of Camp Floyd and Fairfield, including the commissary, historic Fairfield School and Stagecoach Inn.",
-   "id": "sl-camp-floyd-walking-tour-2026-11-28"
+   "id": "sl-camp-floyd-walking-tour-2026-11-28",
+   "lat": 40.72958,
+   "lng": -111.8911
   },
   {
    "name": "Spirit of the Season at Camp Floyd",
@@ -162,7 +182,9 @@
    "date": "2026-12-12",
    "note": "Holiday decorations and a Santa visit.",
    "description": "See how the soldiers of Camp Floyd celebrated the winter holidays, tour the Commissary and the Inn decorated for the season, and visit with Santa Claus.",
-   "id": "sl-spirit-of-the-season-at-camp-floyd-2026-12"
+   "id": "sl-spirit-of-the-season-at-camp-floyd-2026-12",
+   "lat": 40.25247,
+   "lng": -112.09895
   },
   {
    "name": "Monster Dash 5K",
@@ -175,7 +197,9 @@
    "price": "Free–$75",
    "note": "Registration on Eventbrite.",
    "description": "A costume-friendly 5K run or walk supporting teens affected by foster care and homelessness. After the race there's free trick-or-treating for kids, games, food, music and a costume contest.",
-   "id": "sl-monster-dash-5k-eb"
+   "id": "sl-monster-dash-5k-eb",
+   "lat": 40.70879,
+   "lng": -111.86546
   },
   {
    "name": "Yoga Forward Gratitude Fest",
@@ -187,7 +211,9 @@
    "date": "2026-11-07",
    "note": "Free.",
    "description": "A free, family-friendly day of yoga, meditation, mindfulness, sound baths and kids' activities running every hour. Browse local vendors and enter hourly prize drawings that support Yoga Forward's community programs.",
-   "id": "sl-yoga-forward-gratitude-fest-eb"
+   "id": "sl-yoga-forward-gratitude-fest-eb",
+   "lat": 40.70391,
+   "lng": -111.97496
   },
   {
    "name": "Folk Arts Workshop: Navajo Sandpainting",
@@ -200,7 +226,9 @@
    "price": "$10",
    "note": "Registration on Eventbrite.",
    "description": "Navajo beadworker and cultural educator Lapita Frewin shares the history of sandpainting, then guides participants in making their own piece with non-sacred symbols to take home.",
-   "id": "sl-folk-arts-workshop-navajo-sandpainting-eb"
+   "id": "sl-folk-arts-workshop-navajo-sandpainting-eb",
+   "lat": 40.74553,
+   "lng": -111.87441
   },
   {
    "name": "Great Gray Owls – Audubon Fall Forum",
@@ -212,7 +240,9 @@
    "date": "2026-11-05",
    "note": "Free; register on Eventbrite.",
    "description": "Great Salt Lake Audubon's 15th annual Fall Forum features Dr. Katherine Gura on her long-term study of the Great Gray Owl. Learn about its behavior, breeding, movements and conservation challenges.",
-   "id": "sl-great-gray-owls-audubon-fall-forum-eb"
+   "id": "sl-great-gray-owls-audubon-fall-forum-eb",
+   "lat": 40.73135,
+   "lng": -111.85553
   },
   {
    "name": "Science Utah: Moon Bases & Mars Cities",
@@ -224,7 +254,9 @@
    "date": "2026-11-12",
    "note": "Free; register on Eventbrite.",
    "description": "A Science Utah lecture at Clark Planetarium on humanity's future in space, from Moon settlements to interstellar travel. It blends real science with informed speculation about where exploration goes next.",
-   "id": "sl-science-utah-moon-bases-mars-cities-eb"
+   "id": "sl-science-utah-moon-bases-mars-cities-eb",
+   "lat": 40.74262,
+   "lng": -111.90256
   },
   {
    "name": "Dolly & Denim at the Utah Capitol",
@@ -236,7 +268,13 @@
    "date": "2026-11-16",
    "note": "Free; RSVP on Eventbrite.",
    "description": "A free party for early literacy supporting Dolly Parton's Imagination Library in Utah. It features a conversation with Sheri Dew and live music, and guests are invited to come in their best Dolly-inspired denim.",
-   "id": "sl-dolly-denim-at-the-utah-capitol-eb"
+   "id": "sl-dolly-denim-at-the-utah-capitol-eb",
+   "lat": 40.77218,
+   "lng": -111.88833
   }
+ ],
+ "center": [
+  40.7596198,
+  -111.886797
  ]
 }

@@ -12,7 +12,9 @@
    "date": "2026-11-07",
    "note": "Grand Entry 1pm. Free.",
    "description": "A full-day celebration of Native culture with traditional powwow dancing and songs, Indian tacos and fry bread, and vendors selling Native arts and crafts. Free and open to the public.",
-   "id": "lac-autry-pow-wow-2026-11-07"
+   "id": "lac-autry-pow-wow-2026-11-07",
+   "lat": 34.14853,
+   "lng": -118.28218
   },
   {
    "name": "Griffith Observatory Public Star Party",
@@ -29,7 +31,9 @@
    },
    "note": "Free, dozens of telescopes.",
    "description": "Volunteers from the LA Astronomical Society, LA Sidewalk Astronomers and The Planetary Society set up dozens of telescopes to view the Sun, Moon and planets. Lines close so all viewing ends by 9:45 p.m.",
-   "id": "lac-griffith-observatory-public-star-party"
+   "id": "lac-griffith-observatory-public-star-party",
+   "lat": 34.11822,
+   "lng": -118.30029
   },
   {
    "name": "Griffith Park Sunset Walk & Talk",
@@ -41,7 +45,9 @@
    "date": "2026-11-14",
    "note": "2.25 mi, 375 ft gain, moderate.",
    "description": "Observatory staff, urban ecologists and Griffith Park Rangers lead a sunset hike up the Boy Scout Trail to the Berlin Forest. Stops cover park history and objects visible in the evening sky.",
-   "id": "lac-griffith-park-sunset-walk-talk-2026-11-14"
+   "id": "lac-griffith-park-sunset-walk-talk-2026-11-14",
+   "lat": 34.11756,
+   "lng": -118.29249
   },
   {
    "name": "Neighborhood Sing (LAPL)",
@@ -59,7 +65,9 @@
    },
    "note": "Weekly free drop-in.",
    "description": "A free weekly drop-in community music workshop with participatory singing and mindfulness activities, led by local teaching artists.",
-   "id": "lac-neighborhood-sing-lapl"
+   "id": "lac-neighborhood-sing-lapl",
+   "lat": 34.16567,
+   "lng": -118.3794
   },
   {
    "name": "Citadel Outlets Tree Lighting Concert",
@@ -70,7 +78,9 @@
    "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
    "date": "2026-11-07",
    "description": "Santa lights what the Citadel bills as the world's tallest live-cut Christmas tree at the free 25th annual Tree Lighting Concert.",
-   "id": "lac-citadel-outlets-tree-lighting-concert-2026"
+   "id": "lac-citadel-outlets-tree-lighting-concert-2026",
+   "lat": 34.00591,
+   "lng": -118.15284
   },
   {
    "name": "Sparkle DTLA Light Show",
@@ -83,7 +93,9 @@
    "end": "2026-12-31",
    "note": "Grand Debut Nov 14 (RSVP).",
    "description": "Millions of lights dance to holiday music in a free nightly show at The Bloc. All ages (and dogs) welcome.",
-   "id": "lac-sparkle-dtla-light-show-2026-11-14"
+   "id": "lac-sparkle-dtla-light-show-2026-11-14",
+   "lat": 34.04818,
+   "lng": -118.25883
   },
   {
    "name": "Hollywood Christmas Parade",
@@ -106,7 +118,9 @@
    "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
    "date": "2026-12-05",
    "description": "About 100 entries and more than a dozen marching bands fill 2nd Street for the 42nd annual parade, themed 'Light up the Night!'",
-   "id": "lac-belmont-shore-christmas-parade-2026-12-05"
+   "id": "lac-belmont-shore-christmas-parade-2026-12-05",
+   "lat": 33.76506,
+   "lng": -118.15985
   },
   {
    "name": "Montrose Christmas Parade",
@@ -117,7 +131,9 @@
    "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
    "date": "2026-12-05",
    "description": "More than 150 groups march down Honolulu Avenue, and Santa flies by in a Glendale Police helicopter.",
-   "id": "lac-montrose-christmas-parade-2026-12-05"
+   "id": "lac-montrose-christmas-parade-2026-12-05",
+   "lat": 34.20509,
+   "lng": -118.22683
   },
   {
    "name": "Christmas Tree Lane Lighting",
@@ -151,7 +167,9 @@
    "date": "2026-12-06",
    "note": "Menorah lighting 5pm.",
    "description": "Music, kids' crafts and a menorah lighting for the third night of Hanukkah at the Original Farmers Market.",
-   "id": "lac-chanukah-celebration-at-the-original-farme"
+   "id": "lac-chanukah-celebration-at-the-original-farme",
+   "lat": 34.07218,
+   "lng": -118.35954
   },
   {
    "name": "Marina del Rey Holiday Boat Parade",
@@ -163,7 +181,9 @@
    "date": "2026-12-12",
    "note": "Rain or shine.",
    "description": "The 64th annual parade of decorated boats, with carolers, food trucks, a photo booth and kids' art corner in Burton Chace Park and a light show at 5:45 p.m.",
-   "id": "lac-marina-del-rey-holiday-boat-parade-2026-12"
+   "id": "lac-marina-del-rey-holiday-boat-parade-2026-12",
+   "lat": 33.97819,
+   "lng": -118.44316
   },
   {
    "name": "Redondo Beach Pier Holiday Celebration",
@@ -174,7 +194,9 @@
    "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
    "date": "2026-12-12",
    "description": "A free afternoon with a holiday concert, carolers, crafts, a photo station and a Candy Cane Lane treat hunt.",
-   "id": "lac-redondo-beach-pier-holiday-celebration-202"
+   "id": "lac-redondo-beach-pier-holiday-celebration-202",
+   "lat": 33.83973,
+   "lng": -118.39266
   },
   {
    "name": "Manhattan Beach Holiday Fireworks",
@@ -185,7 +207,9 @@
    "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
    "date": "2026-12-13",
    "description": "The 38th annual celebration with carolers, local bands, Santa's float, a Snow Park and fireworks over the pier.",
-   "id": "lac-manhattan-beach-holiday-fireworks-2026-12-"
+   "id": "lac-manhattan-beach-holiday-fireworks-2026-12-",
+   "lat": 33.88387,
+   "lng": -118.41324
   },
   {
    "name": "L.A. County Holiday Celebration",
@@ -197,7 +221,9 @@
    "date": "2026-12-20",
    "note": "Free tickets available starting Dec 8.",
    "description": "Southern California's largest free holiday show features folklórico, gospel, mariachi, klezmer, Filipino and Indian dance ensembles. For the first time there are two 90-minute shows.",
-   "id": "lac-l-a-county-holiday-celebration-2026-12-20"
+   "id": "lac-l-a-county-holiday-celebration-2026-12-20",
+   "lat": 34.05661,
+   "lng": -118.24892
   },
   {
    "name": "Boonion Station",
@@ -209,7 +235,9 @@
    "date": "2026-10-31",
    "note": "Free; no tickets required.",
    "description": "Union Station's free 7th annual family Halloween bash. Expect balloon artists, face painting, crafts, Treats-on-Track trick-or-treating with Metro and LAPD, stilt walkers and a costume contest for all ages.",
-   "id": "lac-boonion-station-eb"
+   "id": "lac-boonion-station-eb",
+   "lat": 34.05616,
+   "lng": -118.23552
   },
   {
    "name": "Trick or Treat Hollywood",
@@ -221,7 +249,9 @@
    "date": "2026-10-31",
    "note": "Free.",
    "description": "A free family Halloween street festival with trick-or-treat stations, pumpkin carving, a costume contest with prizes, sing-alongs, face painting and games.",
-   "id": "lac-trick-or-treat-hollywood-eb"
+   "id": "lac-trick-or-treat-hollywood-eb",
+   "lat": 34.09651,
+   "lng": -118.29473
   },
   {
    "name": "Paws & Pages Storytime at PetSpace",
@@ -233,7 +263,9 @@
    "date": "2026-10-31",
    "note": "Free; RSVP encouraged. Every Saturday.",
    "description": "A weekly Saturday pet-themed storytime with a hands-on craft and a chance to meet an adoptable pet or ambassador animal. Leashed, well-behaved dogs are welcome on the first floor.",
-   "id": "lac-paws-pages-storytime-at-petspace-eb"
+   "id": "lac-paws-pages-storytime-at-petspace-eb",
+   "lat": 33.9747,
+   "lng": -118.41565
   },
   {
    "name": "Self Help Graphics Día de los Muertos",
@@ -245,7 +277,9 @@
    "date": "2026-11-07",
    "note": "Free.",
    "description": "Self Help Graphics & Art's 53rd annual Día de los Muertos celebration in Boyle Heights. There's live music and dance as ofrendas to ancestors, community altars, art and food vendors, and art activities.",
-   "id": "lac-self-help-graphics-d-a-de-los-muertos-eb"
+   "id": "lac-self-help-graphics-d-a-de-los-muertos-eb",
+   "lat": 33.76643,
+   "lng": -118.17523
   },
   {
    "name": "Rose Bowl Flea Market",
@@ -258,7 +292,9 @@
    "price": "$16.88–$24.29",
    "note": "Tickets online only; no onsite sales.",
    "description": "The famous Rose Bowl Flea Market, held the second Sunday of every month, has over 2,500 vendors selling antiques, vintage finds and new goods. Early-bird entry runs 5–8:45am and general admission 9am–3pm.",
-   "id": "lac-rose-bowl-flea-market-eb"
+   "id": "lac-rose-bowl-flea-market-eb",
+   "lat": 34.16135,
+   "lng": -118.16767
   },
   {
    "name": "Lens on Life Film Screening (CD13)",
@@ -270,7 +306,9 @@
    "date": "2026-11-18",
    "note": "Free; RSVP on Eventbrite.",
    "description": "A free monthly screening series from Council District 13 and the Department of Cultural Affairs, held the third Wednesday of each month. Each program pairs films on a local issue with a conversation with experts afterward.",
-   "id": "lac-lens-on-life-film-screening-cd13-eb"
+   "id": "lac-lens-on-life-film-screening-cd13-eb",
+   "lat": 34.10169,
+   "lng": -118.29466
   },
   {
    "name": "Winter Festival Toy Distribution & Health Fair",
@@ -285,7 +323,13 @@
    "know": [
     "Haircuts limited to the first 200 people."
    ],
-   "id": "lac-winter-festival-toy-distribution-health-eb"
+   "id": "lac-winter-festival-toy-distribution-health-eb",
+   "lat": 33.97263,
+   "lng": -118.20579
   }
+ ],
+ "center": [
+  34.0536923,
+  -118.2427676
  ]
 }

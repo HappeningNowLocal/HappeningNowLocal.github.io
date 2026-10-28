@@ -25,7 +25,9 @@
     "No market Nov 14.",
     "Free street parking and nearby public lots."
    ],
-   "id": "st-downtown-farmers-market"
+   "id": "st-downtown-farmers-market",
+   "lat": 37.10296,
+   "lng": -113.57491
   },
   {
    "name": "MOD the Modern Market",
@@ -40,7 +42,9 @@
    "know": [
     "Free admission."
    ],
-   "id": "st-mod-the-modern-market"
+   "id": "st-mod-the-modern-market",
+   "lat": 37.10381,
+   "lng": -113.57589
   },
   {
    "name": "Concerts at the Electric: The Bombshell Flowers",
@@ -84,7 +88,9 @@
    "know": [
     "The event is free, but standard carousel fees apply."
    ],
-   "id": "st-kickoff-to-christmas"
+   "id": "st-kickoff-to-christmas",
+   "lat": 37.11101,
+   "lng": -113.58395
   },
   {
    "name": "Dickens' Christmas Festival",
@@ -103,7 +109,9 @@
     "Tickets online or onsite; 4-day passes $20 onsite."
    ],
    "id": "st-dickens-christmas-festival",
-   "convention": true
+   "convention": true,
+   "lat": 37.07713,
+   "lng": -113.5822
   },
   {
    "name": "North Pole Express",
@@ -133,7 +141,9 @@
     "$12 per person; ages 2 and under free.",
     "Limit 10 tickets per account."
    ],
-   "id": "st-north-pole-express"
+   "id": "st-north-pole-express",
+   "lat": 37.07747,
+   "lng": -113.60022
   },
   {
    "name": "Light the Night",
@@ -145,7 +155,9 @@
    "date": "2026-12-05",
    "note": "Make a luminary, cocoa, crafts, live music and the new winter exhibits.",
    "description": "The St. George Art Museum opens its winter exhibitions with hot chocolate, donuts, crafts and live music. Make a luminary for the courtyard and meet the incoming artists.",
-   "id": "st-light-the-night"
+   "id": "st-light-the-night",
+   "lat": 37.11188,
+   "lng": -113.58231
   },
   {
    "name": "Batty and Beautiful Bat Hike",
@@ -158,7 +170,9 @@
    "date": "2026-10-30",
    "note": "Registration required: (435) 628-2255.",
    "description": "A moderate ranger-led hike at Snow Canyon State Park to learn about the beauty of bats. Register by phone or in person at the Snow Canyon Visitor Center.",
-   "id": "st-batty-and-beautiful-bat-hike-2026-10-30"
+   "id": "st-batty-and-beautiful-bat-hike-2026-10-30",
+   "lat": 37.1957,
+   "lng": -113.64952
   },
   {
    "name": "Snow Canyon Trunk or Treat",
@@ -171,7 +185,9 @@
    "date": "2026-10-31",
    "note": "Costumes welcome; no registration.",
    "description": "Wear your costume and bring a candy bag for trick-or-treating around the Snow Canyon campground lawn, with spooky crafts and ranger-led activities.",
-   "id": "st-snow-canyon-trunk-or-treat-2026-10-31"
+   "id": "st-snow-canyon-trunk-or-treat-2026-10-31",
+   "lat": 37.1957,
+   "lng": -113.64952
   },
   {
    "name": "Winged Wonders Bird Watch",
@@ -189,7 +205,9 @@
    },
    "note": "Binoculars provided.",
    "description": "Over 250 bird species visit the Sand Hollow reservoir each year. Bring a chair or blanket and join a park ranger near the jetty to spot them; binoculars are provided.",
-   "id": "st-winged-wonders-bird-watch"
+   "id": "st-winged-wonders-bird-watch",
+   "lat": 37.11296,
+   "lng": -113.3748
   },
   {
    "name": "Ranger-led Stargazing in Zion",
@@ -205,7 +223,9 @@
    "know": [
     "Park entrance fees apply."
    ],
-   "id": "st-ranger-led-stargazing-in-zion-2026-11-01"
+   "id": "st-ranger-led-stargazing-in-zion-2026-11-01",
+   "lat": 37.20447,
+   "lng": -112.98111
   },
   {
    "name": "Love Local Holiday Market",
@@ -217,7 +237,9 @@
    "date": "2026-11-07",
    "note": "Free; Santa photos, food trucks, free bounce houses.",
    "description": "A free Christmas-themed market with local vendors, food trucks, photo ops, giveaways and pictures with Santa. Bounce houses are free for kids.",
-   "id": "st-love-local-holiday-market-2026-11-07"
+   "id": "st-love-local-holiday-market-2026-11-07",
+   "lat": 37.07713,
+   "lng": -113.5822
   },
   {
    "name": "Campfire Chat with s'mores",
@@ -230,7 +252,9 @@
    "date": "2026-11-09",
    "note": "S'mores provided; bring chairs and cocoa.",
    "description": "Join a park ranger for an evening around the fire at Sand Hollow. Bring chairs; s'mores are provided by Lin's in Hurricane.",
-   "id": "st-campfire-chat-with-s-mores-2026-11-09"
+   "id": "st-campfire-chat-with-s-mores-2026-11-09",
+   "lat": 37.11296,
+   "lng": -113.3748
   },
   {
    "name": "Fee-Free Day at Zion (Veterans Day)",
@@ -242,7 +266,9 @@
    "date": "2026-11-11",
    "note": "Entrance fee waived for U.S. residents.",
    "description": "Veterans Day is a National Park Service fee-free day, so Zion's entrance fee is waived for U.S. citizens and residents. Other fees, like camping, still apply.",
-   "id": "st-fee-free-day-at-zion-veterans-day-2026-11-"
+   "id": "st-fee-free-day-at-zion-veterans-day-2026-11-",
+   "lat": 37.32217,
+   "lng": -113.00479
   },
   {
    "name": "Art of Adventure Nature Journaling",
@@ -255,7 +281,9 @@
    "date": "2026-11-14",
    "note": "Journals and drawing materials provided.",
    "description": "A mid-morning nature journaling adventure with a park ranger, learning ways to be creative outdoors. Nature journals and drawing materials are provided.",
-   "id": "st-art-of-adventure-nature-journaling-2026-11"
+   "id": "st-art-of-adventure-nature-journaling-2026-11",
+   "lat": 37.11296,
+   "lng": -113.3748
   },
   {
    "name": "Movie Meetup at Sand Hollow",
@@ -268,7 +296,9 @@
    "date": "2026-11-18",
    "note": "Outdoor movie; food vendors. Weather dependent.",
    "description": "Sand Hollow State Park hosts an outdoor movie night; bring blankets and chairs. Food vendors will be on site, so come early for snacks.",
-   "id": "st-movie-meetup-at-sand-hollow-2026-11-18"
+   "id": "st-movie-meetup-at-sand-hollow-2026-11-18",
+   "lat": 37.11296,
+   "lng": -113.3748
   },
   {
    "name": "Every Kid Outdoors: Share Nature with a Friend",
@@ -281,7 +311,9 @@
    "date": "2026-11-21",
    "note": "Kids earn an EKO sticker.",
    "description": "Join a park ranger for fun in the sand as part of the Share Nature With A Friend 'Every Kid Outdoors' challenge, and walk away with an EKO sticker.",
-   "id": "st-every-kid-outdoors-share-nature-with-a-fri"
+   "id": "st-every-kid-outdoors-share-nature-with-a-fri",
+   "lat": 37.11296,
+   "lng": -113.3748
   },
   {
    "name": "Full Moon Stroll",
@@ -293,7 +325,9 @@
    "price": "Park entry",
    "date": "2026-11-25",
    "description": "Join a park ranger for a chat about the full moon while strolling along Sand Hollow's beach.",
-   "id": "st-full-moon-stroll-2026-11-25"
+   "id": "st-full-moon-stroll-2026-11-25",
+   "lat": 37.11296,
+   "lng": -113.3748
   },
   {
    "name": "Holiday Lights at Red Hills Desert Garden",
@@ -306,7 +340,9 @@
    "end": "2026-12-31",
    "note": "Free nightly light display.",
    "description": "A winter wonderland of thousands of lights and displays at Red Hills Desert Garden, on nightly until 10 p.m. All events are free and open to the public.",
-   "id": "st-holiday-lights-at-red-hills-desert-garden-"
+   "id": "st-holiday-lights-at-red-hills-desert-garden-",
+   "lat": 37.11389,
+   "lng": -113.57449
   },
   {
    "name": "Tabernacle: St. George Interfaith Choir",
@@ -318,7 +354,9 @@
    "date": "2026-11-04",
    "note": "Free.",
    "description": "The St. George Interfaith Choir, with members from more than 10 faith communities, performs with the new young-adult choir St. George Voices. All Tabernacle events are free.",
-   "id": "st-tabernacle-st-george-interfaith-choir-2026"
+   "id": "st-tabernacle-st-george-interfaith-choir-2026",
+   "lat": 37.10783,
+   "lng": -113.58378
   },
   {
    "name": "Tabernacle: Christian Erickson Jazz & Holiday",
@@ -330,7 +368,9 @@
    "date": "2026-11-13",
    "note": "Free.",
    "description": "Local jazz and blues singer Christian Erickson swings into the holidays with standards and a few holiday tunes. Free to the public.",
-   "id": "st-tabernacle-christian-erickson-jazz-holiday"
+   "id": "st-tabernacle-christian-erickson-jazz-holiday",
+   "lat": 37.10783,
+   "lng": -113.58378
   },
   {
    "name": "Tabernacle: Bar G Wranglers",
@@ -342,7 +382,13 @@
    "date": "2026-11-14",
    "note": "Free western harmony show.",
    "description": "The Bar G Wranglers, known for true western harmony and family-friendly shows, perform a free evening at the Tabernacle.",
-   "id": "st-tabernacle-bar-g-wranglers-2026-11-14"
+   "id": "st-tabernacle-bar-g-wranglers-2026-11-14",
+   "lat": 37.10783,
+   "lng": -113.58378
   }
+ ],
+ "center": [
+  37.1098772,
+  -113.5832063
  ]
 }

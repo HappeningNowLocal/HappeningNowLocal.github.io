@@ -18,7 +18,9 @@
    },
    "note": "Saturday market downtown; becomes the Christmas Market from Nov 28.",
    "description": "Downtown Cedar City's Saturday market. It becomes the Festival City Christmas Market from Nov 28.",
-   "id": "ce-festival-city-farmers-market"
+   "id": "ce-festival-city-farmers-market",
+   "lat": 37.67701,
+   "lng": -113.07993
   },
   {
    "name": "Iron Mission Days & Old Town Market",
@@ -31,7 +33,9 @@
    "end": "2026-11-14",
    "note": "Living-history demos and an old-town market.",
    "description": "Living-history demonstrations and an Old Town Market at Frontier Homestead State Park.",
-   "id": "ce-iron-mission-days-old-town-market"
+   "id": "ce-iron-mission-days-old-town-market",
+   "lat": 37.68798,
+   "lng": -113.06308
   },
   {
    "name": "Cedar City's 175th Birthday – Lobby Activities",
@@ -43,7 +47,9 @@
    "date": "2026-11-11",
    "note": "Free lobby activities before the 7:30pm Birthday Spectacular.",
    "description": "Free lobby activities at the Heritage Theater celebrating Cedar City's 175th birthday, before the evening's Birthday Spectacular.",
-   "id": "ce-cedar-city-s-175th-birthday-lobby-activi"
+   "id": "ce-cedar-city-s-175th-birthday-lobby-activi",
+   "lat": 37.68031,
+   "lng": -113.06014
   },
   {
    "name": "Downtown Holiday Lighting Ceremony",
@@ -55,7 +61,9 @@
    "date": "2026-11-28",
    "note": "Lighting and fireworks at 6pm. Free.",
    "description": "Cedar City's holiday celebration in the historic downtown, with the lighting and fireworks at 6pm. Free admission.",
-   "id": "ce-downtown-holiday-lighting-ceremony"
+   "id": "ce-downtown-holiday-lighting-ceremony",
+   "lat": 37.67612,
+   "lng": -113.06856
   },
   {
    "name": "Festival City Christmas Market",
@@ -75,7 +83,9 @@
    },
    "note": "Thursdays–Saturdays: produce, baked goods, handmade gifts.",
    "description": "A free holiday market at the Festival City Farmers Market site, held Thursdays to Saturdays through Dec 19. Local vendors sell produce, baked goods and handmade items.",
-   "id": "ce-festival-city-christmas-market"
+   "id": "ce-festival-city-christmas-market",
+   "lat": 37.67701,
+   "lng": -113.07993
   },
   {
    "name": "Holiday Tree Jubilee",
@@ -91,7 +101,9 @@
    "know": [
     "Hours: Nov 28 3–8pm; Nov 30–Dec 1 5–8pm."
    ],
-   "id": "ce-holiday-tree-jubilee"
+   "id": "ce-holiday-tree-jubilee",
+   "lat": 37.67742,
+   "lng": -113.06183
   },
   {
    "name": "SUMA Exhibition: Tooveep (The Land)",
@@ -107,7 +119,9 @@
    "know": [
     "Free admission."
    ],
-   "id": "ce-suma-exhibition-tooveep-the-land"
+   "id": "ce-suma-exhibition-tooveep-the-land",
+   "lat": 37.65709,
+   "lng": -113.06635
   },
   {
    "name": "Storytime Tuesday at Frontier Homestead",
@@ -126,7 +140,9 @@
    },
    "note": "Every Tuesday.",
    "description": "A children's story time every Tuesday at Frontier Homestead State Park Museum.",
-   "id": "ce-storytime-tuesday-at-frontier-homestead"
+   "id": "ce-storytime-tuesday-at-frontier-homestead",
+   "lat": 37.68838,
+   "lng": -113.06193
   },
   {
    "name": "Fee-Free Day at Bryce Canyon (Veterans Day)",
@@ -138,7 +154,9 @@
    "date": "2026-11-11",
    "note": "Entrance free for U.S. residents.",
    "description": "Bryce Canyon waives its entrance fee for Veterans Day. In 2026, fee-free days apply to U.S. citizens and residents.",
-   "id": "ce-fee-free-day-at-bryce-canyon-veterans-day-"
+   "id": "ce-fee-free-day-at-bryce-canyon-veterans-day-",
+   "lat": 37.57079,
+   "lng": -112.18559
   },
   {
    "name": "Bryce Canyon Full Moon Hike",
@@ -153,7 +171,9 @@
    "know": [
     "Park entrance fee applies."
    ],
-   "id": "ce-bryce-canyon-full-moon-hike-2026-11-24"
+   "id": "ce-bryce-canyon-full-moon-hike-2026-11-24",
+   "lat": 37.57079,
+   "lng": -112.18559
   },
   {
    "name": "Bryce Canyon Full Moon Hike (December)",
@@ -168,7 +188,9 @@
    "know": [
     "Park entrance fee applies."
    ],
-   "id": "ce-bryce-canyon-full-moon-hike-december-2026-"
+   "id": "ce-bryce-canyon-full-moon-hike-december-2026-",
+   "lat": 37.57079,
+   "lng": -112.18559
   },
   {
    "name": "Bookdom Turns Two",
@@ -180,7 +202,13 @@
    "date": "2026-10-27",
    "note": "Free entry; craft tables ticketed.",
    "description": "Local bookshop Bookdom Apothecary celebrates its 2nd birthday with a family-friendly festival. There are craft tables (book bedazzling, laminated bookmarks, mask decorating), a food truck, treats and store-wide discounts.",
-   "id": "ce-bookdom-turns-two-eb"
+   "id": "ce-bookdom-turns-two-eb",
+   "lat": 37.70599,
+   "lng": -113.06288
   }
+ ],
+ "center": [
+  37.6774238,
+  -113.061827
  ]
 }

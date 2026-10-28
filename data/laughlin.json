@@ -12,7 +12,9 @@
    "date": "2026-10-30",
    "note": "State park entry fee may apply.",
    "description": "Join a ranger at Big Bend of the Colorado State Recreation Area for a creepy crawler adventure through the North Trail Loop.",
-   "id": "lau-creepy-crawler-hike-2026-10-30"
+   "id": "lau-creepy-crawler-hike-2026-10-30",
+   "lat": 35.11342,
+   "lng": -114.64299
   },
   {
    "name": "Willow Beach Cleanup (Leave No Trace Spotlight)",
@@ -24,7 +26,9 @@
    "date": "2026-10-30",
    "note": "Registration required.",
    "description": "Part of Leave No Trace's Spotlight visit to Lake Mead National Recreation Area Oct 29–31. Volunteers help clean up Willow Beach; the meeting location and a password for free entry are sent after you sign up.",
-   "id": "lau-willow-beach-cleanup-leave-no-trace-spotlight-2026-10-30"
+   "id": "lau-willow-beach-cleanup-leave-no-trace-spotlight-2026-10-30",
+   "lat": 35.86978,
+   "lng": -114.66007
   },
   {
    "name": "Falling Leaves Craft",
@@ -35,7 +39,9 @@
    "source": "https://events.thelibrarydistrict.org/",
    "date": "2026-11-06",
    "description": "Create a door or wall hanging using cardboard and old books. Adults, teens and tweens are welcome.",
-   "id": "lau-falling-leaves-craft-2026-11-06"
+   "id": "lau-falling-leaves-craft-2026-11-06",
+   "lat": 35.14551,
+   "lng": -114.62487
   },
   {
    "name": "28th Annual CRWC Boom Box Parade",
@@ -46,7 +52,9 @@
    "source": "https://www.bullheadcity.com/2026/12/4/585045/28th-annual-crwc-boom-box-parade/",
    "date": "2026-12-04",
    "description": "Bullhead City's holiday parade, themed American Christmas this year, with decorated floats and vehicles from local businesses, schools, nonprofits and first responders. Bring chairs; the route runs from River Gardens Dr & Hancock Rd to Alona Way.",
-   "id": "lau-28th-annual-crwc-boom-box-parade-2026-12-04"
+   "id": "lau-28th-annual-crwc-boom-box-parade-2026-12-04",
+   "lat": 35.10743,
+   "lng": -114.59895
   },
   {
    "name": "Holly Jolly Holiday Bazaar",
@@ -58,7 +66,9 @@
    "date": "2026-12-05",
    "note": "Hours listed in Arizona time; confirm with the organizer.",
    "description": "A holiday bazaar at the Anderson Auto Group Fieldhouse across the river in Bullhead City, listed by the Laughlin Chamber.",
-   "id": "lau-holly-jolly-holiday-bazaar-2026-12-05"
+   "id": "lau-holly-jolly-holiday-bazaar-2026-12-05",
+   "lat": 35.05655,
+   "lng": -114.59908
   },
   {
    "name": "Nik at Nite – A Jazzy Holiday Concert",
@@ -69,7 +79,9 @@
    "source": "https://events.thelibrarydistrict.org/",
    "date": "2026-12-07",
    "description": "Nik sings classic holiday songs in a Sinatra-style sing-along. Free and open to the public; seating is first come, first served.",
-   "id": "lau-nik-at-nite-a-jazzy-holiday-concert-2026-12-07"
+   "id": "lau-nik-at-nite-a-jazzy-holiday-concert-2026-12-07",
+   "lat": 35.14551,
+   "lng": -114.62487
   },
   {
    "name": "Light the Belle",
@@ -80,7 +92,9 @@
    "source": "https://www.bullheadcity.com/2026/12/7/651006/light-the-belle-holiday-lights-on-the-colorado-river/",
    "date": "2026-12-07",
    "description": "Thousands of holiday lights switch on at the Bullhead Belle on the Colorado River at sundown. The lights stay up through the holiday season for photos and evening strolls.",
-   "id": "lau-light-the-belle-2026-12-07"
+   "id": "lau-light-the-belle-2026-12-07",
+   "lat": 35.13934,
+   "lng": -114.571
   },
   {
    "name": "Graham Cracker Cottages",
@@ -91,7 +105,9 @@
    "source": "https://events.thelibrarydistrict.org/",
    "date": "2026-12-18",
    "description": "Kids build holiday houses out of graham crackers, candy and frosting. Ages 0–17 welcome; free while supplies last.",
-   "id": "lau-graham-cracker-cottages-2026-12-18"
+   "id": "lau-graham-cracker-cottages-2026-12-18",
+   "lat": 35.14551,
+   "lng": -114.62487
   },
   {
    "name": "Christmas on the Colorado Lighted Boat Parade",
@@ -102,7 +118,9 @@
    "source": "https://www.bullheadcity.com/2026/12/19/596164/christmas-on-the-colorado-lighted-boat-parade/",
    "date": "2026-12-19",
    "description": "Decorated boats light up the Colorado River at sunset. Watch from anywhere along the river, or from the Bullhead Belle.",
-   "id": "lau-christmas-on-the-colorado-lighted-boat-parade-2026-12-19"
+   "id": "lau-christmas-on-the-colorado-lighted-boat-parade-2026-12-19",
+   "lat": 35.16193,
+   "lng": -114.57119
   },
   {
    "name": "Desert Artisan Exchange",
@@ -115,7 +133,13 @@
    "end": "2026-12-13",
    "note": "Free admission.",
    "description": "A seasonal art and craft market with 40–90 curated artists, makers and designers. This December weekend is the first of five monthly market weekends running through April 2027.",
-   "id": "lau-desert-artisan-exchange-eb"
+   "id": "lau-desert-artisan-exchange-eb",
+   "lat": 35.16275,
+   "lng": -114.57128
   }
+ ],
+ "center": [
+  35.114572,
+  -114.7039223
  ]
 }

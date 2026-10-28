@@ -24,7 +24,9 @@
     "EBT/SNAP accepted on fresh produce.",
     "Closed Nov 28 and Dec 26 for the holidays."
    ],
-   "id": "he-henderson-farmers-market-cornerstone-par"
+   "id": "he-henderson-farmers-market-cornerstone-par",
+   "lat": 36.03341,
+   "lng": -115.05015
   },
   {
    "name": "Henderson Farmers Market – Fox Ridge Park",
@@ -52,7 +54,9 @@
     "EBT/SNAP accepted on fresh produce.",
     "Closed Nov 27 and Dec 25."
    ],
-   "id": "he-henderson-farmers-market-fox-ridge-park"
+   "id": "he-henderson-farmers-market-fox-ridge-park",
+   "lat": 36.05925,
+   "lng": -115.06993
   },
   {
    "name": "Water Street Farmers Market (Army St)",
@@ -68,7 +72,9 @@
     "The market is closed in December.",
     "EBT/SNAP accepted on fresh produce."
    ],
-   "id": "he-water-street-farmers-market-army-st"
+   "id": "he-water-street-farmers-market-army-st",
+   "lat": 36.03318,
+   "lng": -114.98328
   },
   {
    "name": "Farmers Market at The Village, Lake Las Vegas",
@@ -88,7 +94,9 @@
    },
    "note": "1st & 3rd Sundays.",
    "description": "A lakeside farmers market at The Village at Lake Las Vegas on the 1st and 3rd Sundays of each month, with local vendors and handcrafted goods.",
-   "id": "he-farmers-market-at-the-village-lake-las-v"
+   "id": "he-farmers-market-at-the-village-lake-las-v",
+   "lat": 36.10308,
+   "lng": -114.92941
   },
   {
    "name": "Farmers Market at The District",
@@ -104,7 +112,9 @@
    },
    "note": "Every Thursday.",
    "description": "A weekly Thursday farmers market at The District at Green Valley Ranch, run by Las Vegas Farmers' Market.",
-   "id": "he-farmers-market-at-the-district"
+   "id": "he-farmers-market-at-the-district",
+   "lat": 36.02178,
+   "lng": -115.08659
   },
   {
    "name": "Fresh52 Market – St. Rose Corporate Center",
@@ -120,7 +130,9 @@
    },
    "note": "Every Sunday.",
    "description": "A Fresh52 farmers and artisan market held every Sunday morning at St. Rose Corporate Center.",
-   "id": "he-fresh52-market-st-rose-corporate-center"
+   "id": "he-fresh52-market-st-rose-corporate-center",
+   "lat": 36.01634,
+   "lng": -115.10171
   },
   {
    "name": "Fresh52 Market – Inspirada (Solista Park)",
@@ -140,7 +152,9 @@
    },
    "note": "1st & 3rd Saturdays.",
    "description": "A Fresh52 farmers and artisan market at Solista Park in Inspirada on the 1st and 3rd Saturdays of each month.",
-   "id": "he-fresh52-market-inspirada-solista-park"
+   "id": "he-fresh52-market-inspirada-solista-park",
+   "lat": 35.95172,
+   "lng": -115.12532
   },
   {
    "name": "Indigenous American Heritage Celebration",
@@ -156,7 +170,9 @@
     "Fully outdoors; weather may change the schedule.",
     "Free parking in two public garages and several lots in the Water Street District."
    ],
-   "id": "he-indigenous-american-heritage-celebration"
+   "id": "he-indigenous-american-heritage-celebration",
+   "lat": 36.02975,
+   "lng": -114.98255
   },
   {
    "name": "Free Public Skate",
@@ -171,7 +187,9 @@
    "know": [
     "Registration is required; it opens about 3 weeks before the skate date."
    ],
-   "id": "he-free-public-skate"
+   "id": "he-free-public-skate",
+   "lat": 36.03125,
+   "lng": -114.98229
   },
   {
    "name": "WinterFest Tree Lighting & Drone Show",
@@ -186,7 +204,9 @@
     "Free parking at the Water Street and City Hall garages and nearby lots; no shuttle, so arrive early.",
     "Schedule subject to change."
    ],
-   "id": "he-winterfest-tree-lighting-drone-show"
+   "id": "he-winterfest-tree-lighting-drone-show",
+   "lat": 36.03031,
+   "lng": -114.98094
   },
   {
    "name": "WinterFest Electric Light Parade",
@@ -201,7 +221,9 @@
     "Free parking at the Water Street and City Hall garages; no shuttle.",
     "Street closures will be posted closer to the event."
    ],
-   "id": "he-winterfest-electric-light-parade"
+   "id": "he-winterfest-electric-light-parade",
+   "lat": 36.03001,
+   "lng": -114.97951
   },
   {
    "name": "Reindeer Dash 5K",
@@ -218,7 +240,9 @@
     "Packet pickup Dec 10 (10am–7pm), Dec 11 (10am–3pm), or race day 8–9:30am.",
     "Ages 5+."
    ],
-   "id": "he-reindeer-dash-5k"
+   "id": "he-reindeer-dash-5k",
+   "lat": 36.0372,
+   "lng": -115.053
   },
   {
    "name": "Puppy Pictures with Santa",
@@ -233,7 +257,9 @@
    "know": [
     "Registration through the city; $3 fee."
    ],
-   "id": "he-puppy-pictures-with-santa"
+   "id": "he-puppy-pictures-with-santa",
+   "lat": 36.01311,
+   "lng": -114.97544
   },
   {
    "name": "Henderson Veterans Day Ceremony",
@@ -245,7 +271,9 @@
    "date": "2026-11-07",
    "note": "Honors local veterans; new names added to the Veterans Memorial Wall.",
    "description": "Henderson's annual ceremony at the Water Street Plaza Amphitheater honoring local veterans and military organizations. Names of Henderson residents are added to the Veterans Memorial Wall, with a presentation of colors.",
-   "id": "he-henderson-veterans-day-ceremony"
+   "id": "he-henderson-veterans-day-ceremony",
+   "lat": 36.02975,
+   "lng": -114.98255
   },
   {
    "name": "Holiday Artisan Night Market",
@@ -257,7 +285,9 @@
    "date": "2026-11-20",
    "note": "Local makers, acoustic music, hot cocoa. Same night as the Army Street Farmers Market.",
    "description": "An evening holiday market under the string lights of downtown Henderson's Water Street District. Local makers sell jewelry, ceramics, candles and seasonal treats, with live acoustic music and a hot cocoa stand.",
-   "id": "he-holiday-artisan-night-market"
+   "id": "he-holiday-artisan-night-market",
+   "lat": 36.03243,
+   "lng": -114.98308
   },
   {
    "name": "Shop Small Henderson",
@@ -272,7 +302,9 @@
    "know": [
     "Outdoor event."
    ],
-   "id": "he-shop-small-henderson"
+   "id": "he-shop-small-henderson",
+   "lat": 36.02975,
+   "lng": -114.98255
   },
   {
    "name": "Water Street Holiday Artisan Fair",
@@ -284,7 +316,9 @@
    "date": "2026-12-19",
    "note": "Local makers, hot cocoa, live acoustic holiday music. Free admission.",
    "description": "A free holiday artisan fair at Water Street Plaza with dozens of local makers: candles, leather goods, knitted textiles, ceramics and holiday treats. There will be hot cocoa stations and live acoustic holiday music.",
-   "id": "he-water-street-holiday-artisan-fair"
+   "id": "he-water-street-holiday-artisan-fair",
+   "lat": 36.03031,
+   "lng": -114.98094
   },
   {
    "name": "Giant Garage Sale",
@@ -299,7 +333,9 @@
    "know": [
     "Sellers must register a booth at least a week ahead."
    ],
-   "id": "he-giant-garage-sale"
+   "id": "he-giant-garage-sale",
+   "lat": 36.01311,
+   "lng": -114.97544
   },
   {
    "name": "Silver Springs Garage Sale",
@@ -314,7 +350,9 @@
    "know": [
     "Sellers register a booth in advance through the city."
    ],
-   "id": "he-silver-springs-garage-sale"
+   "id": "he-silver-springs-garage-sale",
+   "lat": 36.04571,
+   "lng": -115.07472
   },
   {
    "name": "Heritage Harvest Festival",
@@ -331,7 +369,9 @@
     "Registration is required for all ages ($5 fee).",
     "Children must be with an adult."
    ],
-   "id": "he-heritage-harvest-festival"
+   "id": "he-heritage-harvest-festival",
+   "lat": 36.03294,
+   "lng": -114.95156
   },
   {
    "name": "Upscale Craft & Yard Sale",
@@ -343,7 +383,9 @@
    "date": "2026-12-05",
    "note": "Crafts and yard-sale finds. Free to shop.",
    "description": "A city-run craft and yard sale at Heritage Park Senior Facility. Admission is free and all ages are welcome to shop.",
-   "id": "he-upscale-craft-yard-sale"
+   "id": "he-upscale-craft-yard-sale",
+   "lat": 36.03294,
+   "lng": -114.95156
   },
   {
    "name": "Fee-Free Day at Lake Mead (Veterans Day)",
@@ -355,7 +397,9 @@
    "date": "2026-11-11",
    "note": "Entrance fee waived for U.S. residents.",
    "description": "Veterans Day is a National Park Service fee-free day, so entrance to nearby Lake Mead National Recreation Area is free for U.S. citizens and residents. Camping and other fees still apply.",
-   "id": "he-fee-free-day-at-lake-mead-veterans-day-202"
+   "id": "he-fee-free-day-at-lake-mead-veterans-day-202",
+   "lat": 35.87221,
+   "lng": -114.69002
   },
   {
    "name": "HopeLink 35th Anniversary Fall Festival",
@@ -370,7 +414,9 @@
    "know": [
     "An Eventbrite ticket is optional, not required."
    ],
-   "id": "he-hopelink-35th-anniversary-fall-festival-eb"
+   "id": "he-hopelink-35th-anniversary-fall-festival-eb",
+   "lat": 36.03727,
+   "lng": -114.96876
   },
   {
    "name": "Monster Mash on Main",
@@ -382,7 +428,9 @@
    "date": "2026-10-31",
    "note": "Free trick-or-treating, costume contest.",
    "description": "Main Street at The District turns into a family Halloween party with trick-or-treating at participating shops and live music. Browse local vendors at the Makers Hive Market and take photos with classic monsters like Dracula and Frankenstein. A costume contest is held at The Splash Pad.",
-   "id": "he-monster-mash-on-main-eb"
+   "id": "he-monster-mash-on-main-eb",
+   "lat": 36.02178,
+   "lng": -115.08659
   },
   {
    "name": "Holiday Tree Lighting at The District",
@@ -394,7 +442,9 @@
    "date": "2026-11-21",
    "note": "Free; Santa lights the tree.",
    "description": "The District at Green Valley Ranch's annual tree lighting with snowfall, the Snow Prince and Princess, live holiday music and sweet treats. Shop local artisans at Market in The Alley, then watch Santa light the tree.",
-   "id": "he-holiday-tree-lighting-at-the-district-eb"
+   "id": "he-holiday-tree-lighting-at-the-district-eb",
+   "lat": 36.02178,
+   "lng": -115.08659
   },
   {
    "name": "Food Truck Mania – Booze District Spooky Edition",
@@ -410,7 +460,9 @@
     "No open containers while walking between locations.",
     "Tasting rooms are 21+."
    ],
-   "id": "he-food-truck-mania-booze-district-spooky-ed-eb"
+   "id": "he-food-truck-mania-booze-district-spooky-ed-eb",
+   "lat": 36.05394,
+   "lng": -115.01853
   },
   {
    "name": "Meet Me At The Park",
@@ -422,7 +474,13 @@
    "date": "2026-12-05",
    "note": "Free; RSVP so hosts can plan.",
    "description": "A free, relaxed meetup for anyone who wants to meet new people in person. Join a group walk on the paved Pittman Wash Trail or hang out in the picnic area. Bring water, sunscreen and a blanket.",
-   "id": "he-meet-me-at-the-park-eb"
+   "id": "he-meet-me-at-the-park-eb",
+   "lat": 36.04882,
+   "lng": -115.05521
   }
+ ],
+ "center": [
+  36.0301388,
+  -114.9815488
  ]
 }

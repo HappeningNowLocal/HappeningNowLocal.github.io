@@ -167,3 +167,12 @@ Candidate official sources: Colorado Parks & Wildlife (https://cpw.state.co.us/e
 Every event held in a convention center or expo hall (Las Vegas Convention Center, Dixie Convention Center, World Market Center, Mandalay Bay / Venetian expo halls, Phoenix Convention Center, LA / San Diego / Salt Palace convention centers, etc.) must have `"convention": true`. This includes gun shows, craft fairs or home shows *when* held in a convention hall; do not tag them when held at fairgrounds, parks, speedways or hotels' regular ballrooms. Outdoor events in a convention center parking lot are not tagged.
 Add `"industry": true` as well when the show is closed to the public (trade/registration only, e.g. CES, SEMA trade days). Industry-only shows never appear in the main list; they show only on the calendar.
 The site hides `convention` events by default; visitors opt in with the "Show convention shows" switch.
+
+## Map coordinates (`lat` / `lng` fields), required for every new event
+
+Every event needs `lat` and `lng` (5 decimals) so it shows on the Map view. Each city file also has `center: [lat, lng]`.
+1. Geocode the venue once with OpenStreetMap Nominatim (`https://nominatim.openstreetmap.org/search?q=<street address or venue>, <City, ST>&format=json&limit=1&countrycodes=us`). Send a User-Agent of `HappeningNowLocal/1.0 (happeningnowlocal@gmail.com)` and wait at least 1 second between requests.
+2. Try the street address first, then the full `place` string, then just the venue name.
+3. Accept the result only if it is within about 80 km of the city center. Reuse the coordinates of an existing event at the same venue when there is one.
+4. If no exact venue is found (multiple sites, "various locations", TBA), **leave `lat`/`lng` off**. The app keeps those events in the list and calendar and notes "N without an exact location not shown" on the map. Never use the city center as a fake pin.
+5. The helper script used for the first pass is `/workspace/hnl-geo/geo.py` (it caches results in `cache.json`). Rerunning it only fills in events that are missing coordinates.
