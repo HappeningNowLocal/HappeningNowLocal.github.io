@@ -123,12 +123,25 @@ document.addEventListener("click",e=>{const b=e.target.closest("[data-open]");if
   err=>{btn.classList.remove("busy");$("#count").textContent=err.code==1?"Location permission was denied. Allow it in your browser to use Near me.":"Couldn't get your location right now."},{enableHighAccuracy:true,timeout:10000,maximumAge:60000})}});
 
 /* Install app */
-(function(){const ls=localStorage,ua=navigator.userAgent,standalone=matchMedia("(display-mode: standalone)").matches||navigator.standalone,ios=/iphone|ipad|ipod/i.test(ua)&&!/crios|fxios|edgios/i.test(ua)&&/safari/i.test(ua),el=$("#install");let ev=null;
- if(standalone||ls.hnlInstallX=="1"||!el)return;
- const show=html=>{el.innerHTML=html+'<button class="inst-x" data-act="installX" aria-label="Dismiss">×</button>';el.hidden=false};
+let BIP=null;const UA=navigator.userAgent,IOS=/iphone|ipad|ipod/i.test(UA)||(navigator.platform=="MacIntel"&&navigator.maxTouchPoints>1),IOS_SAFARI=IOS&&!/crios|fxios|edgios|opios|gsa\//i.test(UA)&&/safari/i.test(UA),
+ STANDALONE=()=>matchMedia("(display-mode: standalone)").matches||navigator.standalone===true;
+const SHARE_I=(n)=>'<svg viewBox="0 0 24 24" width="ZZ" height="ZZ" aria-hidden="true"><path d="M12 3v12M8 7l4-4 4 4M6 11v8a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>'.replace(/ZZ/g,n);
+function instSheet(){const dl=$("#instSheet");let body;
+ if(IOS_SAFARI)body=`<h2 id="is-t">Add to your Home Screen</h2><ol class="steps"><li><span class="sn">1</span><div>Tap the <b>Share</b> button <span class="shi">${SHARE_I(18)}</span> in Safari's toolbar (bottom of the screen on iPhone, top on iPad).</div></li><li><span class="sn">2</span><div>Scroll down and tap <b>Add to Home Screen</b> <span class="shi">＋</span></div></li><li><span class="sn">3</span><div>Tap <b>Add</b>. Happening Now Local will appear on your Home Screen like an app.</div></li></ol>`;
+ else if(IOS)body=`<h2 id="is-t">Open in Safari first</h2><p class="is-p">On iPhone and iPad, apps can only be added to the Home Screen from <b>Safari</b>.</p><ol class="steps"><li><span class="sn">1</span><div>Copy this page's link, or tap your browser's menu and choose <b>Open in Safari</b>.</div></li><li><span class="sn">2</span><div>In Safari, tap <b>Share</b> <span class="shi">${SHARE_I(18)}</span>, then <b>Add to Home Screen</b>.</div></li></ol><button class="btn2 is-copy" data-copy>Copy link</button>`;
+ else body=`<h2 id="is-t">Install the app</h2><p class="is-p">Your browser didn't offer a one-tap install here, but you can still add it:</p><ol class="steps"><li><span class="sn">1</span><div>Open your browser's menu (<b>⋮</b> or <b>⋯</b>, usually at the top right).</div></li><li><span class="sn">2</span><div>Tap <b>Install app</b> or <b>Add to Home screen</b>. On a computer, you may also see an install icon <b>⊕</b> in the address bar.</div></li></ol>`;
+ dl.innerHTML=`<div class="sh-in is-in"><div class="grab" aria-hidden="true"></div><button class="x" data-isx aria-label="Close"><svg viewBox="0 0 24 24" width="20" height="20"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg></button><div class="is-hd"><img src="icon-192.png" alt="" width="56" height="56"><div><b>Happening Now Local</b><span>Free · works offline</span></div></div>${body}<p class="toast" id="isToast" role="status"></p></div>`;
+ dl.showModal()}
+async function doInstall(){if(BIP){BIP.prompt();const r=await BIP.userChoice;BIP=null;if(r.outcome=="accepted"){localStorage.hnlInstallX="1";$("#install").hidden=true}return}instSheet()}
+(function(){const dl=document.createElement("dialog");dl.id="instSheet";dl.setAttribute("aria-labelledby","is-t");document.body.appendChild(dl);
+ dl.addEventListener("click",e=>{if(e.target==dl||e.target.closest("[data-isx]"))dl.close();if(e.target.closest("[data-copy]"))navigator.clipboard.writeText(location.origin+location.pathname).then(()=>$("#isToast").textContent="Link copied. Paste it into Safari.",()=>$("#isToast").textContent=location.origin+location.pathname)});
+ const hb=$("#getApp"),el=$("#install"),ls=localStorage;
+ const upd=()=>{const s=STANDALONE();hb.hidden=s;if(s)el.hidden=true};upd();matchMedia("(display-mode: standalone)").addEventListener?.("change",upd);
+ hb.addEventListener("click",doInstall);
  const icon='<img src="icon-192.png" alt="" width="40" height="40">';
- window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();ev=e;show(`${icon}<div><b>Get the app</b><span>Install Happening Now Local for quick access.</span></div><button class="inst-b" data-act="install">Install app</button>`)});
- window.addEventListener("appinstalled",()=>{el.hidden=true;ls.hnlInstallX="1"});
- if(ios)show(`${icon}<div><b>Add to your Home Screen</b><span>Tap <svg viewBox="0 0 24 24" width="16" height="16" aria-label="Share"><path d="M12 3v12M8 7l4-4 4 4M6 11v8a2 2 0 0 0 2 2h8a2 2 0 0 0 2-2v-8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg> Share, then <b>Add to Home Screen</b>.</span></div>`);
- el.addEventListener("click",async e=>{if(e.target.closest("[data-act=installX]")){el.hidden=true;ls.hnlInstallX="1"}if(e.target.closest("[data-act=install]")&&ev){ev.prompt();const r=await ev.userChoice;ev=null;el.hidden=true;if(r.outcome=="accepted")ls.hnlInstallX="1"}})})();
+ const show=html=>{if(STANDALONE()||ls.hnlInstallX=="1")return;el.innerHTML=html+'<button class="inst-x" data-act="installX" aria-label="Dismiss">×</button>';el.hidden=false};
+ window.addEventListener("beforeinstallprompt",e=>{e.preventDefault();BIP=e;show(`${icon}<div><b>Get the app</b><span>Install Happening Now Local for quick access.</span></div><button class="inst-b" data-act="install">Install app</button>`)});
+ window.addEventListener("appinstalled",()=>{el.hidden=true;hb.hidden=true;ls.hnlInstallX="1";BIP=null});
+ if(IOS_SAFARI)show(`${icon}<div><b>Add to your Home Screen</b><span>Tap ${SHARE_I(16)} Share, then <b>Add to Home Screen</b>.</span></div>`);
+ el.addEventListener("click",e=>{if(e.target.closest("[data-act=installX]")){el.hidden=true;ls.hnlInstallX="1"}if(e.target.closest("[data-act=install]"))doInstall()})})();
 updSavedCount();
