@@ -477,6 +477,44 @@
    "id": "he-meet-me-at-the-park-eb",
    "lat": 36.04882,
    "lng": -115.05521
+  },
+  {
+   "name": "Official F1 Las Vegas Grand Prix Watch Party",
+   "category": "Community",
+   "place": "Water Street Plaza, 240 S. Water St",
+   "date": "2026-11-21",
+   "time": "7pm–10pm",
+   "free": true,
+   "source": "https://www.cityofhenderson.com/residents/special-interest/f1-watch-party/",
+   "note": "Free City of Henderson watch party on the 42-ft screen.",
+   "description": "Watch the Las Vegas Grand Prix on Water Street Plaza's giant screen with a live DJ, free food and swag giveaways (while supplies last), lawn games, putt-putt and contests. The party starts at 7pm and the race at 8pm.",
+   "know": [
+    "Outdoor event; dress warm, a few heaters on site.",
+    "Free parking at the Water Street garage, 235 S. Water St.",
+    "Pet supply donations accepted."
+   ],
+   "id": "he-f1-watch-party-water-street",
+   "lat": 36.02975,
+   "lng": -114.98255
+  },
+  {
+   "name": "Whitney Mesa Solstice Sunset Hike",
+   "category": "Outdoors & Nature",
+   "place": "Whitney Mesa Nature Preserve, 1661 Galleria Dr",
+   "date": "2026-12-19",
+   "time": "4pm–5:30pm",
+   "free": false,
+   "price": "See registration",
+   "source": "https://www.linkedin.com/posts/discoverhenderson_whitneymesa-hendersonhikes-sunsetstroll-activity-7505657169229484034-bvcG",
+   "note": "Guided 1.5-mile sunset walk by Henderson Parks & Rec.",
+   "description": "A naturalist-led, moderate 1.5-mile walk on the Whitney Mesa Active Trail at sunset, covering local geology, desert plants and indigenous history.",
+   "know": [
+    "Wear sturdy shoes and layers.",
+    "Bring a flashlight for the walk back."
+   ],
+   "id": "he-whitney-mesa-solstice-sunset-hike",
+   "lat": 36.08017,
+   "lng": -115.05873
   }
  ],
  "center": [
