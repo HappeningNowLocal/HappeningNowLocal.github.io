@@ -181,6 +181,23 @@
    "id": "bc-hike-n-heal-avery-burton-foundation-eb",
    "lat": 36.01331,
    "lng": -114.78441
+  },
+  {
+   "name": "Boulder City Airport Day",
+   "category": "Family",
+   "place": "Boulder City Municipal Airport, 1201 Airport Rd",
+   "time": "10am–2pm",
+   "free": true,
+   "source": "https://www.visitbouldercity.com/event/airport-day/55333/",
+   "date": "2026-11-07",
+   "note": "Free Young Eagles flights for ages 8–17.",
+   "description": "Aircraft displays, pilots and aviation pros, and free Young Eagles flights for kids 8–17. Food and drinks for sale.",
+   "know": [
+    "Young Eagles registration is on the day of the event."
+   ],
+   "id": "bo-airport-day",
+   "lat": 35.9476,
+   "lng": -114.861
   }
  ],
  "center": [

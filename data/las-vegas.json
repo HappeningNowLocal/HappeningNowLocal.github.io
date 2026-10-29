@@ -956,6 +956,97 @@
    "id": "la-nutcracker-night-market-at-tivoli-village",
    "lat": 36.16746,
    "lng": -115.28733
+  },
+  {
+   "name": "VIVA Trunk or Treat",
+   "category": "Holiday",
+   "place": "Craig Ranch Regional Park, 628 W. Craig Rd (North Las Vegas)",
+   "time": "6pm–9pm",
+   "free": true,
+   "source": "https://vivatacofest.com/trunk-or-treat-faqs/",
+   "date": "2026-10-31",
+   "note": "Free, no registration. Part of VIVA Taco Fest weekend.",
+   "description": "A free family night of decorated trunks, candy, costumes and fall fun at Craig Ranch Regional Park, part of the VIVA Taco Fest weekend.",
+   "know": [
+    "No registration needed.",
+    "Bring a bag or bucket for candy."
+   ],
+   "id": "la-viva-trunk-or-treat",
+   "lat": 36.2454,
+   "lng": -115.15
+  },
+  {
+   "name": "Halloween Safe Night",
+   "category": "Holiday",
+   "place": "Doolittle Community Center, 1950 N. J St, Las Vegas",
+   "time": "5pm–8:30pm",
+   "free": true,
+   "source": "https://www.lasvegasnevada.gov/News/Blog/Detail/las-vegas-halloween-events-2026",
+   "date": "2026-10-31",
+   "note": "Trunk-or-treat, games, bungee bounce, car show.",
+   "description": "The annual Halloween Safe Night sponsored by the city of Las Vegas and Clark County. Come in costume for trunk-or-treating, games, a bungee bounce and climb, a car show, community vendors and free refreshments while supplies last.",
+   "know": [
+    "Clark County's listing says 5–9pm; the city lists 5–8:30pm.",
+    "Call 702-229-6374 for details."
+   ],
+   "id": "la-halloween-safe-night",
+   "lat": 36.1929,
+   "lng": -115.1622
+  },
+  {
+   "name": "Stupak Trunk or Treat",
+   "category": "Holiday",
+   "place": "Stupak Community Center, 251 W. Boston Ave, Las Vegas",
+   "time": "5:30pm–7pm",
+   "free": true,
+   "source": "https://www.lasvegasnevada.gov/News/Blog/Detail/las-vegas-halloween-events-2026",
+   "date": "2026-10-31",
+   "note": "Free for families with kids up to age 12.",
+   "description": "Safe trick-or-treating, games and surprises for children from walking age to 12 at the Stupak Community Center.",
+   "know": [
+    "Park on the street or in the pay lot on Baltimore.",
+    "Call 702-229-2488 for details."
+   ],
+   "id": "la-stupak-trunk-or-treat",
+   "lat": 36.1452,
+   "lng": -115.1563
+  },
+  {
+   "name": "Town Scary",
+   "category": "Holiday",
+   "place": "Town Square Las Vegas, 6605 S. Las Vegas Blvd",
+   "time": "4pm–7pm",
+   "free": true,
+   "source": "https://www.audacy.com/kluc/events/town-scary-2026",
+   "date": "2026-10-31",
+   "note": "Store trick-or-treating and costume contests.",
+   "description": "Town Square turns into Town Scary on Halloween with trick-or-treating at participating stores and restaurants, costume contests, a photo booth and a dance area, presented with 98.5 KLUC.",
+   "know": [
+    "Bounce houses, rock wall and train rides cost extra.",
+    "Candy stops at 7pm; activities run until 8pm.",
+    "Bring your own bag."
+   ],
+   "id": "la-town-scary",
+   "lat": 36.0718,
+   "lng": -115.1735
+  },
+  {
+   "name": "Palm Eastern Día de los Muertos",
+   "category": "Festival",
+   "place": "Palm Eastern Mortuary and Cemetery, 7600 S. Eastern Ave, Las Vegas",
+   "time": "5pm–8pm",
+   "free": true,
+   "source": "https://nevadabusiness.com/2026/10/palm-mortuaries-cemeteries-to-host-free-dia-de-los-muertos-celebrations-nov-1-2/",
+   "date": "2026-11-02",
+   "note": "Mariachi, Aztec dancers, free tamales and hot chocolate.",
+   "description": "Palm Mortuaries' free Día de los Muertos celebration with live mariachi, Aztec dancers, sugar skull crafts, kids' face painting, ofrendas, and complimentary tamales, Mexican hot chocolate and pan de muerto.",
+   "know": [
+    "Tacos for sale from two food trucks.",
+    "Palm also hosts Northwest (Nov 1, 6–9pm) and Downtown (Nov 2, 4–7pm) celebrations."
+   ],
+   "id": "la-palm-eastern-dia-de-los-muertos",
+   "lat": 36.044,
+   "lng": -115.1185
   }
  ],
  "center": [

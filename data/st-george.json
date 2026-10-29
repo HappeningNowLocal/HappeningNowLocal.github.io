@@ -385,6 +385,23 @@
    "id": "st-tabernacle-bar-g-wranglers-2026-11-14",
    "lat": 37.10783,
    "lng": -113.58378
+  },
+  {
+   "name": "Day of the Dead at the St. George Museum of Art",
+   "category": "Festival",
+   "place": "St. George Museum of Art, 47 E. 200 N, St. George",
+   "time": "5pm–8pm",
+   "free": true,
+   "source": "https://sgcityutah.gov/parksandrec/arts___culture/art_museum/events/day_of_the_dead.php",
+   "date": "2026-11-02",
+   "note": "Free, all ages. Art exhibition: Remember Me.",
+   "description": "SGMOA's annual Day of the Dead celebration, free for all ages, with a community art exhibition on the theme Remember Me, honoring individuals who have impacted our lives.",
+   "know": [
+    "The city page says more details are coming soon."
+   ],
+   "id": "sg-day-of-the-dead-sgmoa",
+   "lat": 37.1112,
+   "lng": -113.5822
   }
  ],
  "center": [
