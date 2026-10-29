@@ -1047,6 +1047,24 @@
    "id": "la-palm-eastern-dia-de-los-muertos",
    "lat": 36.044,
    "lng": -115.1185
+  },
+  {
+   "name": "1000 Flags Over Mesquite Field of Honor",
+   "category": "Holiday",
+   "place": "Mesquite Recreation Center & Park – West Field, 100 W. Old Mill Rd, Mesquite (about 80 miles from Las Vegas)",
+   "time": "Daily",
+   "free": true,
+   "source": "https://www.visitmesquite.com/event/one-thousand-flags-over-mesquite-field-of-honor-2026/55129/",
+   "date": "2026-11-08",
+   "end": "2026-11-15",
+   "note": "In Mesquite, about 80 miles from Las Vegas. Free.",
+   "description": "The 20th annual field of 1,000 flags honoring the nation's heroes, hosted by the Virgin Valley Chapter NSDAR, also marking America's 250th birthday.",
+   "know": [
+    "This is in Mesquite, NV, about 80 miles northeast of Las Vegas."
+   ],
+   "id": "la-1000-flags-over-mesquite",
+   "lat": 36.805,
+   "lng": -114.07
   }
  ],
  "center": [
