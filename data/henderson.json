@@ -1,6 +1,6 @@
 {
  "city": "Henderson, NV",
- "checked": "2026-10-27",
+ "checked": "2026-10-31",
  "events": [
   {
    "name": "Henderson Farmers Market – Cornerstone Park",
@@ -515,6 +515,142 @@
    "id": "he-whitney-mesa-solstice-sunset-hike",
    "lat": 36.08017,
    "lng": -115.05873
+  },
+  {
+   "name": "Ethel M Holiday Cactus Garden Lights",
+   "category": "Holiday",
+   "place": "Ethel M Chocolates, 2 Cactus Garden Dr, Henderson",
+   "time": "5pm–10pm",
+   "free": false,
+   "source": "https://www.ethelm.com/en-us/locations/henderson-flagship/cactus-garden/holiday-cactus-garden",
+   "price": "$3; under 2 and 65+ free",
+   "date": "2026-11-05",
+   "end": "2027-01-03",
+   "note": "Nightly; 5–8pm Dec 24, Dec 31 and Jan 1; closed Dec 25. $3 entry; under 2 and 65+ free.",
+   "description": "Ethel M Holiday Cactus Garden Lights at Ethel M Chocolates, 2 Cactus Garden Dr, Henderson. Nightly; 5–8pm Dec 24, Dec 31 and Jan 1; closed Dec 25. $3 entry; under 2 and 65+ free.",
+   "id": "he-ethel-m-holiday-cactus-garden-lights",
+   "lat": 36.07394,
+   "lng": -115.07215
+  },
+  {
+   "name": "Market in the Alley",
+   "category": "Market",
+   "place": "The Green at The District at Green Valley Ranch",
+   "time": "10am–3pm",
+   "free": true,
+   "source": "https://shopthedistrictgvr.com/events/the-district-at-green-valley-ranch-market-in-the-alley-566bfdeb-cdff-49d6-b020-4d92ceb7a3b3/",
+   "date": "2026-11-08",
+   "note": "Free.",
+   "description": "Market in the Alley at The Green at The District at Green Valley Ranch. Free.",
+   "id": "he-market-in-the-alley",
+   "lat": 36.02157,
+   "lng": -115.08697
+  },
+  {
+   "name": "Desert Winds Veterans Day Salute",
+   "category": "Music",
+   "place": "Congregation Ner Tamid, 55 N Valle Verde Dr, Henderson",
+   "time": "7pm",
+   "free": false,
+   "source": "https://www.makingmusicmatterfoundation.org/post/monday-music-matters-why-the-band-still-plays-on-veterans-day",
+   "price": "$10–15",
+   "date": "2026-11-09",
+   "note": "Veterans Day concert.",
+   "description": "Desert Winds Veterans Day Salute at Congregation Ner Tamid, 55 N Valle Verde Dr, Henderson. Veterans Day concert.",
+   "id": "he-desert-winds-veterans-day-salute",
+   "lat": 36.03108,
+   "lng": -115.0636
+  },
+  {
+   "name": "Makers Hive Market",
+   "category": "Market",
+   "place": "The District at Green Valley Ranch",
+   "time": "11am–4pm",
+   "free": true,
+   "source": "https://shopthedistrictgvr.com/events/the-district-at-green-valley-ranch-the-makers-hive-market-946de5cf-26b1-45dc-9e4b-dd81384512e9/",
+   "rule": {
+    "dates": [
+     "2026-11-14",
+     "2026-11-28",
+     "2026-12-19"
+    ]
+   },
+   "note": "Nov 14, Nov 28 and Dec 19. Free.",
+   "description": "Makers Hive Market at The District at Green Valley Ranch. Nov 14, Nov 28 and Dec 19. Free.",
+   "id": "he-makers-hive-market",
+   "lat": 36.02129,
+   "lng": -115.08621
+  },
+  {
+   "name": "Thanksgiving Market",
+   "category": "Market",
+   "place": "Pumpkin Park, Henderson",
+   "time": "9am–12pm",
+   "free": true,
+   "source": "https://nvhendersonweb.myvscloud.com/webtrac/web/iteminfo.html?FMID=361509209&Module=AR",
+   "date": "2026-11-21",
+   "note": "Free.",
+   "description": "Thanksgiving Market at Pumpkin Park, Henderson. Free.",
+   "id": "he-thanksgiving-market"
+  },
+  {
+   "name": "Great Migratory Elf Hunt",
+   "category": "Holiday",
+   "place": "Henderson Bird Viewing Preserve",
+   "time": "7am–1:30pm",
+   "free": false,
+   "source": "https://nvhendersonweb.myvscloud.com/webtrac/web/iteminfo.html?FMID=361508343&Module=AR",
+   "price": "$5 registration",
+   "date": "2026-11-28",
+   "end": "2026-12-23",
+   "note": "Daily. $5 registration.",
+   "description": "Great Migratory Elf Hunt at Henderson Bird Viewing Preserve. Daily. $5 registration.",
+   "id": "he-great-migratory-elf-hunt",
+   "lat": 36.07868,
+   "lng": -115.00119
+  },
+  {
+   "name": "Pictures with Santa – Black Mountain",
+   "category": "Holiday",
+   "place": "Black Mountain Recreation Center, Henderson",
+   "time": "9am–11am",
+   "free": false,
+   "source": "https://nvhendersonweb.myvscloud.com/webtrac/web/iteminfo.html?FMID=361505645&Module=AR",
+   "price": "$3",
+   "date": "2026-12-05",
+   "note": "$3.",
+   "description": "Pictures with Santa – Black Mountain at Black Mountain Recreation Center, Henderson. $3.",
+   "id": "he-pictures-with-santa-black-mountain",
+   "lat": 36.01311,
+   "lng": -114.97544
+  },
+  {
+   "name": "Toys for Tots Fill the Truck",
+   "category": "Community",
+   "place": "The District at Green Valley Ranch",
+   "time": "5pm–7pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/toys-for-tots-fill-the-truck-tickets-2002825576213",
+   "date": "2026-12-10",
+   "note": "Free; bring a new unwrapped toy.",
+   "description": "Toys for Tots Fill the Truck at The District at Green Valley Ranch. Free; bring a new unwrapped toy.",
+   "id": "he-toys-for-tots-fill-the-truck",
+   "lat": 36.02129,
+   "lng": -115.08621
+  },
+  {
+   "name": "Ugly Sweater Winter Carnival",
+   "category": "Holiday",
+   "place": "Paseo Vista Park, Henderson",
+   "time": "3pm–5pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/ugly-sweater-winter-carnival-tickets-2003936659493",
+   "date": "2026-12-12",
+   "note": "Free with registration.",
+   "description": "Ugly Sweater Winter Carnival at Paseo Vista Park, Henderson. Free with registration.",
+   "id": "he-ugly-sweater-winter-carnival",
+   "lat": 36.01819,
+   "lng": -115.09892
   }
  ],
  "center": [

@@ -1,6 +1,6 @@
 {
  "city": "Phoenix, AZ",
- "checked": "2026-10-27",
+ "checked": "2026-10-31",
  "events": [
   {
    "name": "First Friday Art Walk",
@@ -304,6 +304,150 @@
    "id": "ph-phoenix-pizza-festival-eb",
    "lat": 33.46171,
    "lng": -112.06995
+  },
+  {
+   "name": "2nd Sundays on Mill",
+   "category": "Market",
+   "place": "Mill Ave, Tempe",
+   "time": "10am–3pm",
+   "free": true,
+   "source": "https://www.downtowntempe.com/events/2nd-sundays-on-mill",
+   "rule": {
+    "dates": [
+     "2026-11-08",
+     "2027-01-10"
+    ]
+   },
+   "note": "Free. Arizona time.",
+   "description": "2nd Sundays on Mill at Mill Ave, Tempe. Free. Arizona time.",
+   "id": "ph-2nd-sundays-on-mill",
+   "lat": 33.44763,
+   "lng": -111.95117
+  },
+  {
+   "name": "Phoenix Veterans Day Parade",
+   "category": "Parade",
+   "place": "3rd St from McDowell Rd to Indian School Rd, Phoenix",
+   "time": "11am–1pm",
+   "free": true,
+   "source": "https://honoringamericasveterans.org/2026-hav-veterans-day-parade-phoenix/",
+   "date": "2026-11-11",
+   "note": "Free.",
+   "description": "Phoenix Veterans Day Parade at 3rd St from McDowell Rd to Indian School Rd, Phoenix. Free.",
+   "id": "ph-phoenix-veterans-day-parade"
+  },
+  {
+   "name": "Merry Main Street Kickoff & Tree Lighting",
+   "category": "Holiday",
+   "place": "Downtown Mesa",
+   "time": "5pm–10pm",
+   "free": true,
+   "source": "https://www.visitmesa.com/blog/guide-to-merry-main-street/",
+   "date": "2026-11-27",
+   "note": "Free.",
+   "description": "Merry Main Street Kickoff & Tree Lighting at Downtown Mesa. Free.",
+   "id": "ph-merry-main-street-kickoff-tree-lighting",
+   "lat": 33.41512,
+   "lng": -111.83149
+  },
+  {
+   "name": "Mesa Temple Christmas Lights",
+   "category": "Holiday",
+   "place": "Mesa Arizona Temple, 101 S LeSueur",
+   "time": "5pm–10pm",
+   "free": true,
+   "source": "https://mesatemple.org/christmas/",
+   "date": "2026-11-27",
+   "end": "2026-12-30",
+   "note": "Nightly. Free.",
+   "description": "Mesa Temple Christmas Lights at Mesa Arizona Temple, 101 S LeSueur. Nightly. Free.",
+   "id": "ph-mesa-temple-christmas-lights",
+   "lat": 33.41276,
+   "lng": -111.81967
+  },
+  {
+   "name": "Chandler Tumbleweed Tree Lighting & Parade of Lights",
+   "category": "Holiday",
+   "place": "Downtown Chandler",
+   "time": "4:30pm–9pm",
+   "free": true,
+   "source": "https://www.chandleraz.gov/events/tumbleweed-tree-lighting-ceremony",
+   "date": "2026-12-05",
+   "note": "Free.",
+   "description": "Chandler Tumbleweed Tree Lighting & Parade of Lights at Downtown Chandler. Free.",
+   "id": "ph-chandler-tumbleweed-tree-lighting-parade",
+   "lat": 33.2929,
+   "lng": -111.84256
+  },
+  {
+   "name": "Moon Valley Hanukkah Festival",
+   "category": "Holiday",
+   "place": "Moon Valley Park, Phoenix",
+   "time": "3:30pm–5:30pm",
+   "free": true,
+   "source": "https://www.jewishmoonvalley.com/events/moon-valley-hanukkah-festival-2026",
+   "date": "2026-12-06",
+   "note": "Free.",
+   "description": "Moon Valley Hanukkah Festival at Moon Valley Park, Phoenix. Free.",
+   "id": "ph-moon-valley-hanukkah-festival",
+   "lat": 33.6278,
+   "lng": -112.08063
+  },
+  {
+   "name": "Downtown Tempe Menorah Lighting",
+   "category": "Holiday",
+   "place": "Downtown Tempe",
+   "time": "5:30pm–7pm",
+   "free": true,
+   "source": "https://www.downtowntempe.com/events/menorah-lighting",
+   "date": "2026-12-09",
+   "note": "Menorah lighting.",
+   "description": "Downtown Tempe Menorah Lighting at Downtown Tempe. Menorah lighting.",
+   "id": "ph-downtown-tempe-menorah-lighting",
+   "lat": 33.42509,
+   "lng": -111.93726
+  },
+  {
+   "name": "Fantasy of Lights Boat Parade",
+   "category": "Holiday",
+   "place": "Tempe Beach Park",
+   "time": "4pm–9pm",
+   "free": true,
+   "source": "https://www.downtowntempe.com/events/fol-boat-parade",
+   "date": "2026-12-12",
+   "note": "Free.",
+   "description": "Fantasy of Lights Boat Parade at Tempe Beach Park. Free.",
+   "id": "ph-fantasy-of-lights-boat-parade",
+   "lat": 33.43092,
+   "lng": -111.94181
+  },
+  {
+   "name": "Family Fun WinterFest",
+   "category": "Kids",
+   "place": "Arizona Boardwalk, Scottsdale",
+   "time": "10am–2pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/free-8th-annual-family-fun-winterfest-tickets-1999043591194",
+   "date": "2027-01-09",
+   "note": "Free.",
+   "description": "Family Fun WinterFest at Arizona Boardwalk, Scottsdale. Free.",
+   "id": "ph-family-fun-winterfest",
+   "lat": 33.5553,
+   "lng": -111.87625
+  },
+  {
+   "name": "Arizona MLK March & Festival",
+   "category": "Community",
+   "place": "Eastlake Park, Phoenix",
+   "time": "See site",
+   "free": true,
+   "source": "https://azmlk.org/events/",
+   "date": "2027-01-18",
+   "note": "Free.",
+   "description": "Arizona MLK March & Festival at Eastlake Park, Phoenix. Free.",
+   "id": "ph-arizona-mlk-march-festival",
+   "lat": 33.44616,
+   "lng": -112.04888
   }
  ],
  "center": [

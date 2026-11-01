@@ -1,6 +1,6 @@
 {
  "city": "Laughlin, NV",
- "checked": "2026-10-27",
+ "checked": "2026-10-31",
  "events": [
   {
    "name": "Creepy Crawler Hike",
@@ -136,6 +136,154 @@
    "id": "lau-desert-artisan-exchange-eb",
    "lat": 35.16275,
    "lng": -114.57128
+  },
+  {
+   "name": "18th Paul Walsh Veterans Day Parade",
+   "category": "Parade",
+   "place": "Miracle Mile, Bullhead City",
+   "time": "10am (AZ time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/11/7/616846/18th-annual-paul-walsh-veterans-day-parade/",
+   "date": "2026-11-07",
+   "note": "Free. Arizona time.",
+   "description": "18th Paul Walsh Veterans Day Parade at Miracle Mile, Bullhead City. Free. Arizona time.",
+   "id": "lau-18th-paul-walsh-veterans-day-parade"
+  },
+  {
+   "name": "Cruisin' The 66 Car Show",
+   "category": "Community",
+   "place": "Topock66, Topock AZ",
+   "time": "9am–5pm (AZ time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/11/8/656584/route-66-car-show-topock/",
+   "date": "2026-11-08",
+   "note": "Free.",
+   "description": "Cruisin' The 66 Car Show at Topock66, Topock AZ. Free.",
+   "id": "lau-cruisin-the-66-car-show"
+  },
+  {
+   "name": "Homegrown Holiday Farmers Market",
+   "category": "Market",
+   "place": "Community Park, Bullhead City",
+   "time": "9am–1pm (AZ time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/11/14/617624/homegrown-holiday-bullhead-city-farmers-market/",
+   "date": "2026-11-14",
+   "note": "Free.",
+   "description": "Homegrown Holiday Farmers Market at Community Park, Bullhead City. Free.",
+   "id": "lau-homegrown-holiday-farmers-market"
+  },
+  {
+   "name": "Riverview Craft & Vendor Fair",
+   "category": "Market",
+   "place": "Riverview Resort, Bullhead City",
+   "time": "8am–1pm (AZ time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/11/14/656582/craft-vendor-fair/",
+   "date": "2026-11-14",
+   "note": "Free.",
+   "description": "Riverview Craft & Vendor Fair at Riverview Resort, Bullhead City. Free.",
+   "id": "lau-riverview-craft-vendor-fair"
+  },
+  {
+   "name": "Gobble Wobble Little Turkey Trot",
+   "category": "Kids",
+   "place": "Optimum Community Center, Bullhead City",
+   "time": "10:30am–12:30pm (AZ time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/11/20/620606/gobble-wobble-little-turkey-trot-funbelievable-friday/",
+   "date": "2026-11-20",
+   "note": "Ages 2–14. Free with registration.",
+   "description": "Gobble Wobble Little Turkey Trot at Optimum Community Center, Bullhead City. Ages 2–14. Free with registration.",
+   "id": "lau-gobble-wobble-little-turkey-trot"
+  },
+  {
+   "name": "Bullhead City Christmas Craft Show",
+   "category": "Market",
+   "place": "Optimum Community Center, Bullhead City",
+   "time": "See site",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/11/21/573756/bullhead-city-christmas-craft-show/",
+   "date": "2026-11-21",
+   "end": "2026-11-22",
+   "note": "Holiday crafts.",
+   "description": "Bullhead City Christmas Craft Show at Optimum Community Center, Bullhead City. Holiday crafts.",
+   "id": "lau-bullhead-city-christmas-craft-show"
+  },
+  {
+   "name": "Christmas Tree & Wreath Fest",
+   "category": "Holiday",
+   "place": "The Venue 837, Bullhead City",
+   "time": "11am–2pm (AZ time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/11/21/653530/christmas-tree-wreath-fest-the-venue-837/",
+   "date": "2026-11-21",
+   "note": "Holiday trees and wreaths.",
+   "description": "Christmas Tree & Wreath Fest at The Venue 837, Bullhead City. Holiday trees and wreaths.",
+   "id": "lau-christmas-tree-wreath-fest"
+  },
+  {
+   "name": "International Gifts & Crafts Show",
+   "category": "Market",
+   "place": "Aquarius Casino Resort, Laughlin",
+   "time": "See site",
+   "free": true,
+   "source": "https://festivalnet.com/69011/Laughlin-Nevada/Family-Kids-Festivals/International-Gifts-Crafts-Show",
+   "date": "2026-11-26",
+   "end": "2026-11-28",
+   "note": "Free.",
+   "description": "International Gifts & Crafts Show at Aquarius Casino Resort, Laughlin. Free.",
+   "id": "lau-international-gifts-crafts-show",
+   "lat": 35.1632,
+   "lng": -114.5725
+  },
+  {
+   "name": "Welcome Christmas Pajama Party",
+   "category": "Kids",
+   "place": "Optimum Community Center, Bullhead City",
+   "time": "10:30am–12:30pm (AZ time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/11/27/620608/welcome-christmas-pajama-party-funbelievable-friday/",
+   "date": "2026-11-27",
+   "note": "Free with registration.",
+   "description": "Welcome Christmas Pajama Party at Optimum Community Center, Bullhead City. Free with registration.",
+   "id": "lau-welcome-christmas-pajama-party"
+  },
+  {
+   "name": "The Great Christmas Carnival",
+   "category": "Holiday",
+   "place": "Anderson Auto Group Fieldhouse, Bullhead City",
+   "time": "10am (AZ time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/12/12/647088/the-great-christmas-carnival/",
+   "date": "2026-12-12",
+   "note": "Free.",
+   "description": "The Great Christmas Carnival at Anderson Auto Group Fieldhouse, Bullhead City. Free.",
+   "id": "lau-the-great-christmas-carnival"
+  },
+  {
+   "name": "Christmas on the City Hall Deck",
+   "category": "Holiday",
+   "place": "Bullhead City Hall, 2355 Trane Rd",
+   "time": "4:30pm–7pm (AZ time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/12/18/651005/christmas-on-the-city-hall-deck-holiday-fun-with-santa/",
+   "date": "2026-12-18",
+   "note": "Free. Holiday fun with Santa.",
+   "description": "Christmas on the City Hall Deck at Bullhead City Hall, 2355 Trane Rd. Free. Holiday fun with Santa.",
+   "id": "lau-christmas-on-the-city-hall-deck"
+  },
+  {
+   "name": "New Year, Fresh Start Farmers Market",
+   "category": "Market",
+   "place": "Optimum Community Center, Bullhead City",
+   "time": "9am–1pm (AZ time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2027/1/9/617626/new-year-fresh-start-bullhead-city-farmers-market/",
+   "date": "2027-01-09",
+   "note": "Free.",
+   "description": "New Year, Fresh Start Farmers Market at Optimum Community Center, Bullhead City. Free.",
+   "id": "lau-new-year-fresh-start-farmers-market"
   }
  ],
  "center": [

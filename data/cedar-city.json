@@ -1,6 +1,6 @@
 {
  "city": "Cedar City, UT",
- "checked": "2026-10-27",
+ "checked": "2026-10-31",
  "events": [
   {
    "name": "Festival City Farmers Market",
@@ -205,6 +205,91 @@
    "id": "ce-bookdom-turns-two-eb",
    "lat": 37.70599,
    "lng": -113.06288
+  },
+  {
+   "name": "SUU Veterans Day Ceremony",
+   "category": "Holiday",
+   "place": "Eccles Music Center, Southern Utah University",
+   "time": "11am",
+   "free": true,
+   "source": "https://sgwom.com/events/suu-veterans-day-concert-2026/",
+   "date": "2026-11-11",
+   "note": "Free.",
+   "description": "SUU Veterans Day Ceremony at Eccles Music Center, Southern Utah University. Free.",
+   "id": "ce-suu-veterans-day-ceremony",
+   "lat": 37.67797,
+   "lng": -113.0676
+  },
+  {
+   "name": "Talon Craft Fair",
+   "category": "Market",
+   "place": "Canyon View High School, Cedar City",
+   "time": "See site",
+   "free": false,
+   "source": "https://435locals.com/event/talon-craft-fair/",
+   "price": "$2",
+   "date": "2026-11-20",
+   "end": "2026-11-21",
+   "note": "$2.",
+   "description": "Talon Craft Fair at Canyon View High School, Cedar City. $2.",
+   "id": "ce-talon-craft-fair",
+   "lat": 37.71431,
+   "lng": -113.06368
+  },
+  {
+   "name": "parkrun Turkey Trot 5K",
+   "category": "Outdoors",
+   "place": "Cedar City parkrun course",
+   "time": "9am",
+   "free": true,
+   "source": "https://435locals.com/event/parkrun-turkey-trot-5k/",
+   "date": "2026-11-26",
+   "note": "Free.",
+   "description": "parkrun Turkey Trot 5K at Cedar City parkrun course. Free.",
+   "id": "ce-parkrun-turkey-trot-5k"
+  },
+  {
+   "name": "Holidays at the Homestead",
+   "category": "Holiday",
+   "place": "Frontier Homestead State Park, 635 N Main St",
+   "time": "6pm–8pm",
+   "free": false,
+   "source": "https://www.duckcreekvillageinn.com/events/holidays-at-the-homestead-cedar-city-2026-12-07",
+   "price": "$4; $20 per family",
+   "date": "2026-12-07",
+   "end": "2026-12-09",
+   "note": "$4, or $20 per family.",
+   "description": "Holidays at the Homestead at Frontier Homestead State Park, 635 N Main St. $4, or $20 per family.",
+   "id": "ce-holidays-at-the-homestead",
+   "lat": 37.68838,
+   "lng": -113.06193
+  },
+  {
+   "name": "Lights at the Homestead",
+   "category": "Holiday",
+   "place": "Frontier Homestead State Park, 635 N Main St",
+   "time": "6pm–8pm",
+   "free": true,
+   "source": "https://www.duckcreekvillageinn.com/events/lights-at-the-homestead-cedar-city-2026-12-20",
+   "date": "2026-12-20",
+   "end": "2026-12-24",
+   "note": "Free.",
+   "description": "Lights at the Homestead at Frontier Homestead State Park, 635 N Main St. Free.",
+   "id": "ce-lights-at-the-homestead",
+   "lat": 37.68838,
+   "lng": -113.06193
+  },
+  {
+   "name": "State-Wide Farmers Market",
+   "category": "Market",
+   "place": "Heritage Center Theater lobby, Cedar City",
+   "time": "8am–12pm",
+   "free": true,
+   "source": "https://utfarmconference.org/farmers-market",
+   "date": "2027-01-16",
+   "note": "Free.",
+   "description": "State-Wide Farmers Market at Heritage Center Theater lobby, Cedar City. Free.",
+   "id": "ce-state-wide-farmers-market"
   }
  ],
  "center": [

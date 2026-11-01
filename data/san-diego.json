@@ -1,6 +1,6 @@
 {
  "city": "San Diego, CA",
- "checked": "2026-10-27",
+ "checked": "2026-10-31",
  "events": [
   {
    "name": "Balboa Park December Nights",
@@ -301,6 +301,90 @@
    "id": "sd-great-big-family-play-day-eb",
    "lat": 32.73765,
    "lng": -117.21244
+  },
+  {
+   "name": "San Diego Veterans Day Parade",
+   "category": "Parade",
+   "place": "Harbor Dr, San Diego",
+   "time": "10am–11:30am",
+   "free": true,
+   "source": "https://www.midway.org/event/san-diego-veterans-day-parade",
+   "date": "2026-11-11",
+   "note": "Free.",
+   "description": "San Diego Veterans Day Parade at Harbor Dr, San Diego. Free.",
+   "id": "sd-san-diego-veterans-day-parade",
+   "lat": 32.7137,
+   "lng": -117.1751
+  },
+  {
+   "name": "Pacific Beach Holiday Parade",
+   "category": "Parade",
+   "place": "Pacific Beach, San Diego",
+   "time": "1pm–3pm",
+   "free": true,
+   "source": "https://www.pacificbeach.org/event/pacific-beach-holiday-parade-4/",
+   "date": "2026-12-12",
+   "note": "Free to watch.",
+   "description": "Pacific Beach Holiday Parade at Pacific Beach, San Diego. Free to watch.",
+   "id": "sd-pacific-beach-holiday-parade",
+   "lat": 32.79783,
+   "lng": -117.24032
+  },
+  {
+   "name": "Mission Bay Christmas Boat Parade of Lights",
+   "category": "Holiday",
+   "place": "Mission Bay, San Diego",
+   "time": "5:30pm",
+   "free": true,
+   "source": "https://www.discovermissionbay.org/events/boat-parade/",
+   "date": "2026-12-12",
+   "note": "Free.",
+   "description": "Mission Bay Christmas Boat Parade of Lights at Mission Bay, San Diego. Free.",
+   "id": "sd-mission-bay-christmas-boat-parade-of-lig",
+   "lat": 32.77922,
+   "lng": -117.2342
+  },
+  {
+   "name": "Spreckels Organ 112th Birthday Concert",
+   "category": "Music",
+   "place": "Spreckels Organ Pavilion, Balboa Park",
+   "time": "2pm",
+   "free": true,
+   "source": "https://www.spreckelsorgan.org/",
+   "date": "2027-01-01",
+   "note": "Free.",
+   "description": "Spreckels Organ 112th Birthday Concert at Spreckels Organ Pavilion, Balboa Park. Free.",
+   "id": "sd-spreckels-organ-112th-birthday-concert",
+   "lat": 32.7292,
+   "lng": -117.1503
+  },
+  {
+   "name": "North Park Coffee & Tea Fair",
+   "category": "Food",
+   "place": "North Park Mini Park, San Diego",
+   "time": "12pm–4pm",
+   "free": true,
+   "source": "https://www.kpbs.org/events/2027/01/09/north-park-coffee-tea-fair",
+   "date": "2027-01-09",
+   "note": "Free.",
+   "description": "North Park Coffee & Tea Fair at North Park Mini Park, San Diego. Free.",
+   "id": "sd-north-park-coffee-tea-fair",
+   "lat": 32.74761,
+   "lng": -117.13147
+  },
+  {
+   "name": "45th San Diego MLK Parade",
+   "category": "Parade",
+   "place": "Harbor Dr, San Diego",
+   "time": "11am",
+   "free": true,
+   "source": "https://www.sandiegoalphas.com/mlk-parade",
+   "date": "2027-01-17",
+   "note": "Free.",
+   "description": "45th San Diego MLK Parade at Harbor Dr, San Diego. Free.",
+   "id": "sd-45th-san-diego-mlk-parade",
+   "lat": 32.7137,
+   "lng": -117.1751
   }
  ],
  "center": [

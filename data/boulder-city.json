@@ -1,6 +1,6 @@
 {
  "city": "Boulder City, NV",
- "checked": "2026-10-27",
+ "checked": "2026-10-31",
  "events": [
   {
    "name": "Leave No Trace Trivia Night",
@@ -198,6 +198,151 @@
    "id": "bc-airport-day",
    "lat": 35.9476,
    "lng": -114.861
+  },
+  {
+   "name": "Artists in Action",
+   "category": "Arts",
+   "place": "Boulder City Parks & Rec, 900 Arizona St",
+   "time": "9am–4pm",
+   "free": true,
+   "source": "https://events.bouldercity.com/events/artists-in-action-27/",
+   "date": "2026-11-07",
+   "end": "2026-11-08",
+   "note": "Free.",
+   "description": "Artists in Action at Boulder City Parks & Rec, 900 Arizona St. Free.",
+   "id": "bc-artists-in-action",
+   "lat": 35.9787,
+   "lng": -114.83325
+  },
+  {
+   "name": "Veterans Day Resident Parade & Cruise-In",
+   "category": "Parade",
+   "place": "Nevada State Veterans Home, Boulder City",
+   "time": "9am–12pm",
+   "free": true,
+   "source": "https://everyday.vegas/events/veterans-day-resident-parade-cruise-in/",
+   "date": "2026-11-11",
+   "note": "Free.",
+   "description": "Veterans Day Resident Parade & Cruise-In at Nevada State Veterans Home, Boulder City. Free.",
+   "id": "bc-veterans-day-resident-parade-cruise-in",
+   "lat": 35.9712,
+   "lng": -114.87013
+  },
+  {
+   "name": "Fall Rev Up Classic Car Fest",
+   "category": "Community",
+   "place": "Wilbur Square Park, Boulder City",
+   "time": "8am–3pm",
+   "free": true,
+   "source": "https://bouldercitycruisin.com/show/fall-rev-classic-car-fest-2/",
+   "date": "2026-11-14",
+   "note": "Free to watch.",
+   "description": "Fall Rev Up Classic Car Fest at Wilbur Square Park, Boulder City. Free to watch.",
+   "id": "bc-fall-rev-up-classic-car-fest",
+   "lat": 35.97998,
+   "lng": -114.83461
+  },
+  {
+   "name": "Christmas Market at Faith Christian Church",
+   "category": "Market",
+   "place": "Faith Christian Church, 1100 Buchanan Blvd",
+   "time": "10am–4pm",
+   "free": true,
+   "source": "https://www.chamberorganizer.com/Calendar/moreinfo.php?eventid=496430",
+   "date": "2026-11-14",
+   "note": "Free.",
+   "description": "Christmas Market at Faith Christian Church at Faith Christian Church, 1100 Buchanan Blvd. Free.",
+   "id": "bc-christmas-market-at-faith-christian-chur",
+   "lat": 35.96982,
+   "lng": -114.84531
+  },
+  {
+   "name": "Santa Train",
+   "category": "Holiday",
+   "place": "Nevada State Railroad Museum, 601 Yucca St",
+   "time": "9:30am–3:30pm departures",
+   "free": false,
+   "source": "https://www.boulderrailroadmuseum.org/santatrain/",
+   "price": "$12",
+   "rule": {
+    "dow": [
+     0,
+     6
+    ],
+    "from": "2026-11-28",
+    "until": "2026-12-20"
+   },
+   "note": "Weekends Nov 28–Dec 20. $12.",
+   "description": "Santa Train at Nevada State Railroad Museum, 601 Yucca St. Weekends Nov 28–Dec 20. $12.",
+   "id": "bc-santa-train",
+   "lat": 35.97029,
+   "lng": -114.85675
+  },
+  {
+   "name": "Community Christmas Tree Lighting",
+   "category": "Holiday",
+   "place": "Frank Crowe Park, Boulder City",
+   "time": "6pm–7pm",
+   "free": true,
+   "source": "https://www.chamberorganizer.com/Calendar/moreinfo.php?eventid=210916",
+   "date": "2026-12-04",
+   "note": "Free.",
+   "description": "Community Christmas Tree Lighting at Frank Crowe Park, Boulder City. Free.",
+   "id": "bc-community-christmas-tree-lighting"
+  },
+  {
+   "name": "Doodlebug Craft Bazaar",
+   "category": "Market",
+   "place": "Boulder City Parks & Rec gymnasiums, 900 Arizona St",
+   "time": "9am–3pm",
+   "free": true,
+   "source": "https://bccommunityclub.com/calendar?ym=2026-12",
+   "date": "2026-12-05",
+   "note": "Free.",
+   "description": "Doodlebug Craft Bazaar at Boulder City Parks & Rec gymnasiums, 900 Arizona St. Free.",
+   "id": "bc-doodlebug-craft-bazaar",
+   "lat": 35.9787,
+   "lng": -114.83325
+  },
+  {
+   "name": "Santa's Picture Party",
+   "category": "Holiday",
+   "place": "Bicentennial Park Gazebo, Boulder City",
+   "time": "11am–1pm",
+   "free": true,
+   "source": "https://www.chamberorganizer.com/Calendar/moreinfo.php?eventid=210917",
+   "date": "2026-12-05",
+   "note": "Free.",
+   "description": "Santa's Picture Party at Bicentennial Park Gazebo, Boulder City. Free.",
+   "id": "bc-santa-s-picture-party"
+  },
+  {
+   "name": "Santa's Electric Night Parade",
+   "category": "Parade",
+   "place": "Historic District, Boulder City",
+   "time": "4:30pm–7pm",
+   "free": true,
+   "source": "https://www.chamberorganizer.com/members/evr/reg_event.php?evid=97449291&orgcode=BCCC",
+   "date": "2026-12-05",
+   "note": "Free.",
+   "description": "Santa's Electric Night Parade at Historic District, Boulder City. Free.",
+   "id": "bc-santa-s-electric-night-parade",
+   "lat": 35.97758,
+   "lng": -114.8356
+  },
+  {
+   "name": "Twelfth Night Handbell Festival Concert",
+   "category": "Music",
+   "place": "Boulder City Recreation Center",
+   "time": "5pm",
+   "free": true,
+   "source": "https://harmonyhandbells.com/festival/",
+   "date": "2027-01-09",
+   "note": "Public concert.",
+   "description": "Twelfth Night Handbell Festival Concert at Boulder City Recreation Center. Public concert.",
+   "id": "bc-twelfth-night-handbell-festival-concert",
+   "lat": 35.9787,
+   "lng": -114.83325
   }
  ],
  "center": [

@@ -1,6 +1,6 @@
 {
  "city": "Hurricane, UT",
- "checked": "2026-10-27",
+ "checked": "2026-10-31",
  "events": [
   {
    "name": "Winged Wonders at Sand Hollow",
@@ -181,6 +181,96 @@
    "id": "hu-hurricane-valley-christmas-tree-festival-2026-12-10",
    "lat": 37.17559,
    "lng": -113.28952
+  },
+  {
+   "name": "Hurricane Farmers Market",
+   "category": "Market",
+   "place": "Community Center Park, Hurricane",
+   "time": "9am–1pm",
+   "free": true,
+   "source": "https://events.greaterzion.com/event/hurricane-farmers-market-2026-30/",
+   "rule": {
+    "dow": [
+     6
+    ],
+    "from": "2026-10-31",
+    "until": "2026-11-21"
+   },
+   "note": "Saturdays through Nov 21. Free.",
+   "description": "Hurricane Farmers Market at Community Center Park, Hurricane. Saturdays through Nov 21. Free.",
+   "id": "hu-hurricane-farmers-market",
+   "lat": 37.17558,
+   "lng": -113.28906
+  },
+  {
+   "name": "Southern Utah Rock & Gem Show",
+   "category": "Market",
+   "place": "Legacy Park, Hurricane",
+   "time": "10am–7pm",
+   "free": true,
+   "source": "https://thelegacypark.com/events/southern-utah-rock-and-gem-show-5/",
+   "date": "2026-11-06",
+   "end": "2026-11-07",
+   "note": "Free.",
+   "description": "Southern Utah Rock & Gem Show at Legacy Park, Hurricane. Free.",
+   "id": "hu-southern-utah-rock-gem-show",
+   "lat": 37.16248,
+   "lng": -113.41287
+  },
+  {
+   "name": "Sand Hollow Resort Charity Car Show",
+   "category": "Community",
+   "place": "Sand Hollow Resort, Hurricane",
+   "time": "9am–3pm",
+   "free": true,
+   "source": "https://sandhollowresort.com/event/charity-car-show-2026/",
+   "date": "2026-11-07",
+   "note": "Free.",
+   "description": "Sand Hollow Resort Charity Car Show at Sand Hollow Resort, Hurricane. Free.",
+   "id": "hu-sand-hollow-resort-charity-car-show",
+   "lat": 37.11788,
+   "lng": -113.41159
+  },
+  {
+   "name": "Southern Utah Market Christmas Pop-Up",
+   "category": "Market",
+   "place": "Legacy Park, Hurricane",
+   "time": "11am–5pm",
+   "free": true,
+   "source": "https://nowplayingutah.com/event/southern-utah-market-annual-christmas-pop-up/",
+   "date": "2026-12-19",
+   "note": "Free.",
+   "description": "Southern Utah Market Christmas Pop-Up at Legacy Park, Hurricane. Free.",
+   "id": "hu-southern-utah-market-christmas-pop-up",
+   "lat": 37.16248,
+   "lng": -113.41287
+  },
+  {
+   "name": "Polar Plunge for the Children's Justice Center",
+   "category": "Community",
+   "place": "See site",
+   "time": "11am–1:30pm",
+   "free": true,
+   "source": "https://435locals.com/event/polar-plunge/",
+   "date": "2027-01-01",
+   "note": "Free; donations welcome.",
+   "description": "Polar Plunge for the Children's Justice Center at See site. Free; donations welcome.",
+   "id": "hu-polar-plunge-for-the-children-s-justice"
+  },
+  {
+   "name": "Southern Utah Home Show",
+   "category": "Market",
+   "place": "Legacy Park, Hurricane",
+   "time": "See site",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/free-southern-utah-home-show-jan-2027-tickets-1985448062602",
+   "date": "2027-01-22",
+   "end": "2027-01-24",
+   "note": "Free.",
+   "description": "Southern Utah Home Show at Legacy Park, Hurricane. Free.",
+   "id": "hu-southern-utah-home-show",
+   "lat": 37.16248,
+   "lng": -113.41287
   }
  ],
  "center": [

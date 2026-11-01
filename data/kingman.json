@@ -1,6 +1,6 @@
 {
  "city": "Kingman, AZ",
- "checked": "2026-10-27",
+ "checked": "2026-10-31",
  "events": [
   {
    "name": "Downtown First Friday – Giving Thanks & Giving Back",
@@ -135,6 +135,49 @@
    "id": "ki-sound-the-alarm-free-smoke-alarm-installs-eb",
    "lat": 35.2075,
    "lng": -114.3071
+  },
+  {
+   "name": "Guided Hike – Camp Beale Loop",
+   "category": "Outdoors",
+   "place": "Camp Beale Loop Trail, Kingman",
+   "time": "10am–12:30pm",
+   "free": false,
+   "source": "https://www.explorekingman.com/2026-11-7-event-guided-hike",
+   "price": "$10; $35 family of 4",
+   "date": "2026-11-07",
+   "note": "$10, or $35 for a family of 4.",
+   "description": "Guided Hike – Camp Beale Loop at Camp Beale Loop Trail, Kingman. $10, or $35 for a family of 4.",
+   "id": "ki-guided-hike-camp-beale-loop",
+   "lat": 35.21791,
+   "lng": -114.09131
+  },
+  {
+   "name": "Cancer Care Unit 51st Arts & Crafts Fair",
+   "category": "Market",
+   "place": "Mohave County Fairgrounds, 2600 Fairgrounds Blvd",
+   "time": "See site",
+   "free": true,
+   "source": "https://www.explorekingman.com/2026-11-14-event-kingman-cancer-unit-51st-annual-arts-and-crafts-fair",
+   "date": "2026-11-14",
+   "end": "2026-11-15",
+   "note": "Free.",
+   "description": "Cancer Care Unit 51st Arts & Crafts Fair at Mohave County Fairgrounds, 2600 Fairgrounds Blvd. Free.",
+   "id": "ki-cancer-care-unit-51st-arts-crafts-fair",
+   "lat": 35.2105,
+   "lng": -114.02902
+  },
+  {
+   "name": "Breakfast with Santa",
+   "category": "Holiday",
+   "place": "Centennial Park Community Center, Kingman",
+   "time": "See site",
+   "free": false,
+   "source": "https://www.explorekingman.com/2026-12-05-event-breakfast-with-santa",
+   "price": "$10",
+   "date": "2026-12-05",
+   "note": "$10.",
+   "description": "Breakfast with Santa at Centennial Park Community Center, Kingman. $10.",
+   "id": "ki-breakfast-with-santa"
   }
  ],
  "center": [
