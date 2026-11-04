@@ -1,21 +1,7 @@
 {
  "city": "Hurricane, UT",
- "checked": "2026-10-31",
+ "checked": "2026-11-04",
  "events": [
-  {
-   "name": "Winged Wonders at Sand Hollow",
-   "category": "Outdoors & Nature",
-   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
-   "time": "8am",
-   "free": true,
-   "source": "https://stateparks.utah.gov/event/winged-wonders-15/",
-   "date": "2026-10-30",
-   "note": "State park day-use fee applies.",
-   "description": "Sand Hollow gets over 250 bird species a year. Bring a chair or blanket and join a ranger off the main boat ramp near the jetty; binoculars are provided.",
-   "id": "hu-winged-wonders-at-sand-hollow-2026-10-30",
-   "lat": 37.10561,
-   "lng": -113.39361
-  },
   {
    "name": "Community Action – Weed Pulling at Sand Hollow",
    "category": "Outdoors & Nature",
@@ -193,7 +179,7 @@
     "dow": [
      6
     ],
-    "from": "2026-10-31",
+    "from": "2026-11-04",
     "until": "2026-11-21"
    },
    "note": "Saturdays through Nov 21. Free.",
@@ -271,6 +257,21 @@
    "id": "hu-southern-utah-home-show",
    "lat": 37.16248,
    "lng": -113.41287
+  },
+  {
+   "name": "La Verkin Winterfest",
+   "category": "Holiday",
+   "place": "Downtown La Verkin (111 S Main St area)",
+   "time": "Fri 5:30pm–8:30pm; Sat 11am–8:30pm",
+   "free": true,
+   "source": "https://laverkinwinterfest.com/",
+   "date": "2026-12-04",
+   "end": "2026-12-05",
+   "note": "Vendors, tree/\"L\" lighting, light parade Sat ~6pm and fireworks ~7pm. Free entry.",
+   "description": "La Verkin's two-day holiday festival with vendors, a tree and 'L' lighting, contests, a Saturday light parade on Main Street and fireworks. Family-friendly downtown celebration.",
+   "id": "hu-la-verkin-winterfest-2026-12-04",
+   "lat": 37.19912,
+   "lng": -113.26973
   }
  ],
  "center": [

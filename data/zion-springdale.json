@@ -1,6 +1,6 @@
 {
  "city": "Zion / Springdale, UT",
- "checked": "2026-10-27",
+ "checked": "2026-11-04",
  "events": [
   {
    "name": "Zion Canyon Visitor Center Ranger Talk",
@@ -19,7 +19,7 @@
      5,
      6
     ],
-    "from": "2026-10-27",
+    "from": "2026-11-04",
     "until": "2026-11-28"
    },
    "note": "Park entrance fee applies.",
@@ -27,20 +27,6 @@
    "id": "zi-zion-canyon-visitor-center-ranger-talk-2026-10-27",
    "lat": 37.20011,
    "lng": -112.98692
-  },
-  {
-   "name": "Ranger-led Stargazing",
-   "category": "Outdoors & Nature",
-   "place": "South Campground Amphitheater (park at Zion Nature Center)",
-   "time": "6:30pm–7:30pm",
-   "free": true,
-   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=146010",
-   "date": "2026-11-01",
-   "note": "Park entrance fee applies.",
-   "description": "A laser-guided tour of the constellations at Zion's South Campground Amphitheater. Plan to be out after dark and bring your own red light.",
-   "id": "zi-ranger-led-stargazing-2026-11-01",
-   "lat": 37.20447,
-   "lng": -112.98111
   },
   {
    "name": "Zion Art Invitational – Artist Demonstrations",

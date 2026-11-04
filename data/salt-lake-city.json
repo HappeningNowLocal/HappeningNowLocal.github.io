@@ -1,6 +1,6 @@
 {
  "city": "Salt Lake City, UT",
- "checked": "2026-10-27",
+ "checked": "2026-11-04",
  "events": [
   {
    "name": "Hanukkah Market",
@@ -120,22 +120,6 @@
    "lng": -111.88876
   },
   {
-   "name": "Working of the Bison",
-   "category": "Outdoors & Nature",
-   "place": "Antelope Island State Park",
-   "time": "See source",
-   "free": false,
-   "source": "https://stateparks.utah.gov/event/the-working-of-the-bison/",
-   "price": "Park entry",
-   "date": "2026-10-27",
-   "end": "2026-10-29",
-   "note": "Free public tours of the annual bison roundup.",
-   "description": "During the Working of the Bison, Antelope Island's bison are sorted one at a time for vaccinations and health screenings. Free public tours are offered.",
-   "id": "sl-working-of-the-bison-2026-10-27",
-   "lat": 40.97241,
-   "lng": -112.21124
-  },
-  {
    "name": "Bird Walk at Fielding Garr Ranch",
    "category": "Outdoors & Nature",
    "place": "Fielding Garr Ranch, Antelope Island State Park",
@@ -185,21 +169,6 @@
    "id": "sl-spirit-of-the-season-at-camp-floyd-2026-12",
    "lat": 40.25247,
    "lng": -112.09895
-  },
-  {
-   "name": "Monster Dash 5K",
-   "category": "Family",
-   "place": "Wheeler Historic Farm, 6351 S 900 E, Murray",
-   "time": "8am–12pm",
-   "free": false,
-   "source": "https://www.eventbrite.com/e/monster-dash-5k-tickets-1994592067567",
-   "date": "2026-10-31",
-   "price": "Free–$75",
-   "note": "Registration on Eventbrite.",
-   "description": "A costume-friendly 5K run or walk supporting teens affected by foster care and homelessness. After the race there's free trick-or-treating for kids, games, food, music and a costume contest.",
-   "id": "sl-monster-dash-5k-eb",
-   "lat": 40.70879,
-   "lng": -111.86546
   },
   {
    "name": "Yoga Forward Gratitude Fest",

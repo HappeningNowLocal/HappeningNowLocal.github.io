@@ -1,6 +1,6 @@
 # Happening Now Local: Source List
 
-Checked 2026-10-27. **Reachable** means the page loaded from this box. **Search-only** means I read the page text through the search index and did not load it directly. **Blocked** means 403 or a block page.
+Checked 2026-11-04. **Reachable** means the page loaded from this box. **Search-only** means I read the page text through the search index and did not load it directly. **Blocked** means 403 or a block page.
 
 ## Cross-region (all cities)
 | Name | URL | Covers | Reachable |
@@ -51,7 +51,7 @@ Checked 2026-10-27. **Reachable** means the page loaded from this box. **Search-
 | Name | URL | Covers | Reachable |
 |---|---|---|---|
 | Eventbrite | https://www.eventbrite.com/d/ut--st-george/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
-| Utah State Parks events API | https://stateparks.utah.gov/wp-json/tribe/events/v1/events?start_date=2026-10-27&end_date=2026-12-31&per_page=50 | Snow Canyon, Sand Hollow, Quail Creek, Antelope Island, Goblin Valley, Frontier Homestead, Camp Floyd | Reachable. The HTML calendar page shows little |
+| Utah State Parks events API | https://stateparks.utah.gov/wp-json/tribe/events/v1/events?start_date=2026-11-04&end_date=2026-12-31&per_page=50 | Snow Canyon, Sand Hollow, Quail Creek, Antelope Island, Goblin Valley, Frontier Homestead, Camp Floyd | Reachable. The HTML calendar page shows little |
 | Sand Hollow calendar | https://stateparks.utah.gov/parks/sand-hollow/events-calendar/ | Tournaments, closures | Search-only |
 | Zion NP | https://www.nps.gov/zion/planyourvisit/calendar.htm | Ranger stargazing | JS-only; API works |
 | St. George Chamber (Tabernacle) | https://stgeorgechamber.com/november-2026-tabernacle-events/ | Free Tabernacle programs | Search-only |
@@ -164,6 +164,18 @@ Candidate official sources: Colorado Parks & Wildlife (https://cpw.state.co.us/e
 | Kingman Downtown Merchants Association | https://www.kingmandowntownmerchantsassociation.com/ | Street of Lights, Mingle Jingle | Search-only |
 | Kingman Area Chamber | https://www.kingmanchamber.com/ | First Fridays, Cookie Crawl | Search-only |
 | Hualapai Mountain Park (Mohave County) | https://runsignup.com/Race/AZ/Kingman/HMPGobblewobble | Park races; check county parks for ranger hikes | Search-only |
+
+
+## Added or reconfirmed 2026-11-04
+| Name | URL | Covers | Reachable |
+|---|---|---|---|
+| Phoestivus | https://www.phoestivus.com/ | Downtown Phoenix holiday market (Dec Fridays) | Reachable |
+| Queer Holiday Market (GPECC) | https://www.equalitychamber.org/queer-holiday-market | Free LGBTQ+/allied makers market | Reachable |
+| Jubilee of Trees (Intermountain) | https://intermountainhealthcare.org/give/fundraising-events/jubilee-of-trees | St. George Dixie Convention Center holiday trees | Reachable |
+| Utah Tech Tree Lighting | https://utahtech.edu/treelighting/ | Free campus tree lighting | Reachable |
+| La Verkin Winterfest | https://laverkinwinterfest.com/ | Holiday festival Dec 4–5 | Reachable (schedule pages sparse) |
+| Mecum Las Vegas | https://www.mecum.com/auctions/las-vegas-2026/ | Collector car auction at LVCC | Reachable |
+| SnowJam Las Vegas | https://snowjamshow.com/expo/las-vegas/ | Public ski/snowboard expo at LVCC | Reachable |
 
 ## Tagging convention / trade shows (`convention` and `industry` fields)
 Every event held in a convention center or expo hall (Las Vegas Convention Center, Dixie Convention Center, World Market Center, Mandalay Bay / Venetian expo halls, Phoenix Convention Center, LA / San Diego / Salt Palace convention centers, etc.) must have `"convention": true`. This includes gun shows, craft fairs or home shows *when* held in a convention hall; do not tag them when held at fairgrounds, parks, speedways or hotels' regular ballrooms. Outdoor events in a convention center parking lot are not tagged.

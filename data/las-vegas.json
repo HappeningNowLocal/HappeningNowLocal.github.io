@@ -1,61 +1,7 @@
 {
  "city": "Las Vegas, NV",
- "checked": "2026-10-31",
+ "checked": "2026-11-04",
  "events": [
-  {
-   "name": "Día de los Muertos Festival",
-   "category": "Festival",
-   "place": "Las Vegas Civic Center Plaza, 525 S. Main St",
-   "time": "1pm–7pm",
-   "free": true,
-   "source": "https://www.lasvegasnevada.gov/Residents/Events/Details?id=dia-de-los-muertos-nov-1-2026",
-   "date": "2026-11-01",
-   "note": "Altars, artisan vendors, kids' activities, food.",
-   "description": "The City of Las Vegas's free celebration of Día de los Muertos at the Civic Center plaza. It features entertainment, children's activities, artisan vendors, food, face painting and an exhibition of community altars.",
-   "know": [
-    "Bring low-back chairs and blankets for the lawn.",
-    "No glass containers or pets."
-   ],
-   "id": "la-d-a-de-los-muertos-festival",
-   "lat": 36.16666,
-   "lng": -115.14952
-  },
-  {
-   "name": "Life in Death: Day of the Dead Festival",
-   "category": "Festival",
-   "place": "Winchester Dondero Cultural Center, 3130 McLeod Dr",
-   "time": "4pm–9pm",
-   "free": true,
-   "source": "https://www.clarkcountynv.gov/news/102126-day-of-the-dead",
-   "date": "2026-11-01",
-   "end": "2026-11-02",
-   "note": "Free admission and parking. Community altars, mariachi, artisan market.",
-   "description": "Clark County's two-night Day of the Dead festival at Winchester Dondero Cultural Center. See community altars, a juried art exhibit, mariachi and folklórico performances, calavera readings, and an artisan marketplace with family art workshops.",
-   "know": [
-    "Admission and parking are free, but parking is limited; ride-sharing is encouraged."
-   ],
-   "id": "la-life-in-death-day-of-the-dead-festival",
-   "lat": 36.14621,
-   "lng": -115.10991
-  },
-  {
-   "name": "Día de los Muertos Community Market",
-   "category": "Art & Craft",
-   "place": "Llama Lot, 900 E Fremont St",
-   "time": "2pm–7pm",
-   "free": true,
-   "source": "https://shopandseeklv.com/events",
-   "date": "2026-11-01",
-   "note": "Local makers and a community ofrenda.",
-   "description": "A small, free Día de los Muertos celebration and market by Shop & Seek in Downtown Las Vegas. Visit the community ofrenda, shop local makers, and enjoy food, sweets and face painting.",
-   "know": [
-    "Free RSVP on Eventbrite.",
-    "Paid parking nearby; limited free street parking."
-   ],
-   "id": "la-d-a-de-los-muertos-community-market",
-   "lat": 36.16043,
-   "lng": -115.12032
-  },
   {
    "name": "Arts District First Friday",
    "category": "Art & Craft",
@@ -877,34 +823,6 @@
    "lng": -115.15018
   },
   {
-   "name": "Trunk or Treat at ER at South Summerlin",
-   "category": "Holiday",
-   "place": "ER at South Summerlin, 10290 W Flamingo Rd Suite 100, Las Vegas",
-   "time": "5pm–7pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/er-at-south-summerlin-trunk-or-treat-tickets-1992823354298",
-   "date": "2026-10-30",
-   "note": "Free; no registration needed.",
-   "description": "A free Halloween event with games, treats and tours of the ER. Registration isn't required, so bring family and friends.",
-   "id": "la-trunk-or-treat-at-er-at-south-summerlin-eb",
-   "lat": 36.1287,
-   "lng": -115.29773
-  },
-  {
-   "name": "WALK Church Trunk or Treat",
-   "category": "Holiday",
-   "place": "Jack L. Schofield Middle School, 8625 S Spencer St, Las Vegas",
-   "time": "5pm–7pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/walk-church-trunk-or-treat-tickets-2003033419879",
-   "date": "2026-10-30",
-   "note": "Free; costumes encouraged.",
-   "description": "A free community trunk-or-treat on the Schofield Middle School blacktop. Kids collect candy from decorated car trunks, with games, raffles, prizes and free food.",
-   "id": "la-walk-church-trunk-or-treat-eb",
-   "lat": 36.03292,
-   "lng": -115.12842
-  },
-  {
    "name": "Sin City Anime 2026",
    "category": "Shows & Expos",
    "place": "The Orleans Hotel & Casino, 4500 W Tropicana Ave, Las Vegas",
@@ -956,97 +874,6 @@
    "id": "la-nutcracker-night-market-at-tivoli-village",
    "lat": 36.16746,
    "lng": -115.28733
-  },
-  {
-   "name": "VIVA Trunk or Treat",
-   "category": "Holiday",
-   "place": "Craig Ranch Regional Park, 628 W. Craig Rd (North Las Vegas)",
-   "time": "6pm–9pm",
-   "free": true,
-   "source": "https://vivatacofest.com/trunk-or-treat-faqs/",
-   "date": "2026-10-31",
-   "note": "Free, no registration. Part of VIVA Taco Fest weekend.",
-   "description": "A free family night of decorated trunks, candy, costumes and fall fun at Craig Ranch Regional Park, part of the VIVA Taco Fest weekend.",
-   "know": [
-    "No registration needed.",
-    "Bring a bag or bucket for candy."
-   ],
-   "id": "la-viva-trunk-or-treat",
-   "lat": 36.2454,
-   "lng": -115.15
-  },
-  {
-   "name": "Halloween Safe Night",
-   "category": "Holiday",
-   "place": "Doolittle Community Center, 1950 N. J St, Las Vegas",
-   "time": "5pm–8:30pm",
-   "free": true,
-   "source": "https://www.lasvegasnevada.gov/News/Blog/Detail/las-vegas-halloween-events-2026",
-   "date": "2026-10-31",
-   "note": "Trunk-or-treat, games, bungee bounce, car show.",
-   "description": "The annual Halloween Safe Night sponsored by the city of Las Vegas and Clark County. Come in costume for trunk-or-treating, games, a bungee bounce and climb, a car show, community vendors and free refreshments while supplies last.",
-   "know": [
-    "Clark County's listing says 5–9pm; the city lists 5–8:30pm.",
-    "Call 702-229-6374 for details."
-   ],
-   "id": "la-halloween-safe-night",
-   "lat": 36.1929,
-   "lng": -115.1622
-  },
-  {
-   "name": "Stupak Trunk or Treat",
-   "category": "Holiday",
-   "place": "Stupak Community Center, 251 W. Boston Ave, Las Vegas",
-   "time": "5:30pm–7pm",
-   "free": true,
-   "source": "https://www.lasvegasnevada.gov/News/Blog/Detail/las-vegas-halloween-events-2026",
-   "date": "2026-10-31",
-   "note": "Free for families with kids up to age 12.",
-   "description": "Safe trick-or-treating, games and surprises for children from walking age to 12 at the Stupak Community Center.",
-   "know": [
-    "Park on the street or in the pay lot on Baltimore.",
-    "Call 702-229-2488 for details."
-   ],
-   "id": "la-stupak-trunk-or-treat",
-   "lat": 36.1452,
-   "lng": -115.1563
-  },
-  {
-   "name": "Town Scary",
-   "category": "Holiday",
-   "place": "Town Square Las Vegas, 6605 S. Las Vegas Blvd",
-   "time": "4pm–7pm",
-   "free": true,
-   "source": "https://www.audacy.com/kluc/events/town-scary-2026",
-   "date": "2026-10-31",
-   "note": "Store trick-or-treating and costume contests.",
-   "description": "Town Square turns into Town Scary on Halloween with trick-or-treating at participating stores and restaurants, costume contests, a photo booth and a dance area, presented with 98.5 KLUC.",
-   "know": [
-    "Bounce houses, rock wall and train rides cost extra.",
-    "Candy stops at 7pm; activities run until 8pm.",
-    "Bring your own bag."
-   ],
-   "id": "la-town-scary",
-   "lat": 36.0718,
-   "lng": -115.1735
-  },
-  {
-   "name": "Palm Eastern Día de los Muertos",
-   "category": "Festival",
-   "place": "Palm Eastern Mortuary and Cemetery, 7600 S. Eastern Ave, Las Vegas",
-   "time": "5pm–8pm",
-   "free": true,
-   "source": "https://nevadabusiness.com/2026/10/palm-mortuaries-cemeteries-to-host-free-dia-de-los-muertos-celebrations-nov-1-2/",
-   "date": "2026-11-02",
-   "note": "Mariachi, Aztec dancers, free tamales and hot chocolate.",
-   "description": "Palm Mortuaries' free Día de los Muertos celebration with live mariachi, Aztec dancers, sugar skull crafts, kids' face painting, ofrendas, and complimentary tamales, Mexican hot chocolate and pan de muerto.",
-   "know": [
-    "Tacos for sale from two food trucks.",
-    "Palm also hosts Northwest (Nov 1, 6–9pm) and Downtown (Nov 2, 4–7pm) celebrations."
-   ],
-   "id": "la-palm-eastern-dia-de-los-muertos",
-   "lat": 36.044,
-   "lng": -115.1185
   },
   {
    "name": "1000 Flags Over Mesquite Field of Honor",
@@ -1260,6 +1087,75 @@
    "note": "Free.",
    "description": "45th Dr. Martin Luther King Jr. Birthday Parade at 4th St from Gass Ave to Ogden Ave. Free.",
    "id": "la-45th-dr-martin-luther-king-jr-birthday-p"
+  },
+  {
+   "name": "SnowJam Las Vegas",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center South Hall 2A, 3150 Paradise Rd",
+   "time": "Sat 11am–6pm; Sun 11am–5pm",
+   "free": false,
+   "price": "General admission ~$18–19; kids 13 & under free with paid adult",
+   "source": "https://snowjamshow.com/expo/las-vegas/",
+   "date": "2026-11-14",
+   "end": "2026-11-15",
+   "note": "OPEN TO THE PUBLIC. Preseason ski & snowboard expo and gear sale.",
+   "description": "SnowJam is a public ski and snowboard expo at LVCC with a large gear sale, boot fitting, resort booths and optional membership lift-ticket vouchers. Children 13 and under enter free with a paid adult.",
+   "know": [
+    "Open to the public.",
+    "General admission is expo entry only; membership adds lift-ticket vouchers."
+   ],
+   "id": "la-snowjam-las-vegas-2026-11-14",
+   "convention": true,
+   "lat": 36.13102,
+   "lng": -115.15018
+  },
+  {
+   "name": "Mecum Las Vegas Collector Car Auction",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "See source",
+   "free": false,
+   "price": "Bidder/spectator credentials — see Mecum",
+   "source": "https://www.mecum.com/auctions/las-vegas-2026/",
+   "date": "2026-11-12",
+   "end": "2026-11-14",
+   "note": "About 1,000 vehicles at LVCC. Register to bid or attend via Mecum.",
+   "description": "Mecum Auctions' Las Vegas collector car auction returns to the Las Vegas Convention Center with roughly 1,000 vehicles over three days.",
+   "id": "la-mecum-las-vegas-2026-11-12",
+   "convention": true,
+   "lat": 36.13102,
+   "lng": -115.15018
+  },
+  {
+   "name": "Día de Muertos at Springs Preserve",
+   "category": "Festival",
+   "place": "Springs Preserve, 333 S Valley View Blvd",
+   "time": "5pm–9pm (members early entry 4pm)",
+   "free": false,
+   "price": "Non-members $15 adults / $9 kids 3–17; members discounted; 2 & under free",
+   "source": "https://www.springspreserve.org/events/?id=2170",
+   "date": "2026-11-06",
+   "end": "2026-11-08",
+   "note": "Advance tickets required; some nights sold out. Free parking at Springs Preserve.",
+   "description": "Springs Preserve presents Día de Muertos with altars, mariachis, live entertainment, traditional food, art vendors and family activities rooted in Latin American culture.",
+   "id": "la-dia-de-muertos-at-springs-preserve-2026-11-0",
+   "lat": 36.17127,
+   "lng": -115.18986
+  },
+  {
+   "name": "Nature Journaling at Spring Mountain Ranch",
+   "category": "Outdoors & Nature",
+   "place": "Main Ranch House, Spring Mountain Ranch State Park, 6375 NV-159, Blue Diamond",
+   "time": "8:45am–10:15am",
+   "free": false,
+   "price": "Park entry ($10 NV / $15 nonresident per vehicle)",
+   "source": "https://parks.nv.gov/events/nature-journaling-7",
+   "date": "2026-11-09",
+   "note": "Art supplies provided. Also scheduled Nov 30 (see Sketch Scribble Discover listing).",
+   "description": "A gentle Monday-morning nature journaling session at Spring Mountain Ranch State Park. No art experience needed; supplies are provided and the program is included with park entry.",
+   "id": "la-nature-journaling-at-spring-mountain-ran",
+   "lat": 36.06959,
+   "lng": -115.45759
   }
  ],
  "center": [

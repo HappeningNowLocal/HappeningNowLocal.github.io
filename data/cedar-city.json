@@ -1,6 +1,6 @@
 {
  "city": "Cedar City, UT",
- "checked": "2026-10-31",
+ "checked": "2026-11-04",
  "events": [
   {
    "name": "Festival City Farmers Market",
@@ -13,7 +13,7 @@
     "dow": [
      6
     ],
-    "from": "2026-10-31",
+    "from": "2026-11-04",
     "until": "2026-11-21"
    },
    "note": "Saturday market downtown; becomes the Christmas Market from Nov 28.",
@@ -135,7 +135,7 @@
     "dow": [
      2
     ],
-    "from": "2026-10-27",
+    "from": "2026-11-04",
     "until": "2026-12-22"
    },
    "note": "Every Tuesday.",
@@ -191,20 +191,6 @@
    "id": "ce-bryce-canyon-full-moon-hike-december-2026-",
    "lat": 37.57079,
    "lng": -112.18559
-  },
-  {
-   "name": "Bookdom Turns Two",
-   "category": "Family",
-   "place": "Bookdom Apothecary, 1579 N Main St Ste 110, Cedar City",
-   "time": "11am–8pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/bookdom-turns-two-tickets-2001954540923",
-   "date": "2026-10-27",
-   "note": "Free entry; craft tables ticketed.",
-   "description": "Local bookshop Bookdom Apothecary celebrates its 2nd birthday with a family-friendly festival. There are craft tables (book bedazzling, laminated bookmarks, mask decorating), a food truck, treats and store-wide discounts.",
-   "id": "ce-bookdom-turns-two-eb",
-   "lat": 37.70599,
-   "lng": -113.06288
   },
   {
    "name": "SUU Veterans Day Ceremony",
@@ -290,6 +276,21 @@
    "note": "Free.",
    "description": "State-Wide Farmers Market at Heritage Center Theater lobby, Cedar City. Free.",
    "id": "ce-state-wide-farmers-market"
+  },
+  {
+   "name": "Cedar Breaks Guided Snowshoe Tours",
+   "category": "Outdoors & Nature",
+   "place": "North View Overlook, Cedar Breaks National Monument",
+   "time": "10:30am–12pm and 12:30pm–2pm (see NPS)",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=65CD0D6E-9FBD-744C-1F9A85CCE09C4594",
+   "date": "2027-01-08",
+   "end": "2027-03-27",
+   "note": "Park entrance fees apply. Seasonal ranger-led snowshoe tours; check NPS for daily availability.",
+   "description": "Ranger-led guided snowshoe tours at Cedar Breaks National Monument from North View Overlook. Offered in winter through early spring; standard park entrance fees apply.",
+   "id": "ce-cedar-breaks-guided-snowshoe-tours-2027-0",
+   "lat": 37.65656,
+   "lng": -112.834
   }
  ],
  "center": [

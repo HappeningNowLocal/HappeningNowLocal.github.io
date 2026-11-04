@@ -1,6 +1,6 @@
 {
  "city": "Henderson, NV",
- "checked": "2026-10-31",
+ "checked": "2026-11-04",
  "events": [
   {
    "name": "Henderson Farmers Market – Cornerstone Park",
@@ -402,37 +402,6 @@
    "lng": -114.69002
   },
   {
-   "name": "HopeLink 35th Anniversary Fall Festival",
-   "category": "Family",
-   "place": "HopeLink of Southern Nevada, 178 Westminster Way, Henderson",
-   "time": "4:30pm–7pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/35th-anniversary-fall-festival-tickets-1997043221033",
-   "date": "2026-10-29",
-   "note": "Free; RSVP optional.",
-   "description": "HopeLink of Southern Nevada marks 35 years of serving the community with a free fall festival. Expect trunk-or-treat, kids' activity stations, food trucks and entertainment. Food and drinks are free while supplies last.",
-   "know": [
-    "An Eventbrite ticket is optional, not required."
-   ],
-   "id": "he-hopelink-35th-anniversary-fall-festival-eb",
-   "lat": 36.03727,
-   "lng": -114.96876
-  },
-  {
-   "name": "Monster Mash on Main",
-   "category": "Holiday",
-   "place": "The District at Green Valley Ranch, 2240 Village Walk Dr, Henderson",
-   "time": "4pm–7pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/monster-mash-on-main-at-the-district-at-green-valley-ranch-tickets-1998392000268",
-   "date": "2026-10-31",
-   "note": "Free trick-or-treating, costume contest.",
-   "description": "Main Street at The District turns into a family Halloween party with trick-or-treating at participating shops and live music. Browse local vendors at the Makers Hive Market and take photos with classic monsters like Dracula and Frankenstein. A costume contest is held at The Splash Pad.",
-   "id": "he-monster-mash-on-main-eb",
-   "lat": 36.02178,
-   "lng": -115.08659
-  },
-  {
    "name": "Holiday Tree Lighting at The District",
    "category": "Holiday",
    "place": "The District at Green Valley Ranch, 2240 Village Walk Dr, Henderson",
@@ -445,24 +414,6 @@
    "id": "he-holiday-tree-lighting-at-the-district-eb",
    "lat": 36.02178,
    "lng": -115.08659
-  },
-  {
-   "name": "Food Truck Mania – Booze District Spooky Edition",
-   "category": "Festival",
-   "place": "Henderson Booze District (CraftHaus Brewery, 7350 Eastgate Rd; Vegas Valley Winery; Neon Desert Brewing)",
-   "time": "5pm–9pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/food-truck-mania-at-the-henderson-booze-district-spooky-edition-tickets-2003095599861",
-   "date": "2026-10-30",
-   "note": "Free entry; food and drinks extra. Free parking.",
-   "description": "Food trucks park at each stop in Henderson's Booze District, a walkable cluster of local breweries, a winery and a cidery. Each spot has a trick-or-treat station, and Vegas Valley Winery's main room is kid-friendly with a Halloween movie, costume contest and Monster Mash dance. Costumes are encouraged.",
-   "know": [
-    "No open containers while walking between locations.",
-    "Tasting rooms are 21+."
-   ],
-   "id": "he-food-truck-mania-booze-district-spooky-ed-eb",
-   "lat": 36.05394,
-   "lng": -115.01853
   },
   {
    "name": "Meet Me At The Park",

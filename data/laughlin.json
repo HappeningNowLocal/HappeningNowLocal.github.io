@@ -1,35 +1,7 @@
 {
  "city": "Laughlin, NV",
- "checked": "2026-10-31",
+ "checked": "2026-11-04",
  "events": [
-  {
-   "name": "Creepy Crawler Hike",
-   "category": "Outdoors & Nature",
-   "place": "Big Bend of the Colorado State Recreation Area, North Trail Loop",
-   "time": "See source",
-   "free": false,
-   "source": "https://parks.nv.gov/events/creepy-crawler-hike-2026-1",
-   "date": "2026-10-30",
-   "note": "State park entry fee may apply.",
-   "description": "Join a ranger at Big Bend of the Colorado State Recreation Area for a creepy crawler adventure through the North Trail Loop.",
-   "id": "lau-creepy-crawler-hike-2026-10-30",
-   "lat": 35.11342,
-   "lng": -114.64299
-  },
-  {
-   "name": "Willow Beach Cleanup (Leave No Trace Spotlight)",
-   "category": "Outdoors & Nature",
-   "place": "Willow Beach, Lake Mead NRA (AZ side)",
-   "time": "9am–11am",
-   "free": true,
-   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=142689",
-   "date": "2026-10-30",
-   "note": "Registration required.",
-   "description": "Part of Leave No Trace's Spotlight visit to Lake Mead National Recreation Area Oct 29–31. Volunteers help clean up Willow Beach; the meeting location and a password for free entry are sent after you sign up.",
-   "id": "lau-willow-beach-cleanup-leave-no-trace-spotlight-2026-10-30",
-   "lat": 35.86978,
-   "lng": -114.66007
-  },
   {
    "name": "Falling Leaves Craft",
    "category": "Art & Craft",

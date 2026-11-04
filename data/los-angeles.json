@@ -1,6 +1,6 @@
 {
  "city": "Los Angeles, CA",
- "checked": "2026-10-27",
+ "checked": "2026-11-04",
  "events": [
   {
    "name": "Autry Pow Wow",
@@ -224,48 +224,6 @@
    "id": "lac-l-a-county-holiday-celebration-2026-12-20",
    "lat": 34.05661,
    "lng": -118.24892
-  },
-  {
-   "name": "Boonion Station",
-   "category": "Holiday",
-   "place": "Los Angeles Union Station South Patio, 800 N Alameda St",
-   "time": "11:30am–3:30pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/7th-annual-boonion-station-tickets-2001414567849",
-   "date": "2026-10-31",
-   "note": "Free; no tickets required.",
-   "description": "Union Station's free 7th annual family Halloween bash. Expect balloon artists, face painting, crafts, Treats-on-Track trick-or-treating with Metro and LAPD, stilt walkers and a costume contest for all ages.",
-   "id": "lac-boonion-station-eb",
-   "lat": 34.05616,
-   "lng": -118.23552
-  },
-  {
-   "name": "Trick or Treat Hollywood",
-   "category": "Holiday",
-   "place": "4810 Sunset Blvd, Los Angeles",
-   "time": "4pm–9pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/trick-or-treat-hollywood-halloween-festival-for-kids-families-tickets-2002687226405",
-   "date": "2026-10-31",
-   "note": "Free.",
-   "description": "A free family Halloween street festival with trick-or-treat stations, pumpkin carving, a costume contest with prizes, sing-alongs, face painting and games.",
-   "id": "lac-trick-or-treat-hollywood-eb",
-   "lat": 34.09651,
-   "lng": -118.29473
-  },
-  {
-   "name": "Paws & Pages Storytime at PetSpace",
-   "category": "Family",
-   "place": "Wallis Annenberg PetSpace, 12005 Bluff Creek Dr, Playa Vista",
-   "time": "11:30am–12pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/paws-pages-storytime-at-petspace-tickets-1980278124177",
-   "date": "2026-10-31",
-   "note": "Free; RSVP encouraged. Every Saturday.",
-   "description": "A weekly Saturday pet-themed storytime with a hands-on craft and a chance to meet an adoptable pet or ambassador animal. Leashed, well-behaved dogs are welcome on the first floor.",
-   "id": "lac-paws-pages-storytime-at-petspace-eb",
-   "lat": 33.9747,
-   "lng": -118.41565
   },
   {
    "name": "Self Help Graphics Día de los Muertos",

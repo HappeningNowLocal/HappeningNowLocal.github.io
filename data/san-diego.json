@@ -1,6 +1,6 @@
 {
  "city": "San Diego, CA",
- "checked": "2026-10-31",
+ "checked": "2026-11-04",
  "events": [
   {
    "name": "Balboa Park December Nights",
@@ -61,7 +61,7 @@
     "dow": [
      6
     ],
-    "from": "2026-10-31",
+    "from": "2026-11-04",
     "until": "2026-12-19"
    },
    "note": "Saturdays, conditions permitting. Park entry fee applies.",
@@ -114,7 +114,7 @@
     "dow": [
      5
     ],
-    "from": "2026-10-30",
+    "from": "2026-11-04",
     "until": "2026-12-18"
    },
    "note": "Fridays.",
@@ -227,65 +227,6 @@
    "id": "sd-little-italy-tree-lighting-2026-12-05",
    "lat": 32.72327,
    "lng": -117.16827
-  },
-  {
-   "name": "Trail Tykes at Mission Trails",
-   "category": "Outdoors & Nature",
-   "place": "Mission Trails Regional Park Visitor Center, 1 Father Junipero Serra Trail, San Diego",
-   "time": "10am–11am",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/trail-tykes-a-program-for-little-explorers-tickets-1984484325037",
-   "date": "2026-10-28",
-   "note": "Free; optional $5 donation per family.",
-   "description": "A free program for kids ages 2–5 from the Mission Trails Regional Park Foundation, with a read-aloud story plus a craft or short guided walk. It runs every Sunday and Wednesday at 10am and is capped at 30 children.",
-   "know": [
-    "Reserve a spot per child ages 2+."
-   ],
-   "id": "sd-trail-tykes-at-mission-trails-eb",
-   "lat": 32.82022,
-   "lng": -117.05692
-  },
-  {
-   "name": "Compost & Costumes",
-   "category": "Outdoors & Nature",
-   "place": "Los Peñasquitos Ranch House, 12122 Canyonside Park Dr, San Diego",
-   "time": "8am–12pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/compost-costumes-where-healthy-soil-meets-halloween-fun-tickets-1992862716030",
-   "date": "2026-10-31",
-   "note": "Free compost and mulch.",
-   "description": "The City of San Diego, I Love A Clean San Diego and the County host a Halloween-themed compost giveaway. Grab free compost and mulch, and kids in costume can try a compost graveyard dig and a sorting game.",
-   "id": "sd-compost-costumes-eb",
-   "lat": 32.93875,
-   "lng": -117.13959
-  },
-  {
-   "name": "Mission Valley Family Fun Day Market",
-   "category": "Market",
-   "place": "967 Camino del Rio S, San Diego",
-   "time": "9am–12pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/free-family-fun-day-mission-valleys-community-market-tickets-1999732061427",
-   "date": "2026-10-31",
-   "note": "Kids always free; first 100 adult tickets free.",
-   "description": "An every-other-Saturday family market in Mission Valley with 30+ local makers, food trucks, bounce houses, crafts, face painting and live music.",
-   "id": "sd-mission-valley-family-fun-day-market-eb",
-   "lat": 32.76393,
-   "lng": -117.15486
-  },
-  {
-   "name": "Trick-or-Treating at The Valley",
-   "category": "Holiday",
-   "place": "Westfield Mission Valley, 1640 Camino Del Rio N, San Diego",
-   "time": "3pm–6pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/trick-or-treating-at-the-valley-tickets-2000323242666",
-   "date": "2026-10-31",
-   "note": "Free; tickets encouraged, not required.",
-   "description": "Kids in costume can trick-or-treat at participating stores throughout The Valley for an afternoon of Halloween fun.",
-   "id": "sd-trick-or-treating-at-the-valley-eb",
-   "lat": 32.76756,
-   "lng": -117.14831
   },
   {
    "name": "Great Big Family Play Day",

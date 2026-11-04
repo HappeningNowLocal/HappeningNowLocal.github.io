@@ -1,6 +1,6 @@
 {
  "city": "St. George, UT",
- "checked": "2026-10-31",
+ "checked": "2026-11-04",
  "events": [
   {
    "name": "Downtown Farmers Market",
@@ -160,36 +160,6 @@
    "lng": -113.58231
   },
   {
-   "name": "Batty and Beautiful Bat Hike",
-   "category": "Outdoors & Nature",
-   "place": "Snow Canyon State Park, 1002 Snow Canyon Dr, Ivins",
-   "time": "6pm–8pm",
-   "free": false,
-   "source": "https://stateparks.utah.gov/event/batty-and-beautiful/",
-   "price": "Park entry",
-   "date": "2026-10-30",
-   "note": "Registration required: (435) 628-2255.",
-   "description": "A moderate ranger-led hike at Snow Canyon State Park to learn about the beauty of bats. Register by phone or in person at the Snow Canyon Visitor Center.",
-   "id": "st-batty-and-beautiful-bat-hike-2026-10-30",
-   "lat": 37.1957,
-   "lng": -113.64952
-  },
-  {
-   "name": "Snow Canyon Trunk or Treat",
-   "category": "Family",
-   "place": "Snow Canyon State Park campground lawn",
-   "time": "5pm–6:30pm",
-   "free": false,
-   "source": "https://stateparks.utah.gov/event/trunk-or-treat-3/",
-   "price": "Park entry",
-   "date": "2026-10-31",
-   "note": "Costumes welcome; no registration.",
-   "description": "Wear your costume and bring a candy bag for trick-or-treating around the Snow Canyon campground lawn, with spooky crafts and ranger-led activities.",
-   "id": "st-snow-canyon-trunk-or-treat-2026-10-31",
-   "lat": 37.1957,
-   "lng": -113.64952
-  },
-  {
    "name": "Winged Wonders Bird Watch",
    "category": "Outdoors & Nature",
    "place": "Sand Hollow State Park main boat ramp, Hurricane",
@@ -199,7 +169,6 @@
    "price": "Park entry",
    "rule": {
     "dates": [
-     "2026-10-30",
      "2026-11-11"
     ]
    },
@@ -208,24 +177,6 @@
    "id": "st-winged-wonders-bird-watch",
    "lat": 37.11296,
    "lng": -113.3748
-  },
-  {
-   "name": "Ranger-led Stargazing in Zion",
-   "category": "Outdoors & Nature",
-   "place": "South Campground Amphitheater (park at Zion Nature Center)",
-   "time": "6:30pm–7:30pm",
-   "free": false,
-   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=86071589-965F-C3B4-481CEE150D2E5977",
-   "price": "Park entry",
-   "date": "2026-11-01",
-   "note": "Bring a red light; white lights not allowed.",
-   "description": "Tour the constellations in a laser-guided stargazing talk at Zion's South Campground Amphitheater. Dress for cool nighttime temperatures; seating is provided.",
-   "know": [
-    "Park entrance fees apply."
-   ],
-   "id": "st-ranger-led-stargazing-in-zion-2026-11-01",
-   "lat": 37.20447,
-   "lng": -112.98111
   },
   {
    "name": "Love Local Holiday Market",
@@ -387,23 +338,6 @@
    "lng": -113.58378
   },
   {
-   "name": "Day of the Dead at the St. George Museum of Art",
-   "category": "Festival",
-   "place": "St. George Museum of Art, 47 E. 200 N, St. George",
-   "time": "5pm–8pm",
-   "free": true,
-   "source": "https://sgcityutah.gov/parksandrec/arts___culture/art_museum/events/day_of_the_dead.php",
-   "date": "2026-11-02",
-   "note": "Free, all ages. Art exhibition: Remember Me.",
-   "description": "SGMOA's annual Day of the Dead celebration, free for all ages, with a community art exhibition on the theme Remember Me, honoring individuals who have impacted our lives.",
-   "know": [
-    "The city page says more details are coming soon."
-   ],
-   "id": "st-day-of-the-dead-sgmoa",
-   "lat": 37.1112,
-   "lng": -113.5822
-  },
-  {
    "name": "Historic District Walking Tour",
    "category": "Tour",
    "place": "Historic Downtown St. George",
@@ -426,7 +360,7 @@
     "dow": [
      6
     ],
-    "from": "2026-10-31",
+    "from": "2026-11-04",
     "until": "2027-04-24"
    },
    "note": "Every Saturday, year-round (10am–2pm Oct–Apr). Free.",
@@ -605,6 +539,112 @@
    "note": "Free.",
    "description": "St. George Heritage Day (165th Birthday) at St. George Social Hall. Free.",
    "id": "st-st-george-heritage-day-165th-birthday"
+  },
+  {
+   "category": "Outdoors & Nature",
+   "place": "Snow Canyon State Park, 1002 Snow Canyon Dr, Ivins",
+   "free": false,
+   "price": "Park entry",
+   "lat": 37.1957,
+   "lng": -113.64952,
+   "name": "Under the Milky Way at Snow Canyon",
+   "time": "6pm–7:30pm",
+   "source": "https://stateparks.utah.gov/event/under-the-milky-way-5/",
+   "date": "2026-11-06",
+   "note": "Telescopes and constellation tour at Scenic Overlook. Bring a chair, blanket and red flashlight.",
+   "description": "A ranger-led evening under the stars at Snow Canyon Scenic Overlook with telescopes, a constellation tour and hands-on activities. Park entry applies.",
+   "id": "st-under-the-milky-way-at-snow-canyon-2026-11-06"
+  },
+  {
+   "category": "Outdoors & Nature",
+   "place": "Upper Galoot Picnic Area, Snow Canyon State Park",
+   "free": false,
+   "price": "Park entry",
+   "lat": 37.1957,
+   "lng": -113.64952,
+   "name": "Lunch and Learn at Snow Canyon",
+   "time": "12pm–1pm",
+   "source": "https://stateparks.utah.gov/event/lunch-and-learn/2026-11-20/",
+   "date": "2026-11-20",
+   "note": "Bring your lunch; topic changes each month.",
+   "description": "Pack a lunch and join a Snow Canyon naturalist at Upper Galoot Picnic Area to learn what makes the park unique. Topics change monthly.",
+   "id": "st-lunch-and-learn-at-snow-canyon-2026-11-20"
+  },
+  {
+   "category": "Outdoors & Nature",
+   "place": "Snow Canyon State Park, 1002 Snow Canyon Dr, Ivins",
+   "free": false,
+   "price": "Park entry",
+   "lat": 37.1957,
+   "lng": -113.64952,
+   "name": "Nature's Bounty Guided Hike",
+   "time": "9am–11am",
+   "source": "https://stateparks.utah.gov/event/natures-bounty/",
+   "date": "2026-11-21",
+   "note": "Registration required via Snow Canyon Visitor Center (435) 628-2255.",
+   "description": "A moderate ranger-led hike exploring human and plant relationships on Snow Canyon trails. Registration is required through the visitor center.",
+   "id": "st-natures-bounty-guided-hike-2026-11-21"
+  },
+  {
+   "category": "Outdoors & Nature",
+   "place": "Sand Dunes Picnic Area, Snow Canyon State Park",
+   "free": false,
+   "price": "Park entry",
+   "lat": 37.1957,
+   "lng": -113.64952,
+   "name": "Stretch and Sketch at Snow Canyon",
+   "time": "9am–10am",
+   "source": "https://stateparks.utah.gov/event/stretch-and-sketch/",
+   "date": "2026-11-28",
+   "note": "Bring a notebook and sketching utensil.",
+   "description": "Guided stretches and nature journaling at Sand Dunes Picnic Area in Snow Canyon. Bring a half-filled notebook and something to write or sketch with.",
+   "id": "st-stretch-and-sketch-at-snow-canyon-2026-11-28"
+  },
+  {
+   "category": "Outdoors & Nature",
+   "place": "Upper Galoot Picnic Area, Snow Canyon State Park",
+   "free": false,
+   "price": "Park entry",
+   "lat": 37.1957,
+   "lng": -113.64952,
+   "name": "Lunch and Learn at Snow Canyon",
+   "time": "12pm–1pm",
+   "source": "https://stateparks.utah.gov/event/lunch-and-learn/2026-12-18/",
+   "date": "2026-12-18",
+   "note": "Bring your lunch; topic changes each month.",
+   "description": "Pack a lunch and join a Snow Canyon naturalist at Upper Galoot Picnic Area to learn what makes the park unique. Topics change monthly.",
+   "id": "st-lunch-and-learn-at-snow-canyon-2026-12-18"
+  },
+  {
+   "name": "Jubilee of Trees",
+   "category": "Holiday",
+   "place": "Dixie Convention Center, 1835 Convention Center Dr",
+   "time": "Wed/Thu/Sat 11am–9pm; Fri 11am–2pm",
+   "free": false,
+   "price": "See source (tickets on sale Nov 1)",
+   "source": "https://intermountainhealthcare.org/give/fundraising-events/jubilee-of-trees",
+   "date": "2026-11-18",
+   "end": "2026-11-21",
+   "note": "Designer trees and wreaths benefiting St. George Regional Hospital. Gala Dinner & Auction Fri Nov 20.",
+   "description": "Intermountain Health Foundation's Jubilee of Trees fills the Dixie Convention Center with professionally decorated trees and wreaths sold and auctioned to fund care at St. George Regional Hospital. Public hours Wed/Thu/Sat 11am–9pm; Friday closes at 2pm for the Gala.",
+   "id": "st-jubilee-of-trees-2026-11-18",
+   "convention": true,
+   "lat": 37.07713,
+   "lng": -113.5822
+  },
+  {
+   "name": "Utah Tech Trailblazer Tree Lighting",
+   "category": "Holiday",
+   "place": "Holland Building / Trailblazer Boulevard, Utah Tech University",
+   "time": "5pm–7:30pm",
+   "free": true,
+   "source": "https://utahtech.edu/treelighting/",
+   "date": "2026-12-02",
+   "note": "Free. 40-foot tree lights at 6pm. Carriage rides, Santa photos, ornament giveaway for first 500.",
+   "description": "Utah Tech University's annual free Trailblazer Nation Tree Lighting Celebration on campus. Live music, seasonal treats, booths, carriage and tractor rides, Santa photos and the lighting of the 40-foot tree at 6pm.",
+   "id": "st-utah-tech-trailblazer-tree-lighting-2026-12-0",
+   "lat": 37.10565,
+   "lng": -113.56763
   }
  ],
  "center": [
