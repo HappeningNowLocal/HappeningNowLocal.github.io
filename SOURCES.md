@@ -205,3 +205,11 @@ Every event needs `lat` and `lng` (5 decimals) so it shows on the Map view. Each
 | SGWOM monthly guide | https://sgwom.com/news/ | St. George monthly event roundups | Reachable |
 | Facebook public events | via web search "site:facebook.com/events" | Organizer events; verify on an official page when possible | Search-only |
 | Eventbrite / AllEvents | search by city | Night markets, food truck events | Search-only |
+
+## Lake Havasu City, AZ (added 2026-11-07)
+Routing: every Lake Havasu City event goes in `data/lake-havasu-city.json` (id prefix `lh-`, times America/Phoenix, MST with no DST). Do not put Havasu events in the Las Vegas list.
+| Name | URL | Covers | Reachable |
+|---|---|---|---|
+| Go Lake Havasu events | https://www.golakehavasu.com/events/ | Tourism calendar: parades, Winterfest, Balloon Festival | Reachable |
+| Lake Havasu City events | https://www.lhcaz.gov/ | City events (Western Winter Blast, parks) | Reachable |
+| Havasu News | https://www.havasunews.com/ | Local news event roundups | Search-only |
