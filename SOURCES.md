@@ -190,3 +190,18 @@ Every event needs `lat` and `lng` (5 decimals) so it shows on the Map view. Each
 3. Accept the result only if it is within about 80 km of the city center. Reuse the coordinates of an existing event at the same venue when there is one.
 4. If no exact venue is found (multiple sites, "various locations", TBA), **leave `lat`/`lng` off**. The app keeps those events in the list and calendar and notes "N without an exact location not shown" on the map. Never use the city center as a fake pin.
 5. Helper script: `/workspace/hnl-geo/geo.py`, with lookups cached in `cache.json`. It **only fills in events that have no `lat`/`lng`**. It never changes or removes existing coordinates (including ones set by hand), and it only rewrites a city file when it added something. Run it after adding events, then check that any `ADDED` pins look right. Fix bad or missing ones by hand in the JSON; the script will leave them alone.
+
+## Food & BBQ event sources (added 2026-11-07)
+| Name | URL | Covers | Reachable |
+|---|---|---|---|
+| Nevada BBQ Association calendar | https://www.nvbbq.org/ | NV BBQ festivals and cook-offs (Las Vegas BBQ Festival) | Reachable |
+| BBQ Jackpot | https://bbqjackpot.com/ | Largest KCBS contest in the West, Silverton, Nov | Reachable |
+| Saucy Rossy KCBS by state | https://saucyrossybbq.com/kcbs/regions/NV (also AZ, UT) | Upcoming KCBS contests per state | Reachable |
+| Barbecue Championship Series | https://barbequechampionshipseries.org/events/list/ | AZ BBQ comps (Mesa etc.) | Reachable |
+| Festival Guides & Reviews (NV) | https://festivalguidesandreviews.com/nevada-festivals/ | Week-by-week NV festival list, incl. food fests | Reachable |
+| Vegas PBS community events | https://www.vegaspbs.org/blogs/community-events/ | LV community event posts | Reachable |
+| Vegas Local weekend picks | https://vegaslocal.com/ | Weekly LV roundups | Reachable |
+| Phoenix New Times food events | https://www.phoenixnewtimes.com/food-drink/ | Weekly Valley food events | Reachable |
+| SGWOM monthly guide | https://sgwom.com/news/ | St. George monthly event roundups | Reachable |
+| Facebook public events | via web search "site:facebook.com/events" | Organizer events; verify on an official page when possible | Search-only |
+| Eventbrite / AllEvents | search by city | Night markets, food truck events | Search-only |

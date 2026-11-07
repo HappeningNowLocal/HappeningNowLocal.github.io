@@ -915,8 +915,8 @@
    "free": true,
    "source": "https://www.nvbbq.org/lasvegasbbqfestival",
    "date": "2026-11-07",
-   "note": "Free entry.",
-   "description": "Las Vegas BBQ Festival at Red Rock Harley-Davidson, 2260 S Rainbow Blvd. Free entry.",
+   "note": "Free entry; BBQ sample packs about $20–23.",
+   "description": "The Nevada BBQ Association's 4th annual festival: teams compete for a $6,000 prize pool in chicken and ribs, and you vote with a sample pack. Live music, raffle, beer garden and a car meet-up next door. Proceeds help Race to Erase 22 and Charlie Mike Ranch.",
    "id": "la-las-vegas-bbq-festival",
    "lat": 36.14672,
    "lng": -115.2411
@@ -1436,6 +1436,48 @@
    "id": "la-havasu-western-winter-blast",
    "lat": 34.432,
    "lng": -114.26
+  },
+  {
+   "name": "BBQ Jackpot",
+   "category": "Food",
+   "place": "Silverton Casino / Bass Pro Shops, 3333 Blue Diamond Rd",
+   "time": "10am–2pm",
+   "free": true,
+   "source": "https://bbqjackpot.com/",
+   "date": "2026-11-21",
+   "note": "Free admission; free BBQ samples while supplies last.",
+   "description": "The biggest BBQ competition in the West: 100+ KCBS teams, including world champions, compete for $20,000, plus a Live Fire Cooking Association open-fire contest. Free samples at the BBQ Pit Stop and pitmaster demos.",
+   "id": "la-bbq-jackpot-2026-11-21",
+   "lat": 36.0396,
+   "lng": -115.1845
+  },
+  {
+   "name": "Las Vegas Pizza Festival",
+   "category": "Food",
+   "place": "The INDUSTRIAL Event Space",
+   "time": "1pm–4pm (VIP 12pm)",
+   "free": false,
+   "source": "https://963kklz.com/2026/11/06/las-vegas-pizza-festival-serves-up-a-sixth-year-of-unlimited-slices/",
+   "date": "2026-11-14",
+   "note": "Tickets at vegaspizzafest.com; all ages.",
+   "description": "Sixth annual all-you-can-eat pizza festival with unlimited slices from a dozen-plus local pizzerias, including Good Pie, Metro Pizza, Pizza Rock, Evel Pie and Yukon Pizza.",
+   "id": "la-las-vegas-pizza-festival-2026-11-14",
+   "lat": 36.1531,
+   "lng": -115.1606
+  },
+  {
+   "name": "Night Market at Tivoli",
+   "category": "Market",
+   "place": "Tivoli Village, 400 S Rampart Blvd",
+   "time": "4pm–9pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/night-market-at-tivoli-tickets-1979487606718",
+   "date": "2026-11-14",
+   "note": "Free admission and parking; dog friendly.",
+   "description": "Outdoor night market with food and dessert trucks, live music and local vendors.",
+   "id": "la-night-market-at-tivoli-2026-11-14",
+   "lat": 36.1713,
+   "lng": -115.2856
   }
  ],
  "center": [

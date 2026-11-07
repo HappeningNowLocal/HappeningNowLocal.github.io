@@ -439,6 +439,20 @@
    "id": "ph-phoestivus-holiday-market",
    "lat": 33.4525,
    "lng": -112.06897
+  },
+  {
+   "name": "Downtown Mesa BBQ & Bluegrass Classic",
+   "category": "Food",
+   "place": "Macdonald & Main St, Mesa",
+   "time": "11am–5pm",
+   "free": true,
+   "source": "https://www.visitmesa.com/events/bbq-bluegrass-festival/",
+   "date": "2026-11-07",
+   "note": "Free entry; $2 tasting tickets.",
+   "description": "Sanctioned 4-meat BBQ competition with about three dozen pitmasters, tastings, live bluegrass, a beer garden and local vendors. Friday night (Nov 6, 5–9pm) kicked it off.",
+   "id": "phx-mesa-bbq-bluegrass-2026-11-07",
+   "lat": 33.4152,
+   "lng": -111.8315
   }
  ],
  "center": [
