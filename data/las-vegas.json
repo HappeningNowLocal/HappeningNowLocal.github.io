@@ -1464,20 +1464,6 @@
    "id": "la-las-vegas-pizza-festival-2026-11-14",
    "lat": 36.1531,
    "lng": -115.1606
-  },
-  {
-   "name": "Night Market at Tivoli",
-   "category": "Market",
-   "place": "Tivoli Village, 400 S Rampart Blvd",
-   "time": "4pm–9pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/night-market-at-tivoli-tickets-1979487606718",
-   "date": "2026-11-14",
-   "note": "Free admission and parking; dog friendly.",
-   "description": "Outdoor night market with food and dessert trucks, live music and local vendors.",
-   "id": "la-night-market-at-tivoli-2026-11-14",
-   "lat": 36.1713,
-   "lng": -115.2856
   }
  ],
  "center": [
