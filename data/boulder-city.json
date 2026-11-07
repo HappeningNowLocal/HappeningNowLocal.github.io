@@ -1,6 +1,6 @@
 {
  "city": "Boulder City, NV",
- "checked": "2026-11-04",
+ "checked": "2026-11-07",
  "events": [
   {
    "name": "Dragonfly Mercury Project",
@@ -280,6 +280,20 @@
    "id": "bc-twelfth-night-handbell-festival-concert",
    "lat": 35.9787,
    "lng": -114.83325
+  },
+  {
+   "name": "Family Fall Festival",
+   "category": "Festival",
+   "place": "Bicentennial Park & Wilbur Square, 999 Colorado St, Boulder City",
+   "time": "Daytime",
+   "free": true,
+   "source": "https://www.visitbouldercity.com/event/family-fall-festival/54069/",
+   "date": "2026-11-14",
+   "note": "Car show, vendors, food trucks and kids activities. Proceeds benefit Little Lambs Childcare & Preschool. Check the official page for hours. Separate from the Fall Rev Up car fest the same day.",
+   "description": "A full day of family fun downtown with a car show, vendors, food trucks, live entertainment and kids activities, benefiting Little Lambs Childcare & Preschool.",
+   "id": "bc-family-fall-festival",
+   "lat": 35.9786,
+   "lng": -114.834
   }
  ],
  "center": [

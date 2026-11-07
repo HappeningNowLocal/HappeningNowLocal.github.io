@@ -1,6 +1,6 @@
 {
  "city": "St. George, UT",
- "checked": "2026-11-04",
+ "checked": "2026-11-07",
  "events": [
   {
    "name": "Downtown Farmers Market",
@@ -645,6 +645,21 @@
    "id": "st-utah-tech-trailblazer-tree-lighting-2026-12-0",
    "lat": 37.10565,
    "lng": -113.56763
+  },
+  {
+   "name": "Holiday Village in Downtown St. George",
+   "category": "Market",
+   "place": "Downtown St. George, near Town Square",
+   "time": "See official page",
+   "free": true,
+   "source": "https://downtownfarmerstg.com/pages/holiday-village",
+   "date": "2026-12-11",
+   "end": "2026-12-12",
+   "note": "Downtown Farmers Market and Roam Wild Market holiday market. Shopper hours not posted on the organizer page yet.",
+   "description": "Downtown St. George becomes a Holiday Village of artisan gifts, handcrafted goods and festive food under the town square holiday lights.",
+   "id": "st-holiday-village-downtown",
+   "lat": 37.1083,
+   "lng": -113.584
   }
  ],
  "center": [
