@@ -1,6 +1,6 @@
 {
  "city": "Kingman, AZ",
- "checked": "2026-11-04",
+ "checked": "2026-11-09",
  "events": [
   {
    "name": "Downtown First Friday – Giving Thanks & Giving Back",
@@ -178,6 +178,19 @@
    "note": "$10.",
    "description": "Breakfast with Santa at Centennial Park Community Center, Kingman. $10.",
    "id": "ki-breakfast-with-santa"
+  },
+  {
+   "name": "Mohave County 21st Annual Craft Fair",
+   "category": "Art & Craft",
+   "place": "Mohave County Administration Building, 700 W Beale St, Kingman",
+   "time": "9am–2:30pm",
+   "free": false,
+   "source": "https://www.mohave.gov/news-notices/posts/mohave-county-21st-annual-craft-fair/",
+   "price": "Price not listed",
+   "date": "2026-12-04",
+   "note": "Open to the public; admission price not listed. Times are Arizona time.",
+   "description": "A craft fair open to the public with handmade and custom items such as ornaments, candles, soaps, floral arrangements, home decor, blankets, apparel and personalized gifts.",
+   "id": "ki-mohave-county-21st-annual-craft-fair-2026-12-04"
   }
  ],
  "center": [

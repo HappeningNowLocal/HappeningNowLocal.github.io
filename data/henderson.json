@@ -1,6 +1,6 @@
 {
  "city": "Henderson, NV",
- "checked": "2026-11-04",
+ "checked": "2026-11-09",
  "events": [
   {
    "name": "Henderson Farmers Market – Cornerstone Park",
@@ -602,6 +602,100 @@
    "id": "he-ugly-sweater-winter-carnival",
    "lat": 36.01819,
    "lng": -115.09892
+  },
+  {
+   "name": "Market Macabre",
+   "category": "Market",
+   "place": "Grey Witch, 722 W Sunset Rd",
+   "time": "Early entry 6:30pm; doors 7:30pm",
+   "free": false,
+   "source": "https://dice.fm/event/nvrpg9-market-macabre-13th-nov-grey-witch-henderson-tickets",
+   "price": "From $8.96",
+   "date": "2026-11-13",
+   "note": "Tickets from $8.96 on DICE. All ages.",
+   "description": "A market for all things unique, spooky, dark, odd and metaphysical at Grey Witch in Henderson, with food, drinks and vendors. All ages.",
+   "know": [
+    "Early bird access 6:30pm; regular ticket access 7:30pm.",
+    "All ages."
+   ],
+   "id": "he-market-macabre-2026-11-13"
+  },
+  {
+   "name": "Bird Mobile Tour with Santa",
+   "category": "Family",
+   "place": "Henderson Bird Viewing Preserve, 350 E Galleria Dr",
+   "time": "10am–noon",
+   "free": false,
+   "source": "https://nvhendersonweb.myvscloud.com/webtrac/web/iteminfo.html?FMID=361508964&Module=AR",
+   "price": "$5 adults / $10 ages 5–17",
+   "date": "2026-11-28",
+   "note": "$5 adults, $10 ages 5–17; registration required.",
+   "description": "A Bird Mobile tour with a visit from Santa at the Henderson Bird Viewing Preserve. The Bird Mobile runs every 15 minutes.",
+   "know": [
+    "Children must be accompanied by a registered adult.",
+    "Register ahead through Henderson Parks & Recreation."
+   ],
+   "id": "he-bird-mobile-tour-with-santa-2026-11-28"
+  },
+  {
+   "name": "Chabad Menorah Lighting at The District",
+   "category": "Holiday",
+   "place": "Main Street, The District at Green Valley Ranch, 2240 Village Walk Dr",
+   "time": "5:30pm–7:30pm",
+   "free": false,
+   "source": "https://shopthedistrictgvr.com/events/the-district-at-green-valley-ranch-menorah-lighting-ceremony-2026",
+   "price": "Price not listed",
+   "date": "2026-12-08",
+   "note": "All are welcome; cost not listed.",
+   "description": "Chabad of Henderson's menorah lighting ceremony on Main Street at The District, with live music, a children's program, donuts and Chanukah activities. All are welcome.",
+   "id": "he-chabad-menorah-lighting-at-the-district-2026-12-08"
+  },
+  {
+   "name": "Winter Solstice at the Bird Viewing Preserve",
+   "category": "Outdoors & Nature",
+   "place": "Henderson Bird Viewing Preserve, 350 E Galleria Dr",
+   "time": "2pm–4pm",
+   "free": false,
+   "source": "https://nvhendersonweb.myvscloud.com/webtrac/web/iteminfo.html?FMID=361541559&Module=AR",
+   "price": "$15–$17.25",
+   "date": "2026-12-20",
+   "note": "About $15–$17.25; registration available.",
+   "description": "A family-friendly, self-guided solstice event at the Henderson Bird Viewing Preserve with seasonal crafts, refreshments and pond walks.",
+   "know": [
+    "Register ahead through Henderson Parks & Recreation."
+   ],
+   "id": "he-winter-solstice-at-the-bird-viewing-preserve-2026-12-20"
+  },
+  {
+   "name": "Ethel M Winter Wonderland Night",
+   "category": "Holiday",
+   "place": "Ethel M Botanical Cactus Garden, 2 Cactus Garden Dr",
+   "time": "Snow 5:30pm; Frozen 6pm",
+   "free": false,
+   "source": "https://www.ethelm.com/en-us/locations/henderson-flagship/cactus-garden/holiday-cactus-garden",
+   "price": "$5 + tax",
+   "date": "2026-12-29",
+   "note": "$5 plus tax per person; reservations required.",
+   "description": "A winter night at Ethel M's Holiday Cactus Garden with snowfall at 5:30pm, a Frozen screening at 6pm, an Elsa and Anna meet-and-greet and face painting.",
+   "know": [
+    "Reservations are required."
+   ],
+   "id": "he-ethel-m-winter-wonderland-night-2026-12-29"
+  },
+  {
+   "name": "Noon Year's Eve Celebration",
+   "category": "Family",
+   "place": "Galleria at Sunset, Center Court, 1300 W Sunset Rd",
+   "time": "11am–12:30pm",
+   "free": true,
+   "source": "https://www.galleriaatsunset.com/events/noon-years-eve-celebration",
+   "date": "2026-12-31",
+   "note": "Free to attend. Balloon drop at 12pm sharp.",
+   "description": "A family-friendly early New Year's countdown at Galleria at Sunset with giveaways, activities and a balloon drop at noon sharp.",
+   "know": [
+    "Center Court, near Build-A-Bear Workshop."
+   ],
+   "id": "he-noon-year-s-eve-celebration-2026-12-31"
   }
  ],
  "center": [

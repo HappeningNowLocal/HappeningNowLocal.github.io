@@ -1,6 +1,6 @@
 {
  "city": "Las Vegas, NV",
- "checked": "2026-11-07",
+ "checked": "2026-11-09",
  "events": [
   {
    "name": "Arts District First Friday",
@@ -558,16 +558,17 @@
    "name": "Las Vegas Days Rodeo",
    "category": "Festival",
    "place": "CORE Arena at Plaza Hotel & Casino",
-   "time": "See source",
-   "free": true,
-   "source": "https://www.lasvegashowto.com/las-vegas-events-november",
+   "time": "Gates 4pm; rodeo 6pm",
+   "free": false,
+   "source": "https://www.plazahotelcasino.com/entertainment/helldorado-days-rodeo/",
    "date": "2026-11-13",
    "end": "2026-11-14",
-   "note": "Free family event (formerly Helldorado Days).",
-   "description": "An annual cowboy-themed event celebrating Las Vegas' Wild West past, with bull riding, barrel racing, roping and bronc riding. Listed as free for the whole family.",
+   "note": "Tickets from $26 (general admission); VIP $46, VIP+ $106. Formerly Helldorado Days.",
+   "description": "Helldorado Days Rodeo at CORE Arena beside the Plaza Hotel & Casino: PRCA and WPRA-sanctioned bull riding, barrel racing and roping, plus mutton bustin'. Fri Nov 13 is Neon Night and Sat Nov 14 is Patriotism Night. A family festival with a petting zoo and line dancing runs before each rodeo.",
    "id": "la-las-vegas-days-rodeo-2026-11-13",
    "lat": 36.17159,
-   "lng": -115.14709
+   "lng": -115.14709,
+   "price": "From $26"
   },
   {
    "name": "NFR Cowboy Christmas Gift Show",
@@ -1261,6 +1262,256 @@
    "id": "la-las-vegas-pizza-festival-2026-11-14",
    "lat": 36.1531,
    "lng": -115.1606
+  },
+  {
+   "name": "Rainbow Company Youth Theatre: Sense & Sensibility",
+   "category": "Movies & Music",
+   "place": "Charleston Heights Arts Center, 800 Brush St",
+   "time": "Thu & Fri 6pm; Sat 1pm & 6pm",
+   "free": false,
+   "source": "https://www.lasvegasnevada.gov/Residents/Events/Details?id=rainbow-company-youth-theatre-presents-sense-sensibility-nov-12-2026",
+   "price": "$10",
+   "date": "2026-11-12",
+   "end": "2026-11-14",
+   "note": "$10 reserved seats.",
+   "description": "Rainbow Company Youth Theatre stages a stage adaptation of Jane Austen's Sense & Sensibility at the Charleston Heights Arts Center. Shows are Thu Nov 12 and Fri Nov 13 at 6pm, and Sat Nov 14 at 1pm and 6pm.",
+   "know": [
+    "$10 reserved-seat tickets are sold online through the City of Las Vegas.",
+    "Performances: Nov 12 6pm, Nov 13 6pm, Nov 14 1pm and 6pm."
+   ],
+   "id": "la-rainbow-company-youth-theatre-sense-sensibility-2026-11-12"
+  },
+  {
+   "name": "Veterans Appreciation Car Show & BBQ",
+   "category": "Festival",
+   "place": "VA Southern Nevada Medical Center, 6900 N Pecos Rd (North Las Vegas)",
+   "time": "10am–1:30pm",
+   "free": true,
+   "source": "https://www.va.gov/southern-nevada-health-care/events/90484/",
+   "date": "2026-11-14",
+   "note": "Free, open to the public. Car registration 8–10:30am.",
+   "description": "A free car show and BBQ hosted by VA Southern Nevada Healthcare System for Veterans Appreciation Day and 80 years of VA healthcare, with free food, a VA outreach resource fair and a kids' zone.",
+   "know": [
+    "Free and open to the public, with free food.",
+    "On-site car show registration is 8–10:30am, first come, first served."
+   ],
+   "id": "la-veterans-appreciation-car-show-bbq-2026-11-14"
+  },
+  {
+   "name": "Santa's Arrival Parade & Tree Lighting",
+   "category": "Holiday",
+   "place": "Town Square Las Vegas, 6605 Las Vegas Blvd S",
+   "time": "Parade 7pm",
+   "free": false,
+   "source": "https://tslv.com/events/946-santas-arrival-parade",
+   "price": "Price not listed",
+   "date": "2026-11-14",
+   "note": "Admission price not listed on the event page.",
+   "description": "Santa arrives at Town Square with a parade at 7pm, followed by the tree lighting, Snow in the Square, entertainment, prizes and photos with Santa after the lighting.",
+   "know": [
+    "Parade begins at 7pm before Santa lights the tree.",
+    "Free glow items with $10+ purchase from a Town Square merchant, while supplies last."
+   ],
+   "id": "la-santa-s-arrival-parade-tree-lighting-2026-11-14"
+  },
+  {
+   "name": "Public Lands Alliance Film Festival",
+   "category": "Movies & Music",
+   "place": "Red Rock Canyon National Conservation Area",
+   "time": "5pm–9pm",
+   "free": false,
+   "source": "https://www.redrockcanyonlv.org/events/public-lands-alliance-film-festival-11-14-26-5pm-9pm/",
+   "price": "Park fee + timed entry",
+   "date": "2026-11-14",
+   "note": "The program is free, but a Scenic Drive timed-entry reservation and the usual park entry fee apply.",
+   "description": "Southern Nevada Conservancy and the BLM host an evening of short films celebrating public lands at Red Rock Canyon.",
+   "know": [
+    "The interpretive program is free and needs no registration.",
+    "A Red Rock Scenic Drive timed-entry reservation (recreation.gov) is required; the 4–5pm slot is recommended.",
+    "The typical park entry fee also applies."
+   ],
+   "id": "la-public-lands-alliance-film-festival-2026-11-14"
+  },
+  {
+   "name": "Reclaim Night Market",
+   "category": "Market",
+   "place": "Chinatown Plaza, 4205 Spring Mountain Rd",
+   "time": "5pm–10pm",
+   "free": false,
+   "source": "https://lvchinatownplaza.com/events/",
+   "price": "Price not listed",
+   "date": "2026-11-20",
+   "note": "Admission price not listed.",
+   "description": "A night market at Chinatown Plaza bringing together local curators, streetwear brands, designers and fashion-forward creators alongside Chinatown's restaurants.",
+   "id": "la-reclaim-night-market-2026-11-20"
+  },
+  {
+   "name": "Reclaim Night Market",
+   "category": "Market",
+   "place": "Chinatown Plaza, 4205 Spring Mountain Rd",
+   "time": "5pm–10pm",
+   "free": false,
+   "source": "https://lvchinatownplaza.com/events/",
+   "price": "Price not listed",
+   "date": "2026-12-18",
+   "note": "Admission price not listed.",
+   "description": "A night market at Chinatown Plaza bringing together local curators, streetwear brands, designers and fashion-forward creators alongside Chinatown's restaurants.",
+   "id": "la-reclaim-night-market-2026-12-18"
+  },
+  {
+   "name": "Reclaim Night Market",
+   "category": "Market",
+   "place": "Chinatown Plaza, 4205 Spring Mountain Rd",
+   "time": "5pm–10pm",
+   "free": false,
+   "source": "https://lvchinatownplaza.com/events/",
+   "price": "Price not listed",
+   "date": "2027-01-15",
+   "note": "Admission price not listed.",
+   "description": "A night market at Chinatown Plaza bringing together local curators, streetwear brands, designers and fashion-forward creators alongside Chinatown's restaurants.",
+   "id": "la-reclaim-night-market-2027-01-15"
+  },
+  {
+   "name": "Clark County Turkey Trot 5K Fun Run",
+   "category": "Outdoors & Nature",
+   "place": "Von Tobel Park / Melvin Ennis Rec Center, 3720 E Carey Ave",
+   "time": "9am–12pm",
+   "free": true,
+   "source": "https://events.yodel.today/downtownlasvegas-nv/event/Clark-County-Parks---Recreation/Turkey-Trot/6aed6f9033b49dd0a30c4fce",
+   "date": "2026-11-21",
+   "note": "Free, all ages. Registration required: (702) 455-1291.",
+   "description": "The 4th annual Turkey Trot 5K Fun Run hosted by Melvin Ennis Recreation Center, with complimentary drinks, snacks and raffles after the finish while supplies last.",
+   "know": [
+    "Registration is required for all participants: call (702) 455-1291."
+   ],
+   "id": "la-clark-county-turkey-trot-5k-fun-run-2026-11-21"
+  },
+  {
+   "name": "Downtown Christmas Expo",
+   "category": "Market",
+   "place": "Plaza Hotel & Casino, 3rd floor convention space, 1 Main St",
+   "time": "9am–5pm",
+   "free": true,
+   "source": "https://downtownchristmasexpo.com/plan-your-visit/",
+   "date": "2026-12-03",
+   "end": "2026-12-12",
+   "note": "Free admission, daily 9am–5pm.",
+   "description": "A holiday shopping expo in the Plaza Hotel & Casino convention space at the entrance to Fremont Street, running daily Dec 3–12 during NFR.",
+   "know": [
+    "Free admission.",
+    "Free parking with a vendor purchase (ask the expo for validation)."
+   ],
+   "id": "la-downtown-christmas-expo-2026-12-03"
+  },
+  {
+   "name": "Southern Highlands Tree Lighting & Winter Festival",
+   "category": "Holiday",
+   "place": "Southern Highlands Corporate Center, 11411 Southern Highlands Pkwy",
+   "time": "3:30pm–7:30pm",
+   "free": true,
+   "source": "https://southernhighlandshoa.com/treelighting/",
+   "date": "2026-12-04",
+   "note": "Entry, crafts, cocoa and inflatables are free; a family photo pass with Santa and characters is $10.",
+   "description": "A Toy Story-themed tree lighting with a 5:30pm ceremony, choir and Raiderettes performances, hot cocoa, a free holiday craft, inflatables, food trucks, a vendor village and a train ride.",
+   "know": [
+    "Tree lighting ceremony at 5:30pm.",
+    "Family photo pass with Santa and characters is $10."
+   ],
+   "id": "la-southern-highlands-tree-lighting-winter-festival-2026-12-04"
+  },
+  {
+   "name": "Cowboy Christmas & Classic Car Show",
+   "category": "Holiday",
+   "place": "Floyd Lamb Park at Tule Springs, 9200 Tule Springs Rd",
+   "time": "10am–2pm",
+   "free": false,
+   "source": "https://www.lasvegasnevada.gov/Government/Mayor-City-Council/Ward-6/Details?id=cowboy-christmas-classic-car-show-2026",
+   "price": "Price not listed",
+   "date": "2026-12-05",
+   "note": "Cost not listed on the city page. Bring low-back chairs and blankets.",
+   "description": "A City of Las Vegas Ward 6 holiday event with a classic car show, vendors, youth performances, arts and crafts, a walk-in snow globe, a photo booth and a visit from Santa.",
+   "id": "la-cowboy-christmas-classic-car-show-2026-12-05"
+  },
+  {
+   "name": "Ugly Sweater Run",
+   "category": "Outdoors & Nature",
+   "place": "Craig Ranch Regional Park, 628 W Craig Rd (North Las Vegas)",
+   "time": "9am–10:30am",
+   "free": true,
+   "source": "https://events.yodel.today/downtownlasvegas-nv/event/Craig-Ranch-Regional-Park/Ugly-Sweater-Run/6ae7a4af2d5dd686883ccad9",
+   "date": "2026-12-12",
+   "note": "Free; register online or call (702) 633-2418.",
+   "description": "A festive Ugly Sweater 5K run and 3K walk at Craig Ranch Regional Park. Free to participate.",
+   "know": [
+    "Registration is required: online or call the park office at (702) 633-2418."
+   ],
+   "id": "la-ugly-sweater-run-2026-12-12"
+  },
+  {
+   "name": "Shop and Seek",
+   "category": "Market",
+   "place": "Craig Ranch Regional Park, 628 W Craig Rd (North Las Vegas)",
+   "time": "See site",
+   "free": true,
+   "source": "https://sincityspotlight.com/events/shop-and-seek-december-20-2026",
+   "date": "2026-12-20",
+   "note": "Listed as a free community event; hours not confirmed.",
+   "description": "A free community vendor market at Craig Ranch Regional Park with local goodies and shopping that supports local makers.",
+   "know": [
+    "Hours were not confirmed; check the organizer before you go."
+   ],
+   "id": "la-shop-and-seek-2026-12-20"
+  },
+  {
+   "name": "Wetlands Park Family Nature Walk",
+   "category": "Outdoors & Nature",
+   "place": "Clark County Wetlands Park Nature Center, 7050 Wetlands Park Ln",
+   "time": "9am–11am",
+   "free": false,
+   "source": "https://www.clarkcountynv.gov/government/departments/parks___recreation/wetlands_park/interpretiveprograms",
+   "price": "$5",
+   "date": "2026-12-27",
+   "note": "$5 fee, ages 5+; advance registration required.",
+   "description": "A family-friendly naturalist-led walk to explore trails, search for wildlife and spot interesting plants at Wetlands Park. Ages 5+.",
+   "know": [
+    "Ages 5 and up.",
+    "Advance registration is required through the Clark County online system."
+   ],
+   "id": "la-wetlands-park-family-nature-walk-2026-12-27"
+  },
+  {
+   "name": "Wetlands Park New Year's Eve Sunset Sendoff",
+   "category": "Outdoors & Nature",
+   "place": "Clark County Wetlands Park Nature Preserve (Weir Bridge)",
+   "time": "4pm–5:30pm",
+   "free": false,
+   "source": "https://www.clarkcountynv.gov/government/departments/parks___recreation/wetlands_park/interpretiveprograms",
+   "price": "$5",
+   "date": "2026-12-31",
+   "note": "$5 fee; advance registration required.",
+   "description": "A golden-hour walk through the Wetlands Park Nature Preserve to send off the year, with hot apple cider served at the Weir Bridge for a sunset toast. All ages.",
+   "know": [
+    "Hot apple cider is served at the Weir Bridge for a sunset toast.",
+    "Advance registration is required."
+   ],
+   "id": "la-wetlands-park-new-year-s-eve-sunset-sendoff-2026-12-31"
+  },
+  {
+   "name": "Hometown Holidays Craft Show (Pahrump)",
+   "category": "Art & Craft",
+   "place": "Bob Ruud Community Center, Pahrump",
+   "time": "9am–4pm",
+   "free": false,
+   "source": "https://pvc.news/hometown-holidays-craft-show-returns-dec-4-5/",
+   "price": "Price not listed",
+   "date": "2026-12-04",
+   "end": "2026-12-05",
+   "note": "Pahrump, NV (about 60 miles west of Las Vegas). Admission cost not listed.",
+   "description": "Two days of gift browsing and holiday shopping at the Hometown Holidays Craft Show in Pahrump, with about 40 vendors expected.",
+   "know": [
+    "Pahrump is about an hour's drive west of Las Vegas."
+   ],
+   "id": "la-hometown-holidays-craft-show-pahrump-2026-12-04"
   }
  ],
  "center": [

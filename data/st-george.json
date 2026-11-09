@@ -1,6 +1,6 @@
 {
  "city": "St. George, UT",
- "checked": "2026-11-07",
+ "checked": "2026-11-09",
  "events": [
   {
    "name": "Downtown Farmers Market",
@@ -660,6 +660,65 @@
    "id": "st-holiday-village-downtown",
    "lat": 37.1083,
    "lng": -113.584
+  },
+  {
+   "name": "Shepherd of the Hills Holiday Bazaar",
+   "category": "Market",
+   "place": "Shepherd of the Hills UMC, 920 W Tonaquint Dr",
+   "time": "See site",
+   "free": false,
+   "source": "https://shumcstgeorge.com/holiday-bazaar/",
+   "price": "Price not listed",
+   "date": "2026-11-13",
+   "end": "2026-11-14",
+   "note": "Fri–Sat Nov 13–14. Hours and admission not listed.",
+   "description": "An old-fashioned holiday bazaar with handmade crafts, wearable art and gifts in the Courtyard Shops, a Sweet Shop with baked goods and a chili lunch at the Chili Shack. Proceeds help pay school lunch debt in Washington County.",
+   "id": "st-shepherd-of-the-hills-holiday-bazaar-2026-11-13"
+  },
+  {
+   "name": "Roam Wild Food Fest",
+   "category": "Festival",
+   "place": "Historic Downtown St. George",
+   "time": "See site",
+   "free": false,
+   "source": "https://roamwildmarket.com/",
+   "price": "Price not listed",
+   "date": "2026-11-20",
+   "end": "2026-11-21",
+   "note": "Fri–Sat Nov 20–21. Hours and admission not listed.",
+   "description": "The November edition of the Roam Wild monthly market series in Historic Downtown St. George, with artisans, food vendors and live music.",
+   "id": "st-roam-wild-food-fest-2026-11-20"
+  },
+  {
+   "name": "Kanab Christmas Light Parade & Festival",
+   "category": "Holiday",
+   "place": "Downtown Kanab, UT (Kanab Center and US-89)",
+   "time": "Market 5pm–8pm; parade 7pm",
+   "free": false,
+   "source": "https://www.visitsouthernutah.com/kanabs-christmas-light-parade-and-festival/",
+   "price": "Price not listed",
+   "date": "2026-11-28",
+   "note": "Kanab, UT, about 80 miles east of St. George. Admission not stated. Mountain time.",
+   "description": "Kanab's holiday festival with a Mistletoe Market and food vendors (5–8pm), kids' activities and an ice rink (5–9pm), the tree lighting at 6:45pm and a light parade along US-89 at 7pm. This year's theme is Red & White Christmas.",
+   "know": [
+    "Tree lighting 6:45pm; parade 7pm along Hwy 89 between 200 S and 200 W.",
+    "Christmas concert 7:30–8:30pm."
+   ],
+   "id": "st-kanab-christmas-light-parade-festival-2026-11-28"
+  },
+  {
+   "name": "Roam Wild Night Market",
+   "category": "Market",
+   "place": "Historic Downtown St. George",
+   "time": "See site",
+   "free": false,
+   "source": "https://roamwildmarket.com/",
+   "price": "Price not listed",
+   "date": "2027-01-22",
+   "end": "2027-01-23",
+   "note": "Fri–Sat Jan 22–23, 2027. Hours and admission not listed.",
+   "description": "The January Roam Night Market in the Roam Wild monthly series in Historic Downtown St. George.",
+   "id": "st-roam-wild-night-market-2027-01-22"
   }
  ],
  "center": [

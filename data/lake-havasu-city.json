@@ -1,6 +1,6 @@
 {
  "city": "Lake Havasu City, AZ",
- "checked": "2026-11-07",
+ "checked": "2026-11-09",
  "center": [
   34.4839,
   -114.3225
@@ -208,6 +208,44 @@
    "id": "lh-havasu-western-winter-blast",
    "lat": 34.432,
    "lng": -114.26
+  },
+  {
+   "name": "Havasu Christmas Craft & Gift Show",
+   "category": "Market",
+   "place": "Main Street Commons, 2112 McCulloch Blvd N",
+   "time": "9am–5pm",
+   "free": true,
+   "source": "https://www.golakehavasu.com/events/havasu-christmas-craft-and-gift-show/",
+   "date": "2026-11-14",
+   "end": "2026-11-15",
+   "note": "Free admission. Also Sun Nov 15. Times are Arizona time.",
+   "description": "Dozens of local vendors and artisans with handmade gifts, gourmet goods and seasonal décor at Main Street Commons in Lake Havasu City.",
+   "id": "lh-havasu-christmas-craft-gift-show-2026-11-14"
+  },
+  {
+   "name": "Elkette's Holiday Craft Fair",
+   "category": "Art & Craft",
+   "place": "Elks Lodge #2399, 3532 McCulloch Blvd N",
+   "time": "9am–2pm",
+   "free": true,
+   "source": "https://www.golakehavasu.com/events/elkettes-2026-holiday-craft-fair/",
+   "date": "2026-11-14",
+   "note": "Free admission. Times are Arizona time.",
+   "description": "40+ tables of handmade crafts and holiday items plus local authors with signed books. Proceeds benefit local charities.",
+   "id": "lh-elkette-s-holiday-craft-fair-2026-11-14"
+  },
+  {
+   "name": "Havasu Art Guild Holiday Shoppe",
+   "category": "Art & Craft",
+   "place": "Lake Havasu City Aquatics Center, 100 Park Ave",
+   "time": "Sat 8am–4pm; Sun 10am–2pm",
+   "free": true,
+   "source": "https://sites.google.com/site/havasuartguild/new-events",
+   "date": "2026-11-28",
+   "end": "2026-11-29",
+   "note": "Free and open to the public. Sat Nov 28 and Sun Nov 29. Times are Arizona time.",
+   "description": "Fine art, pottery, fiber arts, jewelry, woodwork, glass and paintings from local artisans, plus a bake sale and raffle.",
+   "id": "lh-havasu-art-guild-holiday-shoppe-2026-11-28"
   }
  ]
 }
