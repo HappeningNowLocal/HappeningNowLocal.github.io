@@ -1,6 +1,6 @@
 {
  "city": "Zion / Springdale, UT",
- "checked": "2026-11-04",
+ "checked": "2026-11-10",
  "events": [
   {
    "name": "Zion Canyon Visitor Center Ranger Talk",
@@ -27,48 +27,6 @@
    "id": "zi-zion-canyon-visitor-center-ranger-talk-2026-10-27",
    "lat": 37.20011,
    "lng": -112.98692
-  },
-  {
-   "name": "Zion Art Invitational – Artist Demonstrations",
-   "category": "Art & Craft",
-   "place": "Cable Mountain Lodge, Springdale",
-   "time": "9am–2pm",
-   "free": true,
-   "source": "https://www.zionpark.org/pages/artinvitational",
-   "date": "2026-11-03",
-   "end": "2026-11-04",
-   "description": "Sixteen landscape artists give painting demonstrations during the Zion National Park Art Invitational. Their work is also on display and for sale at Worthington Gallery in Springdale through Nov 8, with proceeds benefiting the park.",
-   "id": "zi-zion-art-invitational-artist-demonstrations-2026-11-03",
-   "lat": 37.19877,
-   "lng": -112.99001
-  },
-  {
-   "name": "Zion Art Invitational Gala & Art Sale",
-   "category": "Art & Craft",
-   "place": "Springdale",
-   "time": "6pm–9pm",
-   "free": false,
-   "source": "https://www.zionpark.org/pages/artinvitational",
-   "date": "2026-11-06",
-   "note": "Ticketed.",
-   "description": "The Art Invitational's evening gala and art sale, benefiting Zion National Park.",
-   "id": "zi-zion-art-invitational-gala-art-sale-2026-11-06",
-   "lat": 37.19357,
-   "lng": -112.99286
-  },
-  {
-   "name": "Wet Paint & Silent Auction",
-   "category": "Art & Craft",
-   "place": "Zion Lodge, inside Zion National Park",
-   "time": "10am–12pm",
-   "free": false,
-   "source": "https://www.zionpark.org/pages/artinvitational",
-   "date": "2026-11-07",
-   "note": "Park entrance fee required.",
-   "description": "Watch all sixteen Invitational artists paint live in Zion National Park, followed by a silent auction.",
-   "id": "zi-wet-paint-silent-auction-2026-11-07",
-   "lat": 37.18947,
-   "lng": -112.99693
   },
   {
    "name": "Fee-Free Day at Zion (Veterans Day)",
@@ -110,6 +68,35 @@
    "note": "Listed on an aggregator; confirm before going.",
    "description": "Springdale's annual arts and crafts fair at the Canyon Community Center over Thanksgiving weekend.",
    "id": "zi-zion-canyon-arts-crafts-fair-2026-11-27"
+  },
+  {
+   "name": "Springdale Light Parade & Sweets Social",
+   "category": "Holiday",
+   "place": "Canyon Community Center, 126 Lion Blvd, Springdale",
+   "time": "7pm–8:30pm",
+   "free": true,
+   "source": "https://sgwom.com/events/springdale-light-parade-and-sweets-social-2026/",
+   "date": "2026-12-11",
+   "note": "Parade travels SR-9 from Canyon Springs Rd to the Canyon Community Center.",
+   "description": "Springdale's lighted holiday parade ends at the Canyon Community Center with a Sweets Social and photos with Mr. & Mrs. Claus.",
+   "id": "zi-springdale-light-parade-sweets-social",
+   "lat": 37.19539,
+   "lng": -112.99831
+  },
+  {
+   "name": "Springdale New Year's Eve Celebration",
+   "category": "Holiday",
+   "place": "Canyon Community Center, 126 Lion Blvd, Springdale",
+   "time": "6pm–8:30pm",
+   "free": false,
+   "price": "Check with the Town of Springdale",
+   "source": "https://sgwom.com/events/springdale-new-years-eve-celebration-2026/",
+   "date": "2026-12-31",
+   "note": "Line dancing at 6pm, catered dinner and live entertainment after.",
+   "description": "The Town of Springdale's New Year's Eve party with line dancing, a catered dinner and live entertainment.",
+   "id": "zi-springdale-new-year-s-eve-celebration",
+   "lat": 37.19539,
+   "lng": -112.99831
   }
  ],
  "center": [

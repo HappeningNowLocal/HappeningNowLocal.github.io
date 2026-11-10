@@ -1,6 +1,6 @@
 {
  "city": "Lake Havasu City, AZ",
- "checked": "2026-11-09",
+ "checked": "2026-11-10",
  "center": [
   34.4839,
   -114.3225
@@ -8,7 +8,7 @@
  "events": [
   {
    "name": "Lake Havasu Veterans Day Parade",
-   "category": "Parade",
+   "category": "Festival",
    "place": "McCulloch Blvd, Birch Square to Smoketree Ave, Lake Havasu City, AZ",
    "time": "8am–11am",
    "free": true,
@@ -98,7 +98,7 @@
   },
   {
    "name": "Lake Havasu Boat Parade of Lights",
-   "category": "Parade",
+   "category": "Holiday",
    "place": "Bridgewater Channel at London Bridge, Lake Havasu City, AZ",
    "time": "5pm",
    "free": true,
@@ -220,7 +220,9 @@
    "end": "2026-11-15",
    "note": "Free admission. Also Sun Nov 15. Times are Arizona time.",
    "description": "Dozens of local vendors and artisans with handmade gifts, gourmet goods and seasonal décor at Main Street Commons in Lake Havasu City.",
-   "id": "lh-havasu-christmas-craft-gift-show-2026-11-14"
+   "id": "lh-havasu-christmas-craft-gift-show-2026-11-14",
+   "lat": 34.47554,
+   "lng": -114.32892
   },
   {
    "name": "Elkette's Holiday Craft Fair",
@@ -232,7 +234,9 @@
    "date": "2026-11-14",
    "note": "Free admission. Times are Arizona time.",
    "description": "40+ tables of handmade crafts and holiday items plus local authors with signed books. Proceeds benefit local charities.",
-   "id": "lh-elkette-s-holiday-craft-fair-2026-11-14"
+   "id": "lh-elkette-s-holiday-craft-fair-2026-11-14",
+   "lat": 34.49738,
+   "lng": -114.28681
   },
   {
    "name": "Havasu Art Guild Holiday Shoppe",
@@ -245,7 +249,54 @@
    "end": "2026-11-29",
    "note": "Free and open to the public. Sat Nov 28 and Sun Nov 29. Times are Arizona time.",
    "description": "Fine art, pottery, fiber arts, jewelry, woodwork, glass and paintings from local artisans, plus a bake sale and raffle.",
-   "id": "lh-havasu-art-guild-holiday-shoppe-2026-11-28"
+   "id": "lh-havasu-art-guild-holiday-shoppe-2026-11-28",
+   "lat": 34.46348,
+   "lng": -114.33667
+  },
+  {
+   "name": "Lake Havasu Farmers Market",
+   "category": "Market",
+   "place": "The KAWS, Lake Havasu City",
+   "time": "8am–12pm",
+   "free": true,
+   "source": "https://www.golakehavasu.com/events/lake-havasu-farmers-market/",
+   "rule": {
+    "dow": [
+     6
+    ]
+   },
+   "note": "Every Saturday. SNAP/EBT accepted.",
+   "description": "Local Arizona farmers, ranchers, bakers, artists and chefs sell produce, eggs, dairy and handmade goods every Saturday.",
+   "id": "lh-lake-havasu-farmers-market"
+  },
+  {
+   "name": "London Bridge Swap Meet",
+   "category": "Market",
+   "place": "London Bridge Shopping Plaza",
+   "time": "8am–2pm",
+   "free": true,
+   "source": "https://www.golakehavasu.com/events/london-bridge-swap-meet/",
+   "rule": {
+    "dow": [
+     0
+    ]
+   },
+   "note": "Every Sunday through April.",
+   "description": "A weekly Sunday swap meet at the London Bridge Shopping Plaza.",
+   "id": "lh-london-bridge-swap-meet"
+  },
+  {
+   "name": "The Gathering Car Show and Swap Meet",
+   "category": "Shows & Expos",
+   "place": "Havasu 95 Speedway",
+   "time": "8am–12pm",
+   "free": true,
+   "source": "https://www.golakehavasu.com/events/the-gathering-car-show-and-swap-meet-2/",
+   "date": "2026-11-21",
+   "description": "A morning car show and swap meet at Havasu 95 Speedway.",
+   "id": "lh-the-gathering-car-show-and-swap-meet",
+   "lat": 34.44604,
+   "lng": -114.24874
   }
  ]
 }

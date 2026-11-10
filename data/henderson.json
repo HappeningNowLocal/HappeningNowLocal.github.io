@@ -1,6 +1,6 @@
 {
  "city": "Henderson, NV",
- "checked": "2026-11-09",
+ "checked": "2026-11-10",
  "events": [
   {
    "name": "Henderson Farmers Market – Cornerstone Park",
@@ -157,24 +157,6 @@
    "lng": -115.12532
   },
   {
-   "name": "Indigenous American Heritage Celebration",
-   "category": "Festival",
-   "place": "Water Street Plaza, 240 S. Water St",
-   "time": "10am–3pm",
-   "free": true,
-   "source": "https://www.vegaspbs.org/blogs/community-events/november-8-indigenous-american-heritage-celebration/",
-   "date": "2026-11-08",
-   "note": "Native artisan vendors, music, dance, storytelling and food trucks.",
-   "description": "An annual free celebration of Indigenous cultures presented by the City of Henderson with Nuwu Art. Expect live music, dance and storytelling, plus Native artisan vendors selling paintings, jewelry, sculpture and beadwork. Food trucks will be on site.",
-   "know": [
-    "Fully outdoors; weather may change the schedule.",
-    "Free parking in two public garages and several lots in the Water Street District."
-   ],
-   "id": "he-indigenous-american-heritage-celebration",
-   "lat": 36.02975,
-   "lng": -114.98255
-  },
-  {
    "name": "Free Public Skate",
    "category": "Family",
    "place": "America First Center, 222 Water St",
@@ -262,20 +244,6 @@
    "lng": -114.97544
   },
   {
-   "name": "Henderson Veterans Day Ceremony",
-   "category": "Family",
-   "place": "Water Street Plaza Amphitheater, 240 S. Water St",
-   "time": "10am–11am",
-   "free": true,
-   "source": "https://www.vegas4locals.com/venue/water-street-plaza-downtown-henderson/",
-   "date": "2026-11-07",
-   "note": "Honors local veterans; new names added to the Veterans Memorial Wall.",
-   "description": "Henderson's annual ceremony at the Water Street Plaza Amphitheater honoring local veterans and military organizations. Names of Henderson residents are added to the Veterans Memorial Wall, with a presentation of colors.",
-   "id": "he-henderson-veterans-day-ceremony",
-   "lat": 36.02975,
-   "lng": -114.98255
-  },
-  {
    "name": "Holiday Artisan Night Market",
    "category": "Art & Craft",
    "place": "Water Street District",
@@ -319,59 +287,6 @@
    "id": "he-water-street-holiday-artisan-fair",
    "lat": 36.03031,
    "lng": -114.98094
-  },
-  {
-   "name": "Giant Garage Sale",
-   "category": "Market",
-   "place": "Black Mountain Recreation Center parking lot, 599 Greenway Rd",
-   "time": "7am–12pm",
-   "free": true,
-   "source": "https://www.cityofhenderson.com/residents/special-interest/garage-sales",
-   "date": "2026-11-07",
-   "note": "Second-hand bargains from local sellers. Free to shop.",
-   "description": "A city-run garage sale in the Black Mountain Recreation Center parking lot where locals sell second-hand clothes, toys, books and more. Admission is free and all ages are welcome to shop.",
-   "know": [
-    "Sellers must register a booth at least a week ahead."
-   ],
-   "id": "he-giant-garage-sale",
-   "lat": 36.01311,
-   "lng": -114.97544
-  },
-  {
-   "name": "Silver Springs Garage Sale",
-   "category": "Market",
-   "place": "Silver Springs Recreation Center, 1951 Silver Springs Pkwy",
-   "time": "8am–1pm",
-   "free": true,
-   "source": "https://www.cityofhenderson.com/residents/special-interest/garage-sales",
-   "date": "2026-11-07",
-   "note": "Free to shop.",
-   "description": "A city-run garage sale at Silver Springs Recreation Center. Admission is free and all ages are welcome to shop.",
-   "know": [
-    "Sellers register a booth in advance through the city."
-   ],
-   "id": "he-silver-springs-garage-sale",
-   "lat": 36.04571,
-   "lng": -115.07472
-  },
-  {
-   "name": "Heritage Harvest Festival",
-   "category": "Festival",
-   "place": "Heritage Park Senior Facility, 300 S. Racetrack Rd",
-   "time": "11am–2pm",
-   "free": false,
-   "price": "$5",
-   "source": "https://nvhendersonweb.myvscloud.com/webtrac/web/iteminfo.html?FMID=361638094&Module=AR",
-   "date": "2026-11-07",
-   "note": "Live entertainment, 40+ craft vendors, petting zoo, bounce houses, games. City lists a $5 fee and requires registration for all ages.",
-   "description": "Henderson's annual family-friendly fall festival with live entertainment and a craft fair of 40+ vendors. Kids' activities include a petting zoo, bounce houses, face painting and games, and there are free food items and light refreshments.",
-   "know": [
-    "Registration is required for all ages ($5 fee).",
-    "Children must be with an adult."
-   ],
-   "id": "he-heritage-harvest-festival",
-   "lat": 36.03294,
-   "lng": -114.95156
   },
   {
    "name": "Upscale Craft & Yard Sale",
@@ -431,7 +346,7 @@
   },
   {
    "name": "Official F1 Las Vegas Grand Prix Watch Party",
-   "category": "Community",
+   "category": "Festival",
    "place": "Water Street Plaza, 240 S. Water St",
    "date": "2026-11-21",
    "time": "7pm–10pm",
@@ -482,35 +397,6 @@
    "id": "he-ethel-m-holiday-cactus-garden-lights",
    "lat": 36.07394,
    "lng": -115.07215
-  },
-  {
-   "name": "Market in the Alley",
-   "category": "Market",
-   "place": "The Green at The District at Green Valley Ranch",
-   "time": "10am–3pm",
-   "free": true,
-   "source": "https://shopthedistrictgvr.com/events/the-district-at-green-valley-ranch-market-in-the-alley-566bfdeb-cdff-49d6-b020-4d92ceb7a3b3/",
-   "date": "2026-11-08",
-   "note": "Free.",
-   "description": "Market in the Alley at The Green at The District at Green Valley Ranch. Free.",
-   "id": "he-market-in-the-alley",
-   "lat": 36.02157,
-   "lng": -115.08697
-  },
-  {
-   "name": "Desert Winds Veterans Day Salute",
-   "category": "Music",
-   "place": "Congregation Ner Tamid, 55 N Valle Verde Dr, Henderson",
-   "time": "7pm",
-   "free": false,
-   "source": "https://www.makingmusicmatterfoundation.org/post/monday-music-matters-why-the-band-still-plays-on-veterans-day",
-   "price": "$10–15",
-   "date": "2026-11-09",
-   "note": "Veterans Day concert.",
-   "description": "Desert Winds Veterans Day Salute at Congregation Ner Tamid, 55 N Valle Verde Dr, Henderson. Veterans Day concert.",
-   "id": "he-desert-winds-veterans-day-salute",
-   "lat": 36.03108,
-   "lng": -115.0636
   },
   {
    "name": "Makers Hive Market",
@@ -577,7 +463,7 @@
   },
   {
    "name": "Toys for Tots Fill the Truck",
-   "category": "Community",
+   "category": "Holiday",
    "place": "The District at Green Valley Ranch",
    "time": "5pm–7pm",
    "free": true,
@@ -590,7 +476,7 @@
    "lng": -115.08621
   },
   {
-   "name": "Ugly Sweater Winter Carnival",
+   "name": "Ugly Sweater Winter Festival",
    "category": "Holiday",
    "place": "Paseo Vista Park, Henderson",
    "time": "3pm–5pm",
@@ -618,7 +504,9 @@
     "Early bird access 6:30pm; regular ticket access 7:30pm.",
     "All ages."
    ],
-   "id": "he-market-macabre-2026-11-13"
+   "id": "he-market-macabre-2026-11-13",
+   "lat": 36.06365,
+   "lng": -115.02346
   },
   {
    "name": "Bird Mobile Tour with Santa",
@@ -635,7 +523,9 @@
     "Children must be accompanied by a registered adult.",
     "Register ahead through Henderson Parks & Recreation."
    ],
-   "id": "he-bird-mobile-tour-with-santa-2026-11-28"
+   "id": "he-bird-mobile-tour-with-santa-2026-11-28",
+   "lat": 36.07102,
+   "lng": -115.01013
   },
   {
    "name": "Chabad Menorah Lighting at The District",
@@ -648,7 +538,9 @@
    "date": "2026-12-08",
    "note": "All are welcome; cost not listed.",
    "description": "Chabad of Henderson's menorah lighting ceremony on Main Street at The District, with live music, a children's program, donuts and Chanukah activities. All are welcome.",
-   "id": "he-chabad-menorah-lighting-at-the-district-2026-12-08"
+   "id": "he-chabad-menorah-lighting-at-the-district-2026-12-08",
+   "lat": 36.02178,
+   "lng": -115.08659
   },
   {
    "name": "Winter Solstice at the Bird Viewing Preserve",
@@ -664,7 +556,9 @@
    "know": [
     "Register ahead through Henderson Parks & Recreation."
    ],
-   "id": "he-winter-solstice-at-the-bird-viewing-preserve-2026-12-20"
+   "id": "he-winter-solstice-at-the-bird-viewing-preserve-2026-12-20",
+   "lat": 36.07102,
+   "lng": -115.01013
   },
   {
    "name": "Ethel M Winter Wonderland Night",
@@ -680,7 +574,9 @@
    "know": [
     "Reservations are required."
    ],
-   "id": "he-ethel-m-winter-wonderland-night-2026-12-29"
+   "id": "he-ethel-m-winter-wonderland-night-2026-12-29",
+   "lat": 36.07394,
+   "lng": -115.07215
   },
   {
    "name": "Noon Year's Eve Celebration",
@@ -695,7 +591,215 @@
    "know": [
     "Center Court, near Build-A-Bear Workshop."
    ],
-   "id": "he-noon-year-s-eve-celebration-2026-12-31"
+   "id": "he-noon-year-s-eve-celebration-2026-12-31",
+   "lat": 36.06735,
+   "lng": -115.04265
+  },
+  {
+   "name": "Library Tree Lane Seasonal Boutique",
+   "category": "Holiday",
+   "place": "Paseo Verde Library, 280 S Green Valley Pkwy",
+   "time": "10am–4pm",
+   "free": true,
+   "source": "https://henderson.libnet.info/event/16329166",
+   "rule": {
+    "dates": [
+     "2026-11-13",
+     "2026-11-14",
+     "2026-11-16",
+     "2026-11-17",
+     "2026-11-18",
+     "2026-11-19",
+     "2026-11-20",
+     "2026-11-21",
+     "2026-11-23",
+     "2026-11-24",
+     "2026-11-25",
+     "2026-11-28",
+     "2026-11-30",
+     "2026-12-01",
+     "2026-12-02",
+     "2026-12-03",
+     "2026-12-04"
+    ]
+   },
+   "note": "Friends of Henderson Libraries holiday gift boutique. Free to browse.",
+   "description": "The Friends of Henderson Libraries sell holiday gift baskets, book bundles and more at Paseo Verde Library, with chance-drawing tickets for $1 each or 6 for $5. All proceeds go to Henderson Libraries.",
+   "know": [
+    "Chance drawing tickets: $1 each or 6 for $5.",
+    "Not held Sundays or Thanksgiving week Thu–Fri."
+   ],
+   "id": "he-library-tree-lane-seasonal-boutique",
+   "lat": 36.01729,
+   "lng": -115.08007
+  },
+  {
+   "name": "Family After-Hours: Pokémon Night",
+   "category": "Family",
+   "place": "James I. Gibson Library, 100 W Lake Mead Pkwy",
+   "time": "6pm–7:30pm",
+   "free": true,
+   "source": "https://henderson.libnet.info/event/17441231",
+   "date": "2026-11-13",
+   "note": "After-hours Pokémon activities for families with children.",
+   "description": "Come to the library while it is closed to the public for Pokémon-themed activities for families with children.",
+   "id": "he-family-after-hours-pokemon-night",
+   "lat": 36.03513,
+   "lng": -115.00087
+  },
+  {
+   "name": "Wetlands: Hands On! Stewardship Morning",
+   "category": "Outdoors & Nature",
+   "place": "Pabco Trailhead, Clark County Wetlands Park",
+   "time": "9am–11am",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/wetlands-hands-on-tickets-2002247520232",
+   "date": "2026-11-14",
+   "note": "Free volunteer stewardship event; register on Eventbrite.",
+   "description": "A free community stewardship event at Clark County Wetlands Park, meeting at the Pabco Trailhead on the Henderson side of the park.",
+   "id": "he-wetlands-hands-on-stewardship-morning"
+  },
+  {
+   "name": "Sloan Canyon: Desert-Adapted Plants Talk",
+   "category": "Outdoors & Nature",
+   "place": "West Henderson Library",
+   "time": "10:30am–11:30am",
+   "free": true,
+   "source": "https://henderson.libnet.info/event/17170801",
+   "date": "2026-11-19",
+   "note": "Ages 5+ with caregivers. Passes first-come, first-served.",
+   "description": "Sloan Canyon National Conservation Area staff show how native, desert-adapted plants conserve water, support pollinators and connect neighborhoods to nearby public lands.",
+   "id": "he-sloan-canyon-desert-adapted-plants-talk",
+   "lat": 35.93982,
+   "lng": -115.13038
+  },
+  {
+   "name": "Pop-Up Gingerbread Houses",
+   "category": "Holiday",
+   "place": "West Henderson Library",
+   "time": "3:30pm–4:15pm",
+   "free": true,
+   "source": "https://henderson.libnet.info/event/17656197",
+   "date": "2026-12-01",
+   "note": "Drop-in table for families with children.",
+   "description": "Drop by the library's table any time during the session to build a gingerbread house. For families with children.",
+   "id": "he-pop-up-gingerbread-houses",
+   "lat": 35.93982,
+   "lng": -115.13038
+  },
+  {
+   "name": "Friends of Henderson Libraries Used Book Sale",
+   "category": "Market",
+   "place": "Paseo Verde Library, 280 S Green Valley Pkwy",
+   "time": "Fri 9am–5pm; Sat 9am–3pm",
+   "free": true,
+   "source": "https://henderson.libnet.info/event/14534408",
+   "date": "2026-12-11",
+   "end": "2026-12-12",
+   "note": "Fill a bag of books for $5. Pre-sale Thu Dec 10, 5–6:30pm ($20 donation).",
+   "description": "Bargain used books from the Friends of Henderson Libraries, with a bag of books for $5 (bags provided). Shoppers who donate $20 can shop the pre-sale on Thursday evening.",
+   "know": [
+    "Pre-sale Thursday, Dec 10, 5–6:30pm with a $20 donation per shopper."
+   ],
+   "id": "he-friends-of-henderson-libraries-used-book",
+   "lat": 36.01729,
+   "lng": -115.08007
+  },
+  {
+   "name": "Witches & Wizards Bash",
+   "category": "Family",
+   "place": "Paseo Verde Library, 280 S Green Valley Pkwy",
+   "time": "6pm–8pm",
+   "free": true,
+   "source": "https://henderson.libnet.info/event/17741614",
+   "date": "2027-01-08",
+   "note": "After-hours magic-themed party for kids, teens and adults.",
+   "description": "An after-hours Witches & Wizards bash with crafts, games, magic wands and other magical activities for kids, teens and adults.",
+   "id": "he-witches-wizards-bash",
+   "lat": 36.01729,
+   "lng": -115.08007
+  },
+  {
+   "name": "Paws in the Park at Cadence",
+   "category": "Family",
+   "place": "Cadence Central Park",
+   "time": "12pm–2pm",
+   "free": true,
+   "source": "https://www.cadencecommunityassociation.com/community-calendar/?cat=&month=11&view=month&year=2026",
+   "date": "2026-11-14",
+   "note": "Bring your dog: food trucks, adoptable pets and local vendors.",
+   "description": "A pet-friendly afternoon in Cadence's Central Park with food trucks, adoptable pets and local vendors, hosted by the Cadence Community Association.",
+   "id": "he-paws-in-the-park-at-cadence",
+   "lat": 36.05885,
+   "lng": -114.97577
+  },
+  {
+   "name": "Central Park Bird Walk with Red Rock Audubon",
+   "category": "Outdoors & Nature",
+   "place": "Cadence Central Park",
+   "time": "8:30am–10am",
+   "free": true,
+   "source": "https://www.cadencecommunityassociation.com/community-calendar/?cat=&month=11&view=month&year=2026",
+   "date": "2026-11-15",
+   "note": "Guided bird walk around the park's ponds.",
+   "description": "Red Rock Audubon leads a guided bird walk around Cadence's Central Park, home to local waterfowl and a stopover for migrating birds.",
+   "id": "he-central-park-bird-walk-with-red-rock-aud",
+   "lat": 36.05885,
+   "lng": -114.97577
+  },
+  {
+   "name": "Cadence Winter Festival",
+   "category": "Holiday",
+   "place": "Cadence Central Park",
+   "time": "5pm–8pm",
+   "free": true,
+   "source": "https://www.cadencecommunityassociation.com/community-calendar/?cat=&month=12&view=month&year=2026",
+   "date": "2026-12-05",
+   "note": "Details still to be announced by the Cadence Community Association.",
+   "description": "A winter festival in Cadence's Central Park hosted by the Cadence Community Association. The association says more details are coming.",
+   "id": "he-cadence-winter-festival",
+   "lat": 36.05885,
+   "lng": -114.97577
+  },
+  {
+   "name": "Lake Las Vegas Chanukah Celebration",
+   "category": "Holiday",
+   "place": "The Village at Lake Las Vegas, 20 Costa Di Lago",
+   "time": "5pm–6pm",
+   "free": true,
+   "source": "https://lakelasvegas.com/events/",
+   "date": "2026-12-10",
+   "description": "A Chanukah celebration in The Village at Lake Las Vegas.",
+   "id": "he-lake-las-vegas-chanukah-celebration",
+   "lat": 36.10308,
+   "lng": -114.92941
+  },
+  {
+   "name": "Holiday Concert on the Lake",
+   "category": "Holiday",
+   "place": "The Village at Lake Las Vegas, 20 Costa Di Lago",
+   "time": "7pm–8pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/lake-las-vegas-holiday-concert-on-the-lake-tickets-2003802763005",
+   "date": "2026-12-20",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "Young musicians perform a mix of traditional Chinese music, popular favorites and holiday selections at The Village at Lake Las Vegas.",
+   "id": "he-holiday-concert-on-the-lake",
+   "lat": 36.10308,
+   "lng": -114.92941
+  },
+  {
+   "name": "New Year's Eve Fireworks Over Lake Las Vegas",
+   "category": "Holiday",
+   "place": "The Village at Lake Las Vegas, 20 Costa Di Lago",
+   "time": "9pm",
+   "free": true,
+   "source": "https://lakelasvegas.com/events/",
+   "date": "2026-12-31",
+   "description": "Ring in 2027 with fireworks over the lake at Lake Las Vegas.",
+   "id": "he-new-year-s-eve-fireworks-over-lake-las-v",
+   "lat": 36.10308,
+   "lng": -114.92941
   }
  ],
  "center": [

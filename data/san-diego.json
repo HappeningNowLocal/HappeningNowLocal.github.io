@@ -1,6 +1,6 @@
 {
  "city": "San Diego, CA",
- "checked": "2026-11-04",
+ "checked": "2026-11-10",
  "events": [
   {
    "name": "Balboa Park December Nights",
@@ -93,7 +93,6 @@
    "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=F4C1ABE5-FD43-B1FF-BBBF81F3B564AC84",
    "rule": {
     "dates": [
-     "2026-11-06",
      "2026-12-04"
     ]
    },
@@ -229,23 +228,8 @@
    "lng": -117.16827
   },
   {
-   "name": "Great Big Family Play Day",
-   "category": "Family",
-   "place": "Liberty Station, 2757 Dewey Rd, San Diego",
-   "time": "9:30am–5pm",
-   "free": false,
-   "source": "https://www.eventbrite.com/e/2026-great-big-family-play-day-san-diego-presented-by-tonies-tickets-1993572199113",
-   "date": "2026-11-07",
-   "price": "$7–$29",
-   "note": "Tickets on Eventbrite.",
-   "description": "A one-day family festival with hourly kids' performances on the main stage, headlined by Laurie Berkner. There are interactive activities and exhibits for all ages, samples and giveaways, and a food truck row.",
-   "id": "sd-great-big-family-play-day-eb",
-   "lat": 32.73765,
-   "lng": -117.21244
-  },
-  {
    "name": "San Diego Veterans Day Parade",
-   "category": "Parade",
+   "category": "Festival",
    "place": "Harbor Dr, San Diego",
    "time": "10am–11:30am",
    "free": true,
@@ -259,7 +243,7 @@
   },
   {
    "name": "Pacific Beach Holiday Parade",
-   "category": "Parade",
+   "category": "Holiday",
    "place": "Pacific Beach, San Diego",
    "time": "1pm–3pm",
    "free": true,
@@ -287,7 +271,7 @@
   },
   {
    "name": "Spreckels Organ 112th Birthday Concert",
-   "category": "Music",
+   "category": "Movies & Music",
    "place": "Spreckels Organ Pavilion, Balboa Park",
    "time": "2pm",
    "free": true,
@@ -301,7 +285,7 @@
   },
   {
    "name": "North Park Coffee & Tea Fair",
-   "category": "Food",
+   "category": "Festival",
    "place": "North Park Mini Park, San Diego",
    "time": "12pm–4pm",
    "free": true,
@@ -315,7 +299,7 @@
   },
   {
    "name": "45th San Diego MLK Parade",
-   "category": "Parade",
+   "category": "Festival",
    "place": "Harbor Dr, San Diego",
    "time": "11am",
    "free": true,

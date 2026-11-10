@@ -1,21 +1,7 @@
 {
  "city": "Los Angeles, CA",
- "checked": "2026-11-04",
+ "checked": "2026-11-10",
  "events": [
-  {
-   "name": "Autry Pow Wow",
-   "category": "Festival",
-   "place": "Autry Museum, Griffith Park",
-   "time": "10am–8pm",
-   "free": true,
-   "source": "http://theautry.org/events/family-activities/sacred-path-x-autry-pow-wow-2026",
-   "date": "2026-11-07",
-   "note": "Grand Entry 1pm. Free.",
-   "description": "A full-day celebration of Native culture with traditional powwow dancing and songs, Indian tacos and fry bread, and vendors selling Native arts and crafts. Free and open to the public.",
-   "id": "lac-autry-pow-wow-2026-11-07",
-   "lat": 34.14853,
-   "lng": -118.28218
-  },
   {
    "name": "Griffith Observatory Public Star Party",
    "category": "Outdoors & Nature",
@@ -68,19 +54,6 @@
    "id": "lac-neighborhood-sing-lapl",
    "lat": 34.16567,
    "lng": -118.3794
-  },
-  {
-   "name": "Citadel Outlets Tree Lighting Concert",
-   "category": "Holiday",
-   "place": "Citadel Outlets, 100 Citadel Dr, Commerce",
-   "time": "5pm",
-   "free": true,
-   "source": "https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026",
-   "date": "2026-11-07",
-   "description": "Santa lights what the Citadel bills as the world's tallest live-cut Christmas tree at the free 25th annual Tree Lighting Concert.",
-   "id": "lac-citadel-outlets-tree-lighting-concert-2026",
-   "lat": 34.00591,
-   "lng": -118.15284
   },
   {
    "name": "Sparkle DTLA Light Show",
@@ -226,35 +199,6 @@
    "lng": -118.24892
   },
   {
-   "name": "Self Help Graphics Día de los Muertos",
-   "category": "Festival",
-   "place": "Self Help Graphics & Art, 1300 E 1st St, Boyle Heights",
-   "time": "3pm–10pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/self-help-graphics-arts-53rd-annual-dia-de-los-muertos-celebration-tickets-2000318072201",
-   "date": "2026-11-07",
-   "note": "Free.",
-   "description": "Self Help Graphics & Art's 53rd annual Día de los Muertos celebration in Boyle Heights. There's live music and dance as ofrendas to ancestors, community altars, art and food vendors, and art activities.",
-   "id": "lac-self-help-graphics-d-a-de-los-muertos-eb",
-   "lat": 33.76643,
-   "lng": -118.17523
-  },
-  {
-   "name": "Rose Bowl Flea Market",
-   "category": "Market",
-   "place": "Rose Bowl Stadium, 1001 Rose Bowl Dr, Pasadena",
-   "time": "5am–4:30pm",
-   "free": false,
-   "source": "https://www.eventbrite.com/e/rose-bowl-flea-market-sunday-november-8-2026-tickets-1977731982599",
-   "date": "2026-11-08",
-   "price": "$16.88–$24.29",
-   "note": "Tickets online only; no onsite sales.",
-   "description": "The famous Rose Bowl Flea Market, held the second Sunday of every month, has over 2,500 vendors selling antiques, vintage finds and new goods. Early-bird entry runs 5–8:45am and general admission 9am–3pm.",
-   "id": "lac-rose-bowl-flea-market-eb",
-   "lat": 34.16135,
-   "lng": -118.16767
-  },
-  {
    "name": "Lens on Life Film Screening (CD13)",
    "category": "Movies & Music",
    "place": "Barnsdall Gallery Theatre, 4800 Hollywood Blvd, Los Angeles",
@@ -284,6 +228,34 @@
    "id": "lac-winter-festival-toy-distribution-health-eb",
    "lat": 33.97263,
    "lng": -118.20579
+  },
+  {
+   "name": "Downtown Culver City Tree Lighting Sled-tacular",
+   "category": "Holiday",
+   "place": "Town Plaza, 9300 Culver Blvd, Culver City",
+   "time": "5pm–8:30pm",
+   "free": true,
+   "source": "https://downtownculvercity.com/event/2026-annual-downtown-culver-city-tree-lighting-sled-tacular/",
+   "date": "2026-12-03",
+   "note": "Pre-register a snow waiver for a free sledding wristband.",
+   "description": "Downtown Culver City lights its holiday tree with free snow sledding and festivities in Town Plaza.",
+   "id": "lac-downtown-culver-city-tree-lighting-sled",
+   "lat": 34.02445,
+   "lng": -118.39336
+  },
+  {
+   "name": "Grand Illuminations Opening Night",
+   "category": "Holiday",
+   "place": "The Yard at Cal Plaza, 350 S Grand Ave, Los Angeles",
+   "time": "6pm–9pm (holiday market from 12pm)",
+   "free": true,
+   "source": "https://www.grandperformances.org/events/grand-illuminations",
+   "date": "2026-12-03",
+   "note": "Light displays stay up through January 2027.",
+   "description": "Grand Performances and the DTLA Alliance light up The Yard at Cal Plaza with interactive light displays, plus a holiday market.",
+   "id": "lac-grand-illuminations-opening-night",
+   "lat": 34.05143,
+   "lng": -118.25163
   }
  ],
  "center": [

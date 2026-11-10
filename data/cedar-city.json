@@ -1,6 +1,6 @@
 {
  "city": "Cedar City, UT",
- "checked": "2026-11-04",
+ "checked": "2026-11-10",
  "events": [
   {
    "name": "Festival City Farmers Market",
@@ -224,7 +224,7 @@
   },
   {
    "name": "parkrun Turkey Trot 5K",
-   "category": "Outdoors",
+   "category": "Outdoors & Nature",
    "place": "Cedar City parkrun course",
    "time": "9am",
    "free": true,
@@ -291,6 +291,93 @@
    "id": "ce-cedar-breaks-guided-snowshoe-tours-2027-0",
    "lat": 37.65656,
    "lng": -112.834
+  },
+  {
+   "name": "Storybook Parade",
+   "category": "Family",
+   "place": "Center St & 200 West to Main St, Cedar City",
+   "time": "10am",
+   "free": true,
+   "source": "https://ironcountyfair.net/story-book-parade",
+   "date": "2026-11-14",
+   "note": "Free. Route runs east on Center St, then north on Main St to 400 North.",
+   "description": "A Cedar City tradition where children's books come to life with floats, music and costumed characters.",
+   "id": "ce-storybook-parade"
+  },
+  {
+   "name": "Cedar City Farmers Market (North)",
+   "category": "Market",
+   "place": "Design & Flooring parking lot, 2232 N Main St",
+   "time": "10am–2pm",
+   "free": true,
+   "source": "https://www.sltrib.com/news/2026/11/09/southern-utah-listings-events-week/",
+   "rule": {
+    "dow": [
+     6
+    ],
+    "until": "2026-12-05"
+   },
+   "note": "Saturdays through Dec 5.",
+   "description": "Farm products, prepared foods and handmade goods at the north Cedar City Saturday market.",
+   "id": "ce-cedar-city-farmers-market-north",
+   "lat": 37.71816,
+   "lng": -113.05911
+  },
+  {
+   "name": "Dancing with the Cedar Community Stars",
+   "category": "Family",
+   "place": "Heritage Center Theater, 105 N 100 East",
+   "time": "7pm–9pm",
+   "free": false,
+   "price": "$15",
+   "source": "https://www.cedarcityut.gov/Calendar.aspx?EID=4507",
+   "date": "2026-11-17",
+   "description": "Iron County community stars pair with experienced dancers in a family-friendly competition raising money for the Iron County Children's Justice Center.",
+   "id": "ce-dancing-with-the-cedar-community-stars",
+   "lat": 37.68031,
+   "lng": -113.06014
+  },
+  {
+   "name": "SUMA First Friday",
+   "category": "Art & Craft",
+   "place": "Southern Utah Museum of Art, 13 S 300 W",
+   "time": "6pm–8pm",
+   "free": true,
+   "source": "https://sgwom.com/events/suma-first-friday-december-2026/",
+   "date": "2026-12-04",
+   "description": "A free First Friday evening at the Southern Utah Museum of Art on the SUU campus.",
+   "id": "ce-suma-first-friday",
+   "lat": 37.67703,
+   "lng": -113.06616
+  },
+  {
+   "name": "A Very SUMA Holiday Sale",
+   "category": "Holiday",
+   "place": "Southern Utah Museum of Art, 13 S 300 W",
+   "time": "10am–6pm",
+   "free": true,
+   "source": "https://sgwom.com/events/a-very-suma-holiday-2026/",
+   "date": "2026-11-28",
+   "end": "2026-12-05",
+   "description": "A holiday art and gift sale at the Southern Utah Museum of Art.",
+   "id": "ce-a-very-suma-holiday-sale",
+   "lat": 37.67703,
+   "lng": -113.06616
+  },
+  {
+   "name": "86th Annual Handel's Messiah",
+   "category": "Holiday",
+   "place": "Heritage Center Theater, 105 N 100 East",
+   "time": "7:30pm",
+   "free": true,
+   "source": "https://www.ksl.com/events/details/596957",
+   "date": "2026-12-13",
+   "end": "2026-12-14",
+   "note": "Free, but tickets are required.",
+   "description": "The Orchestra of Southern Utah and community singers perform Handel's Messiah in Cedar City's long-running holiday tradition.",
+   "id": "ce-86th-annual-handel-s-messiah",
+   "lat": 37.68031,
+   "lng": -113.06014
   }
  ],
  "center": [

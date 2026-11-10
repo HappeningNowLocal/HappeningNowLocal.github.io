@@ -1,6 +1,6 @@
 {
  "city": "St. George, UT",
- "checked": "2026-11-09",
+ "checked": "2026-11-10",
  "events": [
   {
    "name": "Downtown Farmers Market",
@@ -45,21 +45,6 @@
    "id": "st-mod-the-modern-market",
    "lat": 37.10381,
    "lng": -113.57589
-  },
-  {
-   "name": "Concerts at the Electric: The Bombshell Flowers",
-   "category": "Movies & Music",
-   "place": "The Electric Theater",
-   "time": "7pm",
-   "free": true,
-   "source": "https://www.sgcityutah.gov/activity/special_events/special_events/electric_series/concerts_at_the_electric.php",
-   "date": "2026-11-09",
-   "note": "Free city concert series; first-come seating, donations welcome.",
-   "description": "A free City of St. George concert at the historic Electric Theater featuring The Bombshell Flowers, a Utah alternative rock trio.",
-   "know": [
-    "First-come, first-served seating; donations appreciated."
-   ],
-   "id": "st-concerts-at-the-electric-the-bombshell-f"
   },
   {
    "name": "Concerts at the Electric: Color Country Choir",
@@ -165,7 +150,7 @@
    "place": "Sand Hollow State Park main boat ramp, Hurricane",
    "time": "8am–9am",
    "free": false,
-   "source": "https://stateparks.utah.gov/event/winged-wonders-16/",
+   "source": "https://stateparks.utah.gov/event/winged-wonders-17/",
    "price": "Park entry",
    "rule": {
     "dates": [
@@ -175,35 +160,6 @@
    "note": "Binoculars provided.",
    "description": "Over 250 bird species visit the Sand Hollow reservoir each year. Bring a chair or blanket and join a park ranger near the jetty to spot them; binoculars are provided.",
    "id": "st-winged-wonders-bird-watch",
-   "lat": 37.11296,
-   "lng": -113.3748
-  },
-  {
-   "name": "Love Local Holiday Market",
-   "category": "Market",
-   "place": "Dixie Convention Center parking lot, 1835 S Convention Center Dr",
-   "time": "10am–3pm",
-   "free": true,
-   "source": "https://sgwom.com/events/love-local-holiday-market-2026/",
-   "date": "2026-11-07",
-   "note": "Free; Santa photos, food trucks, free bounce houses.",
-   "description": "A free Christmas-themed market with local vendors, food trucks, photo ops, giveaways and pictures with Santa. Bounce houses are free for kids.",
-   "id": "st-love-local-holiday-market-2026-11-07",
-   "lat": 37.07713,
-   "lng": -113.5822
-  },
-  {
-   "name": "Campfire Chat with s'mores",
-   "category": "Outdoors & Nature",
-   "place": "Sand Hollow State Park, Hurricane",
-   "time": "7:30pm",
-   "free": false,
-   "source": "https://stateparks.utah.gov/event/campfire-chat-8/",
-   "price": "Park entry",
-   "date": "2026-11-09",
-   "note": "S'mores provided; bring chairs and cocoa.",
-   "description": "Join a park ranger for an evening around the fire at Sand Hollow. Bring chairs; s'mores are provided by Lin's in Hurricane.",
-   "id": "st-campfire-chat-with-s-mores-2026-11-09",
    "lat": 37.11296,
    "lng": -113.3748
   },
@@ -227,7 +183,7 @@
    "place": "Sand Hollow State Park",
    "time": "10am–11am",
    "free": false,
-   "source": "https://stateparks.utah.gov/event/art-of-adventure-8/",
+   "source": "https://stateparks.utah.gov/event/art-of-adventure-9/",
    "price": "Park entry",
    "date": "2026-11-14",
    "note": "Journals and drawing materials provided.",
@@ -242,7 +198,7 @@
    "place": "Sand Hollow State Park, 3351 Sand Hollow Rd, Hurricane",
    "time": "7pm–8:30pm",
    "free": false,
-   "source": "https://stateparks.utah.gov/event/movie-meetup-9/",
+   "source": "https://stateparks.utah.gov/event/movie-meetup-10/",
    "price": "Park entry",
    "date": "2026-11-18",
    "note": "Outdoor movie; food vendors. Weather dependent.",
@@ -257,7 +213,7 @@
    "place": "Sand Hollow State Park",
    "time": "2pm–3pm",
    "free": false,
-   "source": "https://stateparks.utah.gov/event/eko-share-nature-with-a-friend/",
+   "source": "https://stateparks.utah.gov/event/eko-share-nature-with-a-friend-2/",
    "price": "Park entry",
    "date": "2026-11-21",
    "note": "Kids earn an EKO sticker.",
@@ -296,20 +252,6 @@
    "lng": -113.57449
   },
   {
-   "name": "Tabernacle: St. George Interfaith Choir",
-   "category": "Movies & Music",
-   "place": "Historic St. George Tabernacle",
-   "time": "7pm",
-   "free": true,
-   "source": "https://stgeorgechamber.com/november-2026-tabernacle-events/",
-   "date": "2026-11-04",
-   "note": "Free.",
-   "description": "The St. George Interfaith Choir, with members from more than 10 faith communities, performs with the new young-adult choir St. George Voices. All Tabernacle events are free.",
-   "id": "st-tabernacle-st-george-interfaith-choir-2026",
-   "lat": 37.10783,
-   "lng": -113.58378
-  },
-  {
    "name": "Tabernacle: Christian Erickson Jazz & Holiday",
    "category": "Movies & Music",
    "place": "Historic St. George Tabernacle",
@@ -336,18 +278,6 @@
    "id": "st-tabernacle-bar-g-wranglers-2026-11-14",
    "lat": 37.10783,
    "lng": -113.58378
-  },
-  {
-   "name": "Historic District Walking Tour",
-   "category": "Tour",
-   "place": "Historic Downtown St. George",
-   "time": "10am–12pm",
-   "free": true,
-   "source": "https://events.greaterzion.com/event/st-george-historic-district-walking-tours-5/",
-   "date": "2026-11-07",
-   "note": "Free.",
-   "description": "Historic District Walking Tour at Historic Downtown St. George. Free.",
-   "id": "st-historic-district-walking-tour"
   },
   {
    "name": "Tuacahn Saturday Market",
@@ -383,7 +313,7 @@
   },
   {
    "name": "Washington City Veterans Day Parade & Program",
-   "category": "Parade",
+   "category": "Festival",
    "place": "Veterans Park, Washington",
    "time": "11am",
    "free": true,
@@ -409,7 +339,7 @@
   },
   {
    "name": "Fractured Lands Opening Reception",
-   "category": "Arts",
+   "category": "Art & Craft",
    "place": "Sears Art Museum, Utah Tech University",
    "time": "6:30pm–8pm",
    "free": true,
@@ -423,7 +353,7 @@
   },
   {
    "name": "U.S. Navy Band Commodores",
-   "category": "Music",
+   "category": "Movies & Music",
    "place": "Tuacahn Amphitheatre, Ivins",
    "time": "7pm",
    "free": true,
@@ -492,7 +422,7 @@
   },
   {
    "name": "Pearl Harbor & USS Utah Remembrance",
-   "category": "Community",
+   "category": "Family",
    "place": "Heritage Hall, Washington",
    "time": "6pm",
    "free": true,
@@ -516,7 +446,7 @@
   },
   {
    "name": "McQuarrie Museum Talk: Exploring Snow Canyon",
-   "category": "Talk",
+   "category": "Family",
    "place": "McQuarrie Memorial Museum, St. George",
    "time": "See site",
    "free": true,
@@ -530,7 +460,7 @@
   },
   {
    "name": "St. George Heritage Day (165th Birthday)",
-   "category": "Community",
+   "category": "Festival",
    "place": "St. George Social Hall",
    "time": "12pm–2pm",
    "free": true,
@@ -539,21 +469,6 @@
    "note": "Free.",
    "description": "St. George Heritage Day (165th Birthday) at St. George Social Hall. Free.",
    "id": "st-st-george-heritage-day-165th-birthday"
-  },
-  {
-   "category": "Outdoors & Nature",
-   "place": "Snow Canyon State Park, 1002 Snow Canyon Dr, Ivins",
-   "free": false,
-   "price": "Park entry",
-   "lat": 37.1957,
-   "lng": -113.64952,
-   "name": "Under the Milky Way at Snow Canyon",
-   "time": "6pm–7:30pm",
-   "source": "https://stateparks.utah.gov/event/under-the-milky-way-5/",
-   "date": "2026-11-06",
-   "note": "Telescopes and constellation tour at Scenic Overlook. Bring a chair, blanket and red flashlight.",
-   "description": "A ranger-led evening under the stars at Snow Canyon Scenic Overlook with telescopes, a constellation tour and hands-on activities. Park entry applies.",
-   "id": "st-under-the-milky-way-at-snow-canyon-2026-11-06"
   },
   {
    "category": "Outdoors & Nature",
@@ -673,7 +588,9 @@
    "end": "2026-11-14",
    "note": "Fri–Sat Nov 13–14. Hours and admission not listed.",
    "description": "An old-fashioned holiday bazaar with handmade crafts, wearable art and gifts in the Courtyard Shops, a Sweet Shop with baked goods and a chili lunch at the Chili Shack. Proceeds help pay school lunch debt in Washington County.",
-   "id": "st-shepherd-of-the-hills-holiday-bazaar-2026-11-13"
+   "id": "st-shepherd-of-the-hills-holiday-bazaar-2026-11-13",
+   "lat": 37.07315,
+   "lng": -113.60377
   },
   {
    "name": "Roam Wild Food Fest",
@@ -719,6 +636,283 @@
    "note": "Fri–Sat Jan 22–23, 2027. Hours and admission not listed.",
    "description": "The January Roam Night Market in the Roam Wild monthly series in Historic Downtown St. George.",
    "id": "st-roam-wild-night-market-2027-01-22"
+  },
+  {
+   "name": "George Streetfest (First Friday)",
+   "category": "Festival",
+   "place": "Historic Downtown St. George, Main St",
+   "time": "6pm–midnight (vendors 6–10pm)",
+   "free": true,
+   "source": "https://sgwom.com/events/george-streetfest-2026/",
+   "date": "2026-12-04",
+   "note": "Season finale. Free street festival with live music, food trucks and makers.",
+   "description": "A free monthly street festival that fills Main Street, Tabernacle Street and Green Gate Village with live music on several stages, food trucks, artisan and maker vendors, a gallery art walk and family activities.",
+   "id": "st-george-streetfest-first-friday"
+  },
+  {
+   "name": "Live Nativity at Staheli Family Farm",
+   "category": "Holiday",
+   "place": "Staheli Family Farm, 3400 S Washington Fields Rd, Washington",
+   "time": "6pm–6:30pm",
+   "free": true,
+   "source": "https://stahelifamilyfarm.com/events/",
+   "date": "2026-12-07",
+   "end": "2026-12-09",
+   "note": "Free and open to all. Arrive on time and dress warmly.",
+   "description": "A live re-enactment of the Christmas story guided by shepherds. Afterward, gather at fire pits with hot chocolate, kettle corn and s'mores (for purchase).",
+   "id": "st-live-nativity-at-staheli-family-farm"
+  },
+  {
+   "name": "Staheli Family Farm Christmas Light Show",
+   "category": "Holiday",
+   "place": "Staheli Family Farm, 3400 S Washington Fields Rd, Washington",
+   "time": "6pm–9pm",
+   "free": false,
+   "price": "Reservation required",
+   "source": "https://stahelifamilyfarm.com/events/",
+   "date": "2026-12-10",
+   "end": "2026-12-23",
+   "note": "Wagon rides through synchronized lights, every half hour by reservation.",
+   "description": "Thousands of lights synchronized to Christmas music across the farm's fields, seen by tractor-drawn wagon. Entry includes the snow mountain slide, crafts with Santa's helpers, animal stables and the Gingerbread Junction train.",
+   "know": [
+    "Weather permitting; reserve wagon seats in advance.",
+    "All ticket sales are final."
+   ],
+   "id": "st-staheli-family-farm-christmas-light-show"
+  },
+  {
+   "name": "Cookies with Mrs. Claus",
+   "category": "Holiday",
+   "place": "Staheli Family Farm, 3400 S Washington Fields Rd, Washington",
+   "time": "10am–12pm (Santa 12–1pm)",
+   "free": false,
+   "price": "Ticketed",
+   "source": "https://stahelifamilyfarm.com/events/",
+   "date": "2026-12-12",
+   "description": "Kids decorate a boxed set of sugar cookies with Mrs. Claus and her elves, then enjoy story time, a Christmas dance party, an indoor snowball fight and a visit with Santa. One adult chaperone included per child.",
+   "id": "st-cookies-with-mrs-claus"
+  },
+  {
+   "name": "Santa on The Farm",
+   "category": "Holiday",
+   "place": "Staheli Family Farm, 3400 S Washington Fields Rd, Washington",
+   "time": "Sat 1pm–3pm; Mon 6pm–8pm",
+   "free": false,
+   "price": "Ticketed",
+   "source": "https://stahelifamilyfarm.com/events/",
+   "rule": {
+    "dates": [
+     "2026-12-12",
+     "2026-12-14"
+    ]
+   },
+   "description": "Kids visit Santa and his elves in a traditional holiday setting and get a candy cane. Bring your own phone or camera for the photo area.",
+   "id": "st-santa-on-the-farm"
+  },
+  {
+   "name": "Merry Christmas Drone Show at Staheli Family Farm",
+   "category": "Holiday",
+   "place": "Staheli Family Farm, 3400 S Washington Fields Rd, Washington",
+   "time": "7pm",
+   "free": false,
+   "price": "Ticketed",
+   "source": "https://stahelifamilyfarm.com/events/",
+   "date": "2026-12-23",
+   "description": "Hundreds of synchronized drones paint festive animations over the farm's fields, choreographed to holiday music.",
+   "id": "st-merry-christmas-drone-show-at-staheli-fa"
+  },
+  {
+   "name": "Christmas in the Canyon at Tuacahn",
+   "category": "Holiday",
+   "place": "Tuacahn Center for the Arts, 1100 Tuacahn Dr, Ivins",
+   "time": "6pm–9pm; Live Nativity 7pm & 8pm",
+   "free": true,
+   "price": "Free grounds; train $3; Live Nativity $5–$7",
+   "source": "https://www.tuacahn.org/series/live-nativity/",
+   "rule": {
+    "dates": [
+     "2026-11-27",
+     "2026-11-28",
+     "2026-12-03",
+     "2026-12-04",
+     "2026-12-05",
+     "2026-12-08",
+     "2026-12-09",
+     "2026-12-10",
+     "2026-12-11",
+     "2026-12-12",
+     "2026-12-14",
+     "2026-12-15",
+     "2026-12-16",
+     "2026-12-17",
+     "2026-12-18",
+     "2026-12-19",
+     "2026-12-21",
+     "2026-12-22",
+     "2026-12-23"
+    ]
+   },
+   "note": "Free grounds admission with lights and Santa; train rides and Live Nativity ticketed.",
+   "description": "Holiday lights, visits with Santa and train rides in Tuacahn's red-rock canyon, plus an outdoor Live Nativity with live animals at 7 and 8pm.",
+   "know": [
+    "Nov 28 opens at 7pm.",
+    "Breakfast with Santa Saturdays Dec 5, 12 and 19, 9–11am ($25 adults, $18 kids)."
+   ],
+   "id": "st-christmas-in-the-canyon-at-tuacahn",
+   "lat": 37.19034,
+   "lng": -113.65873
+  },
+  {
+   "name": "America 250 featuring the Snow Canyon Veterans Choir",
+   "category": "Movies & Music",
+   "place": "Santa Clara Library, 1099 N Lava Flow Dr, Santa Clara",
+   "time": "1pm–3pm",
+   "free": true,
+   "source": "https://washco.libcal.com/event/17696975",
+   "date": "2026-11-17",
+   "description": "A free all-ages America 250 community program at the Santa Clara branch of the Washington County Library, featuring the Snow Canyon Veterans Choir.",
+   "id": "st-america-250-featuring-the-snow-canyon-ve",
+   "lat": 37.12733,
+   "lng": -113.63678
+  },
+  {
+   "name": "Christmas Karaoke Night",
+   "category": "Holiday",
+   "place": "Washington Branch Library, 220 N 300 E, Washington",
+   "time": "5pm–6:30pm",
+   "free": true,
+   "source": "https://washco.libcal.com/event/17876022",
+   "date": "2026-12-15",
+   "description": "An all-ages Christmas karaoke night at the Washington branch library.",
+   "id": "st-christmas-karaoke-night",
+   "lat": 37.13439,
+   "lng": -113.50436
+  },
+  {
+   "name": "I ❤️ Art: A Community Art Celebration",
+   "category": "Art & Craft",
+   "place": "St. George City Hall, 61 S Main St",
+   "time": "6pm–8:30pm",
+   "free": true,
+   "source": "https://www.stgeorgeutah.com/life/art-around-the-corner-set-to-stage-i-art-celebration-at-new-st-george-city/article_3c1528a9-c2d8-4e83-9389-d96a080cd2d9.html",
+   "date": "2026-11-12",
+   "note": "Meet local artists; live music and refreshments.",
+   "description": "Art Around the Corner hosts a free community art celebration at the new St. George City Hall: meet local artists, browse work for sale and enjoy live music and refreshments.",
+   "id": "st-i-art-a-community-art-celebration",
+   "lat": 37.1071,
+   "lng": -113.58286
+  },
+  {
+   "name": "Tribute to Our Veterans Car Show",
+   "category": "Shows & Expos",
+   "place": "2654 E Red Cliffs Dr, St. George",
+   "time": "10am–3pm",
+   "free": true,
+   "source": "https://www.sltrib.com/news/2026/11/09/southern-utah-listings-events-week/",
+   "date": "2026-11-14",
+   "note": "Benefits Southern Utah veterans. Food for purchase.",
+   "description": "A St. George Car Shows event with vehicles on display to benefit Southern Utah veterans. Food is available for purchase.",
+   "id": "st-tribute-to-our-veterans-car-show"
+  },
+  {
+   "name": "Washington Utah Farmers Market",
+   "category": "Market",
+   "place": "Veterans Park, 75 E Telegraph St, Washington",
+   "time": "10am–2pm",
+   "free": true,
+   "source": "https://www.sltrib.com/news/2026/11/09/southern-utah-listings-events-week/",
+   "rule": {
+    "dow": [
+     6
+    ],
+    "until": "2026-12-05"
+   },
+   "note": "Saturdays through Dec 5.",
+   "description": "Local foods and handcrafted goods at Washington City's Saturday market in Veterans Park.",
+   "id": "st-washington-utah-farmers-market",
+   "lat": 37.13036,
+   "lng": -113.50869
+  },
+  {
+   "name": "Santa Clara Kids Farmers Market",
+   "category": "Market",
+   "place": "Santa Clara Town Hall, 2603 Santa Clara Dr, Santa Clara",
+   "time": "1pm–4pm",
+   "free": true,
+   "source": "https://www.sltrib.com/news/2026/11/09/southern-utah-listings-events-week/",
+   "date": "2026-11-14",
+   "description": "Young vendors sell their own goods at Santa Clara Town Hall.",
+   "id": "st-santa-clara-kids-farmers-market",
+   "lat": 37.12879,
+   "lng": -113.64507
+  },
+  {
+   "name": "City Cemetery Pioneer Section Walking Tour",
+   "category": "Outdoors & Nature",
+   "place": "St. George City Cemetery, 650 E Tabernacle St",
+   "time": "10am",
+   "free": true,
+   "source": "https://www.sltrib.com/news/2026/11/09/southern-utah-listings-events-week/",
+   "date": "2026-11-14",
+   "note": "Meet at the sexton's shed.",
+   "description": "LaRee Jones leads a free Washington County Historical Society walking tour of the cemetery's pioneer section.",
+   "id": "st-city-cemetery-pioneer-section-walking-to",
+   "lat": 37.10823,
+   "lng": -113.5836
+  },
+  {
+   "name": "Be Healthy Utah Natural Health & Wellness Conference",
+   "category": "Shows & Expos",
+   "place": "Dixie Convention Center, 1835 S Convention Center Dr",
+   "time": "Fri 2pm–8pm; Sat 10am–5pm",
+   "free": false,
+   "price": "Early-bird $10/day; $17 both days",
+   "source": "https://behealthyutah.com/",
+   "date": "2026-11-13",
+   "end": "2026-11-14",
+   "convention": true,
+   "description": "A public health and wellness expo with vendors and presentations at the Dixie Convention Center.",
+   "id": "st-be-healthy-utah-natural-health-wellness",
+   "lat": 37.07713,
+   "lng": -113.5822
+  },
+  {
+   "name": "\"Artist's Choice\" Southern Utah Art Guild Show",
+   "category": "Art & Craft",
+   "place": "Red Cliff Gallery, 220 N 200 East",
+   "time": "Weekdays 9am–5pm; Sat 12pm–4pm",
+   "free": true,
+   "source": "https://www.sltrib.com/news/2026/11/09/southern-utah-listings-events-week/",
+   "rule": {
+    "dates": [
+     "2026-11-12",
+     "2026-11-13",
+     "2026-11-14",
+     "2026-11-16",
+     "2026-11-17",
+     "2026-11-18",
+     "2026-11-19",
+     "2026-11-20",
+     "2026-11-21",
+     "2026-11-23",
+     "2026-11-24",
+     "2026-11-25",
+     "2026-11-28",
+     "2026-11-30",
+     "2026-12-01",
+     "2026-12-02",
+     "2026-12-03",
+     "2026-12-04",
+     "2026-12-05",
+     "2026-12-07",
+     "2026-12-08",
+     "2026-12-09"
+    ]
+   },
+   "description": "Works in a variety of media by Southern Utah Art Guild members at the Red Cliff Gallery. Free.",
+   "id": "st-artist-s-choice-southern-utah-art-guild",
+   "lat": 37.11352,
+   "lng": -113.57905
   }
  ],
  "center": [

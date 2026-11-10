@@ -1,20 +1,7 @@
 {
  "city": "Laughlin, NV",
- "checked": "2026-11-04",
+ "checked": "2026-11-10",
  "events": [
-  {
-   "name": "Falling Leaves Craft",
-   "category": "Art & Craft",
-   "place": "Laughlin Library, 2840 S Needles Hwy",
-   "time": "4pm–5:30pm",
-   "free": true,
-   "source": "https://events.thelibrarydistrict.org/",
-   "date": "2026-11-06",
-   "description": "Create a door or wall hanging using cardboard and old books. Adults, teens and tweens are welcome.",
-   "id": "lau-falling-leaves-craft-2026-11-06",
-   "lat": 35.14551,
-   "lng": -114.62487
-  },
   {
    "name": "28th Annual CRWC Boom Box Parade",
    "category": "Holiday",
@@ -110,30 +97,6 @@
    "lng": -114.57128
   },
   {
-   "name": "18th Paul Walsh Veterans Day Parade",
-   "category": "Parade",
-   "place": "Miracle Mile, Bullhead City",
-   "time": "10am (AZ time)",
-   "free": true,
-   "source": "https://www.bullheadcity.com/2026/11/7/616846/18th-annual-paul-walsh-veterans-day-parade/",
-   "date": "2026-11-07",
-   "note": "Free. Arizona time.",
-   "description": "18th Paul Walsh Veterans Day Parade at Miracle Mile, Bullhead City. Free. Arizona time.",
-   "id": "lau-18th-paul-walsh-veterans-day-parade"
-  },
-  {
-   "name": "Cruisin' The 66 Car Show",
-   "category": "Community",
-   "place": "Topock66, Topock AZ",
-   "time": "9am–5pm (AZ time)",
-   "free": true,
-   "source": "https://www.bullheadcity.com/2026/11/8/656584/route-66-car-show-topock/",
-   "date": "2026-11-08",
-   "note": "Free.",
-   "description": "Cruisin' The 66 Car Show at Topock66, Topock AZ. Free.",
-   "id": "lau-cruisin-the-66-car-show"
-  },
-  {
    "name": "Homegrown Holiday Farmers Market",
    "category": "Market",
    "place": "Community Park, Bullhead City",
@@ -159,7 +122,7 @@
   },
   {
    "name": "Gobble Wobble Little Turkey Trot",
-   "category": "Kids",
+   "category": "Family",
    "place": "Optimum Community Center, Bullhead City",
    "time": "10:30am–12:30pm (AZ time)",
    "free": true,
@@ -211,7 +174,7 @@
   },
   {
    "name": "Welcome Christmas Pajama Party",
-   "category": "Kids",
+   "category": "Family",
    "place": "Optimum Community Center, Bullhead City",
    "time": "10:30am–12:30pm (AZ time)",
    "free": true,
@@ -256,6 +219,62 @@
    "note": "Free.",
    "description": "New Year, Fresh Start Farmers Market at Optimum Community Center, Bullhead City. Free.",
    "id": "lau-new-year-fresh-start-farmers-market"
+  },
+  {
+   "name": "Laughlin Library Annual Book Sale",
+   "category": "Market",
+   "place": "Laughlin Library, 2840 S Needles Hwy",
+   "time": "10am–5:30pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/17550059",
+   "date": "2026-12-05",
+   "description": "The Laughlin Library's annual sale of books, magazines, DVDs and CDs.",
+   "id": "lau-laughlin-library-annual-book-sale",
+   "lat": 35.14551,
+   "lng": -114.62487
+  },
+  {
+   "name": "Winter Knot Wreath Craft",
+   "category": "Art & Craft",
+   "place": "Laughlin Library, 2840 S Needles Hwy",
+   "time": "3:30pm–4:30pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/16913038",
+   "date": "2026-11-16",
+   "note": "Tweens, teens and adults. While supplies last.",
+   "description": "Make a mini macramé wreath with soft cotton cord and a wooden ring, a beginner-friendly winter decoration.",
+   "id": "lau-winter-knot-wreath-craft",
+   "lat": 35.14551,
+   "lng": -114.62487
+  },
+  {
+   "name": "Personal Winter Wonderland",
+   "category": "Family",
+   "place": "Laughlin Library, 2840 S Needles Hwy",
+   "time": "3pm–4:30pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/17875449",
+   "date": "2026-12-11",
+   "description": "Make fake snow from common household ingredients and take home your own piece of winter.",
+   "id": "lau-personal-winter-wonderland",
+   "lat": 35.14551,
+   "lng": -114.62487
+  },
+  {
+   "name": "12th Annual Slab-O-Rama BBQ Challenge",
+   "category": "Festival",
+   "place": "Rotary Park, 2315 Balboa Dr, Bullhead City",
+   "time": "All day",
+   "free": false,
+   "price": "Check organizer",
+   "source": "https://saucyrossybbq.com/kcbs/events/803",
+   "date": "2027-01-15",
+   "end": "2027-01-16",
+   "note": "KCBS-sanctioned state championship BBQ contest.",
+   "description": "A Kansas City Barbeque Society state championship cook-off at Bullhead City's Rotary Park. Check with the organizer for public tasting or vendor hours.",
+   "id": "lau-12th-annual-slab-o-rama-bbq-challenge",
+   "lat": 35.08929,
+   "lng": -114.61849
   }
  ],
  "center": [

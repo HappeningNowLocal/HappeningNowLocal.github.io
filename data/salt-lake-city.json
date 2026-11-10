@@ -1,21 +1,7 @@
 {
  "city": "Salt Lake City, UT",
- "checked": "2026-11-04",
+ "checked": "2026-11-10",
  "events": [
-  {
-   "name": "Hanukkah Market",
-   "category": "Art & Craft",
-   "place": "IJ & Jeanné Wagner JCC, 2 North Medical Dr",
-   "time": "12pm–5pm",
-   "free": true,
-   "source": "https://www.slcjcc.org/pages/events-hanukkah-market/",
-   "date": "2026-11-08",
-   "note": "Free; 40+ artists and makers.",
-   "description": "For more than 25 years the Hanukkah Market has kicked off the holiday season at the JCC, with 40+ artists and makers, good food and activities for kids. Everyone is welcome and admission is free.",
-   "id": "sl-hanukkah-market-2026-11-08",
-   "lat": 40.77363,
-   "lng": -111.83957
-  },
   {
    "name": "SLC Winter Farmers Market",
    "category": "Market",
@@ -92,7 +78,6 @@
    "source": "https://slco.trumba.com/salt-lake-county-events-calendar-planetarium/Fun-Science-Friday/E212179574",
    "rule": {
     "dates": [
-     "2026-11-06",
      "2026-11-13",
      "2026-11-20",
      "2026-11-27"
@@ -125,7 +110,7 @@
    "place": "Fielding Garr Ranch, Antelope Island State Park",
    "time": "9am–10am",
    "free": false,
-   "source": "https://stateparks.utah.gov/event/bird-walk-at-fielding-garr-ranch-30/",
+   "source": "https://stateparks.utah.gov/event/bird-walk-at-fielding-garr-ranch-111/",
    "price": "Park entry",
    "rule": {
     "dow": [
@@ -171,49 +156,6 @@
    "lng": -112.09895
   },
   {
-   "name": "Yoga Forward Gratitude Fest",
-   "category": "Family",
-   "place": "Utah Cultural Celebration Center, 1355 W 3100 S, West Valley City",
-   "time": "9am–5pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/yoga-forwards-5th-annual-gratitude-fest-tickets-1985546789898",
-   "date": "2026-11-07",
-   "note": "Free.",
-   "description": "A free, family-friendly day of yoga, meditation, mindfulness, sound baths and kids' activities running every hour. Browse local vendors and enter hourly prize drawings that support Yoga Forward's community programs.",
-   "id": "sl-yoga-forward-gratitude-fest-eb",
-   "lat": 40.70391,
-   "lng": -111.97496
-  },
-  {
-   "name": "Folk Arts Workshop: Navajo Sandpainting",
-   "category": "Art & Craft",
-   "place": "Chase Home Museum, Liberty Park, Salt Lake City",
-   "time": "2pm–4pm",
-   "free": false,
-   "source": "https://www.eventbrite.com/e/folk-arts-workshop-at-chase-home-navajo-sandpainting-tickets-2003679843349",
-   "date": "2026-11-07",
-   "price": "$10",
-   "note": "Registration on Eventbrite.",
-   "description": "Navajo beadworker and cultural educator Lapita Frewin shares the history of sandpainting, then guides participants in making their own piece with non-sacred symbols to take home.",
-   "id": "sl-folk-arts-workshop-navajo-sandpainting-eb",
-   "lat": 40.74553,
-   "lng": -111.87441
-  },
-  {
-   "name": "Great Gray Owls – Audubon Fall Forum",
-   "category": "Outdoors & Nature",
-   "place": "Westminster University, 1840 S 1300 E, Salt Lake City",
-   "time": "7pm–9pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/15th-annual-fall-forum-great-gray-owls-of-the-yellowstone-ecosystem-tickets-1998749221727",
-   "date": "2026-11-05",
-   "note": "Free; register on Eventbrite.",
-   "description": "Great Salt Lake Audubon's 15th annual Fall Forum features Dr. Katherine Gura on her long-term study of the Great Gray Owl. Learn about its behavior, breeding, movements and conservation challenges.",
-   "id": "sl-great-gray-owls-audubon-fall-forum-eb",
-   "lat": 40.73135,
-   "lng": -111.85553
-  },
-  {
    "name": "Science Utah: Moon Bases & Mars Cities",
    "category": "Family",
    "place": "Clark Planetarium, 110 S 400 W, Salt Lake City",
@@ -240,6 +182,21 @@
    "id": "sl-dolly-denim-at-the-utah-capitol-eb",
    "lat": 40.77218,
    "lng": -111.88833
+  },
+  {
+   "name": "Red Butte Garden Holiday Open House & Art Fair",
+   "category": "Holiday",
+   "place": "Red Butte Garden, 300 Wakara Way, Salt Lake City",
+   "time": "Garden 9am–5pm; Art Fair 10am–5pm",
+   "free": true,
+   "source": "https://redbuttegarden.org/events/holiday-open-house-art-fair/",
+   "date": "2026-12-05",
+   "end": "2026-12-06",
+   "note": "Free garden admission for everyone, thanks to ZAP.",
+   "description": "Free garden admission, a glass art show and an art fair in the Orangerie with handmade gifts from 18 local makers.",
+   "id": "sl-red-butte-garden-holiday-open-house-art",
+   "lat": 40.76462,
+   "lng": -111.82404
   }
  ],
  "center": [

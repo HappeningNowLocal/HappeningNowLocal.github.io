@@ -1,6 +1,6 @@
 {
  "city": "Las Vegas, NV",
- "checked": "2026-11-09",
+ "checked": "2026-11-10",
  "events": [
   {
    "name": "Arts District First Friday",
@@ -22,19 +22,6 @@
    "id": "la-arts-district-first-friday",
    "lat": 36.15953,
    "lng": -115.15128
-  },
-  {
-   "name": "Lunchtime Concert: Enchanted Tiki Cats",
-   "category": "Movies & Music",
-   "place": "Las Vegas Civic Center Plaza",
-   "time": "12pm–1pm",
-   "free": true,
-   "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
-   "date": "2026-11-05",
-   "description": "A free retro/exotica lunchtime concert in the City of Las Vegas's series at the Civic Center Plaza.",
-   "id": "la-lunchtime-concert-enchanted-tiki-cats",
-   "lat": 36.1673,
-   "lng": -115.1485
   },
   {
    "name": "Veterans Appreciation Concert: Swing It Girls",
@@ -249,104 +236,6 @@
    "lng": -115.27803
   },
   {
-   "name": "SEMA Show (industry only)",
-   "category": "Shows & Expos",
-   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
-   "time": "9am–5pm",
-   "free": false,
-   "source": "https://www.semashow.com/node/950457",
-   "date": "2026-11-03",
-   "end": "2026-11-05",
-   "price": "Industry only",
-   "note": "Trade-only days for qualified automotive industry attendees.",
-   "description": "The SEMA Show is the automotive aftermarket's major trade show at the Las Vegas Convention Center. Tuesday through Thursday are trade-only days.",
-   "know": [
-    "Industry only: you must meet SEMA's qualifying guidelines and register.",
-    "The public can attend only on Friday, Nov 6."
-   ],
-   "id": "la-sema-show-industry-only",
-   "convention": true,
-   "industry": true,
-   "lat": 36.13102,
-   "lng": -115.15018
-  },
-  {
-   "name": "SEMA Show Friday – Open to the Public",
-   "category": "Shows & Expos",
-   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
-   "time": "9am–4pm",
-   "free": false,
-   "source": "https://semashow.com/public",
-   "date": "2026-11-06",
-   "price": "$130",
-   "note": "Public day, ages 16+. Buy ahead at semafest.com; no day-of sales; photo ID needed at pickup.",
-   "description": "The one day the SEMA Show opens to the public. See the latest automotive aftermarket builds and products across the Las Vegas Convention Center show floor.",
-   "know": [
-    "Ages 16+.",
-    "Buy tickets ahead at semafest.com; no day-of sales.",
-    "Pick up your own ticket 7:30am–2pm with photo ID at South or West Hall.",
-    "Does not include the SEMA Fest concert."
-   ],
-   "id": "la-sema-show-friday-open-to-the-public",
-   "convention": true,
-   "lat": 36.13102,
-   "lng": -115.15018
-  },
-  {
-   "name": "Holiday Craft & Gift Festival",
-   "category": "Shows & Expos",
-   "place": "The Expo at World Market Center, 435 S Grand Central Pkwy",
-   "time": "See source",
-   "free": false,
-   "source": "https://www.lvcraftfestival.com/",
-   "date": "2026-11-06",
-   "end": "2026-11-08",
-   "price": "See source",
-   "note": "Handmade gifts, make & takes, Santa on Saturday. Free parking.",
-   "description": "A three-day holiday craft show at The Expo at World Market Center with ornaments, stockings, clothing, ceramics, candles, jewelry, specialty foods and more. There are demonstrations, make-and-takes, and Santa on Saturday.",
-   "know": [
-    "Free parking.",
-    "Hug-A-Bear Drive: bring a new 10\"+ stuffed animal for kids in need."
-   ],
-   "id": "la-holiday-craft-gift-festival",
-   "convention": true,
-   "lat": 36.1679,
-   "lng": -115.15533
-  },
-  {
-   "name": "Fabulous Home & Garden Expo",
-   "category": "Shows & Expos",
-   "place": "Rio Hotel, 3700 W Flamingo Rd",
-   "time": "10am–6pm",
-   "free": true,
-   "source": "https://www.eventeny.com/events/fabuloushomeandgardenexpo-32784/",
-   "date": "2026-11-07",
-   "end": "2026-11-08",
-   "note": "Remodeling, outdoor living, local vendors, demos. Free admission.",
-   "description": "A two-day home and garden expo at the Rio with remodeling, landscaping, outdoor living, décor and home services from local and regional businesses. Expect live demonstrations and larger exhibits like spas, tiny homes and EVs.",
-   "know": [
-    "Free admission.",
-    "Park in the lot next to the convention center, the garages, or valet."
-   ],
-   "id": "la-fabulous-home-garden-expo",
-   "lat": 36.11698,
-   "lng": -115.18696
-  },
-  {
-   "name": "Vegas Valley Comic Book Festival",
-   "category": "Shows & Expos",
-   "place": "Clark County Library, 1401 E Flamingo Rd",
-   "time": "9:30am–4:30pm",
-   "free": true,
-   "source": "https://www.playpivot.org/las-vegas/annual-events/vegas-valley-comic-book-festival",
-   "date": "2026-11-07",
-   "note": "Free library-run comic and cosplay festival with artist alley and kids' courtyard.",
-   "description": "A free all-ages comic and cosplay festival run by the Las Vegas-Clark County Library District. Enjoy panels, workshops and an artist alley, with a Kids Courtyard for crafts and face painting.",
-   "id": "la-vegas-valley-comic-book-festival",
-   "lat": 36.11474,
-   "lng": -115.13434
-  },
-  {
    "name": "Crossroads Las Vegas Gun Show",
    "category": "Shows & Expos",
    "place": "Las Vegas Motor Speedway, 7000 Las Vegas Blvd N",
@@ -384,24 +273,6 @@
    "id": "la-las-vegas-gun-show-mac-shows",
    "lat": 36.10534,
    "lng": -115.15617
-  },
-  {
-   "name": "Red Rock Junior Rangers",
-   "category": "Outdoors & Nature",
-   "place": "Red Rock Canyon NCA",
-   "time": "10:30am–12pm",
-   "free": true,
-   "source": "https://www.redrockcanyonlv.org/events/red-rock-junior-rangers-11-8-26-1030-1200pm/",
-   "date": "2026-11-08",
-   "note": "Free BLM program; advance registration required. No Scenic Drive fee needed.",
-   "description": "Kids join a Bureau of Land Management ranger to learn a Leave No Trace principle (this month: Be Kind to Other Visitors), play a game and take a short hike. Junior Rangers earn a monthly badge; collect all seven for a display banner.",
-   "know": [
-    "Register at rrjr-nov.timetap.com.",
-    "No age limit."
-   ],
-   "id": "la-red-rock-junior-rangers-2026-11-08",
-   "lat": 36.13557,
-   "lng": -115.42792
   },
   {
    "name": "Red Rock History Hike",
@@ -895,34 +766,6 @@
    "lng": -114.07
   },
   {
-   "name": "51st Holiday Craft Boutique & Raffle",
-   "category": "Market",
-   "place": "Desert Spring United Methodist Church, 120 N Pavilion Center Dr",
-   "time": "10am–3pm",
-   "free": true,
-   "source": "https://childrensserviceguild.com/51st-annual-holiday-craft-boutique-raffle/",
-   "date": "2026-11-07",
-   "note": "Free.",
-   "description": "51st Holiday Craft Boutique & Raffle at Desert Spring United Methodist Church, 120 N Pavilion Center Dr. Free.",
-   "id": "la-51st-holiday-craft-boutique-raffle",
-   "lat": 36.1745,
-   "lng": -115.33201
-  },
-  {
-   "name": "Las Vegas BBQ Festival",
-   "category": "Food",
-   "place": "Red Rock Harley-Davidson, 2260 S Rainbow Blvd",
-   "time": "12pm–4pm",
-   "free": true,
-   "source": "https://www.nvbbq.org/lasvegasbbqfestival",
-   "date": "2026-11-07",
-   "note": "Free entry; BBQ sample packs about $20–23.",
-   "description": "The Nevada BBQ Association's 4th annual festival: teams compete for a $6,000 prize pool in chicken and ribs, and you vote with a sample pack. Live music, raffle, beer garden and a car meet-up next door. Proceeds help Race to Erase 22 and Charlie Mike Ranch.",
-   "id": "la-las-vegas-bbq-festival",
-   "lat": 36.14672,
-   "lng": -115.2411
-  },
-  {
    "name": "Shop the Lot Holiday Kickoff Market",
    "category": "Market",
    "place": "Fantastic Indoor Swap Meet lot, 1717 S Decatur Blvd",
@@ -1065,7 +908,7 @@
   },
   {
    "name": "Food Access Fair",
-   "category": "Community",
+   "category": "Family",
    "place": "Downtown Container Park, 707 Fremont St",
    "time": "11am–3pm",
    "free": true,
@@ -1079,7 +922,7 @@
   },
   {
    "name": "45th Dr. Martin Luther King Jr. Birthday Parade",
-   "category": "Parade",
+   "category": "Festival",
    "place": "4th St from Gass Ave to Ogden Ave",
    "time": "10am",
    "free": true,
@@ -1128,39 +971,8 @@
    "lng": -115.15018
   },
   {
-   "name": "Día de Muertos at Springs Preserve",
-   "category": "Festival",
-   "place": "Springs Preserve, 333 S Valley View Blvd",
-   "time": "5pm–9pm (members early entry 4pm)",
-   "free": false,
-   "price": "Non-members $15 adults / $9 kids 3–17; members discounted; 2 & under free",
-   "source": "https://www.springspreserve.org/events/?id=2170",
-   "date": "2026-11-06",
-   "end": "2026-11-08",
-   "note": "Advance tickets required; some nights sold out. Free parking at Springs Preserve.",
-   "description": "Springs Preserve presents Día de Muertos with altars, mariachis, live entertainment, traditional food, art vendors and family activities rooted in Latin American culture.",
-   "id": "la-dia-de-muertos-at-springs-preserve-2026-11-0",
-   "lat": 36.17127,
-   "lng": -115.18986
-  },
-  {
-   "name": "Nature Journaling at Spring Mountain Ranch",
-   "category": "Outdoors & Nature",
-   "place": "Main Ranch House, Spring Mountain Ranch State Park, 6375 NV-159, Blue Diamond",
-   "time": "8:45am–10:15am",
-   "free": false,
-   "price": "Park entry ($10 NV / $15 nonresident per vehicle)",
-   "source": "https://parks.nv.gov/events/nature-journaling-7",
-   "date": "2026-11-09",
-   "note": "Art supplies provided. Also scheduled Nov 30 (see Sketch Scribble Discover listing).",
-   "description": "A gentle Monday-morning nature journaling session at Spring Mountain Ranch State Park. No art experience needed; supplies are provided and the program is included with park entry.",
-   "id": "la-nature-journaling-at-spring-mountain-ran",
-   "lat": 36.06959,
-   "lng": -115.45759
-  },
-  {
    "name": "VetFest at Downtown Summerlin",
-   "category": "Community",
+   "category": "Festival",
    "place": "The Lawn at Downtown Summerlin, 1980 Festival Plaza Dr",
    "time": "9am–3pm",
    "free": true,
@@ -1174,7 +986,7 @@
   },
   {
    "name": "Downtown Summerlin Holiday Parade",
-   "category": "Parade",
+   "category": "Holiday",
    "place": "Downtown Summerlin, 1980 Festival Plaza Dr",
    "time": "6pm",
    "free": true,
@@ -1220,7 +1032,7 @@
   },
   {
    "name": "Mesquite Parade of Lights",
-   "category": "Parade",
+   "category": "Holiday",
    "place": "Mesquite Blvd between Arrowhead & Willow, Mesquite (about 80 miles from Las Vegas)",
    "time": "5:30pm–7pm",
    "free": true,
@@ -1237,7 +1049,7 @@
   },
   {
    "name": "BBQ Jackpot",
-   "category": "Food",
+   "category": "Festival",
    "place": "Silverton Casino / Bass Pro Shops, 3333 Blue Diamond Rd",
    "time": "10am–2pm",
    "free": true,
@@ -1251,7 +1063,7 @@
   },
   {
    "name": "Las Vegas Pizza Festival",
-   "category": "Food",
+   "category": "Festival",
    "place": "The INDUSTRIAL Event Space",
    "time": "1pm–4pm (VIP 12pm)",
    "free": false,
@@ -1279,7 +1091,9 @@
     "$10 reserved-seat tickets are sold online through the City of Las Vegas.",
     "Performances: Nov 12 6pm, Nov 13 6pm, Nov 14 1pm and 6pm."
    ],
-   "id": "la-rainbow-company-youth-theatre-sense-sensibility-2026-11-12"
+   "id": "la-rainbow-company-youth-theatre-sense-sensibility-2026-11-12",
+   "lat": 36.16218,
+   "lng": -115.21103
   },
   {
    "name": "Veterans Appreciation Car Show & BBQ",
@@ -1295,7 +1109,9 @@
     "Free and open to the public, with free food.",
     "On-site car show registration is 8–10:30am, first come, first served."
    ],
-   "id": "la-veterans-appreciation-car-show-bbq-2026-11-14"
+   "id": "la-veterans-appreciation-car-show-bbq-2026-11-14",
+   "lat": 36.18815,
+   "lng": -115.0984
   },
   {
    "name": "Santa's Arrival Parade & Tree Lighting",
@@ -1312,7 +1128,9 @@
     "Parade begins at 7pm before Santa lights the tree.",
     "Free glow items with $10+ purchase from a Town Square merchant, while supplies last."
    ],
-   "id": "la-santa-s-arrival-parade-tree-lighting-2026-11-14"
+   "id": "la-santa-s-arrival-parade-tree-lighting-2026-11-14",
+   "lat": 36.15343,
+   "lng": -115.15096
   },
   {
    "name": "Public Lands Alliance Film Festival",
@@ -1330,7 +1148,9 @@
     "A Red Rock Scenic Drive timed-entry reservation (recreation.gov) is required; the 4–5pm slot is recommended.",
     "The typical park entry fee also applies."
    ],
-   "id": "la-public-lands-alliance-film-festival-2026-11-14"
+   "id": "la-public-lands-alliance-film-festival-2026-11-14",
+   "lat": 36.04103,
+   "lng": -115.51676
   },
   {
    "name": "Reclaim Night Market",
@@ -1343,7 +1163,9 @@
    "date": "2026-11-20",
    "note": "Admission price not listed.",
    "description": "A night market at Chinatown Plaza bringing together local curators, streetwear brands, designers and fashion-forward creators alongside Chinatown's restaurants.",
-   "id": "la-reclaim-night-market-2026-11-20"
+   "id": "la-reclaim-night-market-2026-11-20",
+   "lat": 36.1263,
+   "lng": -115.1963
   },
   {
    "name": "Reclaim Night Market",
@@ -1356,7 +1178,9 @@
    "date": "2026-12-18",
    "note": "Admission price not listed.",
    "description": "A night market at Chinatown Plaza bringing together local curators, streetwear brands, designers and fashion-forward creators alongside Chinatown's restaurants.",
-   "id": "la-reclaim-night-market-2026-12-18"
+   "id": "la-reclaim-night-market-2026-12-18",
+   "lat": 36.1263,
+   "lng": -115.1963
   },
   {
    "name": "Reclaim Night Market",
@@ -1369,7 +1193,9 @@
    "date": "2027-01-15",
    "note": "Admission price not listed.",
    "description": "A night market at Chinatown Plaza bringing together local curators, streetwear brands, designers and fashion-forward creators alongside Chinatown's restaurants.",
-   "id": "la-reclaim-night-market-2027-01-15"
+   "id": "la-reclaim-night-market-2027-01-15",
+   "lat": 36.1263,
+   "lng": -115.1963
   },
   {
    "name": "Clark County Turkey Trot 5K Fun Run",
@@ -1384,7 +1210,9 @@
    "know": [
     "Registration is required for all participants: call (702) 455-1291."
    ],
-   "id": "la-clark-county-turkey-trot-5k-fun-run-2026-11-21"
+   "id": "la-clark-county-turkey-trot-5k-fun-run-2026-11-21",
+   "lat": 36.20328,
+   "lng": -115.09857
   },
   {
    "name": "Downtown Christmas Expo",
@@ -1401,7 +1229,9 @@
     "Free admission.",
     "Free parking with a vendor purchase (ask the expo for validation)."
    ],
-   "id": "la-downtown-christmas-expo-2026-12-03"
+   "id": "la-downtown-christmas-expo-2026-12-03",
+   "lat": 36.17159,
+   "lng": -115.14709
   },
   {
    "name": "Southern Highlands Tree Lighting & Winter Festival",
@@ -1417,7 +1247,9 @@
     "Tree lighting ceremony at 5:30pm.",
     "Family photo pass with Santa and characters is $10."
    ],
-   "id": "la-southern-highlands-tree-lighting-winter-festival-2026-12-04"
+   "id": "la-southern-highlands-tree-lighting-winter-festival-2026-12-04",
+   "lat": 35.98209,
+   "lng": -115.19187
   },
   {
    "name": "Cowboy Christmas & Classic Car Show",
@@ -1430,7 +1262,9 @@
    "date": "2026-12-05",
    "note": "Cost not listed on the city page. Bring low-back chairs and blankets.",
    "description": "A City of Las Vegas Ward 6 holiday event with a classic car show, vendors, youth performances, arts and crafts, a walk-in snow globe, a photo booth and a visit from Santa.",
-   "id": "la-cowboy-christmas-classic-car-show-2026-12-05"
+   "id": "la-cowboy-christmas-classic-car-show-2026-12-05",
+   "lat": 36.30187,
+   "lng": -115.27864
   },
   {
    "name": "Ugly Sweater Run",
@@ -1445,7 +1279,9 @@
    "know": [
     "Registration is required: online or call the park office at (702) 633-2418."
    ],
-   "id": "la-ugly-sweater-run-2026-12-12"
+   "id": "la-ugly-sweater-run-2026-12-12",
+   "lat": 36.23866,
+   "lng": -115.20799
   },
   {
    "name": "Shop and Seek",
@@ -1460,7 +1296,9 @@
    "know": [
     "Hours were not confirmed; check the organizer before you go."
    ],
-   "id": "la-shop-and-seek-2026-12-20"
+   "id": "la-shop-and-seek-2026-12-20",
+   "lat": 36.23866,
+   "lng": -115.20799
   },
   {
    "name": "Wetlands Park Family Nature Walk",
@@ -1477,7 +1315,9 @@
     "Ages 5 and up.",
     "Advance registration is required through the Clark County online system."
    ],
-   "id": "la-wetlands-park-family-nature-walk-2026-12-27"
+   "id": "la-wetlands-park-family-nature-walk-2026-12-27",
+   "lat": 36.10028,
+   "lng": -115.02224
   },
   {
    "name": "Wetlands Park New Year's Eve Sunset Sendoff",
@@ -1512,6 +1352,575 @@
     "Pahrump is about an hour's drive west of Las Vegas."
    ],
    "id": "la-hometown-holidays-craft-show-pahrump-2026-12-04"
+  },
+  {
+   "name": "The Holoholo Market",
+   "category": "Market",
+   "place": "Fergusons Downtown, 1028 Fremont St",
+   "time": "11am–4pm",
+   "free": true,
+   "source": "https://www.fergusonsdowntown.com/events0/u1oy6gpgpalgz74f1xsdkuie5fzr47",
+   "date": "2026-11-14",
+   "note": "Four-year anniversary edition. Free admission.",
+   "description": "An outdoor market of Pacific Islander and AANHPI vendors, food and live entertainment at Fergusons Downtown on East Fremont Street.",
+   "id": "la-the-holoholo-market",
+   "lat": 36.16704,
+   "lng": -115.13385
+  },
+  {
+   "name": "Small Business Weekend at Fergusons Downtown",
+   "category": "Market",
+   "place": "Fergusons Downtown, 1028 Fremont St",
+   "time": "11am–5pm",
+   "free": true,
+   "source": "https://www.fergusonsdowntown.com/events0/small-business-weekend-fergusons-downtown",
+   "date": "2026-11-27",
+   "end": "2026-11-29",
+   "description": "Shop local makers and small businesses at Fergusons Downtown over Thanksgiving weekend.",
+   "id": "la-small-business-weekend-at-fergusons-down",
+   "lat": 36.16704,
+   "lng": -115.13385
+  },
+  {
+   "name": "702 Market: Pinkmas Market",
+   "category": "Holiday",
+   "place": "Fergusons Downtown, 1028 Fremont St",
+   "time": "1pm–5pm",
+   "free": true,
+   "source": "https://www.fergusonsdowntown.com/events0/702-market-pinkmas-market",
+   "date": "2026-12-19",
+   "description": "The 702 Market brings a pink-themed holiday makers market to Fergusons Downtown.",
+   "id": "la-702-market-pinkmas-market",
+   "lat": 36.16704,
+   "lng": -115.13385
+  },
+  {
+   "name": "Winter Palms Market",
+   "category": "Market",
+   "place": "Bruce Trent Park, 1600 N Rampart Blvd",
+   "time": "2pm–6pm",
+   "free": true,
+   "source": "https://www.ntdlv.com/events/winter-palms-market/?occurrence=2026-12-05",
+   "date": "2026-12-05",
+   "note": "Baked goods, handmade gifts, food trucks and live music.",
+   "description": "Tropical Oasis's Winter Palms Market at Bruce Trent Park, with baked goods, hand-crafted items, food trucks and live music.",
+   "id": "la-winter-palms-market",
+   "lat": 36.18874,
+   "lng": -115.28749
+  },
+  {
+   "name": "Oasis Ice Rink Tree Lighting & Drone Show",
+   "category": "Holiday",
+   "place": "Fontainebleau Las Vegas, 2777 S Las Vegas Blvd",
+   "time": "5pm–10pm",
+   "free": true,
+   "source": "https://www.fox5vegas.com/2026/11/04/oasis-ice-rink-kicks-off-holiday-season-with-tree-lighting-featuring-jack-eichel-swaggy-p/",
+   "date": "2026-11-18",
+   "note": "Opening night: free admission, skate rental and hot chocolate.",
+   "description": "Fontainebleau's third annual tree lighting opens the Oasis Ice Rink with a drone show, Golden Knights emcee Mark Shunock, Jack Eichel and Swaggy P. Opening-night festivities include complimentary skate rental, admission and hot chocolate.",
+   "know": [
+    "After opening night, rink entry is free but skating starts at $15 for Nevada locals ($30 standard).",
+    "Free self-parking for Nevada residents."
+   ],
+   "id": "la-oasis-ice-rink-tree-lighting-drone-show",
+   "lat": 36.13742,
+   "lng": -115.15923
+  },
+  {
+   "name": "The Nutcracker on Ice at Oasis Ice Rink",
+   "category": "Holiday",
+   "place": "Fontainebleau Las Vegas, 2777 S Las Vegas Blvd",
+   "time": "6pm",
+   "free": true,
+   "source": "https://www.fox5vegas.com/2026/11/04/oasis-ice-rink-kicks-off-holiday-season-with-tree-lighting-featuring-jack-eichel-swaggy-p/",
+   "date": "2026-12-03",
+   "note": "Las Vegas Ice Theatre performance, free for rink guests.",
+   "description": "Las Vegas Ice Theatre presents The Nutcracker on Ice at Fontainebleau's Oasis Ice Rink, free for rink guests.",
+   "id": "la-the-nutcracker-on-ice-at-oasis-ice-rink",
+   "lat": 36.13742,
+   "lng": -115.15923
+  },
+  {
+   "name": "Cars & Coffee at LVC Diner",
+   "category": "Shows & Expos",
+   "place": "Las Vegas College Diner, 8410 Rafael Rivera Way",
+   "time": "9am–12pm",
+   "free": true,
+   "source": "https://lvcdiner.com/events",
+   "rule": {
+    "dow": [
+     6
+    ],
+    "nth": [
+     2
+    ]
+   },
+   "note": "Every 2nd Saturday. Free entry; all vehicles welcome.",
+   "description": "A monthly car meet hosted by @lasvegascarmeets with muscle cars, JDM imports, European exotics, lowriders and custom builds. The diner serves breakfast during the meet.",
+   "id": "la-cars-coffee-at-lvc-diner",
+   "lat": 36.06779,
+   "lng": -115.22256
+  },
+  {
+   "name": "Gears & Grinds Vegas",
+   "category": "Shows & Expos",
+   "place": "Baguette Café, 8359 W Sunset Rd",
+   "time": "8am–11am",
+   "free": true,
+   "source": "https://daserbe.com/gearsandgrindsvegas",
+   "rule": {
+    "dow": [
+     0
+    ],
+    "nth": [
+     1,
+     3
+    ]
+   },
+   "note": "Every 1st & 3rd Sunday. Free cars-and-coffee meet.",
+   "description": "Las Vegas's largest local cars-and-coffee gathering since 2017, welcoming classics, exotics, bikes and trucks at Baguette Café.",
+   "id": "la-gears-grinds-vegas",
+   "lat": 36.06782,
+   "lng": -115.27286
+  },
+  {
+   "name": "Celebrity Cars & Coffee",
+   "category": "Shows & Expos",
+   "place": "Sansone Park Place, 9500 S Eastern Ave",
+   "time": "7am–10am",
+   "free": true,
+   "source": "https://carsandcoffeeevents.com/events/celebrity-cars-coffee-2026-12-12",
+   "rule": {
+    "dow": [
+     6
+    ]
+   },
+   "note": "Every Saturday in the Twin Peaks / BJ's lot. Benefits the Rotary Club of Las Vegas.",
+   "description": "A weekly Saturday-morning cars-and-coffee meet at Sansone Park Place on Eastern Ave and Richmar that benefits the Rotary Club of Las Vegas.",
+   "id": "la-celebrity-cars-coffee",
+   "lat": 36.01629,
+   "lng": -115.11721
+  },
+  {
+   "name": "DesignerCon 2026",
+   "category": "Shows & Expos",
+   "place": "The Expo at World Market Center, 435 S Grand Central Pkwy",
+   "time": "Sat 10am–7pm; Sun 10am–5pm (VIP night Fri 5–9pm)",
+   "free": false,
+   "price": "$45 1-day; $80 weekend; $150 VIP",
+   "source": "https://www.designercon.com/about/showinformation/",
+   "date": "2026-11-13",
+   "end": "2026-11-15",
+   "convention": true,
+   "note": "Open to the public. Friday night is VIP-only.",
+   "description": "An art and design convention with 700+ vendors of designer toys, customs, plush, apparel and urban and pop art.",
+   "know": [
+    "Kids 12 and under free with a paid adult.",
+    "Friday Nov 13 is for VIP ticket holders only."
+   ],
+   "id": "la-designercon-2026",
+   "lat": 36.1679,
+   "lng": -115.15533
+  },
+  {
+   "name": "Pokémon Las Vegas Regional Championships",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd (North Hall N3 & N4)",
+   "time": "Fri from 12pm; Sat–Sun all day",
+   "free": false,
+   "price": "$20 spectator pass",
+   "source": "https://championships.pokemon.com/en-us/events/regionals/2027/las-vegas",
+   "date": "2026-12-04",
+   "end": "2026-12-06",
+   "convention": true,
+   "note": "Spectators welcome with a $20 three-day pass from RK9.",
+   "description": "Competitive Pokémon TCG, video game and Pokémon GO tournaments in the 2027 Championship Series. Spectator passes let fans watch and play side events.",
+   "know": [
+    "Spectator passes are non-refundable and non-transferable.",
+    "Bags larger than 9×14×22 in. are not allowed."
+   ],
+   "id": "la-pokemon-las-vegas-regional-championships",
+   "lat": 36.13102,
+   "lng": -115.15018
+  },
+  {
+   "name": "Irrigation Show & Education Week (industry only)",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "See show schedule",
+   "free": false,
+   "price": "Industry only",
+   "source": "https://www.irrigation.org/2026Show",
+   "date": "2026-12-07",
+   "end": "2026-12-10",
+   "convention": true,
+   "industry": true,
+   "description": "The Irrigation Association's annual trade show and education week for irrigation professionals.",
+   "id": "la-irrigation-show-education-week-industry",
+   "lat": 36.13102,
+   "lng": -115.15018
+  },
+  {
+   "name": "Groundwater Week 2026 (industry only)",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "Exhibit hall Wed 10am–5pm; Thu 10am–3pm",
+   "free": false,
+   "price": "Industry only",
+   "source": "https://groundwaterweek.com/",
+   "date": "2026-12-08",
+   "end": "2026-12-10",
+   "convention": true,
+   "industry": true,
+   "description": "The National Ground Water Association's trade show and workshops for drillers, contractors, scientists and engineers.",
+   "id": "la-groundwater-week-2026-industry-only",
+   "lat": 36.13102,
+   "lng": -115.15018
+  },
+  {
+   "name": "World IBJJF Jiu-Jitsu No-Gi Championship",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd (Hall N3/N4)",
+   "time": "All day",
+   "free": false,
+   "price": "$25/day spectators; 12 & under free",
+   "source": "https://ibjjf.com/events/world-ibjjf-jiu-jitsu-no-gi-championship-2026/pre_schedule",
+   "date": "2026-12-10",
+   "end": "2026-12-12",
+   "convention": true,
+   "note": "Spectators welcome; finals on Saturday.",
+   "description": "The biggest no-gi jiu-jitsu tournament of the year, with all belts competing at the Las Vegas Convention Center.",
+   "know": [
+    "Parking at the convention center lots is $20."
+   ],
+   "id": "la-world-ibjjf-jiu-jitsu-no-gi-championship",
+   "lat": 36.13102,
+   "lng": -115.15018
+  },
+  {
+   "name": "Live Fire Cooking with the Nevada BBQ Association",
+   "category": "Festival",
+   "place": "John Mull's Meats & Road Kill Grill, 3730 Thom Blvd",
+   "time": "See NVBBQA for times",
+   "free": true,
+   "source": "https://www.nvbbq.org/",
+   "date": "2026-12-05",
+   "note": "Open-flame cooking demo with samples.",
+   "description": "The Nevada Barbecue Association spends a day cooking a wide variety of food over open flame at John Mull's Meats & Road Kill Grill. Come see how it's done and try some samples.",
+   "id": "la-live-fire-cooking-with-the-nevada-bbq-as",
+   "lat": 36.22713,
+   "lng": -115.21211
+  },
+  {
+   "name": "Kid Market at Rainbow Library",
+   "category": "Market",
+   "place": "Rainbow Library, 3150 N Buffalo Dr",
+   "time": "12:30pm–4pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/16687379",
+   "date": "2026-11-21",
+   "note": "Shop from young local entrepreneurs; storytime too.",
+   "description": "The library's first Kid Market, where you can support local kid entrepreneurs. Come for a storytime and stay to shop.",
+   "id": "la-kid-market-at-rainbow-library",
+   "lat": 36.21694,
+   "lng": -115.26037
+  },
+  {
+   "name": "Whitney Library Fall Book Sale",
+   "category": "Market",
+   "place": "Whitney Library, 5175 E Tropicana Ave",
+   "time": "During library hours",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/17512089",
+   "date": "2026-11-19",
+   "note": "Prices start at 25 cents.",
+   "description": "Gently used books, CDs and DVDs from 25 cents, with proceeds funding Library District programs.",
+   "id": "la-whitney-library-fall-book-sale",
+   "lat": 36.0998,
+   "lng": -115.06035
+  },
+  {
+   "name": "UNLV Chamber Orchestra in Concert",
+   "category": "Movies & Music",
+   "place": "Clark County Library, 1401 E Flamingo Rd",
+   "time": "7:30pm–8:30pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/16878257",
+   "date": "2026-12-01",
+   "note": "Free; first-come seating.",
+   "description": "UNLV student musicians play standard orchestral repertoire from early Baroque to contemporary, advised by UNLV Director of Orchestras Taras Krysa.",
+   "id": "la-unlv-chamber-orchestra-in-concert",
+   "lat": 36.11474,
+   "lng": -115.13434
+  },
+  {
+   "name": "Winter \"Drive-In\" Movie for Kids",
+   "category": "Family",
+   "place": "Enterprise Library, 25 E Shelbourne Ave",
+   "time": "11:30am–2pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/17234324",
+   "date": "2026-12-05",
+   "note": "Ages 3–10. Build a cardboard-box car, then watch.",
+   "description": "Kids turn a cardboard box into a winter wonderland car, then hop in for a library 'drive-in' showing of Olaf's Frozen Adventure and Trolls Holiday.",
+   "id": "la-winter-drive-in-movie-for-kids",
+   "lat": 36.03837,
+   "lng": -115.17113
+  },
+  {
+   "name": "Hanukkah: Festival of Light and Freedom",
+   "category": "Holiday",
+   "place": "Summerlin Library, 1771 Inner Circle Dr",
+   "time": "3pm–6pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/17732140",
+   "date": "2026-12-10",
+   "description": "Discover the story and traditions of Hanukkah, the Jewish Festival of Lights, with history and stories about hope, courage and freedom.",
+   "id": "la-hanukkah-festival-of-light-and-freedom",
+   "lat": 36.19132,
+   "lng": -115.30179
+  },
+  {
+   "name": "Holiday Concert with Ms. BB",
+   "category": "Holiday",
+   "place": "West Las Vegas Library, 951 W Lake Mead Blvd",
+   "time": "6pm–8pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/17164094",
+   "date": "2026-12-11",
+   "description": "An evening of live festive music and holiday cheer. Free and open to everyone.",
+   "id": "la-holiday-concert-with-ms-bb",
+   "lat": 36.19513,
+   "lng": -115.15425
+  },
+  {
+   "name": "Las Vegas Brass Band Holiday Concert",
+   "category": "Holiday",
+   "place": "Clark County Library, 1401 E Flamingo Rd",
+   "time": "2pm–3pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/14322571",
+   "date": "2026-12-13",
+   "description": "The Las Vegas Brass Band, playing British-style brass band concerts since 1993, performs hymns and seasonal classics in its annual free holiday concert.",
+   "id": "la-las-vegas-brass-band-holiday-concert",
+   "lat": 36.11474,
+   "lng": -115.13434
+  },
+  {
+   "name": "New Year's at Noon (Kids)",
+   "category": "Family",
+   "place": "Centennial Hills Library, 6711 N Buffalo Dr",
+   "time": "11:30am–12pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/14007245",
+   "date": "2026-12-31",
+   "note": "Ages 0–11. Tickets handed out 30 minutes before.",
+   "description": "Kids ring in the New Year without staying up late: games at 11:30am and a countdown at noon.",
+   "id": "la-new-year-s-at-noon-kids",
+   "lat": 36.28335,
+   "lng": -115.26201
+  },
+  {
+   "name": "Glittering Lights at Las Vegas Motor Speedway",
+   "category": "Holiday",
+   "place": "Las Vegas Motor Speedway, 7000 Las Vegas Blvd N",
+   "time": "Sun–Thu 5pm–9pm; Fri, Sat & holidays 5pm–10pm",
+   "free": false,
+   "price": "From $44 per carload",
+   "source": "https://glitteringlightslasvegas.com/faq/",
+   "date": "2026-11-06",
+   "end": "2027-01-03",
+   "note": "Drive-through holiday light show, open nightly rain or shine.",
+   "description": "A drive-through holiday light show that winds through the grandstands of Las Vegas Motor Speedway, open every night through Jan 3.",
+   "know": [
+    "Fast Pass lane: $64 online per vehicle, or +$25 at the gate.",
+    "$5 military discount at the gate with ID.",
+    "A tram ride option ($25 per person) includes free photos with Santa."
+   ],
+   "id": "la-glittering-lights-at-las-vegas-motor-spe",
+   "lat": 36.27119,
+   "lng": -115.00942
+  },
+  {
+   "name": "Magical Forest at Opportunity Village",
+   "category": "Holiday",
+   "place": "Opportunity Village, 6300 W Oakey Blvd",
+   "time": "Sun–Thu 5:30pm–9pm; Fri–Sat 5:30pm–9:30pm",
+   "free": false,
+   "price": "Date-specific tickets; 3 & under free",
+   "source": "https://www.opportunityvillage.org/ovevents/magical-forest",
+   "rule": {
+    "dates": [
+     "2026-11-27",
+     "2026-11-28",
+     "2026-11-29",
+     "2026-12-03",
+     "2026-12-04",
+     "2026-12-05",
+     "2026-12-06",
+     "2026-12-07",
+     "2026-12-08",
+     "2026-12-09",
+     "2026-12-10",
+     "2026-12-11",
+     "2026-12-12",
+     "2026-12-13",
+     "2026-12-14",
+     "2026-12-15",
+     "2026-12-16",
+     "2026-12-17",
+     "2026-12-18",
+     "2026-12-19",
+     "2026-12-20",
+     "2026-12-21",
+     "2026-12-22",
+     "2026-12-23",
+     "2026-12-24",
+     "2026-12-26",
+     "2026-12-27",
+     "2026-12-28",
+     "2026-12-29",
+     "2026-12-30",
+     "2026-12-31",
+     "2027-01-01"
+    ]
+   },
+   "note": "Holiday lights, train, 50-ft slide, carousel and Santa. Supports Opportunity Village.",
+   "description": "A Las Vegas holiday tradition for more than 30 years: thousands of lights, the Forest Express train, a 50-foot Avalanche Slide, a carousel, mini golf, Santa visits and a Cookie Cabin. Every ticket supports people with intellectual disabilities served by Opportunity Village.",
+   "know": [
+    "Free parking in the College of Southern Nevada lot.",
+    "Discounts at the box office: seniors $3 off, military/first responders $5 off.",
+    "Backpacks and large bags not allowed."
+   ],
+   "id": "la-magical-forest-at-opportunity-village",
+   "lat": 36.15226,
+   "lng": -115.23199
+  },
+  {
+   "name": "A Ranch Christmas at Spring Mountain Ranch",
+   "category": "Holiday",
+   "place": "Spring Mountain Ranch State Park, 6375 NV-159, Blue Diamond",
+   "time": "10am–2pm",
+   "free": false,
+   "price": "Park entry $10/vehicle NV residents; $15 non-residents",
+   "source": "https://parks.nv.gov/events/a-ranch-christmas-2026",
+   "date": "2026-12-12",
+   "note": "Santa, cookie decorating, hay rides, s'mores and an elf hunt.",
+   "description": "Bring your Christmas wish list for Santa, then enjoy cookie decorating, handmade ornaments, a hay ride, s'mores and an elf hunt on the trail at Spring Mountain Ranch.",
+   "know": [
+    "Santa is there 10am–2pm on this day only.",
+    "Included with the park entrance fee."
+   ],
+   "id": "la-a-ranch-christmas-at-spring-mountain-ran",
+   "lat": 36.06959,
+   "lng": -115.45759
+  },
+  {
+   "name": "Coffee Talk at Ice Age Fossils State Park",
+   "category": "Outdoors & Nature",
+   "place": "Ice Age Fossils State Park, 8660 N Decatur Blvd (North Las Vegas)",
+   "time": "9am–11am",
+   "free": true,
+   "source": "https://parks.nv.gov/events/coffee-talk-15",
+   "date": "2026-11-14",
+   "note": "Bring your own mug; coffee, tea and seasonal drinks provided.",
+   "description": "Drop by any time to chat with rangers and fellow visitors about the park over hot coffee, tea and seasonal drinks sponsored by the Protectors of Tule Springs. Geared to adults; kids welcome.",
+   "id": "la-coffee-talk-at-ice-age-fossils-state-par",
+   "lat": 36.31666,
+   "lng": -115.20727
+  },
+  {
+   "name": "Advanced Off-Trail Hike: Valley of Fire Drop-Slot",
+   "category": "Outdoors & Nature",
+   "place": "Valley of Fire State Park, Overton",
+   "time": "9am–1pm",
+   "free": false,
+   "price": "Park entry fee",
+   "source": "https://parks.nv.gov/events/advanced-off-trail-hike-drop-slot-saturday-11-14",
+   "date": "2026-11-13",
+   "end": "2026-11-14",
+   "note": "Strenuous 3.5-mile ranger hike with a canyon drop; reserve by email.",
+   "description": "A ranger-guided 3.5-mile off-trail hike with 800 ft of gain, scrambling onto a mesa and down narrowing canyons to a drop-slot that requires a controlled 5–10 ft slide.",
+   "know": [
+    "Offered Friday Nov 13 and Saturday Nov 14; say which day when reserving.",
+    "Valley of Fire closes Dec 1–14 for maintenance."
+   ],
+   "id": "la-advanced-off-trail-hike-valley-of-fire-d",
+   "lat": 36.49885,
+   "lng": -114.53412
+  },
+  {
+   "name": "History Hike at Red Rock Canyon (December)",
+   "category": "Outdoors & Nature",
+   "place": "Red Rock Canyon NCA",
+   "time": "See registration page",
+   "free": true,
+   "source": "https://www.redrockcanyonlv.org/events/history-hike-3/",
+   "date": "2026-12-17",
+   "know": [
+    "Free guided BLM hike; advance registration required.",
+    "No Scenic Drive timed-entry reservation needed for registered hikers."
+   ],
+   "description": "A free BLM ranger-led hike exploring the human history of Red Rock Canyon.",
+   "id": "la-history-hike-at-red-rock-canyon-december"
+  },
+  {
+   "name": "First Creek Hike at Red Rock Canyon",
+   "category": "Outdoors & Nature",
+   "place": "First Creek Trailhead, Red Rock Canyon NCA",
+   "time": "8:30am–10:30am",
+   "free": true,
+   "source": "https://www.redrockcanyonlv.org/events/first-creek-hike-12-21-26-830am-1030am/",
+   "date": "2026-12-21",
+   "know": [
+    "Free guided BLM hike; advance registration required.",
+    "No Scenic Drive timed-entry reservation needed for registered hikers."
+   ],
+   "description": "A free BLM ranger-guided hike on the First Creek trail at Red Rock Canyon.",
+   "id": "la-first-creek-hike-at-red-rock-canyon"
+  },
+  {
+   "name": "Kaibab Sea Guided Hike at Red Rock Canyon",
+   "category": "Outdoors & Nature",
+   "place": "Red Rock Canyon NCA",
+   "time": "8am–11am",
+   "free": true,
+   "source": "https://www.redrockcanyonlv.org/events/kaibab-sea-guided-hike-12-26-26-8am-11am/",
+   "date": "2026-12-26",
+   "know": [
+    "Free guided BLM hike; advance registration required.",
+    "No Scenic Drive timed-entry reservation needed for registered hikers."
+   ],
+   "description": "A free BLM ranger-guided hike looking at the fossil-bearing Kaibab limestone left by an ancient sea at Red Rock Canyon.",
+   "id": "la-kaibab-sea-guided-hike-at-red-rock-canyo"
+  },
+  {
+   "name": "Kraft Mountain Loop Hike at Red Rock Canyon",
+   "category": "Outdoors & Nature",
+   "place": "Red Rock Canyon NCA",
+   "time": "8am–11am",
+   "free": true,
+   "source": "https://www.redrockcanyonlv.org/events/kraft-mountain-loop-12-27-26-8am-11am/",
+   "date": "2026-12-27",
+   "know": [
+    "Free guided BLM hike; advance registration required.",
+    "No Scenic Drive timed-entry reservation needed for registered hikers."
+   ],
+   "description": "A free BLM ranger-guided loop hike around Kraft Mountain at Red Rock Canyon.",
+   "id": "la-kraft-mountain-loop-hike-at-red-rock-can"
+  },
+  {
+   "name": "The Afterglow Market",
+   "category": "Market",
+   "place": "Fantastic Indoor Swap Meet parking lot, 1717 S Decatur Blvd",
+   "time": "12pm–4pm",
+   "free": true,
+   "source": "https://shopandseeklv.com/events/the-afterglow-2027",
+   "date": "2027-01-02",
+   "description": "A Shop & Seek curated outdoor market of local vendors in the Fantastic Indoor Swap Meet parking lot, kicking off the new year.",
+   "id": "la-the-afterglow-market",
+   "lat": 36.16219,
+   "lng": -115.20604
   }
  ],
  "center": [

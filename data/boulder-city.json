@@ -1,24 +1,7 @@
 {
  "city": "Boulder City, NV",
- "checked": "2026-11-07",
+ "checked": "2026-11-10",
  "events": [
-  {
-   "name": "Dragonfly Mercury Project",
-   "category": "Outdoors & Nature",
-   "place": "Lake Mead NRA (location sent on registration)",
-   "time": "8:30am–12pm",
-   "free": true,
-   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=7647DF1C-F37B-7CF3-29EAC3843223CCA4",
-   "date": "2026-11-05",
-   "note": "Citizen science; involves wading in water. Registration required.",
-   "description": "A citizen-science project where volunteers help NPS staff collect dragonfly larvae for mercury analysis. The data helps scientists understand and fight mercury contamination.",
-   "know": [
-    "Register: LAKE_Volunteer_Coordinator@nps.gov"
-   ],
-   "id": "bc-dragonfly-mercury-project-2026-11-05",
-   "lat": 35.87221,
-   "lng": -114.69002
-  },
   {
    "name": "Fee-Free Day at Lake Mead (Veterans Day)",
    "category": "Outdoors & Nature",
@@ -120,40 +103,8 @@
    "lng": -114.78441
   },
   {
-   "name": "Boulder City Airport Day",
-   "category": "Family",
-   "place": "Boulder City Municipal Airport, 1201 Airport Rd",
-   "time": "10am–2pm",
-   "free": true,
-   "source": "https://www.visitbouldercity.com/event/airport-day/55333/",
-   "date": "2026-11-07",
-   "note": "Free Young Eagles flights for ages 8–17.",
-   "description": "Aircraft displays, pilots and aviation pros, and free Young Eagles flights for kids 8–17. Food and drinks for sale.",
-   "know": [
-    "Young Eagles registration is on the day of the event."
-   ],
-   "id": "bc-airport-day",
-   "lat": 35.9476,
-   "lng": -114.861
-  },
-  {
-   "name": "Artists in Action",
-   "category": "Arts",
-   "place": "Boulder City Parks & Rec, 900 Arizona St",
-   "time": "9am–4pm",
-   "free": true,
-   "source": "https://events.bouldercity.com/events/artists-in-action-27/",
-   "date": "2026-11-07",
-   "end": "2026-11-08",
-   "note": "Free.",
-   "description": "Artists in Action at Boulder City Parks & Rec, 900 Arizona St. Free.",
-   "id": "bc-artists-in-action",
-   "lat": 35.9787,
-   "lng": -114.83325
-  },
-  {
    "name": "Veterans Day Resident Parade & Cruise-In",
-   "category": "Parade",
+   "category": "Festival",
    "place": "Nevada State Veterans Home, Boulder City",
    "time": "9am–12pm",
    "free": true,
@@ -167,7 +118,7 @@
   },
   {
    "name": "Fall Rev Up Classic Car Fest",
-   "category": "Community",
+   "category": "Shows & Expos",
    "place": "Wilbur Square Park, Boulder City",
    "time": "8am–3pm",
    "free": true,
@@ -255,7 +206,7 @@
   },
   {
    "name": "Santa's Electric Night Parade",
-   "category": "Parade",
+   "category": "Holiday",
    "place": "Historic District, Boulder City",
    "time": "4:30pm–7pm",
    "free": true,
@@ -269,7 +220,7 @@
   },
   {
    "name": "Twelfth Night Handbell Festival Concert",
-   "category": "Music",
+   "category": "Movies & Music",
    "place": "Boulder City Recreation Center",
    "time": "5pm",
    "free": true,
@@ -294,6 +245,51 @@
    "id": "bc-family-fall-festival",
    "lat": 35.9786,
    "lng": -114.834
+  },
+  {
+   "name": "Best Dam Wine Walk",
+   "category": "Festival",
+   "place": "Frank Crowe Park, 640 Nevada Way (check-in)",
+   "time": "4pm–8pm (check-in 4–5:30pm)",
+   "free": false,
+   "price": "$30 online; $35 at the door",
+   "source": "http://bestdamwinewalk.com/",
+   "rule": {
+    "dates": [
+     "2026-11-14",
+     "2026-12-12",
+     "2027-01-09"
+    ]
+   },
+   "note": "21+. Themes: Prom Night (Nov 14), Ugly Sweater (Dec 12), Pajama Party (Jan 9).",
+   "description": "Boulder City Chamber of Commerce's monthly wine walk through 25+ shops in the historic downtown, with a themed dress-up each month.",
+   "know": [
+    "21+ only; bring a valid physical ID.",
+    "Includes a Tossware cup, wristband and map.",
+    "All sales final, rain or shine."
+   ],
+   "id": "bc-best-dam-wine-walk"
+  },
+  {
+   "name": "Classic Car Meetup at Chilly Jilly'z",
+   "category": "Shows & Expos",
+   "place": "Chilly Jilly'z Bakery & Cafe, 1680 Boulder City Pkwy",
+   "time": "Fridays from 5pm",
+   "free": true,
+   "source": "https://www.carevents.com/events/classic-car-meetup-18-december-2026/",
+   "rule": {
+    "dow": [
+     5
+    ],
+    "skip": [
+     "2026-12-25"
+    ]
+   },
+   "note": "Weekly Friday-night patio car meetup; all makes welcome. Confirm with the cafe on holidays.",
+   "description": "A weekly Friday-night classic car meetup on the patio at Chilly Jilly'z, open to all makes and models.",
+   "id": "bc-classic-car-meetup-at-chilly-jilly-z",
+   "lat": 35.9691,
+   "lng": -114.85902
   }
  ],
  "center": [
