@@ -246,3 +246,9 @@ dialog#citySheet::backdrop,dialog#suggestSheet::backdrop{background:rgba(15,22,2
 .acts [data-ics]{flex:1 1 100%}
 .city-done{position:sticky;bottom:calc(-1*var(--s5));background:var(--surf);margin:var(--s3) calc(-1*var(--s5)) calc(-1*var(--s5));padding:var(--s3) var(--s5) var(--s5);border-top:1px solid var(--line)}
 @media(min-width:700px){.city-done{bottom:calc(-1*var(--s6));margin:var(--s3) calc(-1*var(--s6)) calc(-1*var(--s6));padding:var(--s3) var(--s6) var(--s5);border-radius:0 0 18px 18px}.acts [data-ics]{flex:1 1 auto}}
+
+.skip{position:absolute;left:-999px;top:8px;z-index:30;background:var(--acc);color:#fff;padding:8px 14px;border-radius:0 8px 8px 0;font-weight:700;text-decoration:none}
+.skip:focus{left:0;outline:2px solid #fff;outline-offset:2px}
+.city-btn:focus-visible{outline:2px solid #F6B79F;outline-offset:2px}
+.sh-in .acts .btn2{white-space:nowrap}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important}.card:hover{transform:none}}
