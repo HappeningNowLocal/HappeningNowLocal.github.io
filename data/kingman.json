@@ -1,6 +1,6 @@
 {
  "city": "Kingman, AZ",
- "checked": "2026-11-10",
+ "checked": "2026-11-12",
  "events": [
   {
    "name": "Route 66 UltraRun",
@@ -165,6 +165,35 @@
    "id": "ki-mohave-county-21st-annual-craft-fair-2026-12-04",
    "lat": 35.18809,
    "lng": -114.06426
+  },
+  {
+   "name": "KPOA Thanksgiving Turkey Trot 5K",
+   "category": "Outdoors & Nature",
+   "place": "KRMC Hualapai Mountain Campus, 2301 Coronado Ave",
+   "time": "8am",
+   "free": false,
+   "price": "$35",
+   "source": "https://runsignup.com/Race/AZ/Kingman/KingmanPoliceOfficersAssociationTurkeyTrot5K",
+   "date": "2026-11-26",
+   "note": "Registration closes Nov 25 at 6pm.",
+   "description": "The Kingman Police Officers Association's 18th annual Thanksgiving morning 5K. Proceeds support local families and community programs.",
+   "id": "ki-kpoa-thanksgiving-turkey-trot-5k",
+   "lat": 35.2358,
+   "lng": -114.02078
+  },
+  {
+   "name": "Community Christmas Concert",
+   "category": "Holiday",
+   "place": "610 Eastern St",
+   "time": "6pm–7:30pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/community-christmas-concert-tickets-1979144591751",
+   "date": "2026-12-13",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "A free community Christmas concert held at the Church of Jesus Christ of Latter-day Saints building on Eastern Street.",
+   "id": "ki-community-christmas-concert",
+   "lat": 35.19565,
+   "lng": -114.01132
   }
  ],
  "center": [

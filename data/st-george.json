@@ -1,6 +1,6 @@
 {
  "city": "St. George, UT",
- "checked": "2026-11-10",
+ "checked": "2026-11-12",
  "events": [
   {
    "name": "Downtown Farmers Market",
@@ -145,39 +145,6 @@
    "lng": -113.58231
   },
   {
-   "name": "Winged Wonders Bird Watch",
-   "category": "Outdoors & Nature",
-   "place": "Sand Hollow State Park main boat ramp, Hurricane",
-   "time": "8am–9am",
-   "free": false,
-   "source": "https://stateparks.utah.gov/event/winged-wonders-17/",
-   "price": "Park entry",
-   "rule": {
-    "dates": [
-     "2026-11-11"
-    ]
-   },
-   "note": "Binoculars provided.",
-   "description": "Over 250 bird species visit the Sand Hollow reservoir each year. Bring a chair or blanket and join a park ranger near the jetty to spot them; binoculars are provided.",
-   "id": "st-winged-wonders-bird-watch",
-   "lat": 37.11296,
-   "lng": -113.3748
-  },
-  {
-   "name": "Fee-Free Day at Zion (Veterans Day)",
-   "category": "Outdoors & Nature",
-   "place": "Zion National Park",
-   "time": "All day",
-   "free": true,
-   "source": "https://www.nps.gov/planyourvisit/fee-free-parks.htm",
-   "date": "2026-11-11",
-   "note": "Entrance fee waived for U.S. residents.",
-   "description": "Veterans Day is a National Park Service fee-free day, so Zion's entrance fee is waived for U.S. citizens and residents. Other fees, like camping, still apply.",
-   "id": "st-fee-free-day-at-zion-veterans-day-2026-11-",
-   "lat": 37.32217,
-   "lng": -113.00479
-  },
-  {
    "name": "Art of Adventure Nature Journaling",
    "category": "Outdoors & Nature",
    "place": "Sand Hollow State Park",
@@ -298,44 +265,6 @@
    "id": "st-tuacahn-saturday-market",
    "lat": 37.19034,
    "lng": -113.65873
-  },
-  {
-   "name": "SunRiver Veterans Honor Park Veterans Day Service",
-   "category": "Holiday",
-   "place": "SunRiver Veterans Honor Park, St. George",
-   "time": "9am–12pm",
-   "free": true,
-   "source": "https://veterans.utah.gov/event/sunriver-veterans-honor-park-veterans-day-service/",
-   "date": "2026-11-11",
-   "note": "Free.",
-   "description": "SunRiver Veterans Honor Park Veterans Day Service at SunRiver Veterans Honor Park, St. George. Free.",
-   "id": "st-sunriver-veterans-honor-park-veterans-da"
-  },
-  {
-   "name": "Washington City Veterans Day Parade & Program",
-   "category": "Festival",
-   "place": "Veterans Park, Washington",
-   "time": "11am",
-   "free": true,
-   "source": "https://washingtonutah.gov/community/celebrations/veteransday",
-   "date": "2026-11-11",
-   "note": "Free.",
-   "description": "Washington City Veterans Day Parade & Program at Veterans Park, Washington. Free.",
-   "id": "st-washington-city-veterans-day-parade-prog",
-   "lat": 37.1316,
-   "lng": -113.5089
-  },
-  {
-   "name": "Veterans Day at Utah Tech & the Tabernacle",
-   "category": "Holiday",
-   "place": "Utah Tech University (1pm) and St. George Tabernacle (7pm)",
-   "time": "1pm & 7pm",
-   "free": true,
-   "source": "https://sgwom.com/news/veterans-day-2026-st-george-southern-utah-events/",
-   "date": "2026-11-11",
-   "note": "Free.",
-   "description": "Veterans Day at Utah Tech & the Tabernacle at Utah Tech University (1pm) and St. George Tabernacle (7pm). Free.",
-   "id": "st-veterans-day-at-utah-tech-the-tabernacle"
   },
   {
    "name": "Fractured Lands Opening Reception",
@@ -913,6 +842,124 @@
    "id": "st-artist-s-choice-southern-utah-art-guild",
    "lat": 37.11352,
    "lng": -113.57905
+  },
+  {
+   "name": "Harry Bertoia Foundation Holiday Open House",
+   "category": "Art & Craft",
+   "place": "Harry Bertoia Foundation, 1449 N 1400 W, Suite 11",
+   "time": "3pm–5pm",
+   "free": true,
+   "source": "https://sgwom.com/events/harry-bertoia-foundation-holiday-open-house-2026/",
+   "date": "2026-11-13",
+   "description": "A free open house at the Bertoia gallery with a talk by the artist's daughter, a concert on Harry Bertoia's sounding sculptures, snacks and door prizes. Kids can try the tonal sculptures.",
+   "id": "st-harry-bertoia-foundation-holiday-open-ho",
+   "lat": 37.12772,
+   "lng": -113.61378
+  },
+  {
+   "name": "Middleton Wash Trail Grand Opening",
+   "category": "Outdoors & Nature",
+   "place": "Middleton Wash Trail, 1642 E Middleton Dr",
+   "time": "4pm–5pm",
+   "free": true,
+   "source": "https://sgwom.com/events/middleton-wash-trail-grand-opening-2026/",
+   "date": "2026-11-17",
+   "description": "The City of St. George cuts the ribbon on the new Middleton Wash Trail extension, built with the city's 2023 recreation bond.",
+   "id": "st-middleton-wash-trail-grand-opening",
+   "lat": 37.10365,
+   "lng": -113.54182
+  },
+  {
+   "name": "Chamber Thanksgiving Turkey Giveaway",
+   "category": "Family",
+   "place": "St. George Area Chamber of Commerce, 40 S 100 E",
+   "time": "10am–1pm",
+   "free": true,
+   "source": "https://sgwom.com/events/st-george-area-chamber-thanksgiving-turkey-giveaway-2026/",
+   "date": "2026-11-20",
+   "note": "300 grocery gift cards, first come, first served.",
+   "description": "The chamber's third annual Thanksgiving giveaway and open house. Bring non-perishable food to donate to the Utah Food Bank and Switchpoint.",
+   "id": "st-chamber-thanksgiving-turkey-giveaway",
+   "lat": 37.09886,
+   "lng": -113.58124
+  },
+  {
+   "name": "Southern Utah Funday Market",
+   "category": "Market",
+   "place": "160 N Bluff St",
+   "time": "9am–2:30pm",
+   "free": true,
+   "source": "https://435locals.com/event/southern-utah-funday-market/",
+   "rule": {
+    "dow": [
+     0
+    ],
+    "nth": [
+     2,
+     4
+    ]
+   },
+   "note": "2nd and 4th Sundays.",
+   "description": "A Sunday farmers market and craft fair on Bluff Street in St. George.",
+   "id": "st-southern-utah-funday-market",
+   "lat": 37.10955,
+   "lng": -113.59379
+  },
+  {
+   "name": "Community Thanksgiving Dinner at Red Rock Canyon School",
+   "category": "Holiday",
+   "place": "Red Rock Canyon School, 747 E St. George Blvd",
+   "time": "11am–4pm",
+   "free": true,
+   "source": "https://sgwom.com/events/community-thanksgiving-dinner-at-red-rock-canyon-school-2026/",
+   "date": "2026-11-26",
+   "note": "Free; everyone welcome.",
+   "description": "The 53rd annual free community Thanksgiving dinner, hosted by the Habibian family since 1973. Last year it served more than 3,000 meals.",
+   "id": "st-community-thanksgiving-dinner-at-red-roc",
+   "lat": 37.10971,
+   "lng": -113.56743
+  },
+  {
+   "name": "The Gobbler 10K, 5K & Kids 1K",
+   "category": "Outdoors & Nature",
+   "place": "Tech Ridge Pavilion, 475 Donlee Dr",
+   "time": "8am",
+   "free": false,
+   "price": "$25–$47",
+   "source": "https://sgwom.com/events/the-gobbler-10k-5k-and-kids-1k-thanksgiving-run-2026/",
+   "date": "2026-11-26",
+   "note": "Event opens 7am; races start 8am.",
+   "description": "St. George's Thanksgiving morning race around Tech Ridge. Strollers and leashed dogs are welcome, and finishers get a medal and a small pie.",
+   "id": "st-the-gobbler-10k-5k-kids-1k",
+   "lat": 37.09728,
+   "lng": -113.59411
+  },
+  {
+   "name": "First Friday at Kayenta",
+   "category": "Art & Craft",
+   "place": "Center for the Arts at Kayenta, 881 Coyote Gulch Ct, Ivins",
+   "time": "4pm–8pm",
+   "free": true,
+   "source": "https://sgwom.com/events/first-fridays-at-kayenta-2026/",
+   "date": "2026-12-04",
+   "description": "Live music, short films, local vendors and open galleries across the Kayenta Art Village in Ivins.",
+   "id": "st-first-friday-at-kayenta",
+   "lat": 37.18428,
+   "lng": -113.70704
+  },
+  {
+   "name": "Dimon Legacy Theatre Grand Opening",
+   "category": "Festival",
+   "place": "Dimon Legacy Theatre, 950 S Main St",
+   "time": "10:45am–5pm",
+   "free": true,
+   "source": "https://sgwom.com/events/dimon-legacy-theatre-grand-opening-and-ribbon-cutting-2026/",
+   "date": "2026-12-12",
+   "note": "Admission details not posted; check with St. George Musical Theater.",
+   "description": "St. George Musical Theater opens its new home with a walk down Main Street from the Historic Opera House, food trucks and music, a 12:30pm ribbon cutting, open-house tours and two Homecoming shows.",
+   "id": "st-dimon-legacy-theatre-grand-opening",
+   "lat": 37.09256,
+   "lng": -113.58351
   }
  ],
  "center": [

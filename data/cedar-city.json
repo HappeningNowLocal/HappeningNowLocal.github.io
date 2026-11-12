@@ -1,6 +1,6 @@
 {
  "city": "Cedar City, UT",
- "checked": "2026-11-10",
+ "checked": "2026-11-12",
  "events": [
   {
    "name": "Festival City Farmers Market",
@@ -36,20 +36,6 @@
    "id": "ce-iron-mission-days-old-town-market",
    "lat": 37.68798,
    "lng": -113.06308
-  },
-  {
-   "name": "Cedar City's 175th Birthday – Lobby Activities",
-   "category": "Family",
-   "place": "Heritage Theater, 105 N 100 E",
-   "time": "5pm–7pm",
-   "free": true,
-   "source": "https://www.duckcreekvillageinn.com/southern-utah-events",
-   "date": "2026-11-11",
-   "note": "Free lobby activities before the 7:30pm Birthday Spectacular.",
-   "description": "Free lobby activities at the Heritage Theater celebrating Cedar City's 175th birthday, before the evening's Birthday Spectacular.",
-   "id": "ce-cedar-city-s-175th-birthday-lobby-activi",
-   "lat": 37.68031,
-   "lng": -113.06014
   },
   {
    "name": "Downtown Holiday Lighting Ceremony",
@@ -145,20 +131,6 @@
    "lng": -113.06193
   },
   {
-   "name": "Fee-Free Day at Bryce Canyon (Veterans Day)",
-   "category": "Outdoors & Nature",
-   "place": "Bryce Canyon National Park (about 80 mi)",
-   "time": "All day",
-   "free": true,
-   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=AF6AAE79-155D-451F-67C1A83F92E724CE",
-   "date": "2026-11-11",
-   "note": "Entrance free for U.S. residents.",
-   "description": "Bryce Canyon waives its entrance fee for Veterans Day. In 2026, fee-free days apply to U.S. citizens and residents.",
-   "id": "ce-fee-free-day-at-bryce-canyon-veterans-day-",
-   "lat": 37.57079,
-   "lng": -112.18559
-  },
-  {
    "name": "Bryce Canyon Full Moon Hike",
    "category": "Outdoors & Nature",
    "place": "Bryce Canyon National Park (meeting spot varies)",
@@ -191,20 +163,6 @@
    "id": "ce-bryce-canyon-full-moon-hike-december-2026-",
    "lat": 37.57079,
    "lng": -112.18559
-  },
-  {
-   "name": "SUU Veterans Day Ceremony",
-   "category": "Holiday",
-   "place": "Eccles Music Center, Southern Utah University",
-   "time": "11am",
-   "free": true,
-   "source": "https://sgwom.com/events/suu-veterans-day-concert-2026/",
-   "date": "2026-11-11",
-   "note": "Free.",
-   "description": "SUU Veterans Day Ceremony at Eccles Music Center, Southern Utah University. Free.",
-   "id": "ce-suu-veterans-day-ceremony",
-   "lat": 37.67797,
-   "lng": -113.0676
   },
   {
    "name": "Talon Craft Fair",
@@ -378,6 +336,70 @@
    "id": "ce-86th-annual-handel-s-messiah",
    "lat": 37.68031,
    "lng": -113.06014
+  },
+  {
+   "name": "Brian Head Holiday Lighting Ceremony",
+   "category": "Holiday",
+   "place": "Bristlecone Park Pavilion, 535 S Vasels Rd, Brian Head",
+   "time": "4:30pm–6:30pm",
+   "free": true,
+   "source": "https://brianheadtown.utah.gov/news-and-notices/annual-holiday-lighting-ceremony-november-25-2026-at-430pm/",
+   "date": "2026-11-25",
+   "description": "Brian Head Town's annual holiday lighting with hot cocoa, cookies and Santa, about 30 miles from Cedar City.",
+   "id": "ce-brian-head-holiday-lighting-ceremony",
+   "lat": 37.6926,
+   "lng": -112.8494
+  },
+  {
+   "name": "Parowan Christmas in the Country",
+   "category": "Holiday",
+   "place": "Iron County Fair Building & Main Street, Parowan",
+   "time": "Bazaar 10am–5pm Fri; parade 10am Sat",
+   "free": true,
+   "source": "https://www.ksl.com/events/details/604509",
+   "date": "2026-11-27",
+   "end": "2026-11-28",
+   "note": "Bazaar Fri 10am–5pm and Sat 10am–4pm; Santa's Parade Sat 10am; candlelight walking parade Sat 6pm.",
+   "description": "Parowan's holiday weekend: a holiday bazaar at the Iron County Fair Building, Santa's Parade down Main Street Saturday morning and a candlelight walking parade and town lighting Saturday evening.",
+   "know": [
+    "Bring your own light or candle to join the 6pm candlelight parade (line up at 500 N Main)."
+   ],
+   "id": "ce-parowan-christmas-in-the-country",
+   "lat": 37.8422,
+   "lng": -112.828
+  },
+  {
+   "name": "Parowan Winter Wonderland Chamber Nights",
+   "category": "Holiday",
+   "place": "Parowan Main Street Park",
+   "time": "6pm–8pm",
+   "free": true,
+   "source": "https://www.duckcreekvillageinn.com/cedar-city-events",
+   "rule": {
+    "dates": [
+     "2026-12-05",
+     "2026-12-12",
+     "2026-12-19"
+    ]
+   },
+   "description": "Free Winter Wonderland evenings hosted by the Parowan chamber at Main Street Park on three December Saturdays.",
+   "id": "ce-parowan-winter-wonderland-chamber-nights",
+   "lat": 37.8422,
+   "lng": -112.828
+  },
+  {
+   "name": "Bryce Canyon Christmas Bird Count",
+   "category": "Outdoors & Nature",
+   "place": "Bryce Canyon Visitor Center (meet first)",
+   "time": "8am–12pm",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=97D093D9-BFA",
+   "date": "2026-12-19",
+   "note": "Free; park entrance fee applies.",
+   "description": "Join park staff and volunteers counting birds across Bryce Canyon for Audubon's long-running Christmas Bird Count. Meet first at the visitor center.",
+   "id": "ce-bryce-canyon-christmas-bird-count",
+   "lat": 37.6403,
+   "lng": -112.1696
   }
  ],
  "center": [

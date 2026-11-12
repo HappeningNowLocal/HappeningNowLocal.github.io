@@ -1,6 +1,6 @@
 {
  "city": "Henderson, NV",
- "checked": "2026-11-10",
+ "checked": "2026-11-12",
  "events": [
   {
    "name": "Henderson Farmers Market – Cornerstone Park",
@@ -301,20 +301,6 @@
    "id": "he-upscale-craft-yard-sale",
    "lat": 36.03294,
    "lng": -114.95156
-  },
-  {
-   "name": "Fee-Free Day at Lake Mead (Veterans Day)",
-   "category": "Outdoors & Nature",
-   "place": "Lake Mead NRA (Lake Mead Pkwy entrance)",
-   "time": "All day",
-   "free": true,
-   "source": "https://www.nps.gov/planyourvisit/fee-free-parks.htm",
-   "date": "2026-11-11",
-   "note": "Entrance fee waived for U.S. residents.",
-   "description": "Veterans Day is a National Park Service fee-free day, so entrance to nearby Lake Mead National Recreation Area is free for U.S. citizens and residents. Camping and other fees still apply.",
-   "id": "he-fee-free-day-at-lake-mead-veterans-day-202",
-   "lat": 35.87221,
-   "lng": -114.69002
   },
   {
    "name": "Holiday Tree Lighting at The District",
@@ -800,6 +786,89 @@
    "id": "he-new-year-s-eve-fireworks-over-lake-las-v",
    "lat": 36.10308,
    "lng": -114.92941
+  },
+  {
+   "name": "Leather & Lei Market",
+   "category": "Market",
+   "place": "Cadence Crossing Casino, 1 Cadence Crossing Way",
+   "time": "12pm–5pm",
+   "free": true,
+   "source": "https://influence.vegas/events/leather-lei-6i79q",
+   "date": "2026-11-14",
+   "description": "Local food trucks, 70-plus small businesses, desserts, drinks, mele (Hawaiian music) and photo ops at Cadence Crossing Casino.",
+   "id": "he-leather-lei-market",
+   "lat": 36.0335,
+   "lng": -114.9665
+  },
+  {
+   "name": "LivingWell Senior Expo",
+   "category": "Shows & Expos",
+   "place": "Sun City MacDonald Ranch, 2020 W Horizon Ridge Pkwy",
+   "time": "10am–1pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/livingwell-senior-expo-the-art-of-living-well-tickets-1980326298267",
+   "date": "2026-11-20",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "A senior and veteran expo with local resources, raffles and giveaways.",
+   "id": "he-livingwell-senior-expo",
+   "lat": 36.00849,
+   "lng": -115.07713
+  },
+  {
+   "name": "Family First Fridays at West Henderson Hospital",
+   "category": "Family",
+   "place": "West Henderson Hospital, 1155 Raiders Way",
+   "time": "5pm–8pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/west-henderson-hospital-family-first-fridays-tickets-2004016913535",
+   "date": "2026-12-04",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "An evening for all ages with music, entertainment, food trucks and games on the West Henderson Hospital campus.",
+   "id": "he-family-first-fridays-at-west-henderson-h",
+   "lat": 35.97991,
+   "lng": -115.14902
+  },
+  {
+   "name": "Library Tree Lane Gala & Auction",
+   "category": "Holiday",
+   "place": "Paseo Verde Library, 280 S Green Valley Pkwy",
+   "time": "6pm–9pm",
+   "free": false,
+   "price": "$75 advance / $90 at the door",
+   "source": "https://henderson.libnet.info/event/16329311",
+   "date": "2026-12-04",
+   "description": "The Friends of Henderson Libraries' festive evening with fine food, drinks and a silent auction of gift baskets. Proceeds benefit Henderson Libraries.",
+   "id": "he-library-tree-lane-gala-auction",
+   "lat": 36.01729,
+   "lng": -115.08007
+  },
+  {
+   "name": "Holiday Sip & Shop at Vegas Valley Winery",
+   "category": "Market",
+   "place": "Vegas Valley Winery, 7360 Eastgate Rd, Ste 125",
+   "time": "11am–5pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/holiday-sip-shop-at-vegas-valley-winery-tickets-2003031965529",
+   "date": "2026-12-05",
+   "note": "Free entry; drinks sold separately.",
+   "description": "Shop holiday vendors and sip something seasonal at Vegas Valley Winery.",
+   "id": "he-holiday-sip-shop-at-vegas-valley-winery",
+   "lat": 36.06018,
+   "lng": -115.02011
+  },
+  {
+   "name": "Market in the Alley at The District",
+   "category": "Market",
+   "place": "The Green at The District at Green Valley Ranch, 100 S Green Valley Pkwy",
+   "time": "10am–3pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/market-in-the-alley-in-the-green-at-the-district-at-green-valley-ranch-tickets-1985230070582",
+   "date": "2026-12-12",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "A local vendor market on The Green at The District at Green Valley Ranch, with handmade and unique finds for holiday shopping.",
+   "id": "he-market-in-the-alley-at-the-district",
+   "lat": 36.02337,
+   "lng": -115.0825
   }
  ],
  "center": [

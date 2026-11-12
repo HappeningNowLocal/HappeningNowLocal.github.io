@@ -1,6 +1,6 @@
 {
  "city": "Las Vegas, NV",
- "checked": "2026-11-10",
+ "checked": "2026-11-12",
  "events": [
   {
    "name": "Arts District First Friday",
@@ -412,18 +412,6 @@
    "id": "la-neon-city-festival-2026-11-20",
    "lat": 36.17048,
    "lng": -115.14353
-  },
-  {
-   "name": "Las Vegas Veterans Day Parade",
-   "category": "Holiday",
-   "place": "Fourth St. between Gass Ave. and Stewart Ave., Downtown",
-   "time": "10am–12pm",
-   "free": true,
-   "source": "https://www.lasvegashowto.com/las-vegas-events-november",
-   "date": "2026-11-11",
-   "note": "Free. Confirm route with the City of Las Vegas.",
-   "description": "The annual downtown Veterans Day Parade, one of the largest in the nation, runs along Fourth Street from 10 a.m. to noon.",
-   "id": "la-las-vegas-veterans-day-parade-2026-11-11"
   },
   {
    "name": "Las Vegas Days Rodeo",
@@ -1921,6 +1909,469 @@
    "id": "la-the-afterglow-market",
    "lat": 36.16219,
    "lng": -115.20604
+  },
+  {
+   "name": "Sons of Norway Vegas Vikings Holiday Bazaar",
+   "category": "Market",
+   "place": "Community Lutheran Church, 3720 E Tropicana Ave",
+   "time": "9am–12pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/sons-of-norway-vegas-vikings-holiday-bazaar-tickets-2001954822766",
+   "date": "2026-11-14",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "The Vegas Vikings lodge of the Sons of Norway holds its annual holiday bazaar, a morning of Scandinavian-flavored holiday shopping.",
+   "id": "la-sons-of-norway-vegas-vikings-holiday-baz",
+   "lat": 36.10077,
+   "lng": -115.17289
+  },
+  {
+   "name": "Wallaby Baby! Family Fun Day at Gilcrease",
+   "category": "Family",
+   "place": "Gilcrease Nature Sanctuary, 8103 Racel St",
+   "time": "1pm–4pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/wallaby-baby-free-family-fun-day-baby-wallaby-naming-tickets-2003862661162",
+   "date": "2026-11-14",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "A free family afternoon at the Gilcrease Nature Sanctuary, which has welcomed a new baby wallaby and wants visitors' help choosing its name.",
+   "id": "la-wallaby-baby-family-fun-day-at-gilcrease",
+   "lat": 36.30983,
+   "lng": -115.27214
+  },
+  {
+   "name": "Craftastic Gift Show",
+   "category": "Art & Craft",
+   "place": "Santa Fe Station Hotel & Casino, 4949 N Rancho Dr",
+   "time": "10am–5pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/craftastic-gift-show-tickets-1980273257621",
+   "date": "2026-11-15",
+   "note": "Free admission.",
+   "description": "LV Craft Shows brings local artists and gift vendors to Santa Fe Station with fall and holiday decor and handmade gifts.",
+   "id": "la-craftastic-gift-show",
+   "lat": 36.24989,
+   "lng": -115.24482
+  },
+  {
+   "name": "Fall Harvest 3rd Sunday Farmers Market",
+   "category": "Market",
+   "place": "2108 Revere St, North Las Vegas",
+   "time": "2pm–6pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/fall-harvest-3rd-sunday-farmers-market-tickets-2003936159999",
+   "date": "2026-11-15",
+   "note": "Free admission; optional raffle RSVP.",
+   "description": "A North Las Vegas neighborhood farmers market with fresh produce, local holiday finds, kids' activities, wellness vendors and community resources.",
+   "id": "la-fall-harvest-3rd-sunday-farmers-market",
+   "lat": 36.19791,
+   "lng": -115.15173
+  },
+  {
+   "name": "Food Truck Thursday on Goodman Way",
+   "category": "Festival",
+   "place": "Goodman Way between City Hall and Las Vegas Civic Center, 525 S Main St",
+   "time": "11am–1pm",
+   "free": true,
+   "source": "https://www.lasvegasnevada.gov/Residents/Events/Details?id=food-truck-thursday-nov-19-2026",
+   "date": "2026-11-19",
+   "note": "Free to attend; food sold by each truck.",
+   "description": "The City of Las Vegas lines up food trucks on Goodman Way for a downtown lunch. Trucks listed for this date include Mr. Big Stuff, The Argentinian Trailer, Menu 2, Flip N Grill, Cactus Jacks and Outlaw Grill.",
+   "know": [
+    "Truck lineup is subject to change."
+   ],
+   "id": "la-food-truck-thursday-on-goodman-way",
+   "lat": 36.16666,
+   "lng": -115.14952
+  },
+  {
+   "name": "Wetlands Park Feeder Watch",
+   "category": "Outdoors & Nature",
+   "place": "Clark County Wetlands Park Nature Center, 7050 Wetlands Park Ln",
+   "time": "10am–11:30am",
+   "free": true,
+   "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1237014f-1345-4f33-a6d8-af6fb52ca1f9/original/as/programs_2026_nov.pdf",
+   "rule": {
+    "dates": [
+     "2026-11-21",
+     "2026-11-22"
+    ]
+   },
+   "note": "Free, walk-in, all ages.",
+   "description": "Count winter birds for science from the Nature Center Exhibit Gallery alongside volunteer birders, and learn to identify common winter birds.",
+   "id": "la-wetlands-park-feeder-watch",
+   "lat": 36.10028,
+   "lng": -115.02224
+  },
+  {
+   "name": "Wetlands Park Women's Walk",
+   "category": "Outdoors & Nature",
+   "place": "Clark County Wetlands Park Nature Center, 7050 Wetlands Park Ln",
+   "time": "9am–11am",
+   "free": false,
+   "price": "$5",
+   "source": "https://www.clarkcountynv.gov/government/departments/parks___recreation/wetlands_park/interpretiveprograms",
+   "date": "2026-11-22",
+   "note": "$5; advance registration required.",
+   "description": "A naturalist-led walk through Wetlands Park focused on ethnobotany and traditional uses of Mojave Desert plants, in a welcoming setting for women.",
+   "id": "la-wetlands-park-women-s-walk",
+   "lat": 36.10028,
+   "lng": -115.02224
+  },
+  {
+   "name": "Wetlands Park Family Day & Holiday Lane",
+   "category": "Holiday",
+   "place": "Clark County Wetlands Park Nature Center, 7050 Wetlands Park Ln",
+   "time": "11am–1pm",
+   "free": true,
+   "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1237014f-1345-4f33-a6d8-af6fb52ca1f9/original/as/programs_2026_nov.pdf",
+   "rule": {
+    "dates": [
+     "2026-11-27",
+     "2026-11-28"
+    ]
+   },
+   "note": "Free, self-guided, all ages.",
+   "description": "Visit Wetlands Park over the Thanksgiving weekend to see the new Holiday Lane story walk, make a craft inspired by the story and take a Merry Mini photo.",
+   "id": "la-wetlands-park-family-day-holiday-lane",
+   "lat": 36.10028,
+   "lng": -115.02224
+  },
+  {
+   "name": "Holiday Lane Story Walk at Wetlands Park",
+   "category": "Holiday",
+   "place": "Clark County Wetlands Park Nature Center, 7050 Wetlands Park Ln",
+   "time": "Daylight hours",
+   "free": true,
+   "source": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:1237014f-1345-4f33-a6d8-af6fb52ca1f9/original/as/programs_2026_nov.pdf",
+   "date": "2026-11-27",
+   "end": "2026-12-31",
+   "note": "Free; self-guided during daylight hours.",
+   "description": "A self-guided holiday story walk with festive decor set in the park's maze of reeds, open daily from Nov 27 through Dec 31.",
+   "id": "la-holiday-lane-story-walk-at-wetlands-park",
+   "lat": 36.10028,
+   "lng": -115.02224
+  },
+  {
+   "name": "Market in the Alley at The Arts District",
+   "category": "Market",
+   "place": "1326 S Main St",
+   "time": "12pm–5pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/market-in-the-alley-at-the-arts-district-tickets-1982841019867",
+   "date": "2026-11-28",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "A Small Business Saturday market in the walkable Arts District, surrounded by murals, boutiques, restaurants and bars.",
+   "id": "la-market-in-the-alley-at-the-arts-district",
+   "lat": 36.15571,
+   "lng": -115.15388
+  },
+  {
+   "name": "Wetlands Park Nature Journaling Walk",
+   "category": "Outdoors & Nature",
+   "place": "Clark County Wetlands Park Nature Center, 7050 Wetlands Park Ln",
+   "time": "9am–11am",
+   "free": false,
+   "price": "$5",
+   "source": "https://www.clarkcountynv.gov/government/departments/parks___recreation/wetlands_park/interpretiveprograms",
+   "date": "2026-11-29",
+   "note": "$5, ages 8+; advance registration required.",
+   "description": "Stop along the trails to observe plants and wildlife and record what you see with simple sketches and notes. Journals and pencils are provided.",
+   "id": "la-wetlands-park-nature-journaling-walk",
+   "lat": 36.10028,
+   "lng": -115.02224
+  },
+  {
+   "name": "Octane Tuesdays Car Meet",
+   "category": "Shows & Expos",
+   "place": "Cheba Hut, 2550 S Rainbow Blvd",
+   "time": "6pm–11:30pm",
+   "free": true,
+   "source": "https://eventswithcars.com/event/octane-tuesdays/2026-12-01/",
+   "rule": {
+    "dow": [
+     2
+    ],
+    "nth": [
+     1
+    ]
+   },
+   "note": "First Tuesday of every month. Free; all makes welcome.",
+   "description": "A family-friendly monthly car meet open to all clubs and individuals. Cars, trucks and bikes of every year and make are welcome.",
+   "id": "la-octane-tuesdays-car-meet",
+   "lat": 36.14391,
+   "lng": -115.24186
+  },
+  {
+   "name": "Classic Car Cruise-In at Mr. D's",
+   "category": "Shows & Expos",
+   "place": "Mr. D's Sports Bar & Grill, 1810 S Rainbow Blvd",
+   "time": "6pm–10pm",
+   "free": true,
+   "source": "https://www.carevents.com/events/classic-car-cruise-in-tuesday-8-december-2026/",
+   "rule": {
+    "dow": [
+     2
+    ]
+   },
+   "note": "Every Tuesday. Free to look; confirm with the venue.",
+   "description": "A weekly Tuesday-night cruise-in for customs, classics, hot rods, antiques, exotics and muscle cars, with $1.50 tacos during the cruise.",
+   "id": "la-classic-car-cruise-in-at-mr-d-s",
+   "lat": 36.15142,
+   "lng": -115.24347
+  },
+  {
+   "name": "First Friday Half-Off Book Sale",
+   "category": "Family",
+   "place": "Sahara West Library, 9600 W Sahara Ave",
+   "time": "11am–3pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/16410228",
+   "rule": {
+    "dow": [
+     5
+    ],
+    "nth": [
+     1
+    ]
+   },
+   "note": "Monthly; everything 50% off.",
+   "description": "The Sahara West Library Used Bookstore marks everything half off on the first Friday of each month.",
+   "id": "la-first-friday-half-off-book-sale",
+   "lat": 36.14505,
+   "lng": -115.30547
+  },
+  {
+   "name": "Vintage and Vinyl Downtown Market",
+   "category": "Market",
+   "place": "Downtown Grand Hotel & Casino, 206 N 3rd St",
+   "time": "10am–5pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/vintage-and-vinyl-downtown-market-tickets-2002309995096",
+   "date": "2026-12-05",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "A downtown market of vintage finds and classic vinyl records at the Downtown Grand.",
+   "id": "la-vintage-and-vinyl-downtown-market",
+   "lat": 36.17231,
+   "lng": -115.14145
+  },
+  {
+   "name": "Kid & Teen Craft Fair at Mt. Charleston Library",
+   "category": "Art & Craft",
+   "place": "Mt. Charleston Library, 75 Ski Chalet Pl",
+   "time": "12pm–4pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/17698669",
+   "date": "2026-12-05",
+   "description": "Young makers sell their own creations, such as 3D prints, crochet, masks and bookmarks, at a winter craft fair up on the mountain.",
+   "id": "la-kid-teen-craft-fair-at-mt-charleston-lib",
+   "lat": 36.25932,
+   "lng": -115.64613
+  },
+  {
+   "name": "Craft Festival at Tivoli",
+   "category": "Art & Craft",
+   "place": "Tivoli Village, 400 S Rampart Blvd",
+   "time": "10am–4pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/craft-festival-at-tivoli-tickets-1979488759165",
+   "date": "2026-12-06",
+   "note": "Free admission.",
+   "description": "LV Craft Shows presents a craft festival at Tivoli Village featuring local and growing small businesses.",
+   "id": "la-craft-festival-at-tivoli",
+   "lat": 36.16657,
+   "lng": -115.28628
+  },
+  {
+   "name": "Perk Up! Holiday Coffee Break Concert",
+   "category": "Holiday",
+   "place": "Windmill Library, 7060 W Windmill Ln",
+   "time": "3pm–4pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/17114055",
+   "date": "2026-12-09",
+   "description": "Electric violinist Austin Lightfoot plays Christmas carols, classical favorites and his own arrangements of popular songs.",
+   "id": "la-perk-up-holiday-coffee-break-concert",
+   "lat": 36.04241,
+   "lng": -115.24632
+  },
+  {
+   "name": "Holiday Movie After Dark: Elf",
+   "category": "Movies & Music",
+   "place": "Sahara West Library, 9600 W Sahara Ave",
+   "time": "6pm–7:45pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/16564288",
+   "date": "2026-12-09",
+   "description": "A free evening screening of the holiday comedy Elf (rated PG) at the Sahara West Library.",
+   "id": "la-holiday-movie-after-dark-elf",
+   "lat": 36.14505,
+   "lng": -115.30547
+  },
+  {
+   "name": "Snowfall Express",
+   "category": "Holiday",
+   "place": "Paradise Recreation Center, 4775 McLeod Dr",
+   "time": "5pm–8pm",
+   "free": true,
+   "source": "https://events.yodel.today/downtownlasvegas-nv/event/Clark-County-Parks---Recreation/Snowfall-Express---Paradise-Recreation-Center/6aed6f9536f3b8db8f277267",
+   "date": "2026-12-11",
+   "note": "Free; registration opened Nov 9 at (702) 455-7513 or at the center.",
+   "description": "Clark County Parks and Recreation's free holiday night with train rides, Santa, crafts, cookie decorating and raffles. The first 300 registered kids 12 and under get a free toy, and the first 500 guests get a tamale dinner.",
+   "know": [
+    "Children must be with an adult 18+ at all times.",
+    "Toy pickup slots run 5:30pm–6:45pm."
+   ],
+   "id": "la-snowfall-express",
+   "lat": 36.0989,
+   "lng": -115.1101
+  },
+  {
+   "name": "A Blues Harmonica Holiday",
+   "category": "Holiday",
+   "place": "Windmill Library, 7060 W Windmill Ln",
+   "time": "7pm–8pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/16633974",
+   "date": "2026-12-11",
+   "description": "Mark Hummel leads an all-star blues harmonica lineup with Junior Watson and Anson Funderburgh on guitars for a free holiday concert.",
+   "id": "la-a-blues-harmonica-holiday",
+   "lat": 36.04241,
+   "lng": -115.24632
+  },
+  {
+   "name": "A Hawaiian Holiday",
+   "category": "Holiday",
+   "place": "Windmill Library, 7060 W Windmill Ln",
+   "time": "2pm–3pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/16875410",
+   "date": "2026-12-12",
+   "description": "Hawaiian trio Kawili and the dancers of Halau Hula 'O Kaleimomi celebrate the season with Hawaiian music and hula.",
+   "id": "la-a-hawaiian-holiday",
+   "lat": 36.04241,
+   "lng": -115.24632
+  },
+  {
+   "name": "Africa Town Market",
+   "category": "Market",
+   "place": "3375 S Decatur Blvd",
+   "time": "12pm–8pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/africa-town-market-tickets-1988661954439",
+   "date": "2026-12-13",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "A cultural marketplace celebrating Black- and Brown-owned businesses, with vendors, food and community.",
+   "id": "la-africa-town-market",
+   "lat": 36.16219,
+   "lng": -115.20604
+  },
+  {
+   "name": "Christmas at the Creek",
+   "category": "Holiday",
+   "place": "3939 N Bradley Rd",
+   "time": "5pm–7pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/christmas-at-the-creek-tickets-1991207757003",
+   "date": "2026-12-18",
+   "note": "Free tickets on Eventbrite.",
+   "description": "The second annual Christmas at the Creek, a community holiday evening benefiting Lighthouse Charities.",
+   "id": "la-christmas-at-the-creek",
+   "lat": 36.2385,
+   "lng": -115.2515
+  },
+  {
+   "name": "Wetlands Park Birding 101",
+   "category": "Outdoors & Nature",
+   "place": "Clark County Wetlands Park Nature Center, 7050 Wetlands Park Ln",
+   "time": "9am–11am",
+   "free": false,
+   "price": "$5",
+   "source": "https://www.clarkcountynv.gov/government/departments/parks___recreation/wetlands_park/interpretiveprograms",
+   "date": "2026-12-19",
+   "note": "$5, ages 10+; advance registration required.",
+   "description": "A beginner-friendly introduction to identifying and watching birds at Wetlands Park and in your own neighborhood.",
+   "id": "la-wetlands-park-birding-101",
+   "lat": 36.10028,
+   "lng": -115.02224
+  },
+  {
+   "name": "Christmas at Craig Ranch Park",
+   "category": "Holiday",
+   "place": "Craig Ranch Regional Park Garden Plaza, 628 W Craig Rd, North Las Vegas",
+   "time": "11am–3pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/christmas-at-craig-ranch-park-in-the-garden-plaza-tickets-2004033306567",
+   "date": "2026-12-19",
+   "note": "Free; toys and bikes while supplies last (child must be present).",
+   "description": "A free holiday day in Craig Ranch Park's Garden Plaza with festive lights, holiday fun and a visit from Santa.",
+   "id": "la-christmas-at-craig-ranch-park",
+   "lat": 36.23972,
+   "lng": -115.23272
+  },
+  {
+   "name": "Dream Big Youth Festival",
+   "category": "Festival",
+   "place": "MLK Statue, 1344 W Carey Ave",
+   "time": "1pm–5pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/dream-big-youth-festival-tickets-2004605850060",
+   "date": "2027-01-18",
+   "note": "Free tickets on Eventbrite; some paid tiers.",
+   "description": "Held after the MLK Parade, a family festival with youth vendors, live performances, cars, food and activities for all ages.",
+   "id": "la-dream-big-youth-festival",
+   "lat": 36.20292,
+   "lng": -115.16534
+  },
+  {
+   "name": "SLATS 2027 (industry only)",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd (South Hall, Upper Level)",
+   "time": "9am–5pm (Fri 9am–2pm)",
+   "free": false,
+   "price": "Industry only · registration required",
+   "source": "https://sportstailgateshow.com/",
+   "date": "2027-01-20",
+   "end": "2027-01-22",
+   "convention": true,
+   "industry": true,
+   "note": "INDUSTRY ONLY · sports licensing & tailgate trade show.",
+   "description": "The Sports Licensing & Tailgate Show, a trade show for licensed sports merchandise and tailgating products. It is open to registered retail buyers, not the public.",
+   "id": "la-slats-2027-industry-only",
+   "lat": 36.13102,
+   "lng": -115.15018
+  },
+  {
+   "name": "Donut Fest Las Vegas",
+   "category": "Festival",
+   "place": "Downtown Container Park, 707 E Fremont St",
+   "time": "12pm–5pm",
+   "free": false,
+   "price": "From $12.45",
+   "source": "https://www.eventbrite.com/e/donut-fest-las-vegas-tickets-2000324335936",
+   "date": "2027-01-24",
+   "note": "Ticketed on Eventbrite.",
+   "description": "A donut tasting festival at Downtown Container Park with donuts, mimosas and beer.",
+   "id": "la-donut-fest-las-vegas",
+   "lat": 36.16902,
+   "lng": -115.14016
+  },
+  {
+   "name": "MAGIC Las Vegas (industry only)",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "9am–6pm (Thu 9am–4pm)",
+   "free": false,
+   "price": "Industry only · registration required",
+   "source": "https://www.magicfashionevents.com/events/magic-las-vegas/event-information/",
+   "date": "2027-02-16",
+   "end": "2027-02-18",
+   "convention": true,
+   "industry": true,
+   "note": "INDUSTRY ONLY · fashion trade show.",
+   "description": "MAGIC is a major fashion and apparel trade show for buyers and brands. It is open to registered trade attendees only.",
+   "id": "la-magic-las-vegas-industry-only",
+   "lat": 36.13102,
+   "lng": -115.15018
   }
  ],
  "center": [

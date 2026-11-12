@@ -1,6 +1,6 @@
 {
  "city": "Salt Lake City, UT",
- "checked": "2026-11-10",
+ "checked": "2026-11-12",
  "events": [
   {
    "name": "SLC Winter Farmers Market",
@@ -197,6 +197,76 @@
    "id": "sl-red-butte-garden-holiday-open-house-art",
    "lat": 40.76462,
    "lng": -111.82404
+  },
+  {
+   "name": "Creating Christmas on Temple Square",
+   "category": "Holiday",
+   "place": "Church History Museum, Temple Square",
+   "time": "7pm–8pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/creating-christmas-on-temple-square-tickets-2003972004210",
+   "date": "2026-11-19",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "The Temple Square lighting crew talks about how they create the Christmas lights display each season.",
+   "id": "sl-creating-christmas-on-temple-square",
+   "lat": 40.77107,
+   "lng": -111.89435
+  },
+  {
+   "name": "Early Bird Holiday Market",
+   "category": "Market",
+   "place": "Ken Garff University Club, Rice-Eccles Stadium, 451 1400 E",
+   "time": "10am–2pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/early-bird-holiday-market-at-ken-garff-university-club-tickets-2003466452090",
+   "date": "2026-11-21",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "Get a head start on holiday shopping with local vendors at the Ken Garff University Club in Rice-Eccles Stadium.",
+   "id": "sl-early-bird-holiday-market",
+   "lat": 40.75982,
+   "lng": -111.84891
+  },
+  {
+   "name": "Always Queer Market",
+   "category": "Market",
+   "place": "Under the Umbrella Bookstore, 511 W 200 S #120",
+   "time": "12pm–5pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/always-queer-market-tickets-1978941183351",
+   "date": "2026-11-21",
+   "description": "A pop-up market of local, queer-made crafts at Under the Umbrella Bookstore.",
+   "id": "sl-always-queer-market",
+   "lat": 40.76499,
+   "lng": -111.89674
+  },
+  {
+   "name": "UMFA Holiday Market",
+   "category": "Market",
+   "place": "Utah Museum of Fine Arts, 410 Campus Center Dr",
+   "time": "9am–5pm",
+   "free": true,
+   "source": "https://umfa.utah.edu/event/holiday-market-2026/2026-12-06/",
+   "date": "2026-12-05",
+   "end": "2026-12-06",
+   "note": "Free to shop; free parking.",
+   "description": "The UMFA's annual market of local handmade jewelry, textiles, candles, ceramics, prints, toffee and more, with live music. Proceeds support the artists and the museum.",
+   "id": "sl-umfa-holiday-market",
+   "lat": 40.76021,
+   "lng": -111.84328
+  },
+  {
+   "name": "Wisdom Keepers Holiday Arts Market",
+   "category": "Art & Craft",
+   "place": "Urban Indian Center of Salt Lake, 120 W 1300 S",
+   "time": "10am–4pm",
+   "free": true,
+   "source": "https://uicsl.org/event/%f0%9f%8e%84-wisdom-keepers-holiday-arts-market-%f0%9f%8e%84/",
+   "date": "2026-12-12",
+   "note": "Free entry; donations welcome.",
+   "description": "Handcrafted art and gifts from local artisans at the Urban Indian Center of Salt Lake.",
+   "id": "sl-wisdom-keepers-holiday-arts-market",
+   "lat": 40.74166,
+   "lng": -111.90308
   }
  ],
  "center": [

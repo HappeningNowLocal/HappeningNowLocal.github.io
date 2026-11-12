@@ -1,29 +1,11 @@
 {
  "city": "Lake Havasu City, AZ",
- "checked": "2026-11-10",
+ "checked": "2026-11-12",
  "center": [
   34.4839,
   -114.3225
  ],
  "events": [
-  {
-   "name": "Lake Havasu Veterans Day Parade",
-   "category": "Festival",
-   "place": "McCulloch Blvd, Birch Square to Smoketree Ave, Lake Havasu City, AZ",
-   "time": "8am–11am",
-   "free": true,
-   "source": "https://www.golakehavasu.com/events/veterans-day-parade1/",
-   "date": "2026-11-11",
-   "note": "Lake Havasu City, AZ, about 150 miles from Las Vegas. Times are shown in Las Vegas (Pacific) time; local Arizona time is 1 hour later. Parade starts 9am Arizona time, ceremony at Wheeler Park about 10:45am AZ.",
-   "description": "A patriotic morning parade down McCulloch Blvd, followed by a ceremony at Wheeler Park and a VFW potluck.",
-   "know": [
-    "This is in Lake Havasu City, Arizona, about 150 miles south of Las Vegas.",
-    "Arizona is 1 hour ahead of Las Vegas this time of year; the time shown is Las Vegas time."
-   ],
-   "id": "lh-havasu-veterans-day-parade",
-   "lat": 34.4735,
-   "lng": -114.3312
-  },
   {
    "name": "Lake Havasu Festival of Lights",
    "category": "Holiday",
@@ -297,6 +279,39 @@
    "id": "lh-the-gathering-car-show-and-swap-meet",
    "lat": 34.44604,
    "lng": -114.24874
+  },
+  {
+   "name": "Lake Havasu Home & Garden Expo (Fall)",
+   "category": "Shows & Expos",
+   "place": "Lake Havasu City Aquatic Center, 100 Park Ave",
+   "time": "9am–5pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/lake-havasu-home-garden-expo-fall-show-tickets-1990258452608",
+   "date": "2026-11-13",
+   "end": "2026-11-14",
+   "note": "Free admission.",
+   "description": "Local home and garden vendors, home improvement ideas and gardening tips at the Aquatic Center.",
+   "id": "lh-lake-havasu-home-garden-expo-fall",
+   "lat": 34.46348,
+   "lng": -114.33667
+  },
+  {
+   "name": "Desert Bash & Off-Road Poker Run",
+   "category": "Festival",
+   "place": "Standard Wash near Mile Marker 173, Hwy 95 (about 3 miles south of SARA Park)",
+   "time": "Vendors open 10am",
+   "free": true,
+   "source": "https://www.golakehavasu.com/events/desert-bash-off-road-poker-run/",
+   "date": "2026-12-04",
+   "end": "2026-12-05",
+   "note": "Poker run registration is sold out; the vendor area is open to the public.",
+   "description": "The Lake Havasu Area Chamber's 16th annual off-road weekend. Riders run a 64-mile poker run on Saturday, and visitors can stop by for music, food trucks and vendors.",
+   "know": [
+    "Vendors open 10am–6pm Friday; the public vendor area opens 10am Saturday."
+   ],
+   "id": "lh-desert-bash-off-road-poker-run",
+   "lat": 34.39,
+   "lng": -114.26
   }
  ]
 }

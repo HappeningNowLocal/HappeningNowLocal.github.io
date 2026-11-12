@@ -1,24 +1,7 @@
 {
  "city": "Boulder City, NV",
- "checked": "2026-11-10",
+ "checked": "2026-11-12",
  "events": [
-  {
-   "name": "Fee-Free Day at Lake Mead (Veterans Day)",
-   "category": "Outdoors & Nature",
-   "place": "Lake Mead National Recreation Area",
-   "time": "All day",
-   "free": true,
-   "source": "https://www.nps.gov/planyourvisit/fee-free-parks.htm",
-   "date": "2026-11-11",
-   "note": "Entrance fee waived for U.S. residents.",
-   "description": "Veterans Day is a National Park Service fee-free day, so entrance to Lake Mead is free for U.S. citizens and residents. Camping and other fees still apply.",
-   "know": [
-    "Nonresidents still pay entrance fees in 2026."
-   ],
-   "id": "bc-fee-free-day-at-lake-mead-veterans-day-202",
-   "lat": 36.00315,
-   "lng": -114.81833
-  },
   {
    "name": "Lake Mead Lodge Native Planting",
    "category": "Outdoors & Nature",
@@ -101,20 +84,6 @@
    "id": "bc-hike-n-heal-avery-burton-foundation-eb",
    "lat": 36.01331,
    "lng": -114.78441
-  },
-  {
-   "name": "Veterans Day Resident Parade & Cruise-In",
-   "category": "Festival",
-   "place": "Nevada State Veterans Home, Boulder City",
-   "time": "9am–12pm",
-   "free": true,
-   "source": "https://everyday.vegas/events/veterans-day-resident-parade-cruise-in/",
-   "date": "2026-11-11",
-   "note": "Free.",
-   "description": "Veterans Day Resident Parade & Cruise-In at Nevada State Veterans Home, Boulder City. Free.",
-   "id": "bc-veterans-day-resident-parade-cruise-in",
-   "lat": 35.9712,
-   "lng": -114.87013
   },
   {
    "name": "Fall Rev Up Classic Car Fest",
@@ -290,6 +259,20 @@
    "id": "bc-classic-car-meetup-at-chilly-jilly-z",
    "lat": 35.9691,
    "lng": -114.85902
+  },
+  {
+   "name": "Last Friday Before Christmas",
+   "category": "Market",
+   "place": "Downtown Boulder City, 501 Nevada Way",
+   "time": "4pm–8pm",
+   "free": true,
+   "source": "https://happeningnext.com/event/last-friday-before-christmas-boulder-city-eid3a0e7ekgtg",
+   "date": "2026-12-18",
+   "note": "Free and family friendly.",
+   "description": "Downtown Boulder City's last Last Friday of 2026: 40-plus women-owned businesses and makers selling gifts, boutique fashion, handmade goods and holiday sweets under the lights.",
+   "id": "bc-last-friday-before-christmas",
+   "lat": 35.97779,
+   "lng": -114.83725
   }
  ],
  "center": [

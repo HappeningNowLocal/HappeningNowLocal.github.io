@@ -1,6 +1,6 @@
 {
  "city": "Zion / Springdale, UT",
- "checked": "2026-11-10",
+ "checked": "2026-11-12",
  "events": [
   {
    "name": "Zion Canyon Visitor Center Ranger Talk",
@@ -27,19 +27,6 @@
    "id": "zi-zion-canyon-visitor-center-ranger-talk-2026-10-27",
    "lat": 37.20011,
    "lng": -112.98692
-  },
-  {
-   "name": "Fee-Free Day at Zion (Veterans Day)",
-   "category": "Outdoors & Nature",
-   "place": "Zion National Park",
-   "time": "All day",
-   "free": true,
-   "source": "https://www.nps.gov/planyourvisit/fee-free-parks.htm",
-   "date": "2026-11-11",
-   "description": "Veterans Day is a National Park Service fee-free day, so Zion's entrance fee is waived for U.S. citizens and residents. Other fees, like camping, still apply.",
-   "id": "zi-fee-free-day-at-zion-veterans-day-2026-11-11",
-   "lat": 37.20057,
-   "lng": -112.98707
   },
   {
    "name": "Butch Cassidy 10K/5K",
@@ -97,6 +84,32 @@
    "id": "zi-springdale-new-year-s-eve-celebration",
    "lat": 37.19539,
    "lng": -112.99831
+  },
+  {
+   "name": "Zion Canyon Community Drum Circle",
+   "category": "Movies & Music",
+   "place": "River Park, Springdale",
+   "time": "3pm–4pm",
+   "free": true,
+   "source": "https://www.springdale.utah.gov/calendar.aspx?view=list",
+   "date": "2026-11-14",
+   "description": "An informal community drum circle at Springdale's River Park, listed on the town's community calendar.",
+   "id": "zi-zion-canyon-community-drum-circle",
+   "lat": 37.1889,
+   "lng": -112.9986
+  },
+  {
+   "name": "Wreaths Across America – Springdale",
+   "category": "Holiday",
+   "place": "Jolley-Gifford Cemetery, 221 Paradise Ln, Springdale",
+   "time": "10am",
+   "free": true,
+   "source": "https://www.springdale.utah.gov/calendar.aspx?view=list",
+   "date": "2026-12-19",
+   "description": "A short ceremony followed by wreath placement on veterans' headstones, part of the national Wreaths Across America day.",
+   "id": "zi-wreaths-across-america-springdale",
+   "lat": 37.1907,
+   "lng": -113.001
   }
  ],
  "center": [

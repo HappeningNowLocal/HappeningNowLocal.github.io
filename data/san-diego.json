@@ -1,6 +1,6 @@
 {
  "city": "San Diego, CA",
- "checked": "2026-11-10",
+ "checked": "2026-11-12",
  "events": [
   {
    "name": "Balboa Park December Nights",
@@ -228,20 +228,6 @@
    "lng": -117.16827
   },
   {
-   "name": "San Diego Veterans Day Parade",
-   "category": "Festival",
-   "place": "Harbor Dr, San Diego",
-   "time": "10am–11:30am",
-   "free": true,
-   "source": "https://www.midway.org/event/san-diego-veterans-day-parade",
-   "date": "2026-11-11",
-   "note": "Free.",
-   "description": "San Diego Veterans Day Parade at Harbor Dr, San Diego. Free.",
-   "id": "sd-san-diego-veterans-day-parade",
-   "lat": 32.7137,
-   "lng": -117.1751
-  },
-  {
    "name": "Pacific Beach Holiday Parade",
    "category": "Holiday",
    "place": "Pacific Beach, San Diego",
@@ -310,6 +296,151 @@
    "id": "sd-45th-san-diego-mlk-parade",
    "lat": 32.7137,
    "lng": -117.1751
+  },
+  {
+   "name": "Holiday Marketplace at Mission Trails",
+   "category": "Market",
+   "place": "Mission Trails Regional Park Visitor Center, 1 Father Junipero Serra Trail",
+   "time": "9am–3pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/holiday-marketplace-at-mission-trails-regional-park-tickets-2001273149864",
+   "rule": {
+    "dates": [
+     "2026-11-14",
+     "2026-11-15"
+    ]
+   },
+   "note": "Free registration; come anytime.",
+   "description": "A holiday shopping event at the Mission Trails visitor center that benefits the park.",
+   "id": "sd-holiday-marketplace-at-mission-trails",
+   "lat": 32.82022,
+   "lng": -117.05692
+  },
+  {
+   "name": "Free Family Fun Day – Mission Valley Community Market",
+   "category": "Market",
+   "place": "967 Camino del Rio S",
+   "time": "9am–12pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/free-family-fun-day-mission-valleys-community-market-tickets-1999732236952",
+   "date": "2026-11-14",
+   "description": "A free Mission Valley community market morning with family activities.",
+   "id": "sd-free-family-fun-day-mission-valley-commu",
+   "lat": 32.76393,
+   "lng": -117.15486
+  },
+  {
+   "name": "San Diego Made Holiday Market",
+   "category": "Market",
+   "place": "NTC Park at Liberty Station, 2455 Cushing Rd",
+   "time": "10am–5pm",
+   "free": false,
+   "price": "$7.18",
+   "source": "https://www.eventbrite.com/e/san-diego-made-holiday-market-tickets-2001081003148",
+   "date": "2026-11-28",
+   "description": "A Small Business Saturday market with over 175 local San Diego makers in NTC Park at Liberty Station.",
+   "id": "sd-san-diego-made-holiday-market",
+   "lat": 32.73483,
+   "lng": -117.21419
+  },
+  {
+   "name": "Book Lovers Holiday Market",
+   "category": "Market",
+   "place": "Liberty Public Market, 2820 Historic Decatur Rd",
+   "time": "10am–5pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/book-lovers-holiday-market-presented-by-you-should-read-tickets-2004170773735",
+   "date": "2026-12-05",
+   "description": "A one-day celebration of books and small shops at Liberty Public Market, presented by You Should Read.",
+   "id": "sd-book-lovers-holiday-market",
+   "lat": 32.7402,
+   "lng": -117.21124
+  },
+  {
+   "name": "Unleash the Holiday Cheer!",
+   "category": "Holiday",
+   "place": "NTC Park at Liberty Station, 2455 Cushing Rd",
+   "time": "11am–2pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/11th-annual-unleash-the-holiday-cheer-tickets-1999728700374",
+   "date": "2026-12-06",
+   "note": "Free entry; some paid add-ons.",
+   "description": "The 11th annual family- and pet-friendly holiday party with dog adoptions, crafts, treats, live music and Santa.",
+   "id": "sd-unleash-the-holiday-cheer",
+   "lat": 32.73483,
+   "lng": -117.21419
+  },
+  {
+   "name": "Holiday Lights in Downtown El Cajon",
+   "category": "Holiday",
+   "place": "Prescott Promenade, Downtown El Cajon",
+   "time": "3pm–7pm",
+   "free": true,
+   "source": "https://www.downtownelcajon.com/events/holiday-lights-in-downtown-el-cajon",
+   "date": "2026-12-06",
+   "description": "A free downtown holiday festival with a bubble Snow Zone, live music, kids' train rides, Santa photos and an artisan market, ending with a 6pm tree lighting.",
+   "id": "sd-holiday-lights-in-downtown-el-cajon",
+   "lat": 32.79428,
+   "lng": -116.96042
+  },
+  {
+   "name": "Harney Street Market",
+   "category": "Art & Craft",
+   "place": "Harney St between San Diego Ave and Congress St, Old Town",
+   "time": "10am–4pm (Sat until 5:30pm in peak season)",
+   "free": true,
+   "source": "https://www.sandiego.gov/event/harney-street-market-2026-28",
+   "rule": {
+    "dow": [
+     0,
+     6
+    ]
+   },
+   "note": "Every Saturday and Sunday. Free.",
+   "description": "A weekend artisan market in Old Town with jewelry, photography, pottery, clothing, paintings, glass and woodworking.",
+   "id": "sd-harney-street-market",
+   "lat": 32.7538,
+   "lng": -117.1967
+  },
+  {
+   "name": "San Diego Ramen Festival",
+   "category": "Festival",
+   "place": "Handlery Hotel San Diego, 950 Hotel Circle N",
+   "time": "6pm–9pm",
+   "free": false,
+   "price": "From $33.85",
+   "source": "https://www.eventbrite.com/e/san-diego-ramen-festival-2026-tickets-1999620334248",
+   "date": "2026-12-10",
+   "description": "A ticketed ramen tasting festival in Mission Valley.",
+   "id": "sd-san-diego-ramen-festival",
+   "lat": 32.76125,
+   "lng": -117.1725
+  },
+  {
+   "name": "North Park Winter Fair",
+   "category": "Market",
+   "place": "North Park Mini Park, 3812 29th St",
+   "time": "12pm–4pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/north-park-winter-fair-tickets-1978376489336",
+   "date": "2026-12-12",
+   "description": "An artisan marketplace with seasonal food and drinks, a Santa photo station and holiday fun.",
+   "id": "sd-north-park-winter-fair",
+   "lat": 32.74759,
+   "lng": -117.13108
+  },
+  {
+   "name": "Kensington Holiday Lights Bike Ride",
+   "category": "Holiday",
+   "place": "4734 Terrace Dr, Kensington",
+   "time": "4pm–5:30pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/holiday-lights-bike-ride-tickets-2003106749209",
+   "date": "2026-12-13",
+   "description": "The Kensington Community Association's annual ride through the neighborhood's holiday lights. Decorate your bike and join in.",
+   "id": "sd-kensington-holiday-lights-bike-ride",
+   "lat": 32.76422,
+   "lng": -117.10844
   }
  ],
  "center": [

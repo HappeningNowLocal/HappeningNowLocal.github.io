@@ -1,21 +1,7 @@
 {
  "city": "Hurricane, UT",
- "checked": "2026-11-10",
+ "checked": "2026-11-12",
  "events": [
-  {
-   "name": "Winged Wonders at Sand Hollow",
-   "category": "Outdoors & Nature",
-   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
-   "time": "8am",
-   "free": true,
-   "source": "https://stateparks.utah.gov/event/winged-wonders-17/",
-   "date": "2026-11-11",
-   "note": "State park day-use fee applies.",
-   "description": "Sand Hollow gets over 250 bird species a year. Bring a chair or blanket and join a ranger off the main boat ramp near the jetty; binoculars are provided.",
-   "id": "hu-winged-wonders-at-sand-hollow-2026-11-11",
-   "lat": 37.10561,
-   "lng": -113.39361
-  },
   {
    "name": "Art of Adventure at Sand Hollow",
    "category": "Outdoors & Nature",
@@ -96,7 +82,9 @@
    "date": "2026-11-13",
    "end": "2026-11-14",
    "description": "A free holiday shopping show with 80-plus local vendors, food trucks and giveaways at Legacy Park.",
-   "id": "hu-crazy-daisy-st-george-christmas-show-2026-11-13"
+   "id": "hu-crazy-daisy-st-george-christmas-show-2026-11-13",
+   "lat": 37.16248,
+   "lng": -113.41287
   },
   {
    "name": "Christmas on The Farm",
@@ -246,6 +234,50 @@
    "id": "hu-the-farm-fall-festival",
    "lat": 37.12665,
    "lng": -113.3363
+  },
+  {
+   "name": "Dixie 6 Rodeo",
+   "category": "Festival",
+   "place": "Washington County Legacy Park, 5500 W 700 S, Hurricane",
+   "time": "All day",
+   "free": true,
+   "source": "https://thelegacypark.com/events/dixie-6-rodeo-14/",
+   "date": "2026-11-13",
+   "end": "2026-11-14",
+   "note": "Free to watch.",
+   "description": "The Dixie Rodeo Club's youth and amateur rodeo across Legacy Park's outdoor, covered and indoor arenas.",
+   "id": "hu-dixie-6-rodeo",
+   "lat": 37.16248,
+   "lng": -113.41287
+  },
+  {
+   "name": "Cozy Corner Christmas Boutique",
+   "category": "Market",
+   "place": "Grafton Building, Washington County Legacy Park, 5500 W 700 S, Hurricane",
+   "time": "Fri 2pm–8pm; Sat 10am–6pm",
+   "free": true,
+   "source": "https://thelegacypark.com/events/cozy-corner-christmas-boutique-2/",
+   "date": "2026-12-11",
+   "end": "2026-12-12",
+   "note": "Free and open to the public.",
+   "description": "Two days of holiday shopping with handmade crafts, jewelry, ceramics, leather goods, candles and decor from local vendors.",
+   "id": "hu-cozy-corner-christmas-boutique",
+   "lat": 37.16248,
+   "lng": -113.41287
+  },
+  {
+   "name": "Toquerville Trails Turkey Trot",
+   "category": "Outdoors & Nature",
+   "place": "Center Street Park, 425 W Center St, Toquerville",
+   "time": "10am",
+   "free": false,
+   "price": "$30",
+   "source": "https://sgwom.com/events/toquerville-trails-turkey-trot-2026/",
+   "date": "2026-11-26",
+   "description": "The 22nd annual Thanksgiving trail run on Toquerville's rocky, sandy trails, with a short course (about 1.8 miles) or a long course (about 3.1 miles).",
+   "id": "hu-toquerville-trails-turkey-trot",
+   "lat": 37.2533,
+   "lng": -113.2851
   }
  ],
  "center": [

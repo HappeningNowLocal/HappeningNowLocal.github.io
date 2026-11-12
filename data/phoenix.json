@@ -1,6 +1,6 @@
 {
  "city": "Phoenix, AZ",
- "checked": "2026-11-10",
+ "checked": "2026-11-12",
  "events": [
   {
    "name": "First Friday Art Walk",
@@ -265,18 +265,6 @@
    "lng": -111.95117
   },
   {
-   "name": "Phoenix Veterans Day Parade",
-   "category": "Festival",
-   "place": "3rd St from McDowell Rd to Indian School Rd, Phoenix",
-   "time": "11am–1pm",
-   "free": true,
-   "source": "https://honoringamericasveterans.org/2026-hav-veterans-day-parade-phoenix/",
-   "date": "2026-11-11",
-   "note": "Free.",
-   "description": "Phoenix Veterans Day Parade at 3rd St from McDowell Rd to Indian School Rd, Phoenix. Free.",
-   "id": "ph-phoenix-veterans-day-parade"
-  },
-  {
    "name": "Merry Main Street Kickoff & Tree Lighting",
    "category": "Holiday",
    "place": "Downtown Mesa",
@@ -421,6 +409,118 @@
    "id": "ph-phoestivus-holiday-market",
    "lat": 33.4525,
    "lng": -112.06897
+  },
+  {
+   "name": "Free Movie in the Park: Toy Story 5",
+   "category": "Movies & Music",
+   "place": "2350 S 103rd Ave, Tolleson",
+   "time": "5pm–8pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/free-movie-in-the-park-more-toy-story-5-fri-nov-13th-tickets-2004341957751",
+   "date": "2026-11-13",
+   "note": "Free entry and parking; pet friendly.",
+   "description": "A free family movie night in Tolleson with free food and a screening of Toy Story 5.",
+   "id": "ph-free-movie-in-the-park-toy-story-5",
+   "lat": 33.42489,
+   "lng": -112.2816
+  },
+  {
+   "name": "Family Fun Harvest Festival",
+   "category": "Family",
+   "place": "Arizona Boardwalk, 9500 E Vía de Ventura, Scottsdale",
+   "time": "10am–2pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/free-8th-annual-family-fun-harvest-festival-tickets-1994378843809",
+   "date": "2026-11-14",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "Family Fun Arizona's eighth annual harvest festival inside the Arizona Boardwalk.",
+   "id": "ph-family-fun-harvest-festival",
+   "lat": 33.5553,
+   "lng": -111.87625
+  },
+  {
+   "name": "Arizona Pupusas Festival",
+   "category": "Festival",
+   "place": "Arizona Center, 455 N 3rd St",
+   "time": "11am–5pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/2026-arizona-pupusas-festival-tickets-2000537587778",
+   "date": "2026-11-15",
+   "note": "Free entry; food sold by vendors.",
+   "description": "A celebration of pupusas, the national dish of El Salvador, with local pupusa vendors at the Arizona Center.",
+   "id": "ph-arizona-pupusas-festival",
+   "lat": 33.4525,
+   "lng": -112.06897
+  },
+  {
+   "name": "Desert & Dusk Golden Hour Market",
+   "category": "Market",
+   "place": "Andaz Scottsdale Resort, 6114 N Scottsdale Rd",
+   "time": "4pm–7pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/desert-dusk-a-golden-hour-market-at-andaz-scottsdale-tickets-2003362682713",
+   "date": "2026-11-22",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "An outdoor artisan market with food and drink, wellness offerings, local art and live music.",
+   "id": "ph-desert-dusk-golden-hour-market",
+   "lat": 33.59881,
+   "lng": -111.92612
+  },
+  {
+   "name": "Surprise Chanukah Festival",
+   "category": "Holiday",
+   "place": "Mark Coronado Park, 15960 N Bullard Ave, Surprise",
+   "time": "4pm–6pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/surprise-chanukah-festival-tickets-2004451432192",
+   "date": "2026-12-06",
+   "description": "A community Chanukah festival in Surprise's Mark Coronado Park.",
+   "id": "ph-surprise-chanukah-festival",
+   "lat": 33.63167,
+   "lng": -112.37811
+  },
+  {
+   "name": "S'edav Va'aki Museum Indian Market",
+   "category": "Festival",
+   "place": "S'edav Va'aki Museum, 4619 E Washington St",
+   "time": "9am–4pm",
+   "free": false,
+   "price": "Up to $10; kids 12 and under free",
+   "source": "https://svmfoundation.org/event/indian-market-2026/",
+   "date": "2026-12-12",
+   "end": "2026-12-13",
+   "description": "The 49th annual Indian Market with dozens of Native American artists, mainstage performances, cultural demonstrations, Native food and hands-on kids' activities.",
+   "id": "ph-s-edav-va-aki-museum-indian-market",
+   "lat": 33.44573,
+   "lng": -111.98475
+  },
+  {
+   "name": "Family Holiday Festival at The Scottsdale Resort",
+   "category": "Holiday",
+   "place": "The Scottsdale Resort & Spa, 7700 E McCormick Pkwy",
+   "time": "2pm–5pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/family-holiday-festival-tickets-2002163401631",
+   "date": "2026-12-12",
+   "note": "Free; RSVP on Eventbrite.",
+   "description": "A family holiday festival at The Scottsdale Resort & Spa.",
+   "id": "ph-family-holiday-festival-at-the-scottsdal",
+   "lat": 33.5487,
+   "lng": -111.91625
+  },
+  {
+   "name": "Tamale Festival",
+   "category": "Festival",
+   "place": "St. Mary's Basilica, 231 N 3rd St",
+   "time": "11am–5pm",
+   "free": true,
+   "source": "https://dtphx.org/do/tamale-festival",
+   "date": "2026-12-13",
+   "note": "Free entry.",
+   "description": "The fourth annual downtown Tamale Festival with tamale vendors, a Christmas mercado, Santa photos, a 1,000-toy giveaway, ballet folklorico and mariachis.",
+   "id": "ph-tamale-festival",
+   "lat": 33.45076,
+   "lng": -112.06939
   }
  ],
  "center": [

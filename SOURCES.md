@@ -1,6 +1,6 @@
 # Happening Now Local: Source List
 
-Checked 2026-11-10. **Reachable** means the page loaded from this box. **Search-only** means I read the page text through the search index and did not load it directly. **Blocked** means 403 or a block page.
+Checked 2026-11-12. **Reachable** means the page loaded from this box. **Search-only** means I read the page text through the search index and did not load it directly. **Blocked** means 403 or a block page.
 
 ## Cross-region (all cities)
 | Name | URL | Covers | Reachable |
@@ -251,3 +251,40 @@ Routing: every Lake Havasu City event goes in `data/lake-havasu-city.json` (id p
 | San Diego | sandiego.tips | https://sandiego.tips/ | Parade dates roundup | JS-rendered; not usable directly |
 
 Notes from 2026-11-10: Utah State Parks event slugs change each year (e.g. art-of-adventure-8 -> -9); recheck old links. Brian Head Resort's events page had no upcoming events (opening postponed). Valley of Fire is closed Dec 1-14 for maintenance. redrockcanyonlv.org, cityofhenderson.com, myvscloud, yodel and nowplayingutah block this box (403/520), but their links still work in a browser.
+
+## Added 2026-11-12
+| City | Name | URL | Covers | Reachable |
+|---|---|---|---|---|
+| Las Vegas | City of Las Vegas events | https://www.lasvegasnevada.gov/Residents/Events | City parks/community center events (list is a JS app; use individual event detail pages as sources) | Reachable (details pages) |
+| Las Vegas | Clark County Wetlands Park programs | https://www.clarkcountynv.gov/ (Wetlands Park interpretive programs page + monthly programs PDF) | Feeder Watch, Women's Walk, Birding 101, Holiday Lane, nature journaling | Reachable |
+| Las Vegas | Clark County Parks on yodel | https://yodel.clarkcountynv.gov/ | County rec center holiday events (Snowfall Express) | Blocked from this box; links work in a browser |
+| Las Vegas / Henderson | influence.vegas | https://influence.vegas/ | Local markets and pop-ups (Leather & Lei) | Reachable |
+| Las Vegas | Events With Cars | https://eventswithcars.com/ | Recurring car meets (Octane Tuesdays, Mr. D's cruise-in) | Reachable (secondary) |
+| Las Vegas (conventions) | Sports Licensing & Tailgate Show | https://www.sportstailgateshow.com/ | SLATS, Jan (industry only) | Reachable |
+| Las Vegas (conventions) | MAGIC Las Vegas | https://www.magicfashionevents.com/ | MAGIC fashion trade show, Feb (industry only) | Reachable |
+| Boulder City | Boulder City Community Club calendar | https://bccommunityclub.com/calendar | Doodlebug, Last Friday Before Christmas | Reachable |
+| Boulder City | Boulder City's Best | https://bouldercitysbest.com/ | Local event roundups | Reachable (secondary) |
+| Boulder City | happeningnext.com | https://happeningnext.com/ | Mirror of public Facebook events | Reachable (secondary; confirm on organizer page) |
+| Laughlin / Bullhead | Bullhead City event detail pages | https://www.bullheadcity.com/ (dated pages like /2026/12/4/...) | City events (times are Arizona time) | Reachable |
+| Laughlin / Bullhead | Laughlin Bullhead tourism blog | https://www.laughlinbullhead.com/ | Area events; explains the 1-hour NV/AZ time difference | Reachable |
+| Kingman | Kingman Downtown Merchants Association | https://kingmandowntownmerchantsassociation.com/street-of-lights | Street of Lights, downtown events | Reachable |
+| Kingman | RunSignup | https://runsignup.com/ (search by city) | Turkey trots and fun runs | Reachable |
+| Cedar City | Brian Head Town | https://brianheadtown.utah.gov/ | Holiday lighting, town events | Reachable |
+| Cedar City | KSL events calendar | https://www.ksl.com/events | Southern Utah community events (Parowan) | Reachable |
+| Cedar City | Duck Creek Village Inn event list | https://duckcreekvillageinn.com/cedar-city-events | Cedar/Parowan/Brian Head roundup | Reachable (secondary) |
+| Cedar City / St. George | 435locals | https://435locals.com/ | Southern Utah event listings | Reachable (secondary) |
+| Cedar City | The Forge Arts | https://theforgearts.com/ | Paid shows (not added) | Reachable |
+| Hurricane | Washington County Legacy Park events | https://thelegacypark.com/events | Rodeos, boutiques, home shows at Legacy Park | Reachable |
+| Zion / Springdale | Springdale town calendar (list view) | https://springdale.utah.gov/calendar.aspx?view=list | Drum circle, Wreaths Across America, town events (use this over older event pages that still show last year's dates) | Reachable |
+| St. George | Greater Zion events | https://events.greaterzion.com/ | Tourism calendar | Reachable |
+| Lake Havasu | Havasu Chamber Desert Bash | https://www.havasuchamber.com/ | Desert Bash off-road poker run | Reachable |
+| Phoenix | S'edav Va'aki Museum Foundation | https://www.svmfoundation.org/ | Indian Market | Reachable |
+| Phoenix | Downtown Phoenix Inc. | https://dtphx.org/do/tamale-festival | Tamale Festival and downtown events | Reachable |
+| Salt Lake City | Urban Indian Center of Salt Lake | https://www.uicsl.org/ | Wisdom Keepers Holiday Arts Market | Reachable |
+| San Diego | City of San Diego special events | https://www.sandiego.gov/specialevents | Permitted special events (parades, street fairs) | Reachable |
+| San Diego | Downtown El Cajon | https://downtownelcajon.com/ | Holiday Lights, downtown events | Reachable |
+| Los Angeles | LA Opera press room | https://www.laopera.org/ | Free community performances | Reachable |
+
+Removed 2026-11-12: none (no dead sources found).
+
+Notes from 2026-11-12: sandiego.org, garagecherries and nowplayingutah block this box. cityofpasadena.net returned an empty page. The Wasatch Collective Eventbrite page did not load, so it was not added. Some Eventbrite "festival" listings look like generic resale promos (e.g. "Las Vegas Holiday Food & Drinks Festival", "SLC Christmas Shopping Festival", "Christmas Around the World SLC") and were skipped. Laughlin times: write Laughlin (Pacific) time first and Arizona time in parentheses, e.g. "5pm Laughlin time (6pm Arizona time)". The calendar reads the first time, so Arizona-first strings put events an hour late.
