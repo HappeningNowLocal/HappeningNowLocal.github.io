@@ -1,6 +1,6 @@
 {
  "city": "Las Vegas, NV",
- "checked": "2026-11-12",
+ "checked": "2026-11-14",
  "events": [
   {
    "name": "Arts District First Friday",
@@ -22,38 +22,6 @@
    "id": "la-arts-district-first-friday",
    "lat": 36.15953,
    "lng": -115.15128
-  },
-  {
-   "name": "Veterans Appreciation Concert: Swing It Girls",
-   "category": "Movies & Music",
-   "place": "Las Vegas Civic Center Plaza",
-   "time": "12pm–1pm",
-   "free": true,
-   "source": "https://files.lasvegasnevada.gov/cultural-affairs/Season-at-a-Glance.pdf",
-   "date": "2026-11-12",
-   "description": "A free Veterans Appreciation lunchtime concert by the vintage vocal trio Swing It Girls at the Las Vegas Civic Center Plaza.",
-   "id": "la-veterans-appreciation-concert-swing-it-g",
-   "lat": 36.1673,
-   "lng": -115.1485
-  },
-  {
-   "name": "Desert Dusk Evening Market",
-   "category": "Art & Craft",
-   "place": "Craig Ranch Regional Park, 628 W. Craig Rd (North Las Vegas)",
-   "time": "4pm–8pm",
-   "free": true,
-   "source": "https://shopandseeklv.com/events/desert-dusk-2026",
-   "date": "2026-11-13",
-   "note": "60+ local vendors, food trucks. Free entry and parking.",
-   "description": "An evening market by Shop & Seek with 60+ local vendors, food trucks, specialty drinks and sweet treats at Craig Ranch Regional Park in North Las Vegas.",
-   "know": [
-    "Free entry and free parking.",
-    "Leashed, well-behaved pets welcome in the outdoor area.",
-    "No registration needed."
-   ],
-   "id": "la-desert-dusk-evening-market",
-   "lat": 36.23866,
-   "lng": -115.20799
   },
   {
    "name": "Her Story Through Art: Women in Poetry",
@@ -2372,6 +2340,166 @@
    "id": "la-magic-las-vegas-industry-only",
    "lat": 36.13102,
    "lng": -115.15018
+  },
+  {
+   "name": "The Spirit of Kwanzaa",
+   "category": "Holiday",
+   "date": "2026-12-20",
+   "place": "Summerlin Library, 1771 Inner Circle Dr",
+   "time": "4pm–6pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/17912762",
+   "description": "Performing artist and storyteller Ellis Rice leads an interactive Kwanzaa celebration covering its origins, symbols and the seven principles, with songs woven throughout.",
+   "note": "Free; first-come seating.",
+   "lat": 36.19132,
+   "lng": -115.30179,
+   "id": "la-the-spirit-of-kwanzaa"
+  },
+  {
+   "name": "Christmas Eve Eve Triple Feature",
+   "category": "Movies & Music",
+   "date": "2026-12-23",
+   "place": "Clark County Library, 1401 E Flamingo Rd",
+   "time": "12pm–7:30pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/15570158",
+   "description": "The library's annual holiday triple feature: The Bells of St. Mary's, Home Alone and Home Alone 2, shown back to back in the Clark County Library theater.",
+   "note": "Free; first-come seating.",
+   "lat": 36.11474,
+   "lng": -115.13434,
+   "id": "la-christmas-eve-eve-triple-feature"
+  },
+  {
+   "name": "An Unforgettable Christmas with Eddie Wakes",
+   "category": "Movies & Music",
+   "date": "2026-12-19",
+   "place": "West Charleston Library, 6301 W Charleston Blvd",
+   "time": "7pm–8pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/16289737",
+   "description": "Jazz and soul baritone Eddie Wakes sings holiday classics and original tunes in a nostalgic, Nat King Cole-inspired Christmas show.",
+   "note": "Free library concert.",
+   "id": "la-an-unforgettable-christmas-with-eddie-wakes",
+   "lat": 36.15824,
+   "lng": -115.2311
+  },
+  {
+   "name": "Free Holiday Photoshoot",
+   "category": "Family",
+   "date": "2026-12-03",
+   "place": "East Las Vegas Library, 2851 E Bonanza Rd",
+   "time": "2pm–5pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/17668075",
+   "description": "Drop by the East Las Vegas Library to have a holiday photo taken. You leave with two free prints and get the digital copies by email.",
+   "note": "Free; everyone welcome. Two free prints plus emailed digital copies.",
+   "id": "la-free-holiday-photoshoot",
+   "lat": 36.17371,
+   "lng": -115.11159
+  },
+  {
+   "name": "Free Holiday Photoshoot (Whitney Library)",
+   "category": "Family",
+   "date": "2026-12-09",
+   "place": "Whitney Library, 5175 E Tropicana Ave",
+   "time": "5pm–7pm",
+   "free": true,
+   "source": "https://events.thelibrarydistrict.org/event/17222350",
+   "description": "Get a free professional holiday photo at the Whitney Library. The digital photo is emailed the following week.",
+   "note": "Free; registration required. Groups up to 5, no pets.",
+   "lat": 36.0998,
+   "lng": -115.06035,
+   "id": "la-free-holiday-photoshoot-whitney-library"
+  },
+  {
+   "name": "Paddock Auto Oasis Holiday Toy Drive",
+   "category": "Festival",
+   "date": "2026-12-04",
+   "place": "UnCommons, 6880 Helen Toland St",
+   "time": "6pm–9pm",
+   "free": true,
+   "source": "https://uncommons.com/series/paddock-auto-oasis-2/",
+   "description": "Paddock Auto Club's monthly evening car showcase at UnCommons, with classic, exotic and modern cars, music and dining. December's edition doubles as a holiday toy drive.",
+   "note": "Free for spectators; bring a new toy for the drive.",
+   "know": [
+    "Parking fees may apply in UnCommons garages."
+   ],
+   "id": "la-paddock-auto-oasis-holiday-toy-drive",
+   "lat": 36.06379,
+   "lng": -115.27803
+  },
+  {
+   "name": "Wheels of Hope Toy Drive Car Show",
+   "category": "Festival",
+   "date": "2026-11-28",
+   "place": "Thomas & Mack Center, 4505 S Maryland Pkwy",
+   "time": "10am–3pm",
+   "free": true,
+   "source": "https://vegasvalleymustangs.org/event/wheels-of-hope-toy-drive-car-show-club-event/",
+   "description": "The 3rd annual toy drive car show benefiting Candlelighters Childhood Cancer Foundation of Nevada. All builds welcome, with music, food, 50/50 raffles and awards picked by the kids.",
+   "note": "Show cars enter with a new unwrapped toy ($20+); cars roll in 8–10am.",
+   "know": [
+    "First 100 attendees get free UNLV basketball tickets."
+   ],
+   "lat": 36.10594,
+   "lng": -115.14292,
+   "id": "la-wheels-of-hope-toy-drive-car-show"
+  },
+  {
+   "name": "ARMOR Las Vegas Gun Show",
+   "category": "Shows & Expos",
+   "date": "2027-01-16",
+   "end": "2027-01-17",
+   "place": "SAHARA Las Vegas, 2535 S Las Vegas Blvd",
+   "time": "Sat 9am–5pm; Sun 9am–4pm",
+   "free": false,
+   "price": "$15 one day, $25 weekend",
+   "source": "https://www.allthegunshows.com/events/1411/armor-las-vegas",
+   "description": "ARMOR Shows' gun show at the SAHARA, with dealers of firearms, ammunition, knives, optics and accessories.",
+   "know": [
+    "Follow all firearm check-in rules at the door."
+   ],
+   "id": "la-armor-las-vegas-gun-show",
+   "lat": 36.14251,
+   "lng": -115.15461
+  },
+  {
+   "name": "Las Vegas Antique Arms Show",
+   "category": "Shows & Expos",
+   "date": "2027-01-22",
+   "end": "2027-01-23",
+   "place": "Westgate Las Vegas Resort & Casino, 3000 Paradise Rd",
+   "time": "9am–5pm",
+   "free": false,
+   "price": "$20 daily, $35 two-day pass",
+   "source": "https://www.antiquearmsshow.com/attendee-information/",
+   "description": "The largest and longest-running antique gun show in the U.S., now in its sixth decade, held alongside the Old West & Native American Art Show & Auction.",
+   "know": [
+    "Tickets sold at the registration booth.",
+    "A $125 Honored Guest badge adds early access Jan 20–21."
+   ],
+   "lat": 36.13576,
+   "lng": -115.15215,
+   "id": "la-las-vegas-antique-arms-show"
+  },
+  {
+   "name": "Megafauna Walk & Talk",
+   "category": "Outdoors & Nature",
+   "date": "2026-11-15",
+   "place": "Ice Age Fossils State Park, 8660 N Decatur Blvd (North Las Vegas)",
+   "time": "9am–10am",
+   "free": false,
+   "price": "$3 park entry (12 and under free)",
+   "source": "https://parks.nv.gov/events/megafauna-walk-talk-13",
+   "description": "A ranger-led stroll on the 0.3-mile hard-surface Megafauna Trail to learn about the Ice Age animals of the Las Vegas Valley. Suitable for mobility aids.",
+   "note": "No registration needed; arrive 10–15 minutes early. Weather dependent.",
+   "know": [
+    "No pets.",
+    "Kids under 16 need an adult."
+   ],
+   "lat": 36.31666,
+   "lng": -115.20727,
+   "id": "la-megafauna-walk-talk"
   }
  ],
  "center": [

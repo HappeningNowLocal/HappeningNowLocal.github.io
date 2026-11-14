@@ -1,6 +1,6 @@
 {
  "city": "Laughlin, NV",
- "checked": "2026-11-12",
+ "checked": "2026-11-14",
  "events": [
   {
    "name": "28th Annual CRWC Boom Box Parade",
@@ -275,20 +275,6 @@
    "id": "lau-12th-annual-slab-o-rama-bbq-challenge",
    "lat": 35.08929,
    "lng": -114.61849
-  },
-  {
-   "name": "Valley View Holiday Craft Fair",
-   "category": "Art & Craft",
-   "place": "Valley View Medical Center (Dining Area), 5330 S Highway 95, Fort Mohave",
-   "time": "8am–2pm Laughlin time (9am–3pm Arizona time)",
-   "free": true,
-   "source": "https://www.bullheadcity.com/2026/11/13/668134/valley-view-holiday-craft-fair/",
-   "date": "2026-11-13",
-   "note": "Hours listed in Arizona time by the organizer.",
-   "description": "Valley View Medical Center's first holiday craft fair, with local vendors selling handcrafted creations, gifts and festive decor.",
-   "id": "lau-valley-view-holiday-craft-fair",
-   "lat": 35.0247,
-   "lng": -114.5958
   }
  ],
  "center": [

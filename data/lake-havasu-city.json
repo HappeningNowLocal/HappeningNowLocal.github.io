@@ -1,6 +1,6 @@
 {
  "city": "Lake Havasu City, AZ",
- "checked": "2026-11-12",
+ "checked": "2026-11-14",
  "center": [
   34.4839,
   -114.3225
@@ -312,6 +312,35 @@
    "id": "lh-desert-bash-off-road-poker-run",
    "lat": 34.39,
    "lng": -114.26
+  },
+  {
+   "name": "Christmas Market & Pet Adoption Event at The Views",
+   "category": "Market",
+   "date": "2026-12-12",
+   "place": "The Views at Lake Havasu, 2110 Swanson Ave",
+   "time": "9am–2pm",
+   "free": true,
+   "source": "https://www.golakehavasu.com/events/christmas-market-adoption-event-at-the-views-at-lake-havasu/",
+   "description": "The Views partners with the Western Arizona Humane Society for a holiday vendor market with unique gifts, plus adoptable pets looking for homes.",
+   "note": "Free entry.",
+   "id": "lh-christmas-market-pet-adoption-event-at-the-views",
+   "lat": 34.47309,
+   "lng": -114.32508
+  },
+  {
+   "name": "Sand, Water & RV Expo",
+   "category": "Shows & Expos",
+   "date": "2026-11-14",
+   "place": "Lake Havasu State Park, Windsor 4, 699 London Bridge Rd",
+   "time": "10am–5pm",
+   "free": false,
+   "price": "$10 adults; kids 12 and under free (cash at the gate)",
+   "source": "https://www.golakehavasu.com/events/sand-water-rv-expo-2026/",
+   "description": "The 16th annual outdoor motorsports expo, with off-road vehicles, sand rails, UTVs, toy haulers, trailers, boats, pontoons and personal watercraft to browse and compare.",
+   "note": "Free parking. Outdoor show at the state park.",
+   "lat": 34.4895,
+   "lng": -114.36,
+   "id": "lh-sand-water-rv-expo"
   }
  ]
 }

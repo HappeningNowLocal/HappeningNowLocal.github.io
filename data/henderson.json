@@ -1,6 +1,6 @@
 {
  "city": "Henderson, NV",
- "checked": "2026-11-12",
+ "checked": "2026-11-14",
  "events": [
   {
    "name": "Henderson Farmers Market – Cornerstone Park",
@@ -476,25 +476,6 @@
    "lng": -115.09892
   },
   {
-   "name": "Market Macabre",
-   "category": "Market",
-   "place": "Grey Witch, 722 W Sunset Rd",
-   "time": "Early entry 6:30pm; doors 7:30pm",
-   "free": false,
-   "source": "https://dice.fm/event/nvrpg9-market-macabre-13th-nov-grey-witch-henderson-tickets",
-   "price": "From $8.96",
-   "date": "2026-11-13",
-   "note": "Tickets from $8.96 on DICE. All ages.",
-   "description": "A market for all things unique, spooky, dark, odd and metaphysical at Grey Witch in Henderson, with food, drinks and vendors. All ages.",
-   "know": [
-    "Early bird access 6:30pm; regular ticket access 7:30pm.",
-    "All ages."
-   ],
-   "id": "he-market-macabre-2026-11-13",
-   "lat": 36.06365,
-   "lng": -115.02346
-  },
-  {
    "name": "Bird Mobile Tour with Santa",
    "category": "Family",
    "place": "Henderson Bird Viewing Preserve, 350 E Galleria Dr",
@@ -590,7 +571,6 @@
    "source": "https://henderson.libnet.info/event/16329166",
    "rule": {
     "dates": [
-     "2026-11-13",
      "2026-11-14",
      "2026-11-16",
      "2026-11-17",
@@ -618,20 +598,6 @@
    "id": "he-library-tree-lane-seasonal-boutique",
    "lat": 36.01729,
    "lng": -115.08007
-  },
-  {
-   "name": "Family After-Hours: Pokémon Night",
-   "category": "Family",
-   "place": "James I. Gibson Library, 100 W Lake Mead Pkwy",
-   "time": "6pm–7:30pm",
-   "free": true,
-   "source": "https://henderson.libnet.info/event/17441231",
-   "date": "2026-11-13",
-   "note": "After-hours Pokémon activities for families with children.",
-   "description": "Come to the library while it is closed to the public for Pokémon-themed activities for families with children.",
-   "id": "he-family-after-hours-pokemon-night",
-   "lat": 36.03513,
-   "lng": -115.00087
   },
   {
    "name": "Wetlands: Hands On! Stewardship Morning",
@@ -869,6 +835,71 @@
    "id": "he-market-in-the-alley-at-the-district",
    "lat": 36.02337,
    "lng": -115.0825
+  },
+  {
+   "name": "Holiday Storytime at Galleria at Sunset",
+   "category": "Family",
+   "rule": {
+    "dow": [
+     3
+    ],
+    "from": "2026-11-25",
+    "until": "2026-12-23"
+   },
+   "place": "Galleria at Sunset, 1300 W Sunset Rd (Center Court near Build-A-Bear)",
+   "time": "11am–12pm",
+   "free": true,
+   "source": "https://www.galleriaatsunset.com/events",
+   "description": "Henderson Libraries and Galleria at Sunset host a weekly holiday storytime with festive tales for little ones in the mall's Center Court.",
+   "note": "Every Wednesday, Nov 25–Dec 23. Free.",
+   "lat": 36.06735,
+   "lng": -115.04265,
+   "id": "he-holiday-storytime-at-galleria-at-sunset"
+  },
+  {
+   "name": "Breakfast & Bingo at Galleria at Sunset",
+   "category": "Family",
+   "date": "2026-11-25",
+   "place": "Galleria at Sunset Food Court, 1300 W Sunset Rd",
+   "time": "9am–10:30am",
+   "free": true,
+   "source": "https://www.galleriaatsunset.com/events",
+   "description": "A free morning of light breakfast bites and bingo for prizes in the Galleria at Sunset food court. Doors open at 9am; games start around 9:30.",
+   "note": "Free; first 100 attendees. Held the last Wednesday of each month.",
+   "know": [
+    "Children under 18 must be with an adult."
+   ],
+   "id": "he-breakfast-bingo-at-galleria-at-sunset",
+   "lat": 36.06735,
+   "lng": -115.04265
+  },
+  {
+   "name": "Breakfast with Santa at Galleria at Sunset",
+   "category": "Holiday",
+   "date": "2026-12-12",
+   "place": "Galleria at Sunset, 1300 W Sunset Rd (restaurant space across from Red Robin)",
+   "time": "9am–11am",
+   "free": false,
+   "price": "Tickets required — see source",
+   "source": "https://www.galleriaatsunset.com/events/breakfast-with-santa-2026",
+   "description": "Galleria at Sunset's annual Breakfast with Santa, with a family breakfast, festive activities and a visit from Santa.",
+   "lat": 36.06735,
+   "lng": -115.04265,
+   "id": "he-breakfast-with-santa-at-galleria-at-sunset"
+  },
+  {
+   "name": "Inspirada Winter Festival & Tree Lighting",
+   "category": "Holiday",
+   "date": "2026-12-05",
+   "place": "Solista Park, 2000 Via Firenze",
+   "time": "1pm–5pm",
+   "free": true,
+   "source": "https://forward.rtcsnv.com/rtc-event/inspirada-winter-festival-annual-tree-lighting/",
+   "description": "Inspirada's annual winter festival and community tree lighting at Solista Park, one of the master-planned community's biggest gatherings of the year.",
+   "note": "Open to the public.",
+   "id": "he-inspirada-winter-festival-tree-lighting",
+   "lat": 35.95172,
+   "lng": -115.12532
   }
  ],
  "center": [

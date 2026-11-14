@@ -1,6 +1,6 @@
 {
  "city": "San Diego, CA",
- "checked": "2026-11-12",
+ "checked": "2026-11-14",
  "events": [
   {
    "name": "Balboa Park December Nights",
@@ -441,6 +441,107 @@
    "id": "sd-kensington-holiday-lights-bike-ride",
    "lat": 32.76422,
    "lng": -117.10844
+  },
+  {
+   "name": "Guided Walking Tour of Cabrillo",
+   "category": "Outdoors & Nature",
+   "rule": {
+    "dow": [
+     6
+    ],
+    "from": "2026-11-14",
+    "until": "2026-12-19"
+   },
+   "place": "Cabrillo National Monument Visitor Center, Point Loma",
+   "time": "11am–12pm & 1pm–2pm",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=26BA6AC9-95F4-7112-2A42004A31472DC5",
+   "description": "A park volunteer leads a one-hour walk past the Cabrillo statue and up the hill to the Old Point Loma Lighthouse. Suitable for all ages; meet in front of the visitor center.",
+   "note": "Saturdays, 11am and 1pm. No reservations. Park entry fee applies.",
+   "lat": 32.67223,
+   "lng": -117.24094,
+   "id": "sd-guided-walking-tour-of-cabrillo"
+  },
+  {
+   "name": "Makers Arcade Holiday Fair",
+   "category": "Market",
+   "date": "2026-12-12",
+   "end": "2026-12-13",
+   "place": "Broadway Pier, 1000 N Harbor Dr",
+   "time": "10am–5pm",
+   "free": false,
+   "price": "$5 presale / $6 door; kids under 10 free",
+   "source": "https://www.makersarcade.com/holiday-fair-2026",
+   "description": "A two-day holiday fair with 150+ local artists, makers and small businesses, live music, a wreath make-and-take station, food trucks, hot cocoa and bars, run by a San Diego nonprofit.",
+   "note": "Stay on the pier Sunday evening to watch the Parade of Lights.",
+   "id": "sd-makers-arcade-holiday-fair",
+   "lat": 32.72759,
+   "lng": -117.17796
+  },
+  {
+   "name": "Holiday in the Village (La Mesa)",
+   "category": "Holiday",
+   "date": "2026-12-12",
+   "place": "La Mesa Blvd between Spring St and 4th St, La Mesa",
+   "time": "12pm–9pm",
+   "free": true,
+   "source": "https://www.sandiego.org/events-festivals/holiday-in-the-village/a272ff2ac0fb11f1a7f2",
+   "description": "La Mesa Village's holiday street festival with 100+ vendors, an ice skating rink, mini golf, a Santa experience and an elf scavenger hunt along La Mesa Boulevard.",
+   "note": "Free street festival.",
+   "lat": 32.76502,
+   "lng": -117.02059,
+   "id": "sd-holiday-in-the-village-la-mesa"
+  },
+  {
+   "name": "Spreckels Organ Sunday Concert",
+   "category": "Movies & Music",
+   "rule": {
+    "dow": [
+     0
+    ],
+    "from": "2026-11-15"
+   },
+   "place": "Spreckels Organ Pavilion, Balboa Park",
+   "time": "2pm–3pm",
+   "free": true,
+   "source": "https://www.spreckelsorgan.org/",
+   "description": "A free one-hour concert on the world's largest outdoor pipe organ, played every Sunday year-round at Balboa Park's Spreckels Organ Pavilion.",
+   "note": "Every Sunday at 2pm, rain or shine. Free; first-come seating.",
+   "know": [
+    "Free parking up to 3 hours in the Lower Inspiration Point lot, with a free shuttle."
+   ],
+   "lat": 32.7292,
+   "lng": -117.1503,
+   "id": "sd-spreckels-organ-sunday-concert"
+  },
+  {
+   "name": "Trail Tykes at Mission Trails",
+   "category": "Family",
+   "date": "2026-11-18",
+   "place": "Mission Trails Regional Park Visitor Center, 1 Father Junipero Serra Trail",
+   "time": "10am–11am",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/trail-tykes-a-program-for-little-explorers-tickets-1984484331055",
+   "description": "A nature program for toddlers and pre-K kids and their families, with a read-aloud story plus a craft, activity or short walk.",
+   "note": "Free; register on Eventbrite.",
+   "lat": 32.82022,
+   "lng": -117.05692,
+   "id": "sd-trail-tykes-at-mission-trails"
+  },
+  {
+   "name": "2027 San Diego Brew Fest",
+   "category": "Festival",
+   "date": "2027-01-09",
+   "place": "Liberty Station NTC Park, 2455 Cushing Rd",
+   "time": "12pm–4pm",
+   "free": false,
+   "price": "From about $67",
+   "source": "https://www.eventbrite.com/e/2027-san-diego-brew-fest-tickets-2001004445161",
+   "description": "More than 70 breweries pouring 200 beers, plus food trucks, lawn games and cover bands at Liberty Station.",
+   "note": "21+.",
+   "id": "sd-2027-san-diego-brew-fest",
+   "lat": 32.73483,
+   "lng": -117.21419
   }
  ],
  "center": [

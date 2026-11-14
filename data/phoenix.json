@@ -1,6 +1,6 @@
 {
  "city": "Phoenix, AZ",
- "checked": "2026-11-12",
+ "checked": "2026-11-14",
  "events": [
   {
    "name": "First Friday Art Walk",
@@ -411,20 +411,6 @@
    "lng": -112.06897
   },
   {
-   "name": "Free Movie in the Park: Toy Story 5",
-   "category": "Movies & Music",
-   "place": "2350 S 103rd Ave, Tolleson",
-   "time": "5pm–8pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/free-movie-in-the-park-more-toy-story-5-fri-nov-13th-tickets-2004341957751",
-   "date": "2026-11-13",
-   "note": "Free entry and parking; pet friendly.",
-   "description": "A free family movie night in Tolleson with free food and a screening of Toy Story 5.",
-   "id": "ph-free-movie-in-the-park-toy-story-5",
-   "lat": 33.42489,
-   "lng": -112.2816
-  },
-  {
    "name": "Family Fun Harvest Festival",
    "category": "Family",
    "place": "Arizona Boardwalk, 9500 E Vía de Ventura, Scottsdale",
@@ -521,6 +507,101 @@
    "id": "ph-tamale-festival",
    "lat": 33.45076,
    "lng": -112.06939
+  },
+  {
+   "name": "Winter Wanderland",
+   "category": "Holiday",
+   "date": "2026-12-12",
+   "place": "Downtown Phoenix (kickoff at Patriot's Square at CityScape, 11 W Washington St)",
+   "time": "4pm–8pm",
+   "free": true,
+   "source": "https://dtphx.org/events/winter-wanderland",
+   "description": "Downtown Phoenix Inc.'s 5th annual holiday stroll: follow a percussion-guided route through the urban core, with holiday-themed performances, food and drinks, live music and cultural celebrations at each stop.",
+   "note": "Free and family-friendly. Route and giveaways announced closer to the date.",
+   "id": "ph-winter-wanderland",
+   "lat": 33.44802,
+   "lng": -112.07435
+  },
+  {
+   "name": "Highline Autos Cars & Coffee",
+   "category": "Festival",
+   "rule": {
+    "dates": [
+     "2026-12-05",
+     "2027-01-02"
+    ]
+   },
+   "place": "High Street, 5415 E High St",
+   "time": "7:30am–10am",
+   "free": true,
+   "source": "https://lcarizona.com/venue/highline-autos-cars-amp-coffee/",
+   "description": "One of the Valley's biggest monthly car meets, with 400+ exotic, classic, luxury and JDM cars and thousands of spectators at High Street.",
+   "note": "First Saturday of the month. Free for show cars and spectators.",
+   "id": "ph-highline-autos-cars-coffee",
+   "lat": 33.67541,
+   "lng": -111.96448
+  },
+  {
+   "name": "Downtown Chandler Cars & Coffee",
+   "category": "Festival",
+   "rule": {
+    "dates": [
+     "2026-12-13",
+     "2027-01-10"
+    ]
+   },
+   "place": "San Marcos Pl, Downtown Chandler",
+   "time": "8am–11am",
+   "free": true,
+   "source": "https://downtownchandler.org/do/cars-and-coffee-2",
+   "description": "A free monthly gathering of luxury, exotic, classic and specialty cars in Downtown Chandler, with coffee and breakfast at nearby cafés and restaurants.",
+   "note": "Second Sunday of each month. Free.",
+   "id": "ph-downtown-chandler-cars-coffee"
+  },
+  {
+   "name": "OUTWATCH Fest 2026",
+   "category": "Festival",
+   "date": "2026-12-12",
+   "place": "Arizona Center, 455 N 3rd St",
+   "time": "11am–6pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/outwatch-fest-2026-hosted-by-lookout-tickets-2002964372356",
+   "description": "A free one-day festival from LOOKOUT celebrating the Southwest's LGBTQ+ community, with talks, DJs, a maker market and workshops.",
+   "note": "Free (donate what you can); RSVP on Eventbrite.",
+   "lat": 33.4525,
+   "lng": -112.06897,
+   "id": "ph-outwatch-fest-2026"
+  },
+  {
+   "name": "High Street Cigars & Cars Festival",
+   "category": "Festival",
+   "date": "2026-11-14",
+   "place": "High Street, 5415 E High St",
+   "time": "11am–9pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/high-street-cigars-and-cars-festival-tickets-2001637255915",
+   "description": "A car show and cigar festival at High Street with classic and exotic rides on display.",
+   "note": "Free general entry; paid ticket tiers available on Eventbrite.",
+   "know": [
+    "Cigar tasting areas are for adults 21+."
+   ],
+   "id": "ph-high-street-cigars-cars-festival",
+   "lat": 33.67541,
+   "lng": -111.96448
+  },
+  {
+   "name": "Miata Mingle",
+   "category": "Festival",
+   "date": "2026-11-21",
+   "place": "Horne Mazda Tempe, 7777 S Test Dr, Tempe",
+   "time": "10am–1pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/miata-mingle-tickets-2002242880354",
+   "description": "Arizona's first Miata Mingle, a free meetup for Mazda Miata owners and fans hosted by Avants at Horne Mazda Tempe.",
+   "note": "Free; RSVP on Eventbrite.",
+   "id": "ph-miata-mingle",
+   "lat": 33.34695,
+   "lng": -111.9663
   }
  ],
  "center": [

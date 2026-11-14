@@ -1,6 +1,6 @@
 {
  "city": "Boulder City, NV",
- "checked": "2026-11-12",
+ "checked": "2026-11-14",
  "events": [
   {
    "name": "Lake Mead Lodge Native Planting",
@@ -273,6 +273,32 @@
    "id": "bc-last-friday-before-christmas",
    "lat": 35.97779,
    "lng": -114.83725
+  },
+  {
+   "name": "Christmas Fest at Hope Church",
+   "category": "Holiday",
+   "date": "2026-12-11",
+   "place": "Hope Church Boulder City, 850 Avenue B",
+   "time": "6:30pm–8:30pm",
+   "free": true,
+   "source": "https://www.sosradio.net/lasvegas/calendar/event/christmas-fest-2026/",
+   "description": "A free family Christmas celebration with a live nativity, petting zoo, trunk-or-treat candy, carnival games, photo booths, cookies and hot cocoa.",
+   "note": "Free, family-friendly.",
+   "id": "bc-christmas-fest-at-hope-church",
+   "lat": 35.97253,
+   "lng": -114.83732
+  },
+  {
+   "name": "Community Christmas Dinner",
+   "category": "Holiday",
+   "date": "2026-12-25",
+   "place": "Multi-Purpose Building, 1204 Sixth St",
+   "time": "12pm–3pm",
+   "free": true,
+   "source": "https://www.chamberorganizer.com/Calendar/moreinfo.php?eventid=436600",
+   "description": "A free Christmas Day dinner for the whole community, sponsored by the Boulder City Historical & Arts Foundation and listed by the BC Recreation Department.",
+   "note": "Free and open to everyone in the community.",
+   "id": "bc-community-christmas-dinner"
   }
  ],
  "center": [

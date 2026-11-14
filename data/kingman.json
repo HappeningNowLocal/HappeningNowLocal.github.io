@@ -1,6 +1,6 @@
 {
  "city": "Kingman, AZ",
- "checked": "2026-11-12",
+ "checked": "2026-11-14",
  "events": [
   {
    "name": "Route 66 UltraRun",
@@ -194,6 +194,42 @@
    "id": "ki-community-christmas-concert",
    "lat": 35.19565,
    "lng": -114.01132
+  },
+  {
+   "name": "Kingman's Market in the Park",
+   "category": "Market",
+   "rule": {
+    "dates": [
+     "2026-11-14",
+     "2026-12-19"
+    ]
+   },
+   "place": "Locomotive Park, 310 W Beale St",
+   "time": "9am–1pm",
+   "free": true,
+   "source": "https://www.explorekingman.com/2026-11-14-event-kingman-market-in-the-park/",
+   "description": "An open-air market at Locomotive Park with baked goods, local produce, clothing and handmade arts and crafts.",
+   "note": "Nov 14 and Dec 19.",
+   "id": "ki-kingman-s-market-in-the-park",
+   "lat": 35.19029,
+   "lng": -114.06147
+  },
+  {
+   "name": "25th Annual Polar Dip",
+   "category": "Holiday",
+   "date": "2027-01-01",
+   "place": "Centennial Pool, 3333 Harrison St",
+   "time": "12pm",
+   "free": true,
+   "source": "https://www.explorekingman.com/2027-01-01-event-25th-annual-polar-dip",
+   "description": "Kingman Parks & Rec's New Year's Day plunge into the near-freezing water of Centennial Pool, with hot showers, hot cocoa, popcorn and prizes at the bottom of the pool.",
+   "note": "Free for everyone; spectators welcome. Starts exactly at noon.",
+   "know": [
+    "Recommended only for people in good health."
+   ],
+   "id": "ki-25th-annual-polar-dip",
+   "lat": 35.22069,
+   "lng": -114.02487
   }
  ],
  "center": [

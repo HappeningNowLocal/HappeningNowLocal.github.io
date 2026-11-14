@@ -1,6 +1,6 @@
 {
  "city": "St. George, UT",
- "checked": "2026-11-12",
+ "checked": "2026-11-14",
  "events": [
   {
    "name": "Downtown Farmers Market",
@@ -219,20 +219,6 @@
    "lng": -113.57449
   },
   {
-   "name": "Tabernacle: Christian Erickson Jazz & Holiday",
-   "category": "Movies & Music",
-   "place": "Historic St. George Tabernacle",
-   "time": "7pm",
-   "free": true,
-   "source": "https://stgeorgechamber.com/november-2026-tabernacle-events/",
-   "date": "2026-11-13",
-   "note": "Free.",
-   "description": "Local jazz and blues singer Christian Erickson swings into the holidays with standards and a few holiday tunes. Free to the public.",
-   "id": "st-tabernacle-christian-erickson-jazz-holiday",
-   "lat": 37.10783,
-   "lng": -113.58378
-  },
-  {
    "name": "Tabernacle: Bar G Wranglers",
    "category": "Movies & Music",
    "place": "Historic St. George Tabernacle",
@@ -265,20 +251,6 @@
    "id": "st-tuacahn-saturday-market",
    "lat": 37.19034,
    "lng": -113.65873
-  },
-  {
-   "name": "Fractured Lands Opening Reception",
-   "category": "Art & Craft",
-   "place": "Sears Art Museum, Utah Tech University",
-   "time": "6:30pm–8pm",
-   "free": true,
-   "source": "https://events.greaterzion.com/event/fractured-lands-fractured-narratives-opening-reception/",
-   "date": "2026-11-13",
-   "note": "Free.",
-   "description": "Fractured Lands Opening Reception at Sears Art Museum, Utah Tech University. Free.",
-   "id": "st-fractured-lands-opening-reception",
-   "lat": 37.10565,
-   "lng": -113.56763
   },
   {
    "name": "U.S. Navy Band Commodores",
@@ -718,20 +690,6 @@
    "lng": -113.50436
   },
   {
-   "name": "I ❤️ Art: A Community Art Celebration",
-   "category": "Art & Craft",
-   "place": "St. George City Hall, 61 S Main St",
-   "time": "6pm–8:30pm",
-   "free": true,
-   "source": "https://www.stgeorgeutah.com/life/art-around-the-corner-set-to-stage-i-art-celebration-at-new-st-george-city/article_3c1528a9-c2d8-4e83-9389-d96a080cd2d9.html",
-   "date": "2026-11-12",
-   "note": "Meet local artists; live music and refreshments.",
-   "description": "Art Around the Corner hosts a free community art celebration at the new St. George City Hall: meet local artists, browse work for sale and enjoy live music and refreshments.",
-   "id": "st-i-art-a-community-art-celebration",
-   "lat": 37.1071,
-   "lng": -113.58286
-  },
-  {
    "name": "Tribute to Our Veterans Car Show",
    "category": "Shows & Expos",
    "place": "2654 E Red Cliffs Dr, St. George",
@@ -814,8 +772,6 @@
    "source": "https://www.sltrib.com/news/2026/11/09/southern-utah-listings-events-week/",
    "rule": {
     "dates": [
-     "2026-11-12",
-     "2026-11-13",
      "2026-11-14",
      "2026-11-16",
      "2026-11-17",
@@ -842,19 +798,6 @@
    "id": "st-artist-s-choice-southern-utah-art-guild",
    "lat": 37.11352,
    "lng": -113.57905
-  },
-  {
-   "name": "Harry Bertoia Foundation Holiday Open House",
-   "category": "Art & Craft",
-   "place": "Harry Bertoia Foundation, 1449 N 1400 W, Suite 11",
-   "time": "3pm–5pm",
-   "free": true,
-   "source": "https://sgwom.com/events/harry-bertoia-foundation-holiday-open-house-2026/",
-   "date": "2026-11-13",
-   "description": "A free open house at the Bertoia gallery with a talk by the artist's daughter, a concert on Harry Bertoia's sounding sculptures, snacks and door prizes. Kids can try the tonal sculptures.",
-   "id": "st-harry-bertoia-foundation-holiday-open-ho",
-   "lat": 37.12772,
-   "lng": -113.61378
   },
   {
    "name": "Middleton Wash Trail Grand Opening",
@@ -960,6 +903,59 @@
    "id": "st-dimon-legacy-theatre-grand-opening",
    "lat": 37.09256,
    "lng": -113.58351
+  },
+  {
+   "name": "Utah Golf Expo – St. George",
+   "category": "Shows & Expos",
+   "date": "2027-01-15",
+   "end": "2027-01-16",
+   "place": "Dixie Convention Center, 1835 Convention Center Dr",
+   "time": "See source",
+   "free": false,
+   "price": "Tickets required — see source",
+   "source": "https://www.strideevents.com/utah-golf-expo-st-george/event-information",
+   "description": "The first Southern Utah edition of the Utah Golf Expo, with 150+ golf brands and exhibitors, live equipment demos and club fittings, golf destinations, competitions and expo-only deals.",
+   "convention": true,
+   "lat": 37.07713,
+   "lng": -113.5822,
+   "id": "st-utah-golf-expo-st-george"
+  },
+  {
+   "name": "Free Movie Matinee at St. George Library",
+   "category": "Movies & Music",
+   "rule": {
+    "dates": [
+     "2026-11-14",
+     "2026-11-21",
+     "2026-11-28",
+     "2026-12-05",
+     "2026-12-19",
+     "2026-12-26"
+    ]
+   },
+   "place": "St. George Branch Library, 88 W 100 S (Forsyth Community Room A)",
+   "time": "2pm–4pm",
+   "free": true,
+   "source": "https://washco.libcal.com/event/16132537",
+   "description": "The Washington County Library's free Saturday afternoon movie matinee at the St. George branch. Nov 14 is the live-action Moana.",
+   "note": "Most Saturdays. Free.",
+   "lat": 37.10685,
+   "lng": -113.58507,
+   "id": "st-free-movie-matinee-at-st-george-library"
+  },
+  {
+   "name": "Christmas Ornaments Craft Night (Adults)",
+   "category": "Art & Craft",
+   "date": "2026-12-03",
+   "place": "St. George Branch Library, 88 W 100 S (Forsyth Community Room A)",
+   "time": "6pm–8pm",
+   "free": true,
+   "source": "https://washco.libcal.com/event/17537835",
+   "description": "An evening adult craft program at the St. George library: make your own Christmas ornaments to take home.",
+   "note": "Free adult program.",
+   "lat": 37.10685,
+   "lng": -113.58507,
+   "id": "st-christmas-ornaments-craft-night-adults"
   }
  ],
  "center": [

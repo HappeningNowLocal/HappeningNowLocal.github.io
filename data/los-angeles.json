@@ -1,6 +1,6 @@
 {
  "city": "Los Angeles, CA",
- "checked": "2026-11-12",
+ "checked": "2026-11-14",
  "events": [
   {
    "name": "Griffith Observatory Public Star Party",
@@ -449,6 +449,65 @@
    "id": "lac-aacclb-kwanzaa-celebration",
    "lat": 33.83502,
    "lng": -118.1851
+  },
+  {
+   "name": "Picnic with Santa",
+   "category": "Holiday",
+   "date": "2026-12-05",
+   "place": "Grand Hope Park at ASU California Center Grand, 919 S Grand Ave",
+   "time": "11am–1pm",
+   "free": true,
+   "source": "https://downtownla.com/dtla-alliance/signature-events/picnic-with-santa",
+   "description": "The DTLA Alliance and ASU host a family picnic with Santa in Grand Hope Park: free keepsake photos with Santa, marionette and magic shows, face painting, crafts, and milk and cookies.",
+   "note": "Free; RSVP requested.",
+   "know": [
+    "Bring a picnic or buy a hot dog lunch box from ASU Café."
+   ],
+   "id": "lac-picnic-with-santa",
+   "lat": 34.04422,
+   "lng": -118.25993
+  },
+  {
+   "name": "Holidays in Harmony: Community Winter Festival",
+   "category": "Holiday",
+   "date": "2026-12-13",
+   "place": "LA High Memorial Park, 4625 W Olympic Blvd",
+   "time": "12pm–4pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/holidays-in-harmony-community-winter-festival-tickets-2004612887108",
+   "description": "Councilmember Katy Yaroslavsky's free community winter festival celebrating togetherness through music, culture and family activities in LA High Memorial Park.",
+   "note": "Free; RSVP on Eventbrite.",
+   "id": "lac-holidays-in-harmony-community-winter-festival",
+   "lat": 34.0566,
+   "lng": -118.33235
+  },
+  {
+   "name": "Chanukah Party: Sand Menorahs & Donuts",
+   "category": "Holiday",
+   "date": "2026-12-01",
+   "place": "Silver Lake Branch Library, 2411 Glendale Blvd",
+   "time": "4:30pm–5:30pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/sand-menorah-making-donuts-at-the-silver-lake-library-tickets-2003940895162",
+   "description": "A family Chanukah party from Jewish Silver Lake at the library, with sand menorah making, donut decorating and a Chanukah storybook.",
+   "note": "Free; RSVP on Eventbrite (optional donation tier).",
+   "id": "lac-chanukah-party-sand-menorahs-donuts",
+   "lat": 34.10038,
+   "lng": -118.25962
+  },
+  {
+   "name": "Santa Monica Symphony: Voices of Innocence",
+   "category": "Movies & Music",
+   "date": "2026-11-21",
+   "place": "John Adams Middle School Performing Arts Center, 1630 Pearl St, Santa Monica",
+   "time": "7pm–9pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/santa-monica-symphony-presents-voices-of-innocence-tickets-1993624372164",
+   "description": "The community Santa Monica Symphony plays Mahler's Fourth Symphony and premieres Todd Mason's Of Rose and Ice, its first commissioned work.",
+   "note": "Free community orchestra concert; reserve on Eventbrite.",
+   "id": "lac-santa-monica-symphony-voices-of-innocence",
+   "lat": 34.01454,
+   "lng": -118.47081
   }
  ],
  "center": [

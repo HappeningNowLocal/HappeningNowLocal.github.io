@@ -1,6 +1,6 @@
 # Happening Now Local: Source List
 
-Checked 2026-11-12. **Reachable** means the page loaded from this box. **Search-only** means I read the page text through the search index and did not load it directly. **Blocked** means 403 or a block page.
+Checked 2026-11-14. **Reachable** means the page loaded from this box. **Search-only** means I read the page text through the search index and did not load it directly. **Blocked** means 403 or a block page.
 
 ## Cross-region (all cities)
 | Name | URL | Covers | Reachable |
@@ -52,7 +52,6 @@ Checked 2026-11-12. **Reachable** means the page loaded from this box. **Search-
 |---|---|---|---|
 | Eventbrite | https://www.eventbrite.com/d/ut--st-george/events/ (also /free--events/, /community--events/, /family-and-education--events/, /holiday--events/, /food-and-drink--events/, /arts--events/) | Community events listed on Eventbrite. Open each event page and use its URL as the source. Skip concerts, club/bar crawls, seminars, church-ward internal events, online and generic promos | Reachable |
 | Utah State Parks events API | https://stateparks.utah.gov/wp-json/tribe/events/v1/events?start_date=2026-11-04&end_date=2026-12-31&per_page=50 | Snow Canyon, Sand Hollow, Quail Creek, Antelope Island, Goblin Valley, Frontier Homestead, Camp Floyd | Reachable. The HTML calendar page shows little |
-| Sand Hollow calendar | https://stateparks.utah.gov/parks/sand-hollow/events-calendar/ | Tournaments, closures | Search-only |
 | Zion NP | https://www.nps.gov/zion/planyourvisit/calendar.htm | Ranger stargazing | JS-only; API works |
 | St. George Chamber (Tabernacle) | https://stgeorgechamber.com/november-2026-tabernacle-events/ | Free Tabernacle programs | Search-only |
 | SGWOM | https://sgwom.com/news/things-to-do-st-george-november-2026/ | Local event guide | Search-only |
@@ -223,8 +222,8 @@ Routing: every Lake Havasu City event goes in `data/lake-havasu-city.json` (id p
 | Las Vegas | LVCCLD library JSON | https://events.thelibrarydistrict.org/eeventcaldata (see Laughlin row) | All branch events: book sales, kid markets, holiday concerts, free movies | Reachable |
 | Las Vegas | Fergusons Downtown | https://www.fergusonsdowntown.com/events0 | Holoholo Market, Small Business Weekend, 702 Market | Reachable |
 | Las Vegas | Cars & Coffee: LVC Diner, Das Erbe Gears & Grinds, Celebrity Cars & Coffee | https://carsandcoffeeevents.com/ , https://carcruisefinder.com/ | Recurring car meets | Reachable (secondary; confirm on organizer social pages) |
-| Las Vegas | Opportunity Village Magical Forest | https://www.opportunityvillage.org/magical-forest | Holiday lights | Reachable |
-| Las Vegas | Glittering Lights (LVMS) | https://www.lvms.com/glittering-lights/ | Drive-through holiday lights | Reachable |
+| Las Vegas | Opportunity Village Magical Forest | https://www.opportunityvillage.org/ovevents/magical-forest | Holiday lights | Reachable |
+| Las Vegas | Glittering Lights (LVMS) | https://glitteringlightslasvegas.com/ | Drive-through holiday lights | Reachable |
 | Las Vegas | Convention calendars | https://vegasconventioncalendar.com/ , https://www.conventionexpomagazine.com/ | Public vs industry shows (DesignerCon, Pokemon Regionals, IBJJF, Irrigation Show) | Reachable |
 | Las Vegas | Review-Journal Neon free things | https://www.reviewjournal.com/entertainment/ | Weekly free-things lists | Search-only |
 | Las Vegas | FOX5 holiday stories | https://www.fox5vegas.com/ | Ice rinks, tree lightings | Reachable |
@@ -275,7 +274,7 @@ Notes from 2026-11-10: Utah State Parks event slugs change each year (e.g. art-o
 | Cedar City / St. George | 435locals | https://435locals.com/ | Southern Utah event listings | Reachable (secondary) |
 | Cedar City | The Forge Arts | https://theforgearts.com/ | Paid shows (not added) | Reachable |
 | Hurricane | Washington County Legacy Park events | https://thelegacypark.com/events | Rodeos, boutiques, home shows at Legacy Park | Reachable |
-| Zion / Springdale | Springdale town calendar (list view) | https://springdale.utah.gov/calendar.aspx?view=list | Drum circle, Wreaths Across America, town events (use this over older event pages that still show last year's dates) | Reachable |
+| Zion / Springdale | Springdale town calendar (list view) | https://www.springdale.utah.gov/calendar.aspx?view=list | Drum circle, Wreaths Across America, town events (use this over older event pages that still show last year's dates) | Reachable |
 | St. George | Greater Zion events | https://events.greaterzion.com/ | Tourism calendar | Reachable |
 | Lake Havasu | Havasu Chamber Desert Bash | https://www.havasuchamber.com/ | Desert Bash off-road poker run | Reachable |
 | Phoenix | S'edav Va'aki Museum Foundation | https://www.svmfoundation.org/ | Indian Market | Reachable |
@@ -288,3 +287,31 @@ Notes from 2026-11-10: Utah State Parks event slugs change each year (e.g. art-o
 Removed 2026-11-12: none (no dead sources found).
 
 Notes from 2026-11-12: sandiego.org, garagecherries and nowplayingutah block this box. cityofpasadena.net returned an empty page. The Wasatch Collective Eventbrite page did not load, so it was not added. Some Eventbrite "festival" listings look like generic resale promos (e.g. "Las Vegas Holiday Food & Drinks Festival", "SLC Christmas Shopping Festival", "Christmas Around the World SLC") and were skipped. Laughlin times: write Laughlin (Pacific) time first and Arizona time in parentheses, e.g. "5pm Laughlin time (6pm Arizona time)". The calendar reads the first time, so Arizona-first strings put events an hour late.
+
+## Added 2026-11-14
+| City | Name | URL | Covers | Reachable |
+|---|---|---|---|---|
+| Henderson | Galleria at Sunset events | https://www.galleriaatsunset.com/events | Mall holiday storytime, bingo, Breakfast with Santa | Reachable |
+| Henderson | RTC Southern Nevada community events | https://forward.rtcsnv.com/ | Community event listings (Inspirada Winter Festival); confirm with organizer when possible | Reachable |
+| Las Vegas | UnCommons event series | https://www.uncommons.com/ | Paddock Auto Oasis car meets, community events | Reachable |
+| Las Vegas | VA Southern Nevada events | https://www.va.gov/southern-nevada-health-care/events/ | Veteran car shows, community events at VA campuses | Reachable |
+| Las Vegas | Vegas Valley Mustang Club | https://www.vegasvalleymustangs.org/ | Wheels of Hope toy drive car show, club shows | Reachable |
+| Las Vegas | Antique Arms Show | https://antiquearmsshow.com/attendee-information/ | Las Vegas Antique Arms Show at Westgate (Jan) | Reachable |
+| Las Vegas | All The Gun Shows | https://allthegunshows.com/ | Gun show schedules (secondary; confirm with promoter) | Reachable |
+| Boulder City / Las Vegas | SOS Radio community calendar | https://www.sosradio.net/lasvegas/calendar/ | Church and community holiday events | Reachable |
+| Cedar City | SUU events (Localist API) | https://events.suu.edu/api/2/events?days=60&pp=100 | SUMA, SUU concerts, sales, 5Ks | Reachable (TLS cert error from this box; use the event pages as sources) |
+| St. George | Stride Events / Utah Golf Expo | https://www.strideevents.com/ | Utah Golf Expo at Dixie Convention Center (Jan) | Reachable |
+| Zion / Springdale | Nama-Stay Retreat Village | https://www.nama-stay.com/ | Winter Solstice celebration, community gatherings | Reachable |
+| Salt Lake City | SLC Public Library events (LibNet) | https://slcpl.libnet.info/events | Main and branch library events (Diwali, Las Posadas, book sales) | Reachable |
+| Salt Lake City | Eccles Organ Festival | https://ecclesorganfestival.weebly.com/ | Free organ concerts at Cathedral of the Madeleine | Reachable |
+| Salt Lake City | Downtown Farmers Market | https://www.slcfarmersmarket.org/ | Winter farmers market (Saturdays, Civic Center) | Reachable |
+| Salt Lake City | Christkindlmarkt SLC | https://www.christkindlmarkt-slc.com/ | German Christmas market dates, hours, parking | Reachable |
+| San Diego | Spreckels Organ Society | https://spreckelsorgan.org/ | Free Sunday organ concerts in Balboa Park | Reachable |
+| San Diego | Makers Arcade | https://www.makersarcade.com/ | Holiday maker fairs | Reachable |
+| San Diego | Mission Trails Regional Park Foundation | https://mtrp.org/ | Trail Tykes and ranger programs (registration on Eventbrite) | Reachable |
+| Phoenix | Local Car Arizona (lcarizona.com) | https://lcarizona.com/ | Car meet listings (Highline Autos Cars & Coffee) | Reachable |
+| Phoenix | Downtown Chandler | https://downtownchandler.org/ | Cars & Coffee and downtown Chandler events | Reachable |
+
+Removed 2026-11-14: Sand Hollow calendar (stateparks.utah.gov/parks/sand-hollow/events-calendar/ returns 404; the Utah State Parks events feed still covers Sand Hollow). Updated moved URLs: Opportunity Village Magical Forest (now /ovevents/magical-forest), Glittering Lights (now glitteringlightslasvegas.com), Springdale calendar (needs www.).
+
+Notes from 2026-11-14: sandandwaterexpo.com now shows a spam site, so the Sand, Water & RV Expo was sourced from another page. cityofnorthlasvegas.com returned 403. north-las-vegas.com is a low-confidence directory and was not used. cityofhenderson.com, 8newsnow, sandiego.org, visitarizona and cpw returned 403; havasunews and stgnewsletter returned 429; redrockcanyonlv and gomtcharleston returned 520; downtownculvercity, eventswithcars and yodel did not respond from this box. Generic Eventbrite promos (e.g. "Los Angeles Holiday lights & Street Festival") were skipped.

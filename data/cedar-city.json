@@ -1,6 +1,6 @@
 {
  "city": "Cedar City, UT",
- "checked": "2026-11-12",
+ "checked": "2026-11-14",
  "events": [
   {
    "name": "Festival City Farmers Market",
@@ -393,13 +393,104 @@
    "place": "Bryce Canyon Visitor Center (meet first)",
    "time": "8am–12pm",
    "free": true,
-   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=97D093D9-BFA",
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=97D093D9-BFA1-C0AE-48A1C725DD1DBABD",
    "date": "2026-12-19",
-   "note": "Free; park entrance fee applies.",
+   "note": "Free; register by emailing the park contact listed on the NPS page. Park entrance fee applies.",
    "description": "Join park staff and volunteers counting birds across Bryce Canyon for Audubon's long-running Christmas Bird Count. Meet first at the visitor center.",
    "id": "ce-bryce-canyon-christmas-bird-count",
    "lat": 37.6403,
    "lng": -112.1696
+  },
+  {
+   "name": "Bryce Canyon Geology Ranger Talk",
+   "category": "Outdoors & Nature",
+   "rule": {
+    "dow": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ],
+    "from": "2026-11-14",
+    "until": "2027-04-03",
+    "skip": [
+     "2026-11-26",
+     "2026-12-10",
+     "2026-12-25"
+    ]
+   },
+   "place": "Sunset Point, Bryce Canyon National Park",
+   "time": "11am–11:30am",
+   "free": true,
+   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=EC0D51EC-E311-819A-0F2BDF41FB5C1284",
+   "description": "A short ranger talk on Bryce Canyon's hoodoos and geology at the alcove to the right of Sunset Point. About 20 minutes; wheelchair accessible.",
+   "note": "Daily except Nov 26, Dec 10 and Dec 25. Park entrance fee applies.",
+   "know": [
+    "Cancelled for thunderstorms, low wind chill or staffing; confirm at the visitor center that day."
+   ],
+   "lat": 37.62296,
+   "lng": -112.16609,
+   "id": "ce-bryce-canyon-geology-ranger-talk"
+  },
+  {
+   "name": "Winter Solstice at SUMA",
+   "category": "Holiday",
+   "date": "2026-12-12",
+   "place": "Southern Utah Museum of Art, 13 S 300 W",
+   "time": "4pm–6pm",
+   "free": true,
+   "source": "https://events.suu.edu/event/winter-solstice-5947",
+   "description": "The Southern Utah Museum of Art marks the longest nights of the year with storytelling, music performances and traditional solstice activities.",
+   "note": "Free. Soup, rolls, cookies and cider served.",
+   "lat": 37.65709,
+   "lng": -113.06635,
+   "id": "ce-winter-solstice-at-suma"
+  },
+  {
+   "name": "SUU Ceramics Guild Holiday Sale",
+   "category": "Art & Craft",
+   "date": "2026-12-01",
+   "end": "2026-12-02",
+   "place": "Sharwan Smith Student Center (Living Room), Southern Utah University",
+   "time": "9am–5pm",
+   "free": true,
+   "source": "https://events.suu.edu/event/ceramics-guild-fall-sale",
+   "description": "SUU ceramics students sell one-of-a-kind handmade pottery and ceramic art, just in time for holiday gifts.",
+   "note": "Free to browse; prices vary per piece.",
+   "id": "ce-suu-ceramics-guild-holiday-sale",
+   "lat": 37.6755,
+   "lng": -113.07134
+  },
+  {
+   "name": "SUU Symphony & Chamber Orchestra Fall Concert",
+   "category": "Movies & Music",
+   "date": "2026-11-18",
+   "place": "Okerlund Hall, Eccles Music Center, Southern Utah University",
+   "time": "7:30pm–9pm",
+   "free": true,
+   "source": "https://events.suu.edu/event/symphony-orchestra-chamber-orchestra-fall-concert-2026",
+   "description": "The SUU Symphony and Chamber Orchestras play Beethoven, Yiping Wang, Arturo Márquez and Aaron Copland under Dr. Xun Sun with guest conductor Dr. Adam Lambert.",
+   "note": "Free concert.",
+   "lat": 37.67797,
+   "lng": -113.0676,
+   "id": "ce-suu-symphony-chamber-orchestra-fall-concert"
+  },
+  {
+   "name": "SUU Food Drive 5K",
+   "category": "Outdoors & Nature",
+   "date": "2026-11-14",
+   "place": "Coal Creek Trail, West Canyon Park, 133 S 400 E",
+   "time": "9am",
+   "free": true,
+   "source": "https://events.suu.edu/event/food-drive-5k",
+   "description": "SUU Ambassadors team up with parkrun and Iron County Care and Share for a free community 5K along the Coal Creek Trail.",
+   "note": "Free; bring a non-perishable food item for Iron County Care and Share.",
+   "id": "ce-suu-food-drive-5k",
+   "lat": 37.6649,
+   "lng": -113.05536
   }
  ],
  "center": [

@@ -1,22 +1,23 @@
 {
  "city": "Salt Lake City, UT",
- "checked": "2026-11-12",
+ "checked": "2026-11-14",
  "events": [
   {
-   "name": "SLC Winter Farmers Market",
+   "name": "Downtown Winter Farmers Market",
    "category": "Market",
-   "place": "Rio Grande Depot, 209 E 500 S",
+   "place": "Civic Center (by The Leonardo and Main Library), 209 E 500 S",
    "time": "10am–2pm",
    "free": true,
-   "source": "https://thehaps.app/event/80bfc0ad-5201-4611-adbe-30cdd631270a/",
+   "source": "https://www.slcfarmersmarket.org/getting-here",
    "rule": {
     "dow": [
      6
     ],
-    "from": "2026-11-21"
+    "from": "2026-11-14",
+    "until": "2027-04-17"
    },
-   "note": "Every Saturday, indoors.",
-   "description": "An indoor winter farmers market with local produce, prepared foods and artisan goods every Saturday at the Rio Grande Depot. Free to attend.",
+   "note": "Saturdays, Nov 14 – Apr 17. Free. Two hours free parking with validation at the library.",
+   "description": "The Downtown Farmers Market's winter season: local produce, prepared foods and artisan goods every Saturday at Civic Center by The Leonardo and the Main Library. Free to attend.",
    "id": "sl-slc-winter-farmers-market",
    "lat": 40.75857,
    "lng": -111.85249
@@ -59,15 +60,16 @@
    "name": "Christkindlmarkt SLC",
    "category": "Holiday",
    "place": "This Is The Place Heritage Park, 2601 E Sunnyside Ave",
-   "time": "From 11am",
+   "time": "11am–8pm",
    "free": true,
-   "source": "https://www.ksl.com/events/details/557858",
+   "source": "https://www.christkindlmarkt-slc.com/market-faq",
    "date": "2026-12-02",
-   "note": "Free; multi-day — check source for all dates.",
-   "description": "Inspired by Germany's famous Christmas markets, Christkindlmarkt SLC offers holiday shopping, food and festive entertainment. Free to the public.",
+   "note": "Free, no tickets. Free offsite parking with shuttle; prepaid onsite parking. No pets.",
+   "description": "Inspired by Germany's famous Christmas markets, Christkindlmarkt SLC fills This Is The Place Heritage Park with vendors, food, performances, parades and a live nativity for four days. Free to the public.",
    "id": "sl-christkindlmarkt-slc-2026-12-02",
    "lat": 40.75094,
-   "lng": -111.81651
+   "lng": -111.81651,
+   "end": "2026-12-05"
   },
   {
    "name": "Fun Science Friday",
@@ -78,7 +80,6 @@
    "source": "https://slco.trumba.com/salt-lake-county-events-calendar-planetarium/Fun-Science-Friday/E212179574",
    "rule": {
     "dates": [
-     "2026-11-13",
      "2026-11-20",
      "2026-11-27"
     ]
@@ -154,20 +155,6 @@
    "id": "sl-spirit-of-the-season-at-camp-floyd-2026-12",
    "lat": 40.25247,
    "lng": -112.09895
-  },
-  {
-   "name": "Science Utah: Moon Bases & Mars Cities",
-   "category": "Family",
-   "place": "Clark Planetarium, 110 S 400 W, Salt Lake City",
-   "time": "7pm–8pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/science-utah-moon-bases-mars-cities-and-humanitys-future-in-space-tickets-1996113673732",
-   "date": "2026-11-12",
-   "note": "Free; register on Eventbrite.",
-   "description": "A Science Utah lecture at Clark Planetarium on humanity's future in space, from Moon settlements to interstellar travel. It blends real science with informed speculation about where exploration goes next.",
-   "id": "sl-science-utah-moon-bases-mars-cities-eb",
-   "lat": 40.74262,
-   "lng": -111.90256
   },
   {
    "name": "Dolly & Denim at the Utah Capitol",
@@ -267,6 +254,91 @@
    "id": "sl-wisdom-keepers-holiday-arts-market",
    "lat": 40.74166,
    "lng": -111.90308
+  },
+  {
+   "name": "Diwali Celebration at the Main Library",
+   "category": "Festival",
+   "date": "2026-11-21",
+   "place": "Salt Lake City Main Library, 210 E 400 S",
+   "time": "2pm–5pm",
+   "free": true,
+   "source": "https://slcpl.libnet.info/event/17613721",
+   "description": "Celebrate Diwali, the Festival of Lights, with South Asian music and dance, activities, food and a ceremonial lighting of diyas, presented with the India Cultural Center of Utah.",
+   "note": "Free; arrive early for an auditorium seat. Performances 2–3pm and 3:30–4:30pm.",
+   "id": "sl-diwali-celebration-at-the-main-library",
+   "lat": 40.76069,
+   "lng": -111.85107
+  },
+  {
+   "name": "Holiday Used Book Sale",
+   "category": "Market",
+   "date": "2026-12-04",
+   "end": "2026-12-05",
+   "place": "Salt Lake City Main Library, 210 E 400 S",
+   "time": "10am–6pm",
+   "free": true,
+   "source": "https://slcpl.libnet.info/event/17291120",
+   "description": "Friends of The City Library's holiday sale of used hardbacks, paperbacks, picture books, movies and more. Proceeds fund library programs.",
+   "note": "Free entry. Friends members-only preview Dec 3, 4:30–7:30pm.",
+   "id": "sl-holiday-used-book-sale",
+   "lat": 40.76069,
+   "lng": -111.85107
+  },
+  {
+   "name": "Las Posadas Celebration",
+   "category": "Holiday",
+   "date": "2026-12-18",
+   "place": "Chapman Branch Library, 577 S 900 W",
+   "time": "6pm–8pm",
+   "free": true,
+   "source": "https://slcpl.libnet.info/event/17668657",
+   "description": "A Las Posadas celebration with cookies, hot chocolate, a candle procession and chant outside, then a dance performance and piñata inside the Chapman Branch.",
+   "note": "Free; capacity is limited. Starts outdoors, so dress warmly.",
+   "id": "sl-las-posadas-celebration",
+   "lat": 40.72931,
+   "lng": -111.91687
+  },
+  {
+   "name": "Brass & Organ Christmas Concert",
+   "category": "Holiday",
+   "date": "2026-12-13",
+   "place": "Cathedral of the Madeleine, 331 E South Temple",
+   "time": "8pm",
+   "free": true,
+   "source": "https://ecclesorganfestival.weebly.com/2026-2027-season.html",
+   "description": "The Eccles Organ Festival's annual Christmas concert pairs the brass section of the Utah Symphony with the cathedral's Eccles Memorial Organ, one of Salt Lake's favorite holiday music traditions.",
+   "note": "Unticketed; first-come seating until full.",
+   "id": "sl-brass-organ-christmas-concert",
+   "lat": 40.76974,
+   "lng": -111.88143
+  },
+  {
+   "name": "Eccles Organ Festival: Jillian Gardner",
+   "category": "Movies & Music",
+   "date": "2027-01-10",
+   "place": "Cathedral of the Madeleine, 331 E South Temple",
+   "time": "8pm",
+   "free": true,
+   "source": "https://ecclesorganfestival.weebly.com/2026-2027-season.html",
+   "description": "Organist Jillian Gardner of Huntsville, Alabama, plays a program spanning baroque works to modern voices on the cathedral's Eccles Memorial Organ.",
+   "note": "Free and open to the public; first-come seating.",
+   "id": "sl-eccles-organ-festival-jillian-gardner",
+   "lat": 40.76974,
+   "lng": -111.88143
+  },
+  {
+   "name": "Shoreline Sentinels of Great Salt Lake: Film & Panel",
+   "category": "Outdoors & Nature",
+   "date": "2026-11-17",
+   "place": "Sorenson Unity Center, 1383 S 900 W",
+   "time": "7pm–8:30pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/shoreline-sentinels-of-great-salt-lake-film-screening-panel-discussion-tickets-2003383618332",
+   "description": "Great Salt Lake Audubon screens a 17-minute film about the snowy plovers that nest on the lake's shore, followed by a panel discussion.",
+   "note": "Free; register on Eventbrite.",
+   "id": "sl-shoreline-sentinels-of-great-salt-lake-film-panel",
+   "lat": 40.73954,
+   "lng": -111.9167
   }
  ],
  "center": [

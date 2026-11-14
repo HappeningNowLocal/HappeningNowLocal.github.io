@@ -1,6 +1,6 @@
 {
  "city": "Hurricane, UT",
- "checked": "2026-11-12",
+ "checked": "2026-11-14",
  "events": [
   {
    "name": "Art of Adventure at Sand Hollow",
@@ -214,8 +214,6 @@
    "source": "https://www.sltrib.com/news/2026/11/09/southern-utah-listings-events-week/",
    "rule": {
     "dates": [
-     "2026-11-12",
-     "2026-11-13",
      "2026-11-14",
      "2026-11-16",
      "2026-11-17",
@@ -278,6 +276,20 @@
    "id": "hu-toquerville-trails-turkey-trot",
    "lat": 37.2533,
    "lng": -113.2851
+  },
+  {
+   "name": "LEGO Club at Hurricane Library",
+   "category": "Family",
+   "date": "2026-12-10",
+   "place": "Hurricane Valley Library, 36 S 300 W (Community Room)",
+   "time": "4pm–5pm",
+   "free": true,
+   "source": "https://washco.libcal.com/event/17366203",
+   "description": "Kids build and create with the library's LEGO collection at the Hurricane branch of the Washington County Library.",
+   "note": "Free.",
+   "id": "hu-lego-club-at-hurricane-library",
+   "lat": 37.17565,
+   "lng": -113.29425
   }
  ],
  "center": [
