@@ -278,3 +278,6 @@ dialog#sheet::backdrop,dialog#citySheet::backdrop,dialog#suggestSheet::backdrop,
   .card:hover{transform:none}
 }
 .feat .wk-h h1,.feat-h{margin:0;font-size:clamp(1.6rem,3vw,2.15rem);line-height:1.15;color:var(--ink);font-family:var(--serif);font-weight:700;letter-spacing:-.02em}
+
+/* [hidden] must beat later display:flex rules on .pop menus */
+[hidden]{display:none!important}
