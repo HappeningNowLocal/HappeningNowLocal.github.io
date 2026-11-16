@@ -97,30 +97,6 @@
    "lng": -114.57128
   },
   {
-   "name": "Homegrown Holiday Farmers Market",
-   "category": "Market",
-   "place": "Community Park, Bullhead City",
-   "time": "8am–12pm Laughlin time (9am–1pm Arizona time)",
-   "free": true,
-   "source": "https://www.bullheadcity.com/2026/11/14/617624/homegrown-holiday-bullhead-city-farmers-market/",
-   "date": "2026-11-14",
-   "note": "Free.",
-   "description": "Homegrown Holiday Farmers Market at Community Park, Bullhead City. Free.",
-   "id": "lau-homegrown-holiday-farmers-market"
-  },
-  {
-   "name": "Riverview Craft & Vendor Fair",
-   "category": "Market",
-   "place": "Riverview Resort, Bullhead City",
-   "time": "7am–12pm Laughlin time (8am–1pm Arizona time)",
-   "free": true,
-   "source": "https://www.bullheadcity.com/2026/11/14/656582/craft-vendor-fair/",
-   "date": "2026-11-14",
-   "note": "Free.",
-   "description": "Riverview Craft & Vendor Fair at Riverview Resort, Bullhead City. Free.",
-   "id": "lau-riverview-craft-vendor-fair"
-  },
-  {
    "name": "Gobble Wobble Little Turkey Trot",
    "category": "Family",
    "place": "Optimum Community Center, Bullhead City",
@@ -194,7 +170,9 @@
    "date": "2026-12-12",
    "note": "Free.",
    "description": "The Great Christmas Carnival at Anderson Auto Group Fieldhouse, Bullhead City. Free.",
-   "id": "lau-the-great-christmas-carnival"
+   "id": "lau-the-great-christmas-carnival",
+   "lat": 35.056548,
+   "lng": -114.599075
   },
   {
    "name": "Christmas on the City Hall Deck",
@@ -206,7 +184,9 @@
    "date": "2026-12-18",
    "note": "Free. Holiday fun with Santa.",
    "description": "Christmas on the City Hall Deck at Bullhead City Hall, 2355 Trane Rd. Free. Holiday fun with Santa.",
-   "id": "lau-christmas-on-the-city-hall-deck"
+   "id": "lau-christmas-on-the-city-hall-deck",
+   "lat": 35.101715,
+   "lng": -114.604749
   },
   {
    "name": "New Year, Fresh Start Farmers Market",

@@ -22,20 +22,6 @@
    "lng": -118.30029
   },
   {
-   "name": "Griffith Park Sunset Walk & Talk",
-   "category": "Outdoors & Nature",
-   "place": "Greek Theatre Parking Lot F/G, 2700 N Vermont Ave",
-   "time": "3:30pm–6pm",
-   "free": true,
-   "source": "https://griffithobservatory.lacity.gov/event/sunset-walk-talk-november-2026/",
-   "date": "2026-11-14",
-   "note": "2.25 mi, 375 ft gain, moderate.",
-   "description": "Observatory staff, urban ecologists and Griffith Park Rangers lead a sunset hike up the Boy Scout Trail to the Berlin Forest. Stops cover park history and objects visible in the evening sky.",
-   "id": "lac-griffith-park-sunset-walk-talk-2026-11-14",
-   "lat": 34.11756,
-   "lng": -118.29249
-  },
-  {
    "name": "Neighborhood Sing (LAPL)",
    "category": "Movies & Music",
    "place": "North Hollywood Library, 5211 Tujunga Ave",
@@ -256,35 +242,6 @@
    "id": "lac-grand-illuminations-opening-night",
    "lat": 34.05143,
    "lng": -118.25163
-  },
-  {
-   "name": "Japanese Food Expo in LA",
-   "category": "Festival",
-   "place": "Ovation Hollywood, 6801 Hollywood Blvd",
-   "time": "5pm–8pm",
-   "free": false,
-   "price": "Ticketed",
-   "source": "https://www.eventbrite.com/e/2026-japanese-food-expo-in-la-tickets-2001405302135",
-   "date": "2026-11-13",
-   "end": "2026-11-14",
-   "description": "Japanese food, drinks and culture at Ovation Hollywood, with tastings included in admission.",
-   "id": "lac-japanese-food-expo-in-la",
-   "lat": 34.10269,
-   "lng": -118.34047
-  },
-  {
-   "name": "Cultural Harvest Faire",
-   "category": "Festival",
-   "place": "4040 N Bellflower Blvd, Long Beach",
-   "time": "11am–4pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/cultural-harvest-faire-2026-tickets-2002843877954",
-   "date": "2026-11-14",
-   "note": "Free general admission; some paid tiers.",
-   "description": "A multicultural festival celebrating heritage and traditions through music, art, crafts and food.",
-   "id": "lac-cultural-harvest-faire",
-   "lat": 33.77175,
-   "lng": -118.12106
   },
   {
    "name": "Union Station Tree Lighting Ceremony",

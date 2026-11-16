@@ -17,33 +17,6 @@
    "lng": -114.03498
   },
   {
-   "name": "Kingman Veterans Day Parade",
-   "category": "Holiday",
-   "place": "Beale Street, 5th St to 1st St",
-   "time": "10am–11am",
-   "free": true,
-   "source": "https://www.explorekingman.com/2026-11-14-event-verterans-day-parade/",
-   "date": "2026-11-14",
-   "description": "Kingman's Veterans Day parade down Beale Street in historic downtown, organized with the Kingman Area Veterans Association.",
-   "id": "ki-kingman-veterans-day-parade-2026-11-14",
-   "lat": 35.18755,
-   "lng": -114.04291
-  },
-  {
-   "name": "Gobble Wobble in the Pai's 5K/10K",
-   "category": "Outdoors & Nature",
-   "place": "Hualapai Mountain Park",
-   "time": "9am",
-   "free": false,
-   "source": "https://runsignup.com/Race/AZ/Kingman/HMPGobblewobble",
-   "date": "2026-11-14",
-   "note": "Entry fee; see registration page.",
-   "description": "Hualapai Mountain Park's 3rd annual Gobble Wobble trail race with 5K and 10K options. Race-day registration closes at 8:30am.",
-   "id": "ki-gobble-wobble-in-the-pai-s-5k-10k-2026-11-14",
-   "lat": 35.09361,
-   "lng": -113.89304
-  },
-  {
    "name": "Chillin' on Beale",
    "category": "Festival",
    "place": "Beale Street, Downtown Kingman",
@@ -108,20 +81,6 @@
    "id": "ki-downtown-cookie-crawl-2026-12-12",
    "lat": 35.18999,
    "lng": -114.0539
-  },
-  {
-   "name": "Sound the Alarm – Free Smoke Alarm Installs",
-   "category": "Family",
-   "place": "749 Egar Rd, Golden Valley",
-   "time": "9am–4pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/sound-the-alarm-tickets-2003616658361",
-   "date": "2026-11-14",
-   "note": "Free; volunteer sign-up.",
-   "description": "An American Red Cross volunteer day installing free smoke alarms in local homes, making escape plans and sharing fire safety information. Sign up on Eventbrite to volunteer.",
-   "id": "ki-sound-the-alarm-free-smoke-alarm-installs-eb",
-   "lat": 35.2075,
-   "lng": -114.3071
   },
   {
    "name": "Cancer Care Unit 51st Arts & Crafts Fair",

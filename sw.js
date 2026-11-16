@@ -1,4 +1,4 @@
-const C="hnl-v26",T="hnl-tiles",A=["./","index.html","style.css?v=26","app.js?v=26","icon.svg","icon-192.png","icon-512.png","apple-touch-icon.png","manifest.webmanifest","data/cities.json","vendor/leaflet/leaflet.js","vendor/leaflet/leaflet.css"];
+const C="hnl-v27",T="hnl-tiles",A=["./","index.html","style.css?v=27","app.js?v=27","icon.svg","icon-192.png","icon-512.png","apple-touch-icon.png","manifest.webmanifest","og.jpg","data/cities.json","vendor/leaflet/leaflet.js","vendor/leaflet/leaflet.css"];
 self.addEventListener("install",e=>e.waitUntil(caches.open(C).then(c=>c.addAll(A))));
 self.addEventListener("activate",e=>e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!=C&&x!=T).map(x=>caches.delete(x))))));
 self.addEventListener("fetch",e=>{if(e.request.method!="GET")return;const u=new URL(e.request.url);

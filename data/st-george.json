@@ -30,23 +30,6 @@
    "lng": -113.57491
   },
   {
-   "name": "MOD the Modern Market",
-   "category": "Art & Craft",
-   "place": "Vernon Worthen Park",
-   "time": "10am–3pm",
-   "free": true,
-   "source": "https://modthemarket.com/",
-   "date": "2026-11-14",
-   "note": "Local artisans, boutiques and food trucks. Free admission.",
-   "description": "A semi-annual pop-up market of local artisans, boutiques and food trucks in Vernon Worthen Park, now in its 9th edition.",
-   "know": [
-    "Free admission."
-   ],
-   "id": "st-mod-the-modern-market",
-   "lat": 37.10381,
-   "lng": -113.57589
-  },
-  {
    "name": "Concerts at the Electric: Color Country Choir",
    "category": "Holiday",
    "place": "The Electric Theater",
@@ -145,21 +128,6 @@
    "lng": -113.58231
   },
   {
-   "name": "Art of Adventure Nature Journaling",
-   "category": "Outdoors & Nature",
-   "place": "Sand Hollow State Park",
-   "time": "10am–11am",
-   "free": false,
-   "source": "https://stateparks.utah.gov/event/art-of-adventure-9/",
-   "price": "Park entry",
-   "date": "2026-11-14",
-   "note": "Journals and drawing materials provided.",
-   "description": "A mid-morning nature journaling adventure with a park ranger, learning ways to be creative outdoors. Nature journals and drawing materials are provided.",
-   "id": "st-art-of-adventure-nature-journaling-2026-11",
-   "lat": 37.11296,
-   "lng": -113.3748
-  },
-  {
    "name": "Movie Meetup at Sand Hollow",
    "category": "Movies & Music",
    "place": "Sand Hollow State Park, 3351 Sand Hollow Rd, Hurricane",
@@ -219,20 +187,6 @@
    "lng": -113.57449
   },
   {
-   "name": "Tabernacle: Bar G Wranglers",
-   "category": "Movies & Music",
-   "place": "Historic St. George Tabernacle",
-   "time": "7pm",
-   "free": true,
-   "source": "https://stgeorgechamber.com/november-2026-tabernacle-events/",
-   "date": "2026-11-14",
-   "note": "Free western harmony show.",
-   "description": "The Bar G Wranglers, known for true western harmony and family-friendly shows, perform a free evening at the Tabernacle.",
-   "id": "st-tabernacle-bar-g-wranglers-2026-11-14",
-   "lat": 37.10783,
-   "lng": -113.58378
-  },
-  {
    "name": "Tuacahn Saturday Market",
    "category": "Market",
    "place": "Tuacahn Center for the Arts, Ivins",
@@ -251,20 +205,6 @@
    "id": "st-tuacahn-saturday-market",
    "lat": 37.19034,
    "lng": -113.65873
-  },
-  {
-   "name": "U.S. Navy Band Commodores",
-   "category": "Movies & Music",
-   "place": "Tuacahn Amphitheatre, Ivins",
-   "time": "7pm",
-   "free": true,
-   "source": "https://sgwom.com/news/veterans-day-2026-st-george-southern-utah-events/",
-   "date": "2026-11-14",
-   "note": "Free with reservation.",
-   "description": "U.S. Navy Band Commodores at Tuacahn Amphitheatre, Ivins. Free with reservation.",
-   "id": "st-u-s-navy-band-commodores",
-   "lat": 37.19105,
-   "lng": -113.65901
   },
   {
    "name": "Ivins Community Holiday Youth Market",
@@ -478,22 +418,6 @@
    "lng": -113.584
   },
   {
-   "name": "Shepherd of the Hills Holiday Bazaar",
-   "category": "Market",
-   "place": "Shepherd of the Hills UMC, 920 W Tonaquint Dr",
-   "time": "See site",
-   "free": false,
-   "source": "https://shumcstgeorge.com/holiday-bazaar/",
-   "price": "Price not listed",
-   "date": "2026-11-13",
-   "end": "2026-11-14",
-   "note": "Fri–Sat Nov 13–14. Hours and admission not listed.",
-   "description": "An old-fashioned holiday bazaar with handmade crafts, wearable art and gifts in the Courtyard Shops, a Sweet Shop with baked goods and a chili lunch at the Chili Shack. Proceeds help pay school lunch debt in Washington County.",
-   "id": "st-shepherd-of-the-hills-holiday-bazaar-2026-11-13",
-   "lat": 37.07315,
-   "lng": -113.60377
-  },
-  {
    "name": "Roam Wild Food Fest",
    "category": "Festival",
    "place": "Historic Downtown St. George",
@@ -561,7 +485,9 @@
    "end": "2026-12-09",
    "note": "Free and open to all. Arrive on time and dress warmly.",
    "description": "A live re-enactment of the Christmas story guided by shepherds. Afterward, gather at fire pits with hot chocolate, kettle corn and s'mores (for purchase).",
-   "id": "st-live-nativity-at-staheli-family-farm"
+   "id": "st-live-nativity-at-staheli-family-farm",
+   "lat": 37.078436,
+   "lng": -113.498143
   },
   {
    "name": "Staheli Family Farm Christmas Light Show",
@@ -579,7 +505,9 @@
     "Weather permitting; reserve wagon seats in advance.",
     "All ticket sales are final."
    ],
-   "id": "st-staheli-family-farm-christmas-light-show"
+   "id": "st-staheli-family-farm-christmas-light-show",
+   "lat": 37.078436,
+   "lng": -113.498143
   },
   {
    "name": "Cookies with Mrs. Claus",
@@ -591,7 +519,9 @@
    "source": "https://stahelifamilyfarm.com/events/",
    "date": "2026-12-12",
    "description": "Kids decorate a boxed set of sugar cookies with Mrs. Claus and her elves, then enjoy story time, a Christmas dance party, an indoor snowball fight and a visit with Santa. One adult chaperone included per child.",
-   "id": "st-cookies-with-mrs-claus"
+   "id": "st-cookies-with-mrs-claus",
+   "lat": 37.078436,
+   "lng": -113.498143
   },
   {
    "name": "Santa on The Farm",
@@ -608,7 +538,9 @@
     ]
    },
    "description": "Kids visit Santa and his elves in a traditional holiday setting and get a candy cane. Bring your own phone or camera for the photo area.",
-   "id": "st-santa-on-the-farm"
+   "id": "st-santa-on-the-farm",
+   "lat": 37.078436,
+   "lng": -113.498143
   },
   {
    "name": "Merry Christmas Drone Show at Staheli Family Farm",
@@ -620,7 +552,9 @@
    "source": "https://stahelifamilyfarm.com/events/",
    "date": "2026-12-23",
    "description": "Hundreds of synchronized drones paint festive animations over the farm's fields, choreographed to holiday music.",
-   "id": "st-merry-christmas-drone-show-at-staheli-fa"
+   "id": "st-merry-christmas-drone-show-at-staheli-fa",
+   "lat": 37.078436,
+   "lng": -113.498143
   },
   {
    "name": "Christmas in the Canyon at Tuacahn",
@@ -690,18 +624,6 @@
    "lng": -113.50436
   },
   {
-   "name": "Tribute to Our Veterans Car Show",
-   "category": "Shows & Expos",
-   "place": "2654 E Red Cliffs Dr, St. George",
-   "time": "10am–3pm",
-   "free": true,
-   "source": "https://www.sltrib.com/news/2026/11/09/southern-utah-listings-events-week/",
-   "date": "2026-11-14",
-   "note": "Benefits Southern Utah veterans. Food for purchase.",
-   "description": "A St. George Car Shows event with vehicles on display to benefit Southern Utah veterans. Food is available for purchase.",
-   "id": "st-tribute-to-our-veterans-car-show"
-  },
-  {
    "name": "Washington Utah Farmers Market",
    "category": "Market",
    "place": "Veterans Park, 75 E Telegraph St, Washington",
@@ -719,49 +641,6 @@
    "id": "st-washington-utah-farmers-market",
    "lat": 37.13036,
    "lng": -113.50869
-  },
-  {
-   "name": "Santa Clara Kids Farmers Market",
-   "category": "Market",
-   "place": "Santa Clara Town Hall, 2603 Santa Clara Dr, Santa Clara",
-   "time": "1pm–4pm",
-   "free": true,
-   "source": "https://www.sltrib.com/news/2026/11/09/southern-utah-listings-events-week/",
-   "date": "2026-11-14",
-   "description": "Young vendors sell their own goods at Santa Clara Town Hall.",
-   "id": "st-santa-clara-kids-farmers-market",
-   "lat": 37.12879,
-   "lng": -113.64507
-  },
-  {
-   "name": "City Cemetery Pioneer Section Walking Tour",
-   "category": "Outdoors & Nature",
-   "place": "St. George City Cemetery, 650 E Tabernacle St",
-   "time": "10am",
-   "free": true,
-   "source": "https://www.sltrib.com/news/2026/11/09/southern-utah-listings-events-week/",
-   "date": "2026-11-14",
-   "note": "Meet at the sexton's shed.",
-   "description": "LaRee Jones leads a free Washington County Historical Society walking tour of the cemetery's pioneer section.",
-   "id": "st-city-cemetery-pioneer-section-walking-to",
-   "lat": 37.10823,
-   "lng": -113.5836
-  },
-  {
-   "name": "Be Healthy Utah Natural Health & Wellness Conference",
-   "category": "Shows & Expos",
-   "place": "Dixie Convention Center, 1835 S Convention Center Dr",
-   "time": "Fri 2pm–8pm; Sat 10am–5pm",
-   "free": false,
-   "price": "Early-bird $10/day; $17 both days",
-   "source": "https://behealthyutah.com/",
-   "date": "2026-11-13",
-   "end": "2026-11-14",
-   "convention": true,
-   "description": "A public health and wellness expo with vendors and presentations at the Dixie Convention Center.",
-   "id": "st-be-healthy-utah-natural-health-wellness",
-   "lat": 37.07713,
-   "lng": -113.5822
   },
   {
    "name": "\"Artist's Choice\" Southern Utah Art Guild Show",

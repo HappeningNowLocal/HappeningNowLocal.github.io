@@ -278,25 +278,6 @@
    "lng": -115.51525
   },
   {
-   "name": "Stargazing at Spring Mountain Ranch",
-   "category": "Outdoors & Nature",
-   "place": "Spring Mountain Ranch State Park, 6375 NV-159, Blue Diamond",
-   "time": "5:30pm–8pm",
-   "free": false,
-   "source": "https://parks.nv.gov/events/star-gazing-with-the-las-vegas-astronomical-society-2",
-   "price": "$10/vehicle",
-   "date": "2026-11-14",
-   "note": "With the Las Vegas Astronomical Society. Cash-only entry.",
-   "description": "The Las Vegas Astronomical Society sets up 10 or more telescopes at Spring Mountain Ranch State Park for an evening of stargazing. Look for the Pleiades, Capella and possibly Saturn's rings, weather permitting.",
-   "know": [
-    "$10 per vehicle, cash only; bring exact change.",
-    "Leave pets at home; bring warm layers and a red light."
-   ],
-   "id": "la-stargazing-at-spring-mountain-ranch-2026-1",
-   "lat": 36.06959,
-   "lng": -115.45759
-  },
-  {
    "name": "Bird Walk with Red Rock Audubon",
    "category": "Outdoors & Nature",
    "place": "Spring Mountain Ranch State Park",
@@ -380,22 +361,6 @@
    "id": "la-neon-city-festival-2026-11-20",
    "lat": 36.17048,
    "lng": -115.14353
-  },
-  {
-   "name": "Las Vegas Days Rodeo",
-   "category": "Festival",
-   "place": "CORE Arena at Plaza Hotel & Casino",
-   "time": "Gates 4pm; rodeo 6pm",
-   "free": false,
-   "source": "https://www.plazahotelcasino.com/entertainment/helldorado-days-rodeo/",
-   "date": "2026-11-13",
-   "end": "2026-11-14",
-   "note": "Tickets from $26 (general admission); VIP $46, VIP+ $106. Formerly Helldorado Days.",
-   "description": "Helldorado Days Rodeo at CORE Arena beside the Plaza Hotel & Casino: PRCA and WPRA-sanctioned bull riding, barrel racing and roping, plus mutton bustin'. Fri Nov 13 is Neon Night and Sat Nov 14 is Patriotism Night. A family festival with a petting zoo and line dancing runs before each rodeo.",
-   "id": "la-las-vegas-days-rodeo-2026-11-13",
-   "lat": 36.17159,
-   "lng": -115.14709,
-   "price": "From $26"
   },
   {
    "name": "NFR Cowboy Christmas Gift Show",
@@ -667,20 +632,6 @@
    "lng": -115.20225
   },
   {
-   "name": "Night Market at Tivoli Village",
-   "category": "Art & Craft",
-   "place": "Tivoli Village, 440 S Rampart Blvd, Las Vegas",
-   "time": "4pm–9pm",
-   "free": true,
-   "source": "https://tivolivillagelv.com/events/tivoli-village-night-market-9df98658-f224-47cb-ae78-3c8349f82462",
-   "date": "2026-11-14",
-   "note": "Free to browse.",
-   "description": "Browse aisle after aisle of handcrafted goods at the Las Vegas Night Market at Tivoli Village. Vendors sell decorations, clothing, ceramics, candles, photography, jewelry, specialty foods and more.",
-   "id": "la-night-market-at-tivoli-village",
-   "lat": 36.16746,
-   "lng": -115.28733
-  },
-  {
    "name": "Nutcracker Night Market at Tivoli Village",
    "category": "Holiday",
    "place": "The Piazza, Tivoli Village, 440 S Rampart Blvd, Las Vegas",
@@ -720,20 +671,6 @@
    "id": "la-1000-flags-over-mesquite",
    "lat": 36.805,
    "lng": -114.07
-  },
-  {
-   "name": "Shop the Lot Holiday Kickoff Market",
-   "category": "Market",
-   "place": "Fantastic Indoor Swap Meet lot, 1717 S Decatur Blvd",
-   "time": "10am–3pm",
-   "free": true,
-   "source": "https://vegaseventsandmore.com/upcoming_events.php",
-   "date": "2026-11-14",
-   "note": "Free.",
-   "description": "Shop the Lot Holiday Kickoff Market at Fantastic Indoor Swap Meet lot, 1717 S Decatur Blvd. Free.",
-   "id": "la-shop-the-lot-holiday-kickoff-market",
-   "lat": 36.16219,
-   "lng": -115.20604
   },
   {
    "name": "Holiday Shopping Boutique at Suncoast",
@@ -886,7 +823,9 @@
    "date": "2027-01-18",
    "note": "Free.",
    "description": "45th Dr. Martin Luther King Jr. Birthday Parade at 4th St from Gass Ave to Ogden Ave. Free.",
-   "id": "la-45th-dr-martin-luther-king-jr-birthday-p"
+   "id": "la-45th-dr-martin-luther-king-jr-birthday-p",
+   "lat": 36.157147,
+   "lng": -115.150041
   },
   {
    "name": "SnowJam Las Vegas",
@@ -908,37 +847,6 @@
    "convention": true,
    "lat": 36.13102,
    "lng": -115.15018
-  },
-  {
-   "name": "Mecum Las Vegas Collector Car Auction",
-   "category": "Shows & Expos",
-   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
-   "time": "See source",
-   "free": false,
-   "price": "Bidder/spectator credentials — see Mecum",
-   "source": "https://www.mecum.com/auctions/las-vegas-2026/",
-   "date": "2026-11-12",
-   "end": "2026-11-14",
-   "note": "About 1,000 vehicles at LVCC. Register to bid or attend via Mecum.",
-   "description": "Mecum Auctions' Las Vegas collector car auction returns to the Las Vegas Convention Center with roughly 1,000 vehicles over three days.",
-   "id": "la-mecum-las-vegas-2026-11-12",
-   "convention": true,
-   "lat": 36.13102,
-   "lng": -115.15018
-  },
-  {
-   "name": "VetFest at Downtown Summerlin",
-   "category": "Festival",
-   "place": "The Lawn at Downtown Summerlin, 1980 Festival Plaza Dr",
-   "time": "9am–3pm",
-   "free": true,
-   "source": "https://summerlin.com/event/vetfest/",
-   "date": "2026-11-14",
-   "note": "4th annual. Open to the public; no admission fee listed.",
-   "description": "The 4th annual VetFest showcases Southern Nevada veteran and military-connected businesses on The Lawn at Downtown Summerlin, with nonprofits and community resource partners supporting veterans and military families.",
-   "id": "la-vetfest-downtown-summerlin",
-   "lat": 36.1517,
-   "lng": -115.333
   },
   {
    "name": "Downtown Summerlin Holiday Parade",
@@ -1016,97 +924,6 @@
    "id": "la-bbq-jackpot-2026-11-21",
    "lat": 36.0396,
    "lng": -115.1845
-  },
-  {
-   "name": "Las Vegas Pizza Festival",
-   "category": "Festival",
-   "place": "The INDUSTRIAL Event Space",
-   "time": "1pm–4pm (VIP 12pm)",
-   "free": false,
-   "source": "https://963kklz.com/2026/11/06/las-vegas-pizza-festival-serves-up-a-sixth-year-of-unlimited-slices/",
-   "date": "2026-11-14",
-   "note": "Tickets at vegaspizzafest.com; all ages.",
-   "description": "Sixth annual all-you-can-eat pizza festival with unlimited slices from a dozen-plus local pizzerias, including Good Pie, Metro Pizza, Pizza Rock, Evel Pie and Yukon Pizza.",
-   "id": "la-las-vegas-pizza-festival-2026-11-14",
-   "lat": 36.1531,
-   "lng": -115.1606
-  },
-  {
-   "name": "Rainbow Company Youth Theatre: Sense & Sensibility",
-   "category": "Movies & Music",
-   "place": "Charleston Heights Arts Center, 800 Brush St",
-   "time": "Thu & Fri 6pm; Sat 1pm & 6pm",
-   "free": false,
-   "source": "https://www.lasvegasnevada.gov/Residents/Events/Details?id=rainbow-company-youth-theatre-presents-sense-sensibility-nov-12-2026",
-   "price": "$10",
-   "date": "2026-11-12",
-   "end": "2026-11-14",
-   "note": "$10 reserved seats.",
-   "description": "Rainbow Company Youth Theatre stages a stage adaptation of Jane Austen's Sense & Sensibility at the Charleston Heights Arts Center. Shows are Thu Nov 12 and Fri Nov 13 at 6pm, and Sat Nov 14 at 1pm and 6pm.",
-   "know": [
-    "$10 reserved-seat tickets are sold online through the City of Las Vegas.",
-    "Performances: Nov 12 6pm, Nov 13 6pm, Nov 14 1pm and 6pm."
-   ],
-   "id": "la-rainbow-company-youth-theatre-sense-sensibility-2026-11-12",
-   "lat": 36.16218,
-   "lng": -115.21103
-  },
-  {
-   "name": "Veterans Appreciation Car Show & BBQ",
-   "category": "Festival",
-   "place": "VA Southern Nevada Medical Center, 6900 N Pecos Rd (North Las Vegas)",
-   "time": "10am–1:30pm",
-   "free": true,
-   "source": "https://www.va.gov/southern-nevada-health-care/events/90484/",
-   "date": "2026-11-14",
-   "note": "Free, open to the public. Car registration 8–10:30am.",
-   "description": "A free car show and BBQ hosted by VA Southern Nevada Healthcare System for Veterans Appreciation Day and 80 years of VA healthcare, with free food, a VA outreach resource fair and a kids' zone.",
-   "know": [
-    "Free and open to the public, with free food.",
-    "On-site car show registration is 8–10:30am, first come, first served."
-   ],
-   "id": "la-veterans-appreciation-car-show-bbq-2026-11-14",
-   "lat": 36.18815,
-   "lng": -115.0984
-  },
-  {
-   "name": "Santa's Arrival Parade & Tree Lighting",
-   "category": "Holiday",
-   "place": "Town Square Las Vegas, 6605 Las Vegas Blvd S",
-   "time": "Parade 7pm",
-   "free": false,
-   "source": "https://tslv.com/events/946-santas-arrival-parade",
-   "price": "Price not listed",
-   "date": "2026-11-14",
-   "note": "Admission price not listed on the event page.",
-   "description": "Santa arrives at Town Square with a parade at 7pm, followed by the tree lighting, Snow in the Square, entertainment, prizes and photos with Santa after the lighting.",
-   "know": [
-    "Parade begins at 7pm before Santa lights the tree.",
-    "Free glow items with $10+ purchase from a Town Square merchant, while supplies last."
-   ],
-   "id": "la-santa-s-arrival-parade-tree-lighting-2026-11-14",
-   "lat": 36.15343,
-   "lng": -115.15096
-  },
-  {
-   "name": "Public Lands Alliance Film Festival",
-   "category": "Movies & Music",
-   "place": "Red Rock Canyon National Conservation Area",
-   "time": "5pm–9pm",
-   "free": false,
-   "source": "https://www.redrockcanyonlv.org/events/public-lands-alliance-film-festival-11-14-26-5pm-9pm/",
-   "price": "Park fee + timed entry",
-   "date": "2026-11-14",
-   "note": "The program is free, but a Scenic Drive timed-entry reservation and the usual park entry fee apply.",
-   "description": "Southern Nevada Conservancy and the BLM host an evening of short films celebrating public lands at Red Rock Canyon.",
-   "know": [
-    "The interpretive program is free and needs no registration.",
-    "A Red Rock Scenic Drive timed-entry reservation (recreation.gov) is required; the 4–5pm slot is recommended.",
-    "The typical park entry fee also applies."
-   ],
-   "id": "la-public-lands-alliance-film-festival-2026-11-14",
-   "lat": 36.04103,
-   "lng": -115.51676
   },
   {
    "name": "Reclaim Night Market",
@@ -1290,7 +1107,9 @@
     "Hot apple cider is served at the Weir Bridge for a sunset toast.",
     "Advance registration is required."
    ],
-   "id": "la-wetlands-park-new-year-s-eve-sunset-sendoff-2026-12-31"
+   "id": "la-wetlands-park-new-year-s-eve-sunset-sendoff-2026-12-31",
+   "lat": 36.097474,
+   "lng": -115.005873
   },
   {
    "name": "Hometown Holidays Craft Show (Pahrump)",
@@ -1308,20 +1127,6 @@
     "Pahrump is about an hour's drive west of Las Vegas."
    ],
    "id": "la-hometown-holidays-craft-show-pahrump-2026-12-04"
-  },
-  {
-   "name": "The Holoholo Market",
-   "category": "Market",
-   "place": "Fergusons Downtown, 1028 Fremont St",
-   "time": "11am–4pm",
-   "free": true,
-   "source": "https://www.fergusonsdowntown.com/events0/u1oy6gpgpalgz74f1xsdkuie5fzr47",
-   "date": "2026-11-14",
-   "note": "Four-year anniversary edition. Free admission.",
-   "description": "An outdoor market of Pacific Islander and AANHPI vendors, food and live entertainment at Fergusons Downtown on East Fremont Street.",
-   "id": "la-the-holoholo-market",
-   "lat": 36.16704,
-   "lng": -115.13385
   },
   {
    "name": "Small Business Weekend at Fergusons Downtown",
@@ -1772,40 +1577,6 @@
    "lng": -115.45759
   },
   {
-   "name": "Coffee Talk at Ice Age Fossils State Park",
-   "category": "Outdoors & Nature",
-   "place": "Ice Age Fossils State Park, 8660 N Decatur Blvd (North Las Vegas)",
-   "time": "9am–11am",
-   "free": true,
-   "source": "https://parks.nv.gov/events/coffee-talk-15",
-   "date": "2026-11-14",
-   "note": "Bring your own mug; coffee, tea and seasonal drinks provided.",
-   "description": "Drop by any time to chat with rangers and fellow visitors about the park over hot coffee, tea and seasonal drinks sponsored by the Protectors of Tule Springs. Geared to adults; kids welcome.",
-   "id": "la-coffee-talk-at-ice-age-fossils-state-par",
-   "lat": 36.31666,
-   "lng": -115.20727
-  },
-  {
-   "name": "Advanced Off-Trail Hike: Valley of Fire Drop-Slot",
-   "category": "Outdoors & Nature",
-   "place": "Valley of Fire State Park, Overton",
-   "time": "9am–1pm",
-   "free": false,
-   "price": "Park entry fee",
-   "source": "https://parks.nv.gov/events/advanced-off-trail-hike-drop-slot-saturday-11-14",
-   "date": "2026-11-13",
-   "end": "2026-11-14",
-   "note": "Strenuous 3.5-mile ranger hike with a canyon drop; reserve by email.",
-   "description": "A ranger-guided 3.5-mile off-trail hike with 800 ft of gain, scrambling onto a mesa and down narrowing canyons to a drop-slot that requires a controlled 5–10 ft slide.",
-   "know": [
-    "Offered Friday Nov 13 and Saturday Nov 14; say which day when reserving.",
-    "Valley of Fire closes Dec 1–14 for maintenance."
-   ],
-   "id": "la-advanced-off-trail-hike-valley-of-fire-d",
-   "lat": 36.49885,
-   "lng": -114.53412
-  },
-  {
    "name": "History Hike at Red Rock Canyon (December)",
    "category": "Outdoors & Nature",
    "place": "Red Rock Canyon NCA",
@@ -1877,34 +1648,6 @@
    "id": "la-the-afterglow-market",
    "lat": 36.16219,
    "lng": -115.20604
-  },
-  {
-   "name": "Sons of Norway Vegas Vikings Holiday Bazaar",
-   "category": "Market",
-   "place": "Community Lutheran Church, 3720 E Tropicana Ave",
-   "time": "9am–12pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/sons-of-norway-vegas-vikings-holiday-bazaar-tickets-2001954822766",
-   "date": "2026-11-14",
-   "note": "Free; RSVP on Eventbrite.",
-   "description": "The Vegas Vikings lodge of the Sons of Norway holds its annual holiday bazaar, a morning of Scandinavian-flavored holiday shopping.",
-   "id": "la-sons-of-norway-vegas-vikings-holiday-baz",
-   "lat": 36.10077,
-   "lng": -115.17289
-  },
-  {
-   "name": "Wallaby Baby! Family Fun Day at Gilcrease",
-   "category": "Family",
-   "place": "Gilcrease Nature Sanctuary, 8103 Racel St",
-   "time": "1pm–4pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/wallaby-baby-free-family-fun-day-baby-wallaby-naming-tickets-2003862661162",
-   "date": "2026-11-14",
-   "note": "Free; RSVP on Eventbrite.",
-   "description": "A free family afternoon at the Gilcrease Nature Sanctuary, which has welcomed a new baby wallaby and wants visitors' help choosing its name.",
-   "id": "la-wallaby-baby-family-fun-day-at-gilcrease",
-   "lat": 36.30983,
-   "lng": -115.27214
   },
   {
    "name": "Craftastic Gift Show",

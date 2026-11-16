@@ -207,20 +207,6 @@
    "lng": -114.32892
   },
   {
-   "name": "Elkette's Holiday Craft Fair",
-   "category": "Art & Craft",
-   "place": "Elks Lodge #2399, 3532 McCulloch Blvd N",
-   "time": "9am–2pm",
-   "free": true,
-   "source": "https://www.golakehavasu.com/events/elkettes-2026-holiday-craft-fair/",
-   "date": "2026-11-14",
-   "note": "Free admission. Times are Arizona time.",
-   "description": "40+ tables of handmade crafts and holiday items plus local authors with signed books. Proceeds benefit local charities.",
-   "id": "lh-elkette-s-holiday-craft-fair-2026-11-14",
-   "lat": 34.49738,
-   "lng": -114.28681
-  },
-  {
    "name": "Havasu Art Guild Holiday Shoppe",
    "category": "Art & Craft",
    "place": "Lake Havasu City Aquatics Center, 100 Park Ave",
@@ -281,21 +267,6 @@
    "lng": -114.24874
   },
   {
-   "name": "Lake Havasu Home & Garden Expo (Fall)",
-   "category": "Shows & Expos",
-   "place": "Lake Havasu City Aquatic Center, 100 Park Ave",
-   "time": "9am–5pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/lake-havasu-home-garden-expo-fall-show-tickets-1990258452608",
-   "date": "2026-11-13",
-   "end": "2026-11-14",
-   "note": "Free admission.",
-   "description": "Local home and garden vendors, home improvement ideas and gardening tips at the Aquatic Center.",
-   "id": "lh-lake-havasu-home-garden-expo-fall",
-   "lat": 34.46348,
-   "lng": -114.33667
-  },
-  {
    "name": "Desert Bash & Off-Road Poker Run",
    "category": "Festival",
    "place": "Standard Wash near Mile Marker 173, Hwy 95 (about 3 miles south of SARA Park)",
@@ -326,21 +297,6 @@
    "id": "lh-christmas-market-pet-adoption-event-at-the-views",
    "lat": 34.47309,
    "lng": -114.32508
-  },
-  {
-   "name": "Sand, Water & RV Expo",
-   "category": "Shows & Expos",
-   "date": "2026-11-14",
-   "place": "Lake Havasu State Park, Windsor 4, 699 London Bridge Rd",
-   "time": "10am–5pm",
-   "free": false,
-   "price": "$10 adults; kids 12 and under free (cash at the gate)",
-   "source": "https://www.golakehavasu.com/events/sand-water-rv-expo-2026/",
-   "description": "The 16th annual outdoor motorsports expo, with off-road vehicles, sand rails, UTVs, toy haulers, trailers, boats, pontoons and personal watercraft to browse and compare.",
-   "note": "Free parking. Outdoor show at the state park.",
-   "lat": 34.4895,
-   "lng": -114.36,
-   "id": "lh-sand-water-rv-expo"
   }
  ]
 }

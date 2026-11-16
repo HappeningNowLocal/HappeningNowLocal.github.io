@@ -184,49 +184,6 @@
    "lng": -111.48122
   },
   {
-   "name": "Lost Dutchman Star Party",
-   "category": "Outdoors & Nature",
-   "place": "Lost Dutchman State Park, Apache Junction",
-   "time": "See source",
-   "free": false,
-   "source": "https://azstateparks.com/lost-dutchman/events",
-   "price": "See source",
-   "date": "2026-11-14",
-   "note": "Monthly Oct–Mar; registration required.",
-   "description": "Head to Lost Dutchman State Park for a monthly star party to learn about the stars and planets. Registration is required; check the park's event page for the time.",
-   "id": "ph-lost-dutchman-star-party-2026-11-14",
-   "lat": 33.45621,
-   "lng": -111.48122
-  },
-  {
-   "name": "Taste of Korea Phoenix",
-   "category": "Festival",
-   "place": "Kingdom in the Valley Christian Church, 11640 N 19th Ave, Phoenix",
-   "time": "11am–4pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/taste-of-korea-phoenix-indoor-tickets-2002902531388",
-   "date": "2026-11-14",
-   "note": "Free admission; food for purchase.",
-   "description": "An indoor celebration of Korean food, traditions and culture for all ages. Try Korean dishes (sold separately), cultural activities and traditional games.",
-   "id": "ph-taste-of-korea-phoenix-eb",
-   "lat": 33.59183,
-   "lng": -112.10074
-  },
-  {
-   "name": "PV Heroes & Hounds",
-   "category": "Family",
-   "place": "The Park at PV, 12750 N Tatum Blvd, Phoenix",
-   "time": "12pm–3pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/pv-heroes-hounds-tickets-2001096466399",
-   "date": "2026-11-14",
-   "note": "Free.",
-   "description": "A community afternoon honoring Phoenix police, firefighters and their K9 partners. Watch K9 and search-and-rescue demos, tour fire trucks and SWAT vehicles, meet therapy dogs and enjoy family activities.",
-   "id": "ph-pv-heroes-hounds-eb",
-   "lat": 33.60244,
-   "lng": -111.98222
-  },
-  {
    "name": "Phoenix Pizza Festival",
    "category": "Festival",
    "place": "Margaret T. Hance Park (east side), 1202 N 3rd St, Phoenix",
@@ -411,20 +368,6 @@
    "lng": -112.06897
   },
   {
-   "name": "Family Fun Harvest Festival",
-   "category": "Family",
-   "place": "Arizona Boardwalk, 9500 E Vía de Ventura, Scottsdale",
-   "time": "10am–2pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/free-8th-annual-family-fun-harvest-festival-tickets-1994378843809",
-   "date": "2026-11-14",
-   "note": "Free; RSVP on Eventbrite.",
-   "description": "Family Fun Arizona's eighth annual harvest festival inside the Arizona Boardwalk.",
-   "id": "ph-family-fun-harvest-festival",
-   "lat": 33.5553,
-   "lng": -111.87625
-  },
-  {
    "name": "Arizona Pupusas Festival",
    "category": "Festival",
    "place": "Arizona Center, 455 N 3rd St",
@@ -556,7 +499,9 @@
    "source": "https://downtownchandler.org/do/cars-and-coffee-2",
    "description": "A free monthly gathering of luxury, exotic, classic and specialty cars in Downtown Chandler, with coffee and breakfast at nearby cafés and restaurants.",
    "note": "Second Sunday of each month. Free.",
-   "id": "ph-downtown-chandler-cars-coffee"
+   "id": "ph-downtown-chandler-cars-coffee",
+   "lat": 33.352703,
+   "lng": -111.844008
   },
   {
    "name": "OUTWATCH Fest 2026",
@@ -571,23 +516,6 @@
    "lat": 33.4525,
    "lng": -112.06897,
    "id": "ph-outwatch-fest-2026"
-  },
-  {
-   "name": "High Street Cigars & Cars Festival",
-   "category": "Festival",
-   "date": "2026-11-14",
-   "place": "High Street, 5415 E High St",
-   "time": "11am–9pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/high-street-cigars-and-cars-festival-tickets-2001637255915",
-   "description": "A car show and cigar festival at High Street with classic and exotic rides on display.",
-   "note": "Free general entry; paid ticket tiers available on Eventbrite.",
-   "know": [
-    "Cigar tasting areas are for adults 21+."
-   ],
-   "id": "ph-high-street-cigars-cars-festival",
-   "lat": 33.67541,
-   "lng": -111.96448
   },
   {
    "name": "Miata Mingle",

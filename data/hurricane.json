@@ -3,20 +3,6 @@
  "checked": "2026-11-14",
  "events": [
   {
-   "name": "Art of Adventure at Sand Hollow",
-   "category": "Outdoors & Nature",
-   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
-   "time": "10am",
-   "free": true,
-   "source": "https://stateparks.utah.gov/event/art-of-adventure-9/",
-   "date": "2026-11-14",
-   "note": "State park day-use fee applies.",
-   "description": "A mid-morning nature journaling outing with a park ranger. Journals and drawing materials are provided.",
-   "id": "hu-art-of-adventure-at-sand-hollow-2026-11-14",
-   "lat": 37.10561,
-   "lng": -113.39361
-  },
-  {
    "name": "Movie Meetup at Sand Hollow",
    "category": "Outdoors & Nature",
    "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
@@ -71,20 +57,6 @@
    "id": "hu-full-moon-stroll-at-sand-hollow-2026-11-25",
    "lat": 37.10561,
    "lng": -113.39361
-  },
-  {
-   "name": "Crazy Daisy St. George Christmas Show",
-   "category": "Market",
-   "place": "Washington County Legacy Park, Hurricane",
-   "time": "10am–6pm",
-   "free": true,
-   "source": "https://thelegacypark.com/events/crazy-daisy-christmas-show/",
-   "date": "2026-11-13",
-   "end": "2026-11-14",
-   "description": "A free holiday shopping show with 80-plus local vendors, food trucks and giveaways at Legacy Park.",
-   "id": "hu-crazy-daisy-st-george-christmas-show-2026-11-13",
-   "lat": 37.16248,
-   "lng": -113.41287
   },
   {
    "name": "Christmas on The Farm",
@@ -232,21 +204,6 @@
    "id": "hu-the-farm-fall-festival",
    "lat": 37.12665,
    "lng": -113.3363
-  },
-  {
-   "name": "Dixie 6 Rodeo",
-   "category": "Festival",
-   "place": "Washington County Legacy Park, 5500 W 700 S, Hurricane",
-   "time": "All day",
-   "free": true,
-   "source": "https://thelegacypark.com/events/dixie-6-rodeo-14/",
-   "date": "2026-11-13",
-   "end": "2026-11-14",
-   "note": "Free to watch.",
-   "description": "The Dixie Rodeo Club's youth and amateur rodeo across Legacy Park's outdoor, covered and indoor arenas.",
-   "id": "hu-dixie-6-rodeo",
-   "lat": 37.16248,
-   "lng": -113.41287
   },
   {
    "name": "Cozy Corner Christmas Boutique",

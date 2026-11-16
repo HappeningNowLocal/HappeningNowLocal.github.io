@@ -3,21 +3,6 @@
  "checked": "2026-11-14",
  "events": [
   {
-   "name": "Lake Mead Lodge Native Planting",
-   "category": "Outdoors & Nature",
-   "place": "Former Lake Mead Lodge site",
-   "time": "8:30am–12pm",
-   "free": true,
-   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=7770B0B3-C0E0-2B62-A450103B5A3EF6FE",
-   "date": "2026-11-14",
-   "note": "Restoration volunteer day. Registration required.",
-   "description": "Help Lake Mead's Song Dog Nursery restore the site of the former Lake Mead Lodge by planting native plants. Registered volunteers get the meeting spot and a free-entry password.",
-   "know": [
-    "Register: LAKE_Volunteer_Coordinator@nps.gov"
-   ],
-   "id": "bc-lake-mead-lodge-native-planting-2026-11-14"
-  },
-  {
    "name": "Bighorn Sheep Guzzler Cleanup",
    "category": "Outdoors & Nature",
    "place": "Lake Mead NRA (location sent on registration)",
@@ -67,51 +52,6 @@
    "id": "bc-christmas-bird-count-at-lake-mead-2026-12-",
    "lat": 35.87221,
    "lng": -114.69002
-  },
-  {
-   "name": "Hike 'N' Heal (Avery Burton Foundation)",
-   "category": "Outdoors & Nature",
-   "place": "Historic Railroad Trail access, Boulder City",
-   "time": "10am–12pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/avery-burton-foundation-6th-annual-hike-n-heal-tickets-2002977764412",
-   "date": "2026-11-14",
-   "note": "Free; advance registration required, space limited.",
-   "description": "The Avery Burton Foundation's 6th annual community hike on the Historic Railroad Trail, combining movement, reflection and mental-health awareness. Participants learn ABF's Recognize–Respond–Refer approach and get resources for supporting family and friends.",
-   "know": [
-    "Final location, parking and prep details are emailed to registrants."
-   ],
-   "id": "bc-hike-n-heal-avery-burton-foundation-eb",
-   "lat": 36.01331,
-   "lng": -114.78441
-  },
-  {
-   "name": "Fall Rev Up Classic Car Fest",
-   "category": "Shows & Expos",
-   "place": "Wilbur Square Park, Boulder City",
-   "time": "8am–3pm",
-   "free": true,
-   "source": "https://bouldercitycruisin.com/show/fall-rev-classic-car-fest-2/",
-   "date": "2026-11-14",
-   "note": "Free to watch.",
-   "description": "Fall Rev Up Classic Car Fest at Wilbur Square Park, Boulder City. Free to watch.",
-   "id": "bc-fall-rev-up-classic-car-fest",
-   "lat": 35.97998,
-   "lng": -114.83461
-  },
-  {
-   "name": "Christmas Market at Faith Christian Church",
-   "category": "Market",
-   "place": "Faith Christian Church, 1100 Buchanan Blvd",
-   "time": "10am–4pm",
-   "free": true,
-   "source": "https://www.chamberorganizer.com/Calendar/moreinfo.php?eventid=496430",
-   "date": "2026-11-14",
-   "note": "Free.",
-   "description": "Christmas Market at Faith Christian Church at Faith Christian Church, 1100 Buchanan Blvd. Free.",
-   "id": "bc-christmas-market-at-faith-christian-chur",
-   "lat": 35.96982,
-   "lng": -114.84531
   },
   {
    "name": "Santa Train",
@@ -202,20 +142,6 @@
    "lng": -114.83325
   },
   {
-   "name": "Family Fall Festival",
-   "category": "Festival",
-   "place": "Bicentennial Park & Wilbur Square, 999 Colorado St, Boulder City",
-   "time": "Daytime",
-   "free": true,
-   "source": "https://www.visitbouldercity.com/event/family-fall-festival/54069/",
-   "date": "2026-11-14",
-   "note": "Car show, vendors, food trucks and kids activities. Proceeds benefit Little Lambs Childcare & Preschool. Check the official page for hours. Separate from the Fall Rev Up car fest the same day.",
-   "description": "A full day of family fun downtown with a car show, vendors, food trucks, live entertainment and kids activities, benefiting Little Lambs Childcare & Preschool.",
-   "id": "bc-family-fall-festival",
-   "lat": 35.9786,
-   "lng": -114.834
-  },
-  {
    "name": "Best Dam Wine Walk",
    "category": "Festival",
    "place": "Frank Crowe Park, 640 Nevada Way (check-in)",
@@ -237,7 +163,9 @@
     "Includes a Tossware cup, wristband and map.",
     "All sales final, rain or shine."
    ],
-   "id": "bc-best-dam-wine-walk"
+   "id": "bc-best-dam-wine-walk",
+   "lat": 35.977419,
+   "lng": -114.837997
   },
   {
    "name": "Classic Car Meetup at Chilly Jilly'z",
@@ -298,7 +226,9 @@
    "source": "https://www.chamberorganizer.com/Calendar/moreinfo.php?eventid=436600",
    "description": "A free Christmas Day dinner for the whole community, sponsored by the Boulder City Historical & Arts Foundation and listed by the BC Recreation Department.",
    "note": "Free and open to everyone in the community.",
-   "id": "bc-community-christmas-dinner"
+   "id": "bc-community-christmas-dinner",
+   "lat": 35.972034,
+   "lng": -114.835435
   }
  ],
  "center": [

@@ -23,21 +23,6 @@
    "lng": -113.07993
   },
   {
-   "name": "Iron Mission Days & Old Town Market",
-   "category": "Festival",
-   "place": "Frontier Homestead State Park",
-   "time": "10am–4pm",
-   "free": true,
-   "source": "https://www.duckcreekvillageinn.com/southern-utah-events",
-   "date": "2026-11-13",
-   "end": "2026-11-14",
-   "note": "Living-history demos and an old-town market.",
-   "description": "Living-history demonstrations and an Old Town Market at Frontier Homestead State Park.",
-   "id": "ce-iron-mission-days-old-town-market",
-   "lat": 37.68798,
-   "lng": -113.06308
-  },
-  {
    "name": "Downtown Holiday Lighting Ceremony",
    "category": "Holiday",
    "place": "Historic Downtown Cedar City",
@@ -249,18 +234,6 @@
    "id": "ce-cedar-breaks-guided-snowshoe-tours-2027-0",
    "lat": 37.65656,
    "lng": -112.834
-  },
-  {
-   "name": "Storybook Parade",
-   "category": "Family",
-   "place": "Center St & 200 West to Main St, Cedar City",
-   "time": "10am",
-   "free": true,
-   "source": "https://ironcountyfair.net/story-book-parade",
-   "date": "2026-11-14",
-   "note": "Free. Route runs east on Center St, then north on Main St to 400 North.",
-   "description": "A Cedar City tradition where children's books come to life with floats, music and costumed characters.",
-   "id": "ce-storybook-parade"
   },
   {
    "name": "Cedar City Farmers Market (North)",
@@ -477,20 +450,6 @@
    "lat": 37.67797,
    "lng": -113.0676,
    "id": "ce-suu-symphony-chamber-orchestra-fall-concert"
-  },
-  {
-   "name": "SUU Food Drive 5K",
-   "category": "Outdoors & Nature",
-   "date": "2026-11-14",
-   "place": "Coal Creek Trail, West Canyon Park, 133 S 400 E",
-   "time": "9am",
-   "free": true,
-   "source": "https://events.suu.edu/event/food-drive-5k",
-   "description": "SUU Ambassadors team up with parkrun and Iron County Care and Share for a free community 5K along the Coal Creek Trail.",
-   "note": "Free; bring a non-perishable food item for Iron County Care and Share.",
-   "id": "ce-suu-food-drive-5k",
-   "lat": 37.6649,
-   "lng": -113.05536
   }
  ],
  "center": [

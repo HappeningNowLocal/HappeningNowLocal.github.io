@@ -29,21 +29,6 @@
    "lng": -112.98692
   },
   {
-   "name": "Butch Cassidy 10K/5K",
-   "category": "Outdoors & Nature",
-   "place": "Springdale to Grafton ghost town",
-   "time": "9am",
-   "free": false,
-   "source": "https://www.springdale.utah.gov/396/Butch-Cassidy-10K5K-Race",
-   "date": "2026-11-14",
-   "price": "$60 ($25 kids 10 & under)",
-   "note": "Registration closes Nov 11 or when the cap is reached.",
-   "description": "Springdale's 43rd annual race runs along the Virgin River and over the Rockville Bridge to the historic ghost town of Grafton. Spectators and runners park in Springdale and ride race shuttles; there is no parking in Grafton.",
-   "id": "zi-butch-cassidy-10k-5k-2026-11-14",
-   "lat": 37.18887,
-   "lng": -112.99855
-  },
-  {
    "name": "Zion Canyon Arts & Crafts Fair",
    "category": "Art & Craft",
    "place": "Canyon Community Center, 126 Lion Blvd, Springdale",
@@ -54,7 +39,9 @@
    "end": "2026-11-28",
    "note": "Listed on an aggregator; confirm before going.",
    "description": "Springdale's annual arts and crafts fair at the Canyon Community Center over Thanksgiving weekend.",
-   "id": "zi-zion-canyon-arts-crafts-fair-2026-11-27"
+   "id": "zi-zion-canyon-arts-crafts-fair-2026-11-27",
+   "lat": 37.195395,
+   "lng": -112.998312
   },
   {
    "name": "Springdale Light Parade & Sweets Social",
@@ -84,19 +71,6 @@
    "id": "zi-springdale-new-year-s-eve-celebration",
    "lat": 37.19539,
    "lng": -112.99831
-  },
-  {
-   "name": "Zion Canyon Community Drum Circle",
-   "category": "Movies & Music",
-   "place": "River Park, Springdale",
-   "time": "3pm–4pm",
-   "free": true,
-   "source": "https://www.springdale.utah.gov/calendar.aspx?view=list",
-   "date": "2026-11-14",
-   "description": "An informal community drum circle at Springdale's River Park, listed on the town's community calendar.",
-   "id": "zi-zion-canyon-community-drum-circle",
-   "lat": 37.1889,
-   "lng": -112.9986
   },
   {
    "name": "Wreaths Across America – Springdale",
