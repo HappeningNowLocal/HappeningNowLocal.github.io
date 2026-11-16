@@ -1,6 +1,6 @@
 {
  "city": "Hurricane, UT",
- "checked": "2026-11-14",
+ "checked": "2026-11-16",
  "events": [
   {
    "name": "Movie Meetup at Sand Hollow",
@@ -247,6 +247,37 @@
    "id": "hu-lego-club-at-hurricane-library",
    "lat": 37.17565,
    "lng": -113.29425
+  },
+  {
+   "name": "Baker's Dozen Half Marathon, Relay & 5K",
+   "category": "Outdoors & Nature",
+   "place": "Three Falls Park, 663 W 900 S, Hurricane",
+   "time": "9am start",
+   "free": false,
+   "price": "Registration fee",
+   "source": "https://runsignup.com/Race/UT/Hurricane/BakerSDozenHalfMarathonRelay5K",
+   "date": "2026-12-12",
+   "note": "Registration closes Dec 11 at 11:59pm. Spectators welcome.",
+   "description": "A flat 3.25-mile loop race in Hurricane: half marathoners run four loops, with relay and 5K options.",
+   "id": "hu-bakers-dozen-half-marathon-2026-12-12",
+   "lat": 37.16383,
+   "lng": -113.29909
+  },
+  {
+   "name": "Red Rock Region Chocolate & Fine Foods Festival",
+   "category": "Festival",
+   "place": "Washington County Legacy Park (Fairgrounds), 5500 W 700 S, Hurricane",
+   "time": "9am–7pm",
+   "free": false,
+   "price": "$12 per 4-hour session; VIP $65",
+   "source": "https://events.greaterzion.com/event/red-rock-region-chocolate-and-fine-foods-festival-2027/",
+   "date": "2027-01-29",
+   "end": "2027-01-30",
+   "note": "Ticketed tasting sessions.",
+   "description": "A two-day celebration of craft chocolate and fine foods, with chocolate makers, specialty food producers and culinary creators from Southern Utah and beyond offering tastings, demonstrations and shopping.",
+   "id": "hu-red-rock-chocolate-fine-foods-festival-2027",
+   "lat": 37.16248,
+   "lng": -113.41287
   }
  ],
  "center": [

@@ -1,6 +1,6 @@
 {
  "city": "Las Vegas, NV",
- "checked": "2026-11-14",
+ "checked": "2026-11-16",
  "events": [
   {
    "name": "Arts District First Friday",
@@ -276,25 +276,6 @@
    "id": "la-wilderness-hike-limestone-arches-2026-11-2",
    "lat": 36.07882,
    "lng": -115.51525
-  },
-  {
-   "name": "Bird Walk with Red Rock Audubon",
-   "category": "Outdoors & Nature",
-   "place": "Spring Mountain Ranch State Park",
-   "time": "7:30am–10:30am",
-   "free": false,
-   "source": "https://parks.nv.gov/events/bird-walk-with-red-rock-audubon-society-3",
-   "price": "Park entry",
-   "date": "2026-11-15",
-   "note": "Registration required. Includes the restricted Lake Harriet area.",
-   "description": "Red Rock Audubon leads a 2–3 mile birding walk on easy-to-moderate trails at historic Spring Mountain Ranch, including a special visit to the restricted Lake Harriet to look at waterfowl.",
-   "know": [
-    "Registration required via Red Rock Audubon.",
-    "Bring binoculars, water and layers."
-   ],
-   "id": "la-bird-walk-with-red-rock-audubon-2026-11-15",
-   "lat": 36.06959,
-   "lng": -115.45759
   },
   {
    "name": "A Long Walk Through History",
@@ -655,24 +636,6 @@
    "lng": -115.28733
   },
   {
-   "name": "1000 Flags Over Mesquite Field of Honor",
-   "category": "Holiday",
-   "place": "Mesquite Recreation Center & Park – West Field, 100 W. Old Mill Rd, Mesquite (about 80 miles from Las Vegas)",
-   "time": "Daily",
-   "free": true,
-   "source": "https://www.visitmesquite.com/event/one-thousand-flags-over-mesquite-field-of-honor-2026/55129/",
-   "date": "2026-11-08",
-   "end": "2026-11-15",
-   "note": "In Mesquite, about 80 miles from Las Vegas. Free.",
-   "description": "The 20th annual field of 1,000 flags honoring the nation's heroes, hosted by the Virgin Valley Chapter NSDAR, also marking America's 250th birthday.",
-   "know": [
-    "This is in Mesquite, NV, about 80 miles northeast of Las Vegas."
-   ],
-   "id": "la-1000-flags-over-mesquite",
-   "lat": 36.805,
-   "lng": -114.07
-  },
-  {
    "name": "Holiday Shopping Boutique at Suncoast",
    "category": "Market",
    "place": "Suncoast Hotel & Casino, 9090 Alta Dr",
@@ -826,27 +789,6 @@
    "id": "la-45th-dr-martin-luther-king-jr-birthday-p",
    "lat": 36.157147,
    "lng": -115.150041
-  },
-  {
-   "name": "SnowJam Las Vegas",
-   "category": "Shows & Expos",
-   "place": "Las Vegas Convention Center South Hall 2A, 3150 Paradise Rd",
-   "time": "Sat 11am–6pm; Sun 11am–5pm",
-   "free": false,
-   "price": "General admission ~$18–19; kids 13 & under free with paid adult",
-   "source": "https://snowjamshow.com/expo/las-vegas/",
-   "date": "2026-11-14",
-   "end": "2026-11-15",
-   "note": "OPEN TO THE PUBLIC. Preseason ski & snowboard expo and gear sale.",
-   "description": "SnowJam is a public ski and snowboard expo at LVCC with a large gear sale, boot fitting, resort booths and optional membership lift-ticket vouchers. Children 13 and under enter free with a paid adult.",
-   "know": [
-    "Open to the public.",
-    "General admission is expo entry only; membership adds lift-ticket vouchers."
-   ],
-   "id": "la-snowjam-las-vegas-2026-11-14",
-   "convention": true,
-   "lat": 36.13102,
-   "lng": -115.15018
   },
   {
    "name": "Downtown Summerlin Holiday Parade",
@@ -1263,27 +1205,6 @@
    "lng": -115.11721
   },
   {
-   "name": "DesignerCon 2026",
-   "category": "Shows & Expos",
-   "place": "The Expo at World Market Center, 435 S Grand Central Pkwy",
-   "time": "Sat 10am–7pm; Sun 10am–5pm (VIP night Fri 5–9pm)",
-   "free": false,
-   "price": "$45 1-day; $80 weekend; $150 VIP",
-   "source": "https://www.designercon.com/about/showinformation/",
-   "date": "2026-11-13",
-   "end": "2026-11-15",
-   "convention": true,
-   "note": "Open to the public. Friday night is VIP-only.",
-   "description": "An art and design convention with 700+ vendors of designer toys, customs, plush, apparel and urban and pop art.",
-   "know": [
-    "Kids 12 and under free with a paid adult.",
-    "Friday Nov 13 is for VIP ticket holders only."
-   ],
-   "id": "la-designercon-2026",
-   "lat": 36.1679,
-   "lng": -115.15533
-  },
-  {
    "name": "Pokémon Las Vegas Regional Championships",
    "category": "Shows & Expos",
    "place": "Las Vegas Convention Center, 3150 Paradise Rd (North Hall N3 & N4)",
@@ -1635,47 +1556,6 @@
    ],
    "description": "A free BLM ranger-guided loop hike around Kraft Mountain at Red Rock Canyon.",
    "id": "la-kraft-mountain-loop-hike-at-red-rock-can"
-  },
-  {
-   "name": "The Afterglow Market",
-   "category": "Market",
-   "place": "Fantastic Indoor Swap Meet parking lot, 1717 S Decatur Blvd",
-   "time": "12pm–4pm",
-   "free": true,
-   "source": "https://shopandseeklv.com/events/the-afterglow-2027",
-   "date": "2027-01-02",
-   "description": "A Shop & Seek curated outdoor market of local vendors in the Fantastic Indoor Swap Meet parking lot, kicking off the new year.",
-   "id": "la-the-afterglow-market",
-   "lat": 36.16219,
-   "lng": -115.20604
-  },
-  {
-   "name": "Craftastic Gift Show",
-   "category": "Art & Craft",
-   "place": "Santa Fe Station Hotel & Casino, 4949 N Rancho Dr",
-   "time": "10am–5pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/craftastic-gift-show-tickets-1980273257621",
-   "date": "2026-11-15",
-   "note": "Free admission.",
-   "description": "LV Craft Shows brings local artists and gift vendors to Santa Fe Station with fall and holiday decor and handmade gifts.",
-   "id": "la-craftastic-gift-show",
-   "lat": 36.24989,
-   "lng": -115.24482
-  },
-  {
-   "name": "Fall Harvest 3rd Sunday Farmers Market",
-   "category": "Market",
-   "place": "2108 Revere St, North Las Vegas",
-   "time": "2pm–6pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/fall-harvest-3rd-sunday-farmers-market-tickets-2003936159999",
-   "date": "2026-11-15",
-   "note": "Free admission; optional raffle RSVP.",
-   "description": "A North Las Vegas neighborhood farmers market with fresh produce, local holiday finds, kids' activities, wellness vendors and community resources.",
-   "id": "la-fall-harvest-3rd-sunday-farmers-market",
-   "lat": 36.19791,
-   "lng": -115.15173
   },
   {
    "name": "Food Truck Thursday on Goodman Way",
@@ -2226,23 +2106,88 @@
    "id": "la-las-vegas-antique-arms-show"
   },
   {
-   "name": "Megafauna Walk & Talk",
-   "category": "Outdoors & Nature",
-   "date": "2026-11-15",
-   "place": "Ice Age Fossils State Park, 8660 N Decatur Blvd (North Las Vegas)",
-   "time": "9am–10am",
-   "free": false,
-   "price": "$3 park entry (12 and under free)",
-   "source": "https://parks.nv.gov/events/megafauna-walk-talk-13",
-   "description": "A ranger-led stroll on the 0.3-mile hard-surface Megafauna Trail to learn about the Ice Age animals of the Las Vegas Valley. Suitable for mobility aids.",
-   "note": "No registration needed; arrive 10–15 minutes early. Weather dependent.",
+   "name": "Del Frisco's Motorcar Gathering",
+   "category": "Shows & Expos",
+   "place": "Del Frisco's Double Eagle Steakhouse, 3925 Paradise Rd",
+   "time": "1pm–4pm",
+   "free": true,
+   "source": "https://www.eventbrite.com/e/ccg-presents-the-del-friscos-steakhouse-motorcar-gathering-tickets-2004046016583",
+   "date": "2026-11-29",
+   "note": "Free spectator RSVP on Eventbrite; paid options for show cars.",
+   "description": "A Sunday afternoon car gathering in the Del Frisco's lot on Paradise Road with standout cars and fellow enthusiasts, presented by CCG.",
+   "id": "la-del-friscos-motorcar-gathering-2026-11-29",
+   "lat": 36.11718,
+   "lng": -115.15297
+  },
+  {
+   "name": "Nevada Bridal & Wedding Expo",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, Hall S3A, 3150 Paradise Rd",
+   "time": "12:30pm–5pm",
+   "free": true,
+   "price": "Free with online pass; $10 at the door",
+   "source": "https://bridalshowsnv-lv.com/info-directions/",
+   "date": "2027-03-21",
+   "note": "OPEN TO THE PUBLIC · free with an online pass ($10 at the door; under 16 free).",
+   "description": "A consumer wedding expo with local gown shops, venues, photographers, DJs, caterers, bakers and honeymoon travel pros, plus bridal fashion shows, DJ demos and prize giveaways.",
    "know": [
-    "No pets.",
-    "Kids under 16 need an adult."
+    "Free pass covers one bride or partner and all their guests.",
+    "LVCC South Hall S3A."
    ],
-   "lat": 36.31666,
-   "lng": -115.20727,
-   "id": "la-megafauna-walk-talk"
+   "id": "la-nevada-bridal-wedding-expo-2027-03-21",
+   "convention": true,
+   "lat": 36.13102,
+   "lng": -115.15018
+  },
+  {
+   "name": "OFFPRICE Show Las Vegas (industry only)",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "9am–6pm (Feb 18 until 4pm)",
+   "free": false,
+   "price": "Industry only · registration required",
+   "source": "https://www.offpriceshow.com/lasvegas/event-details",
+   "date": "2027-02-16",
+   "end": "2027-02-18",
+   "note": "INDUSTRY ONLY · not open to the public; for retail buyers.",
+   "description": "A wholesale trade show where retail buyers source off-price apparel, accessories and footwear, held alongside MAGIC Las Vegas week.",
+   "id": "la-offprice-las-vegas-2027-02",
+   "convention": true,
+   "industry": true,
+   "lat": 36.13102,
+   "lng": -115.15018
+  },
+  {
+   "name": "ASD Market Week (industry only)",
+   "category": "Shows & Expos",
+   "place": "Las Vegas Convention Center, 3150 Paradise Rd",
+   "time": "Show hours vary",
+   "free": false,
+   "price": "Industry only · free buyer badge for qualified retailers",
+   "source": "https://asdonline.com/about/dates-hours/",
+   "date": "2027-03-02",
+   "end": "2027-03-04",
+   "note": "INDUSTRY ONLY · retail buyers with a qualified badge; not open to the public.",
+   "description": "One of the largest wholesale merchandise trade shows in the U.S., where retailers shop general merchandise, gifts, apparel, beauty and more from thousands of vendors.",
+   "id": "la-asd-market-week-2027-03",
+   "convention": true,
+   "industry": true,
+   "lat": 36.13102,
+   "lng": -115.15018
+  },
+  {
+   "name": "The First Find: A New Year Market",
+   "category": "Market",
+   "place": "Fantastic Indoor Swap Meet parking lot, 1717 S Decatur Blvd",
+   "time": "11am–4pm",
+   "free": true,
+   "source": "https://shopandseeklv.com/events/the-first-find-2027",
+   "date": "2027-01-24",
+   "note": "Free entry and free parking. All ages.",
+   "description": "A Shop & Seek curated daytime market to start the year, with local makers and artisans, small businesses, food trucks, sweet treats and creative experiences.",
+   "id": "la-the-first-find-2027-01-24",
+   "lat": 36.16219,
+   "lng": -115.20604
   }
  ],
  "center": [

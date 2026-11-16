@@ -1,6 +1,6 @@
 {
  "city": "Zion / Springdale, UT",
- "checked": "2026-11-14",
+ "checked": "2026-11-16",
  "events": [
   {
    "name": "Zion Canyon Visitor Center Ranger Talk",
@@ -102,6 +102,26 @@
    "lat": 37.1867,
    "lng": -112.99914,
    "id": "zi-winter-solstice-celebration-at-nama-stay"
+  },
+  {
+   "name": "Free Christmas Movie Nights at Bumbleberry Theater",
+   "category": "Movies & Music",
+   "place": "Bumbleberry Theater, 897 Zion Park Blvd",
+   "time": "6pm",
+   "free": true,
+   "source": "https://suindependent.com/holidays-at-the-bumbleberry-features-movies-karaoke-and-a-joshua-creek-christmas/",
+   "rule": {
+    "dates": [
+     "2026-12-04",
+     "2026-12-11",
+     "2026-12-19"
+    ]
+   },
+   "note": "Free. Dec 4: The Star · Dec 11: The Year Without a Santa Claus + Frosty's Winter Wonderland · Dec 19: Christmas with the Kranks. Free Christmas karaoke Dec 3, 6–9pm.",
+   "description": "The Bumbleberry Inn's theater in Springdale screens free holiday movies on three December evenings, plus a free Christmas karaoke night.",
+   "id": "zi-bumbleberry-free-christmas-movies",
+   "lat": 37.18861,
+   "lng": -112.99911
   }
  ],
  "center": [

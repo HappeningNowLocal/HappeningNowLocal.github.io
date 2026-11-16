@@ -1,6 +1,6 @@
 {
  "city": "San Diego, CA",
- "checked": "2026-11-14",
+ "checked": "2026-11-16",
  "events": [
   {
    "name": "Balboa Park December Nights",
@@ -67,20 +67,6 @@
    "note": "Saturdays, conditions permitting. Park entry fee applies.",
    "description": "Volunteers bring Point Loma's WWII coastal defenses to life on the only days visitors can tour the bunkers. See the weapons and instruments that protected the coast; closed in inclement weather.",
    "id": "sd-cabrillo-open-military-bunker",
-   "lat": 32.67223,
-   "lng": -117.24094
-  },
-  {
-   "name": "Old Point Loma Lighthouse Open Tower Day",
-   "category": "Outdoors & Nature",
-   "place": "Cabrillo National Monument",
-   "time": "10am–3:30pm",
-   "free": true,
-   "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=274452D9-984F-D3DE-FD11B747EDEBD9D3",
-   "date": "2026-11-15",
-   "note": "Half-hour guided tours; same-day tickets, first come.",
-   "description": "Climb to the top of the Old Point Loma Lighthouse on a half-hour guided tour marking the anniversary of its first lighting. These tours are the only way to reach the top of the tower.",
-   "id": "sd-old-point-loma-lighthouse-open-tower-day-2",
    "lat": 32.67223,
    "lng": -117.24094
   },
@@ -298,25 +284,6 @@
    "lng": -117.1751
   },
   {
-   "name": "Holiday Marketplace at Mission Trails",
-   "category": "Market",
-   "place": "Mission Trails Regional Park Visitor Center, 1 Father Junipero Serra Trail",
-   "time": "9am–3pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/holiday-marketplace-at-mission-trails-regional-park-tickets-2001273149864",
-   "rule": {
-    "dates": [
-     "2026-11-14",
-     "2026-11-15"
-    ]
-   },
-   "note": "Free registration; come anytime.",
-   "description": "A holiday shopping event at the Mission Trails visitor center that benefits the park.",
-   "id": "sd-holiday-marketplace-at-mission-trails",
-   "lat": 32.82022,
-   "lng": -117.05692
-  },
-  {
    "name": "San Diego Made Holiday Market",
    "category": "Market",
    "place": "NTC Park at Liberty Station, 2455 Cushing Rd",
@@ -529,6 +496,91 @@
    "id": "sd-2027-san-diego-brew-fest",
    "lat": 32.73483,
    "lng": -117.21419
+  },
+  {
+   "name": "Christmas in Valley Center",
+   "category": "Holiday",
+   "place": "Bates Nut Farm, 15954 Woods Valley Rd, Valley Center",
+   "time": "Fri 4pm–8pm; Sat 9:30am–2:30pm",
+   "free": true,
+   "source": "https://batesnutfarm.biz/blogs/events/christmas-in-valley-center",
+   "date": "2026-12-11",
+   "end": "2026-12-12",
+   "note": "Free. Santa arrives by fire truck Fri 6pm and by Polar Express hayride Sat 11am.",
+   "description": "A free community holiday celebration from the Valley Center Business Association at Bates Nut Farm, with free hayrides, visits with Santa and the Grinch, crafts, gingerbread houses, face painting, a bounce house, carols and live entertainment, plus free pony rides on Saturday.",
+   "know": [
+    "Free gift for the first 1,000 kids each day.",
+    "Arrive by 5:30pm Friday for the band and Santa's arrival."
+   ],
+   "id": "sd-christmas-in-valley-center-2026",
+   "lat": 33.20845,
+   "lng": -116.982
+  },
+  {
+   "name": "SoNo Fest & Chili Cook-Off",
+   "category": "Festival",
+   "place": "32nd St & Thorn St, North Park",
+   "time": "11am–5pm",
+   "free": false,
+   "price": "Chili tasting passes sold online",
+   "source": "https://sonofestchilicookoff.com/",
+   "date": "2026-12-06",
+   "note": "Neighborhood chili festival; 100% of proceeds benefit McKinley Elementary.",
+   "description": "San Diego's favorite neighborhood chili festival in North Park, with a restaurant chili cook-off, food trucks, a makers market, live music, a booze garden and a kids zone.",
+   "id": "sd-sono-fest-chili-cook-off-2026-12-06",
+   "lat": 32.7406,
+   "lng": -117.1285
+  },
+  {
+   "name": "San Diego International Auto Show",
+   "category": "Shows & Expos",
+   "place": "San Diego Convention Center, 111 W Harbor Dr",
+   "time": "10am–6pm Dec 31 & Jan 3; 10am–9pm Jan 1–2",
+   "free": false,
+   "price": "$18 adults; $15 seniors/military; $12 kids 7–12; 6 & under free",
+   "source": "https://www.sdautoshow.com/attend",
+   "date": "2026-12-31",
+   "end": "2027-01-03",
+   "note": "OPEN TO THE PUBLIC · tickets online only (on sale Dec 4). Jan 3 is Family Day: kids 12 & under free with an adult.",
+   "description": "San Diego's annual new-car show on the bayfront, with brand debuts, street test drives, an indoor test track and Electric Avenue EV exhibits.",
+   "id": "sd-san-diego-international-auto-show-2026",
+   "convention": true,
+   "lat": 32.70636,
+   "lng": -117.16178
+  },
+  {
+   "name": "San Diego Home Show (Winter)",
+   "category": "Shows & Expos",
+   "place": "San Diego Convention Center, Hall F, 111 W Harbor Dr",
+   "time": "Sat 10am–7pm; Sun 10am–5pm",
+   "free": true,
+   "price": "Free online pass; $10 at the door",
+   "source": "https://homeshowsandiego.com/",
+   "date": "2027-01-16",
+   "end": "2027-01-17",
+   "note": "OPEN TO THE PUBLIC · free with an online pass, or $10 at the door.",
+   "description": "A consumer home show with remodeling, outdoor living, hot tub and home-improvement exhibitors in Hall F of the convention center.",
+   "id": "sd-san-diego-home-show-winter-2027",
+   "convention": true,
+   "lat": 32.70636,
+   "lng": -117.16178
+  },
+  {
+   "name": "USA Card Show",
+   "category": "Shows & Expos",
+   "place": "San Diego Convention Center, 111 W Harbor Dr",
+   "time": "Show hours vary",
+   "free": false,
+   "price": "See organizer",
+   "source": "https://www.visitsandiego.com/calendar",
+   "date": "2026-12-12",
+   "end": "2026-12-13",
+   "note": "OPEN TO THE PUBLIC · consumer trading card show (listed as a Consumer Show on the convention center calendar).",
+   "description": "A consumer trading card show with sports and collectible card dealers, buying, selling and trading at the San Diego Convention Center.",
+   "id": "sd-usa-card-show-2026-12",
+   "convention": true,
+   "lat": 32.70636,
+   "lng": -117.16178
   }
  ],
  "center": [

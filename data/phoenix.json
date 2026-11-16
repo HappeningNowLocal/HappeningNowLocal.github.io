@@ -1,6 +1,6 @@
 {
  "city": "Phoenix, AZ",
- "checked": "2026-11-14",
+ "checked": "2026-11-16",
  "events": [
   {
    "name": "First Friday Art Walk",
@@ -184,26 +184,6 @@
    "lng": -111.48122
   },
   {
-   "name": "Phoenix Pizza Festival",
-   "category": "Festival",
-   "place": "Margaret T. Hance Park (east side), 1202 N 3rd St, Phoenix",
-   "time": "Sat 11am–6pm, Sun 11am–4pm",
-   "free": false,
-   "source": "https://www.eventbrite.com/e/phoenix-pizza-festival-2026-tickets-1992057923875",
-   "date": "2026-11-14",
-   "end": "2026-11-15",
-   "price": "$21.82",
-   "note": "Single-day admission; food and drink extra.",
-   "description": "The 11th annual Phoenix Pizza Festival takes over Hance Park with pizza makers, local craft beer, live bands, lawn games and a kids' zone. Small leashed dogs under 25 lbs are welcome.",
-   "know": [
-    "Admission doesn't include food or drink.",
-    "Tickets usually sell out."
-   ],
-   "id": "ph-phoenix-pizza-festival-eb",
-   "lat": 33.46171,
-   "lng": -112.06995
-  },
-  {
    "name": "2nd Sundays on Mill",
    "category": "Market",
    "place": "Mill Ave, Tempe",
@@ -368,20 +348,6 @@
    "lng": -112.06897
   },
   {
-   "name": "Arizona Pupusas Festival",
-   "category": "Festival",
-   "place": "Arizona Center, 455 N 3rd St",
-   "time": "11am–5pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/2026-arizona-pupusas-festival-tickets-2000537587778",
-   "date": "2026-11-15",
-   "note": "Free entry; food sold by vendors.",
-   "description": "A celebration of pupusas, the national dish of El Salvador, with local pupusa vendors at the Arizona Center.",
-   "id": "ph-arizona-pupusas-festival",
-   "lat": 33.4525,
-   "lng": -112.06897
-  },
-  {
    "name": "Desert & Dusk Golden Hour Market",
    "category": "Market",
    "place": "Andaz Scottsdale Resort, 6114 N Scottsdale Rd",
@@ -530,6 +496,75 @@
    "id": "ph-miata-mingle",
    "lat": 33.34695,
    "lng": -111.9663
+  },
+  {
+   "name": "Goodguys Southwest Nationals",
+   "category": "Shows & Expos",
+   "place": "WestWorld of Scottsdale, 16601 N Pima Rd, Scottsdale",
+   "time": "8am–5pm (Sun 8am–3pm)",
+   "free": false,
+   "price": "$27 advance Fri/Sat, $20 Sun; $30/$22 at the gate",
+   "source": "https://good-guys.com/swn-26",
+   "date": "2026-11-20",
+   "end": "2026-11-22",
+   "note": "Big hot rod and classic car show; 29th annual.",
+   "description": "The 29th Goodguys Speedway Motors Southwest Nationals fills WestWorld of Scottsdale with thousands of hot rods, customs, classics and muscle cars, plus autocross racing, a swap meet, vendors and awards.",
+   "id": "ph-goodguys-southwest-nationals-2026",
+   "lat": 33.63385,
+   "lng": -111.87568
+  },
+  {
+   "name": "Road to Riches Santa at City Hall Car Show & Holiday Market",
+   "category": "Shows & Expos",
+   "place": "Chandler City Hall Parking Garage, 240 S Washington St, Chandler",
+   "time": "1pm–6pm",
+   "free": true,
+   "source": "https://drivenlife.co/events/road-to-riches-santa-at-city-hall-car-show-2026-chandler/",
+   "date": "2026-12-12",
+   "note": "Free to watch. Show a car for free with a new unwrapped toy.",
+   "description": "The BAM Foundation and City of Chandler's third Santa at City Hall car show and holiday market, open to all makes and models, doubling as a toy drive.",
+   "know": [
+    "No revving, hopping or burnouts."
+   ],
+   "id": "ph-santa-at-city-hall-car-show-2026-12-12",
+   "lat": 33.30162,
+   "lng": -111.84321
+  },
+  {
+   "name": "Peoria Asian Night Market",
+   "category": "Festival",
+   "place": "Centennial Plaza Park, W Cinnabar Ave, Peoria",
+   "time": "5pm–9pm",
+   "free": true,
+   "source": "https://phoenixfoodfestivals.com/event/peoria-night-market-6/",
+   "rule": {
+    "dates": [
+     "2026-12-18",
+     "2027-01-08"
+    ]
+   },
+   "note": "Free entry and parking; food sold by vendors. Bring cash. RSVP requested.",
+   "description": "A small Asian food festival with local food vendors (bao, takoyaki, boba, Japanese cheesecake and more) plus anime and retail vendors.",
+   "id": "ph-peoria-asian-night-market",
+   "lat": 33.57483,
+   "lng": -112.23982
+  },
+  {
+   "name": "Front Row Card Show – Phoenix",
+   "category": "Shows & Expos",
+   "place": "State Farm Stadium, 1 Cardinals Dr, Glendale",
+   "time": "11am–5pm",
+   "free": false,
+   "price": "Tickets via organizer",
+   "source": "https://tcgexpos.com/event/front-row-card-show-phoenix-december-twelve-thirteen/",
+   "date": "2026-12-12",
+   "end": "2026-12-13",
+   "note": "OPEN TO THE PUBLIC · free parking in the stadium lots.",
+   "description": "A stadium-scale collector show on the field at State Farm Stadium with about 775 vendor tables of sports cards, Pokémon and other TCGs, comics, memorabilia, toys, art and autographs to buy, sell and trade.",
+   "id": "ph-front-row-card-show-2026-12",
+   "convention": true,
+   "lat": 33.5276,
+   "lng": -112.2626
   }
  ],
  "center": [

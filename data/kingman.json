@@ -1,21 +1,7 @@
 {
  "city": "Kingman, AZ",
- "checked": "2026-11-14",
+ "checked": "2026-11-16",
  "events": [
-  {
-   "name": "Route 66 UltraRun",
-   "category": "Outdoors & Nature",
-   "place": "Route 66, Kingman to Seligman",
-   "time": "See source",
-   "free": false,
-   "source": "https://visitkingman.com/events",
-   "date": "2026-11-13",
-   "end": "2026-11-15",
-   "description": "An ultramarathon along historic Route 66 between Kingman and Seligman, listed among Kingman's signature annual events.",
-   "id": "ki-route-66-ultrarun-2026-11-13",
-   "lat": 35.19001,
-   "lng": -114.03498
-  },
   {
    "name": "Chillin' on Beale",
    "category": "Festival",
@@ -81,21 +67,6 @@
    "id": "ki-downtown-cookie-crawl-2026-12-12",
    "lat": 35.18999,
    "lng": -114.0539
-  },
-  {
-   "name": "Cancer Care Unit 51st Arts & Crafts Fair",
-   "category": "Market",
-   "place": "Mohave County Fairgrounds, 2600 Fairgrounds Blvd",
-   "time": "See site",
-   "free": true,
-   "source": "https://www.explorekingman.com/2026-11-14-event-kingman-cancer-unit-51st-annual-arts-and-crafts-fair",
-   "date": "2026-11-14",
-   "end": "2026-11-15",
-   "note": "Free.",
-   "description": "Cancer Care Unit 51st Arts & Crafts Fair at Mohave County Fairgrounds, 2600 Fairgrounds Blvd. Free.",
-   "id": "ki-cancer-care-unit-51st-arts-crafts-fair",
-   "lat": 35.2105,
-   "lng": -114.02902
   },
   {
    "name": "Breakfast with Santa",
@@ -189,6 +160,39 @@
    "id": "ki-25th-annual-polar-dip",
    "lat": 35.22069,
    "lng": -114.02487
+  },
+  {
+   "name": "Bad Gass Garage Cars & Coffee",
+   "category": "Shows & Expos",
+   "place": "Bad Gass Garage, 124 E Beale St",
+   "time": "8am–11:30am",
+   "free": true,
+   "source": "https://mycarculture.com/events/bad-gass-garage-cars-coffee-2026-12-12",
+   "rule": {
+    "dates": [
+     "2026-12-12",
+     "2027-01-09"
+    ]
+   },
+   "note": "Monthly, usually the 2nd Saturday. Free.",
+   "description": "A free monthly cars-and-coffee meet at Bad Gass Garage on historic Route 66 in downtown Kingman, known for its classic muscle cars.",
+   "id": "ki-bad-gass-garage-cars-coffee",
+   "lat": 35.18755,
+   "lng": -114.04291
+  },
+  {
+   "name": "Cerbat Market Christmas",
+   "category": "Market",
+   "place": "Cerbat Lanes parking lot, 3631 Stockton Hill Rd",
+   "time": "8am–12pm",
+   "free": true,
+   "source": "https://everythingkingman.com/5930/event/cerbat-market-christmas-december-12th",
+   "date": "2026-12-12",
+   "note": "Free to browse.",
+   "description": "A Christmas edition of Cerbat Market, a community farmers and craft market of locally handmade, handcrafted and homegrown products.",
+   "id": "ki-cerbat-market-christmas-2026-12-12",
+   "lat": 35.22917,
+   "lng": -114.03681
   }
  ],
  "center": [

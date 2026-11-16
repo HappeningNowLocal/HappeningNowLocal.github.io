@@ -1,6 +1,6 @@
 # Happening Now Local: Source List
 
-Checked 2026-11-14. **Reachable** means the page loaded from this box. **Search-only** means I read the page text through the search index and did not load it directly. **Blocked** means 403 or a block page.
+Checked 2026-11-16. **Reachable** means the page loaded from this box. **Search-only** means I read the page text through the search index and did not load it directly. **Blocked** means 403 or a block page.
 
 ## Cross-region (all cities)
 | Name | URL | Covers | Reachable |
@@ -315,3 +315,46 @@ Notes from 2026-11-12: sandiego.org, garagecherries and nowplayingutah block thi
 Removed 2026-11-14: Sand Hollow calendar (stateparks.utah.gov/parks/sand-hollow/events-calendar/ returns 404; the Utah State Parks events feed still covers Sand Hollow). Updated moved URLs: Opportunity Village Magical Forest (now /ovevents/magical-forest), Glittering Lights (now glitteringlightslasvegas.com), Springdale calendar (needs www.).
 
 Notes from 2026-11-14: sandandwaterexpo.com now shows a spam site, so the Sand, Water & RV Expo was sourced from another page. cityofnorthlasvegas.com returned 403. north-las-vegas.com is a low-confidence directory and was not used. cityofhenderson.com, 8newsnow, sandiego.org, visitarizona and cpw returned 403; havasunews and stgnewsletter returned 429; redrockcanyonlv and gomtcharleston returned 520; downtownculvercity, eventswithcars and yodel did not respond from this box. Generic Eventbrite promos (e.g. "Los Angeles Holiday lights & Street Festival") were skipped.
+
+## Added 2026-11-16
+| City | Name | URL | Covers | Reachable |
+|---|---|---|---|---|
+| Cross-region | Cookoff List | https://www.cookofflist.com/ | BBQ and chili cook-off schedules (confirm with organizer) | Reachable |
+| Cross-region | Goodguys Rod & Custom | https://www.good-guys.com/ | Goodguys car shows (Southwest Nationals in Scottsdale) | Reachable |
+| Cross-region | MyCarCulture | https://www.mycarculture.com/ | Car show listings | Reachable (JS-only; read through search) |
+| Boulder City | Boulder City Chamber calendar (PDF) | https://www.chamberorganizer.com/members/calendar/calendar_summary_pdf.php?org_id=BCCC | Chamber and community events (Last Friday market, Cookies & Cocoa, caroling) | Reachable |
+| Henderson | The District at Green Valley Ranch events | https://shopthedistrictgvr.com/events/ | Giving Machines, Full Moon Yoga, vintage markets | Reachable |
+| Las Vegas | Shop & Seek LV | https://shopandseeklv.com/events | Local maker markets (The First Find) | Reachable |
+| Las Vegas | Las Vegas Convention Guide | https://www.lasvegasconventionguide.com/calendar | Convention and trade show calendar for LVCC and other venues | Reachable |
+| Las Vegas | Nevada Bridal & Wedding Expo | https://bridalshowsnv-lv.com/ | Public bridal expo at LVCC | Reachable |
+| Las Vegas | OFFPRICE | https://www.offpriceshow.com/ | Industry-only apparel trade show | Reachable |
+| Las Vegas | ASD Market Week | https://www.asdonline.com/ | Industry-only retail trade show | Reachable |
+| Las Vegas | Review-Journal Neon free events | https://neon.reviewjournal.com/free/ | Weekly free-things-to-do roundup | Reachable |
+| Kingman | Everything Kingman | https://everythingkingman.com/ | Local news and event posts (car meets, markets) | Reachable |
+| Laughlin | SNORE off-road racing | https://www.snoreracing.net/ | Rage at the River off-road race | Reachable |
+| Lake Havasu | Hav-A-Sis | https://havasis.org/ | Craft show fundraisers (paid entry) | Reachable |
+| Zion / Springdale | Bumbleberry Theater | https://www.bumbleberry.com/springdale-utah-theater/ | Free Christmas movies, theater events | Reachable |
+| Zion / Springdale / Cedar City | SU Independent | https://www.suindependent.com/ | Southern Utah local news and events | Blocked (403); search-only |
+| St. George | St. George Children's Museum events | https://sgchildrensmuseum.org/admission/events/ | Noon Day Drop on New Year's Eve, kids events | Reachable |
+| St. George | Up and Away Balloon Festival | https://upandawayballoonfestival.com/ | Hot air balloon festival (Jan) | Reachable |
+| Hurricane | Baker's Dozen Half Marathon (RunSignup) | https://runsignup.com/Race/UT/Hurricane/BakerSDozenHalfMarathonRelay5K | Dec half marathon, relay and 5K | Reachable (bakersdozenhalfmarathon.com did not respond) |
+| Cedar City | Red Acre Farm events | https://www.redacrefarmcsa.org/events | Red Acre Christmas, farm events | Reachable |
+| Phoenix | Phoenix Food Festivals | https://phoenixfoodfestivals.com/ | Night markets and food festivals (Peoria Asian Night Market) | Reachable |
+| Phoenix | TCG Expos | https://tcgexpos.com/ | Card shows at State Farm Stadium | Reachable |
+| Phoenix / Los Angeles | Driven Life | https://drivenlife.co/ | Car shows and cruises (Chandler, Marina del Rey) | Reachable |
+| Salt Lake City | Utah Dept. of Veterans events (Mountain America Expo Center) | https://veterans.utah.gov/venue/mountain-america-expo-center/ | Veteran-Owned Business Holiday Market | Reachable |
+| Salt Lake City | Salt Lake Home Show | https://saltlakehomeshow.com/ | Home show at Mountain America Expo Center (Jan) | Reachable |
+| Salt Lake City | Utah Auto Expo | https://autoshowutah.com/ | Auto show at Mountain America Expo Center (Jan) | Reachable |
+| Salt Lake City | Intermountain Festival of Trees | https://intermountainhealth.org/give/fundraising-events/festival-of-trees | Festival of Trees (Dec) | Reachable |
+| San Diego | San Diego Convention Center calendar | https://www.visitsandiego.com/calendar | Public and trade shows at SDCC | Reachable |
+| San Diego | San Diego International Auto Show | https://sdautoshow.com/ | Auto show at SDCC (Dec–Jan) | Reachable |
+| San Diego | San Diego Home Show | https://homeshowsandiego.com/ | Home show at SDCC (Jan) | Reachable |
+| San Diego | SoNo Fest & Chili Cook-Off | https://sonofestchilicookoff.com/ | South Park/North Park street fest and chili cook-off | Reachable |
+| San Diego | Bates Nut Farm | https://batesnutfarm.biz/ | Valley Center farm events and holiday fairs | Reachable |
+| Los Angeles | LA Auto Show | https://laautoshow.com/ | LA Auto Show at LA Convention Center | Reachable |
+| Los Angeles | Visit Pasadena events | https://www.visitpasadena.com/ | Pasadena annual events (Holidayfest) | Reachable |
+| Los Angeles | MotorEvents | https://www.motorevents.net/ | Southern California car show listings | Reachable |
+
+Removed 2026-11-16: none (no dead sources found; every non-200 was a bot block or rate limit, not a dead page).
+
+Notes from 2026-11-16: The Afterglow Market page on Shop & Seek LV now returns 404, so the event was removed; The First Find (Jan 24) is listed instead. The UMFA Holiday Market link moved to https://umfa.utah.edu/event/holiday-market-2026-2/. cityofhenderson.com, 8newsnow, sandiego.org, visitarizona, magicfashionevents, the Havasu Chamber business calendar and cpw returned 403; stgnewsletter returned 429; suindependent returned 403. events.suu.edu still needs TLS checks skipped from this box. The Mesa Night Market page says "Saturday, December 6th", but Dec 6, 2026 is a Sunday, so it was not added until the date is confirmed. The Springdale town page still shows an old "Friday Dec 12" date; the town calendar's Dec 11 was kept. Paid holiday concerts (Ryan Shupe, SUU, Joshua Creek, He Makana Kealoha) were skipped.

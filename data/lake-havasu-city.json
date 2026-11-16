@@ -1,6 +1,6 @@
 {
  "city": "Lake Havasu City, AZ",
- "checked": "2026-11-14",
+ "checked": "2026-11-16",
  "center": [
   34.4839,
   -114.3225
@@ -192,21 +192,6 @@
    "lng": -114.26
   },
   {
-   "name": "Havasu Christmas Craft & Gift Show",
-   "category": "Market",
-   "place": "Main Street Commons, 2112 McCulloch Blvd N",
-   "time": "9am–5pm",
-   "free": true,
-   "source": "https://www.golakehavasu.com/events/havasu-christmas-craft-and-gift-show/",
-   "date": "2026-11-14",
-   "end": "2026-11-15",
-   "note": "Free admission. Also Sun Nov 15. Times are Arizona time.",
-   "description": "Dozens of local vendors and artisans with handmade gifts, gourmet goods and seasonal décor at Main Street Commons in Lake Havasu City.",
-   "id": "lh-havasu-christmas-craft-gift-show-2026-11-14",
-   "lat": 34.47554,
-   "lng": -114.32892
-  },
-  {
    "name": "Havasu Art Guild Holiday Shoppe",
    "category": "Art & Craft",
    "place": "Lake Havasu City Aquatics Center, 100 Park Ave",
@@ -297,6 +282,20 @@
    "id": "lh-christmas-market-pet-adoption-event-at-the-views",
    "lat": 34.47309,
    "lng": -114.32508
+  },
+  {
+   "name": "The Night Market (First Friday)",
+   "category": "Market",
+   "place": "2144 McCulloch Blvd N, Lake Havasu City",
+   "time": "6pm–9pm",
+   "free": true,
+   "source": "https://riverscenemagazine.com/events/the-night-market-3/",
+   "date": "2026-12-04",
+   "note": "Free to attend. Held with First Friday Havasu downtown.",
+   "description": "Havasu Together's evening market of local vendors, makers and food with live music, held alongside First Friday Havasu, downtown's monthly celebration of local art, music and food.",
+   "id": "lh-the-night-market-2026-12-04",
+   "lat": 34.47474,
+   "lng": -114.32647
   }
  ]
 }

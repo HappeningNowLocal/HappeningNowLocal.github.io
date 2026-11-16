@@ -1,6 +1,6 @@
 {
  "city": "Boulder City, NV",
- "checked": "2026-11-14",
+ "checked": "2026-11-16",
  "events": [
   {
    "name": "Bighorn Sheep Guzzler Cleanup",
@@ -229,6 +229,91 @@
    "id": "bc-community-christmas-dinner",
    "lat": 35.972034,
    "lng": -114.835435
+  },
+  {
+   "name": "Last Friday Female Entrepreneur Market",
+   "category": "Market",
+   "place": "Downtown Boulder City, 501 Nevada Way (Arizona St & Nevada Way)",
+   "time": "4pm–8pm",
+   "free": true,
+   "source": "https://www.chamberorganizer.com/members/calendar/calendar_summary_pdf.php?org_id=BCCC",
+   "date": "2026-11-27",
+   "note": "Free to browse. 20+ women-owned businesses.",
+   "description": "Boulder City's Last Friday market brings 20+ women-owned small businesses to the corner of Arizona Street and Nevada Way downtown, on Black Friday this month.",
+   "id": "bc-last-friday-market-2026-11-27",
+   "lat": 35.97779,
+   "lng": -114.83725
+  },
+  {
+   "name": "Cookies & Cocoa with the Council",
+   "category": "Holiday",
+   "place": "Frank Crowe Park, 640 Nevada Way",
+   "time": "3pm–6:30pm",
+   "free": true,
+   "source": "https://www.chamberorganizer.com/members/calendar/calendar_summary_pdf.php?org_id=BCCC",
+   "date": "2026-12-05",
+   "note": "Same day as Santa's Electric Night Parade.",
+   "description": "Boulder City council members serve cookies and hot cocoa to residents at Frank Crowe Park on parade day.",
+   "id": "bc-cookies-cocoa-with-the-council-2026-12-05",
+   "lat": 35.977419,
+   "lng": -114.837997
+  },
+  {
+   "name": "Taste of Christmas at St. Andrew's",
+   "category": "Holiday",
+   "place": "St. Andrew Catholic Church Community Center, 1399 San Felipe Dr",
+   "time": "10:30am",
+   "free": true,
+   "source": "https://www.chamberorganizer.com/members/calendar/calendar_summary_pdf.php?org_id=BCCC",
+   "date": "2026-12-06",
+   "note": "After the 9:30am Mass; open to the entire community.",
+   "description": "A holiday food gathering in St. Andrew's community center that the parish opens to all of Boulder City.",
+   "id": "bc-taste-of-christmas-st-andrews-2026-12-06",
+   "lat": 35.96752,
+   "lng": -114.82646
+  },
+  {
+   "name": "Caroling Karaoke: A Night at the North Pole",
+   "category": "Holiday",
+   "place": "Christian Center, 571 Adams Blvd",
+   "time": "4pm–7pm",
+   "free": true,
+   "source": "https://www.chamberorganizer.com/members/calendar/calendar_summary_pdf.php?org_id=BCCC",
+   "date": "2026-12-12",
+   "note": "First-year event; a community carol sing turned into a winter wonderland.",
+   "description": "Christian Center turns its building into a little North Pole for an evening of Christmas karaoke carols, community and holiday fun, in place of driving around town to carol.",
+   "id": "bc-caroling-karaoke-night-at-the-north-pole-2026-12-12",
+   "lat": 35.96835,
+   "lng": -114.82576
+  },
+  {
+   "name": "Mornings at the Gardens",
+   "category": "Outdoors & Nature",
+   "place": "Teddy Fenton Community Gardens, 300 Railroad Ave",
+   "time": "8:30am–10:30am",
+   "free": true,
+   "source": "https://www.chamberorganizer.com/members/calendar/calendar_summary_pdf.php?org_id=BCCC",
+   "date": "2026-11-21",
+   "note": "Fall and winter garden advice from local gardeners.",
+   "description": "Local gardeners at Boulder City's community gardens share tips for getting fall and winter gardens started and growing.",
+   "id": "bc-mornings-at-the-gardens-2026-11-21",
+   "lat": 35.97958,
+   "lng": -114.83904
+  },
+  {
+   "name": "Reaper Madness Mountain Bike Races",
+   "category": "Outdoors & Nature",
+   "place": "Bootleg Canyon, Boulder City",
+   "time": "9am–4:30pm",
+   "free": true,
+   "source": "https://www.chamberorganizer.com/members/calendar/calendar_summary_pdf.php?org_id=BCCC",
+   "date": "2027-01-16",
+   "end": "2027-01-17",
+   "note": "Gravity mountain bike racing; free to watch. Rider entry fees apply.",
+   "description": "Bootleg Canyon Gravity Racing's winter mountain bike race weekend on the Bootleg Canyon trails above Boulder City.",
+   "id": "bc-reaper-madness-mtb-races-2027-01",
+   "lat": 35.97881,
+   "lng": -114.86096
   }
  ],
  "center": [

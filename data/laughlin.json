@@ -1,6 +1,6 @@
 {
  "city": "Laughlin, NV",
- "checked": "2026-11-14",
+ "checked": "2026-11-16",
  "events": [
   {
    "name": "28th Annual CRWC Boom Box Parade",
@@ -255,6 +255,38 @@
    "id": "lau-12th-annual-slab-o-rama-bbq-challenge",
    "lat": 35.08929,
    "lng": -114.61849
+  },
+  {
+   "name": "SNORE Rage at the River Off-Road Race",
+   "category": "Outdoors & Nature",
+   "place": "Laughlin Events Park (spectator pits off Bruce Woodbury Dr)",
+   "time": "All day",
+   "free": true,
+   "source": "https://www.snoreracing.net/",
+   "date": "2026-12-11",
+   "end": "2026-12-13",
+   "note": "Free for spectators. Bring sun and ear protection and closed-toe shoes.",
+   "description": "Southern Nevada Off Road Enthusiasts' season-ending desert race (Riverside Hotel Rage at the River) with trucks, buggies and UTVs racing the Laughlin desert course.",
+   "know": [
+    "Spectator info: https://www.festivalsinamerica.com/festival/snore-maxxis-tires-rage-at-the-river-laughlin"
+   ],
+   "id": "lg-snore-rage-at-the-river-2026-12",
+   "lat": 35.15375,
+   "lng": -114.60252
+  },
+  {
+   "name": "Mohave College Shines: Holiday Fun with Santa",
+   "category": "Holiday",
+   "place": "Mohave College Bullhead City Campus, 3400 Highway 95, Bullhead City",
+   "time": "4:30pm–6:30pm Laughlin time (5:30pm–7:30pm Arizona time)",
+   "free": true,
+   "source": "https://www.locable.com/connections/75222-bullhead-city-arizona/events/2026/12/3/674778/mohave-college-shines-holiday-fun-with-santa/",
+   "date": "2026-12-03",
+   "note": "Family event with photos with Santa and light refreshments.",
+   "description": "Mohave College's holiday kickoff at its Bullhead City campus, with photos with Santa, crafts with Blaze and friends, holiday entertainment from around the world, and North Pole Travel Books for kids to stamp at each station.",
+   "id": "lau-mohave-college-shines-2026-12-03",
+   "lat": 35.06038,
+   "lng": -114.58914
   }
  ],
  "center": [

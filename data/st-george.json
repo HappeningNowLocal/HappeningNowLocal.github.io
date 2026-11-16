@@ -1,6 +1,6 @@
 {
  "city": "St. George, UT",
- "checked": "2026-11-14",
+ "checked": "2026-11-16",
  "events": [
   {
    "name": "Downtown Farmers Market",
@@ -835,6 +835,36 @@
    "lat": 37.10685,
    "lng": -113.58507,
    "id": "st-christmas-ornaments-craft-night-adults"
+  },
+  {
+   "name": "Noon Day Drop at St. George Children's Museum",
+   "category": "Family",
+   "place": "St. George Children's Museum, 86 S Main St",
+   "time": "Countdown to noon (details TBA)",
+   "free": false,
+   "source": "https://www.sgchildrensmuseum.org/admission/events/",
+   "date": "2026-12-31",
+   "note": "Kid-friendly New Year's countdown to noon. Registration details to be announced; museum admission likely applies.",
+   "description": "One of the Children's Museum's favorite family traditions: celebrate the New Year without staying up until midnight, counting down to noon with kid-friendly activities.",
+   "id": "st-noon-day-drop-2026-12-31",
+   "lat": 37.10682,
+   "lng": -113.58385
+  },
+  {
+   "name": "Up and Away Hot Air Balloon & Music Festival",
+   "category": "Festival",
+   "place": "Staheli Family Farm, 3400 S Washington Fields Rd, Washington",
+   "time": "Launches 7am–10am (weather permitting); festival until 5pm",
+   "free": false,
+   "price": "$1 entry (ages 2+); tethered rides $30",
+   "source": "https://upandawayballoonfestival.com/event/2027-up-and-away-balloon-festival/",
+   "date": "2027-01-15",
+   "end": "2027-01-16",
+   "note": "$1 spectator ticket for ages 2+. Balloon flights depend on weather.",
+   "description": "A winter hot air balloon festival at Staheli Family Farm with morning mass launches, tethered balloon rides, music, food vendors and daily activities.",
+   "id": "st-up-and-away-balloon-festival-2027",
+   "lat": 37.078436,
+   "lng": -113.498143
   }
  ],
  "center": [

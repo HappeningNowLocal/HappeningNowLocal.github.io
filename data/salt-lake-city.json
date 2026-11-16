@@ -1,6 +1,6 @@
 {
  "city": "Salt Lake City, UT",
- "checked": "2026-11-14",
+ "checked": "2026-11-16",
  "events": [
   {
    "name": "Downtown Winter Farmers Market",
@@ -118,7 +118,7 @@
      3
     ],
     "from": "2026-11-04",
-    "until": "2026-12-16"
+    "until": "2027-01-13"
    },
    "note": "Weekly Wednesdays; binoculars to borrow.",
    "description": "Walk the ranch's densely populated wetland in search of your bucket-list bird. Binoculars are available to borrow; no extra charge beyond park entry.",
@@ -232,7 +232,7 @@
    "place": "Utah Museum of Fine Arts, 410 Campus Center Dr",
    "time": "9am–5pm",
    "free": true,
-   "source": "https://umfa.utah.edu/event/holiday-market-2026/2026-12-06/",
+   "source": "https://umfa.utah.edu/event/holiday-market-2026-2/",
    "date": "2026-12-05",
    "end": "2026-12-06",
    "note": "Free to shop; free parking.",
@@ -339,6 +339,123 @@
    "id": "sl-shoreline-sentinels-of-great-salt-lake-film-panel",
    "lat": 40.73954,
    "lng": -111.9167
+  },
+  {
+   "name": "Festival of Trees",
+   "category": "Holiday",
+   "place": "Mountain America Expo Center, 9575 S State St, Sandy",
+   "time": "10am–9pm (Dec 5 until 7pm)",
+   "free": false,
+   "price": "$10 adults, $8 seniors, $7 kids 2–11",
+   "source": "https://www.intermountainhealth.org/give/fundraising-events/festival-of-trees",
+   "date": "2026-12-02",
+   "end": "2026-12-05",
+   "note": "56th annual; benefits Primary Children's Hospital. Tickets online.",
+   "description": "Utah's beloved holiday tradition: hundreds of decorated trees, handcrafted wreaths and gingerbread houses fill the expo center, with every ticket supporting Primary Children's Hospital.",
+   "id": "sl-festival-of-trees-2026",
+   "convention": true,
+   "lat": 40.5745,
+   "lng": -111.8907
+  },
+  {
+   "name": "Veteran-Owned Business Holiday Market",
+   "category": "Market",
+   "place": "Mountain America Expo Center, 9575 S State St, Sandy",
+   "time": "11am–3pm",
+   "free": true,
+   "source": "https://veterans.utah.gov/venue/mountain-america-expo-center/",
+   "date": "2026-12-12",
+   "note": "Free admission. 3rd annual; presented by Cyprus Credit Union.",
+   "description": "Utah's largest veteran-owned business holiday market, with handcrafted products, specialty foods and holiday gifts from veteran-owned businesses.",
+   "id": "sl-veteran-owned-business-holiday-market-2026-12-12",
+   "convention": true,
+   "lat": 40.5745,
+   "lng": -111.8907
+  },
+  {
+   "name": "Salt Lake Handmade Holiday Expo",
+   "category": "Art & Craft",
+   "place": "Mountain America Expo Center, 9575 S State St, Sandy",
+   "time": "10am–5pm",
+   "free": false,
+   "price": "See Eventbrite",
+   "source": "https://www.eventbrite.com/e/salt-lake-handmade-holiday-expo-tickets-2003248411926",
+   "date": "2026-12-18",
+   "end": "2026-12-20",
+   "note": "Handmade goods, local artists, craft and food vendors.",
+   "description": "American Makers Alliance's three-day holiday expo of handmade goods, local artists and craft vendors at the Mountain America Expo Center.",
+   "id": "sl-salt-lake-handmade-holiday-expo-2026-12",
+   "convention": true,
+   "lat": 40.5745,
+   "lng": -111.8907
+  },
+  {
+   "name": "Salt Lake Home Show",
+   "category": "Shows & Expos",
+   "place": "Mountain America Expo Center, 9575 S State St, Sandy",
+   "time": "Fri 11am–8pm, Sat 10am–8pm, Sun 11am–6pm",
+   "free": false,
+   "price": "$12 online pre-event, $14 day of; kids 12 & under free",
+   "source": "https://www.saltlakehomeshow.com/attendee-info/show-info",
+   "date": "2027-01-08",
+   "end": "2027-01-10",
+   "note": "OPEN TO THE PUBLIC · tickets online only (no onsite box office).",
+   "description": "A consumer home show with remodeling, landscaping, design and home-improvement exhibitors, design stage talks and show specials.",
+   "id": "sl-salt-lake-home-show-2027-01",
+   "convention": true,
+   "lat": 40.5745,
+   "lng": -111.8907
+  },
+  {
+   "name": "Utah International Auto Expo",
+   "category": "Shows & Expos",
+   "place": "Mountain America Expo Center, 9575 S State St, Sandy",
+   "time": "Fri 11am–8pm; Sat–Mon 10am–8pm",
+   "free": false,
+   "price": "$15 adults; $7 seniors 62+ and military; kids 12 & under free",
+   "source": "https://autoshowutah.com/",
+   "date": "2027-01-15",
+   "end": "2027-01-18",
+   "note": "OPEN TO THE PUBLIC · free parking; card/tap only at the box office.",
+   "description": "Utah's annual new-car show, with the latest models from major automakers on the expo floor plus manufacturer test-drive programs.",
+   "id": "sl-utah-international-auto-expo-2027",
+   "convention": true,
+   "lat": 40.5745,
+   "lng": -111.8907
+  },
+  {
+   "name": "Holiday Choir & Handbell Concerts at the Main Library",
+   "category": "Holiday",
+   "place": "Salt Lake City Main Library (Urban Room), 210 E 400 S",
+   "time": "Nov 30 1:15pm & 2:45pm; Dec 10 5:30pm; Dec 14 6pm",
+   "free": true,
+   "source": "https://slcpl.libnet.info/event/17843820",
+   "rule": {
+    "dates": [
+     "2026-11-30",
+     "2026-12-10",
+     "2026-12-14"
+    ]
+   },
+   "note": "Free. Nov 30: Orem High Acapella Choir, then Lehi Jr. High Handbell Choir · Dec 10: Skyridge High Singers · Dec 14: Skyridge High Handbell Choir.",
+   "description": "A City Library holiday tradition: visiting school choirs and handbell ensembles perform short concerts of seasonal music in the Main Library's Urban Room.",
+   "id": "sl-holiday-choir-handbell-concerts-main-library",
+   "lat": 40.76069,
+   "lng": -111.88389
+  },
+  {
+   "name": "Gingerbread Jamboree",
+   "category": "Family",
+   "place": "Salt Lake City Main Library, 210 E 400 S",
+   "time": "10:15am–11am",
+   "free": true,
+   "source": "https://slcpl.libnet.info/event/17789511",
+   "date": "2026-12-12",
+   "note": "Space limited. Also at branches Dec 1 (Anderson-Foothill), Dec 4 (Day-Riverside), Dec 5 (Chapman), Dec 9 (Sprague), Dec 16 (Marmalade), Dec 17 (Sweet), Dec 18 (Glendale).",
+   "description": "A cookie-themed library storytime where kids decorate their own gingerbread person; cookies and supplies provided.",
+   "id": "sl-gingerbread-jamboree-2026-12-12",
+   "lat": 40.76069,
+   "lng": -111.88389
   }
  ],
  "center": [

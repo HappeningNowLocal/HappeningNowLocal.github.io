@@ -1,6 +1,6 @@
 {
  "city": "Los Angeles, CA",
- "checked": "2026-11-14",
+ "checked": "2026-11-16",
  "events": [
   {
    "name": "Griffith Observatory Public Star Party",
@@ -465,6 +465,54 @@
    "id": "lac-santa-monica-symphony-voices-of-innocence",
    "lat": 34.01454,
    "lng": -118.47081
+  },
+  {
+   "name": "Holidayfest on South Lake Avenue",
+   "category": "Holiday",
+   "place": "South Lake Avenue District, Pasadena",
+   "time": "12pm–6pm",
+   "free": true,
+   "source": "https://www.visitpasadena.com/events/annual-events/holidayfest/",
+   "date": "2026-12-05",
+   "note": "Free. Santa arrives 1pm at Macy's (401 S Lake Ave).",
+   "description": "A free afternoon of holiday shopping, dining and live music along Pasadena's South Lake Avenue, with Santa's Village, a holiday artisan market at The Commons, an ornament-making winter workshop and a music stage.",
+   "id": "lac-holidayfest-south-lake-avenue-2026-12-05",
+   "lat": 34.139,
+   "lng": -118.13301
+  },
+  {
+   "name": "LA Auto Show 2026",
+   "category": "Shows & Expos",
+   "place": "Los Angeles Convention Center, 1201 S Figueroa St",
+   "time": "Daily; see show hours",
+   "free": false,
+   "price": "Tickets online",
+   "source": "https://laautoshow.com/",
+   "date": "2026-11-20",
+   "end": "2026-11-29",
+   "note": "OPEN TO THE PUBLIC · ticketed. LACC parking expected $40–45 due to construction.",
+   "description": "One of the world's most influential auto shows, with first looks at 2027 models, brand showcases, test drives and rides, The Underground custom car exhibit and special exhibits at the LA Convention Center.",
+   "know": [
+    "Consider transit: LACC parking is limited during the convention center construction project."
+   ],
+   "id": "lac-la-auto-show-2026",
+   "convention": true,
+   "lat": 34.0403,
+   "lng": -118.2696
+  },
+  {
+   "name": "Killer Rides Christmas Show & Toy Drive",
+   "category": "Shows & Expos",
+   "place": "Killer Shrimp, 4211 Admiralty Way, Marina del Rey",
+   "time": "10am–1pm",
+   "free": true,
+   "source": "https://drivenlife.co/events/killer-rides-christmas-show-and-toy-drive-2026-marina-del-rey/",
+   "date": "2026-12-13",
+   "note": "Free (Eventbrite RSVP). Bring a new, unwrapped toy for Children's Hospital Los Angeles.",
+   "description": "Killer Shrimp's annual Christmas car show and toy drive with hot rods, classics, exotics and bikes; toys go to Children's Hospital Los Angeles with the LAFD.",
+   "id": "lac-killer-rides-christmas-show-2026-12-13",
+   "lat": 33.98318,
+   "lng": -118.45669
   }
  ],
  "center": [

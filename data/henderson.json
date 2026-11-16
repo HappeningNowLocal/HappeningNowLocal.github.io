@@ -1,6 +1,6 @@
 {
  "city": "Henderson, NV",
- "checked": "2026-11-14",
+ "checked": "2026-11-16",
  "events": [
   {
    "name": "Henderson Farmers Market – Cornerstone Park",
@@ -660,20 +660,6 @@
    "lng": -115.08007
   },
   {
-   "name": "Central Park Bird Walk with Red Rock Audubon",
-   "category": "Outdoors & Nature",
-   "place": "Cadence Central Park",
-   "time": "8:30am–10am",
-   "free": true,
-   "source": "https://www.cadencecommunityassociation.com/community-calendar/?cat=&month=11&view=month&year=2026",
-   "date": "2026-11-15",
-   "note": "Guided bird walk around the park's ponds.",
-   "description": "Red Rock Audubon leads a guided bird walk around Cadence's Central Park, home to local waterfowl and a stopover for migrating birds.",
-   "id": "he-central-park-bird-walk-with-red-rock-aud",
-   "lat": 36.05885,
-   "lng": -114.97577
-  },
-  {
    "name": "Cadence Winter Festival",
    "category": "Holiday",
    "place": "Cadence Central Park",
@@ -861,6 +847,109 @@
    "id": "he-inspirada-winter-festival-tree-lighting",
    "lat": 35.95172,
    "lng": -115.12532
+  },
+  {
+   "name": "Lotus Flower Lantern-Making with Meditation",
+   "category": "Art & Craft",
+   "place": "Paseo Verde Library, 280 S Green Valley Pkwy",
+   "time": "1pm–2:30pm",
+   "free": true,
+   "source": "https://henderson.libnet.info/event/17603610",
+   "rule": {
+    "dates": [
+     "2026-12-05"
+    ]
+   },
+   "note": "Ages 16+. Registration recommended. Also Dec 5 10am at Gibson Library and Dec 9 4pm at Green Valley Library.",
+   "description": "A relaxed, hands-on library workshop that pairs simple meditation with crafting a lotus flower lantern, guided by Jason Kim of Oneness Meditation Center.",
+   "id": "he-lotus-flower-lantern-making-2026-12-05",
+   "lat": 36.01729,
+   "lng": -115.08007
+  },
+  {
+   "name": "Sensory Museum at the Library",
+   "category": "Family",
+   "place": "Paseo Verde Library, 280 S Green Valley Pkwy",
+   "time": "6pm–6:45pm",
+   "free": true,
+   "source": "https://henderson.libnet.info/event/17690233",
+   "date": "2026-12-07",
+   "note": "For families with children. Pick up a pass at the desk up to 30 min before. Repeats Dec 9 at Gibson Library.",
+   "description": "Interactive stations that engage sight, sound, smell and touch, set up for families with children at Paseo Verde Library.",
+   "id": "he-sensory-museum-2026-12-07",
+   "lat": 36.01729,
+   "lng": -115.08007
+  },
+  {
+   "name": "Line It Up: Line Dancing for Adults",
+   "category": "Movies & Music",
+   "place": "Paseo Verde Library, 280 S Green Valley Pkwy",
+   "time": "3pm–4:30pm",
+   "free": true,
+   "source": "https://henderson.libnet.info/event/17191921",
+   "date": "2026-12-18",
+   "note": "Adults 18+. No partner or experience needed. Refreshments provided.",
+   "description": "A beginner-friendly line dancing session at the library, with classic and modern line dances to country and pop music broken down step by step.",
+   "id": "he-line-it-up-line-dancing-2026-12-18",
+   "lat": 36.01729,
+   "lng": -115.08007
+  },
+  {
+   "name": "Winter Preschool Party",
+   "category": "Family",
+   "place": "James I. Gibson Library, 100 W Lake Mead Pkwy",
+   "time": "10am–10:45am",
+   "free": true,
+   "source": "https://henderson.libnet.info/event/17690095",
+   "date": "2026-12-14",
+   "note": "Ages 3–5 with caregivers. Pick up a pass at the desk. Also Dec 15 Paseo Verde, Dec 17 Green Valley, Dec 18 West Henderson.",
+   "description": "Winter-themed stories, music and activities for preschoolers and their caregivers at Henderson Libraries.",
+   "id": "he-winter-preschool-party-2026-12-14",
+   "lat": 36.03976,
+   "lng": -114.98903
+  },
+  {
+   "name": "Light the World Giving Machines",
+   "category": "Holiday",
+   "place": "The District at Green Valley Ranch (near Pottery Barn), 2240 Village Walk Dr",
+   "time": "During shopping center hours",
+   "free": true,
+   "source": "https://shopthedistrictgvr.com/events/the-district-at-green-valley-ranch-giving-machine/",
+   "date": "2026-11-12",
+   "end": "2027-01-01",
+   "note": "Free to visit; donations optional.",
+   "description": "Holiday vending machines where shoppers buy donated items such as groceries, infant care, warm clothing or livestock for local nonprofits (Baby's Bounty, EyeCare4Kids, The Just One Project, Salvation Army of Southern Nevada, Tyler Robinson Foundation) and international causes.",
+   "id": "he-light-the-world-giving-machines-2026",
+   "lat": 36.02178,
+   "lng": -115.08659
+  },
+  {
+   "name": "Full Moon Yoga on The Green",
+   "category": "Outdoors & Nature",
+   "place": "The Green at The District at Green Valley Ranch (next to Whole Foods)",
+   "time": "5:30pm–6:30pm",
+   "free": true,
+   "source": "https://shopthedistrictgvr.com/events/the-district-at-green-valley-ranch-full-moon-yoga-2/",
+   "date": "2026-11-24",
+   "note": "Complimentary all-levels class with FIT4MOM Las Vegas. Registration required; space limited.",
+   "description": "An outdoor all-levels yoga class under the full moon on The Green at The District, led by Marina of FIT4MOM Las Vegas. Bring a mat and water.",
+   "id": "he-full-moon-yoga-on-the-green-2026-11-24",
+   "lat": 36.02178,
+   "lng": -115.08659
+  },
+  {
+   "name": "Second Time Around Vintage Market",
+   "category": "Market",
+   "place": "The District at Green Valley Ranch, 2240 Village Walk Dr",
+   "time": "Daytime (check event page)",
+   "free": true,
+   "source": "https://shopthedistrictgvr.com/events/the-district-at-green-valley-ranch-second-time-around-vintage-market-5a3a8038-5cc6-4e96-b43b-5e73a1e8a383/",
+   "date": "2026-12-05",
+   "note": "Free to browse. Bring your market receipt to Settebello for 10% off a meal.",
+   "description": "A curated vintage market at The District with classic wardrobe staples and one-of-a-kind finds from decades past, sourced by local vintage curators.",
+   "id": "he-second-time-around-vintage-market-2026-12-05",
+   "lat": 36.02178,
+   "lng": -115.08659
   }
  ],
  "center": [
