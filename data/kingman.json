@@ -1,6 +1,6 @@
 {
  "city": "Kingman, AZ",
- "checked": "2026-11-16",
+ "checked": "2026-11-18",
  "events": [
   {
    "name": "Chillin' on Beale",
@@ -130,7 +130,6 @@
    "category": "Market",
    "rule": {
     "dates": [
-     "2026-11-14",
      "2026-12-19"
     ]
    },
@@ -193,6 +192,79 @@
    "id": "ki-cerbat-market-christmas-2026-12-12",
    "lat": 35.22917,
    "lng": -114.03681
+  },
+  {
+   "name": "Kingman 75th Anniversary Celebration",
+   "category": "Festival",
+   "place": "Kingman (venue TBA by the city)",
+   "time": "5pm–8pm",
+   "free": true,
+   "source": "https://www.cityofkingman.gov/Home/Components/News/News/3938/255",
+   "date": "2027-01-21",
+   "note": "Community celebration with a drone show and ice rink. Venue not yet announced.",
+   "description": "The City of Kingman marks 75 years since its 1952 incorporation with a drone show, an ice skating rink, vendors, activities and Mohave County Historical Society displays.",
+   "know": [
+    "The city hasn't posted the venue yet; check before you go."
+   ],
+   "id": "ki-kingman-75th-anniversary-celebration-2027-01-21"
+  },
+  {
+   "name": "Kingman Concert Band: An American Christmas",
+   "category": "Holiday",
+   "place": "Kingman High School, 4182 N Bank St",
+   "time": "2pm",
+   "free": true,
+   "source": "https://www.kingmanconcertband.com/schedule",
+   "date": "2026-12-13",
+   "note": "Free community band concert.",
+   "description": "The Kingman Concert Band's free holiday concert, part of its 2026–27 season.",
+   "id": "ki-kingman-concert-band-an-american-chri-2026-12-13",
+   "lat": 35.22359,
+   "lng": -114.02805
+  },
+  {
+   "name": "Mohave College Art Club Art Show & Sale",
+   "category": "Art & Craft",
+   "place": "Mohave College Beale Street Center, 309 E Beale St",
+   "time": "4pm–8pm",
+   "free": true,
+   "source": "https://chamberorganizer.com/members/calendar/calendar_summary_pdf.php?org_id=KING",
+   "date": "2026-12-04",
+   "end": "2026-12-05",
+   "note": "Free to browse. Handmade art for sale.",
+   "description": "The Community Education Art Club's semi-annual show and sale of handmade ceramics, metalsmithing, leatherwork, lapidary, wire wrapping and fluid art, timed with downtown's Street of Lights weekend.",
+   "id": "ki-mohave-college-art-club-art-show-sale-2026-12-04",
+   "lat": 35.18999,
+   "lng": -114.0539
+  },
+  {
+   "name": "Photos with Santa at Mr. D'z Gift Shop",
+   "category": "Holiday",
+   "place": "Mr. D'z Gift Shop, 119 E Andy Devine Ave",
+   "time": "12pm–3pm",
+   "free": false,
+   "price": "$5 donation per photo",
+   "source": "https://chamberorganizer.com/members/calendar/calendar_summary_pdf.php?org_id=KING",
+   "date": "2026-12-06",
+   "note": "Santa in a 1958 Corvette. Benefits CASA for Kids.",
+   "description": "Holiday photos with Santa in a classic 1958 Corvette at the Route 66 diner's gift shop. Each $5 photo donation benefits CASA for Kids Mohave County.",
+   "id": "ki-photos-with-santa-at-mr-dz-gift-shop-2026-12-06",
+   "lat": 35.18917,
+   "lng": -114.0574
+  },
+  {
+   "name": "Kingdom Life Community Thanksgiving",
+   "category": "Holiday",
+   "place": "Beale Celebrations, 201 N 4th St",
+   "time": "2pm–4pm",
+   "free": true,
+   "source": "https://chamberorganizer.com/members/calendar/calendar_summary_pdf.php?org_id=KING",
+   "date": "2026-11-24",
+   "note": "Free community Thanksgiving meal.",
+   "description": "Local nonprofit Kingdom Life AZ hosts a warm community Thanksgiving meal and fellowship for individuals and families, and delivers meals to homebound neighbors.",
+   "id": "ki-kingdom-life-community-thanksgiving-2026-11-24",
+   "lat": 35.18974,
+   "lng": -114.05301
   }
  ],
  "center": [

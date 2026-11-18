@@ -1,6 +1,6 @@
 {
  "city": "Boulder City, NV",
- "checked": "2026-11-16",
+ "checked": "2026-11-18",
  "events": [
   {
    "name": "Bighorn Sheep Guzzler Cleanup",
@@ -43,7 +43,7 @@
    "time": "8:30am–2pm",
    "free": true,
    "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=7780B225-F604-7546-9231485C5B023A5F",
-   "date": "2026-12-17",
+   "date": "2026-12-15",
    "note": "Beginners welcome; hike or boat survey routes. Registration required.",
    "description": "Join NPS biologists for the nation's longest-running community-science bird project, surveying birds of Lake Mead and Lake Mohave. Choose a hike or a (longer) boat survey route.",
    "know": [
@@ -148,15 +148,14 @@
    "time": "4pm–8pm (check-in 4–5:30pm)",
    "free": false,
    "price": "$30 online; $35 at the door",
-   "source": "http://bestdamwinewalk.com/",
+   "source": "https://bestdamwinewalk.com/",
    "rule": {
     "dates": [
-     "2026-11-14",
      "2026-12-12",
      "2027-01-09"
     ]
    },
-   "note": "21+. Themes: Prom Night (Nov 14), Ugly Sweater (Dec 12), Pajama Party (Jan 9).",
+   "note": "21+. Themes: Ugly Sweater (Dec 12), Pajama Party (Jan 9).",
    "description": "Boulder City Chamber of Commerce's monthly wine walk through 25+ shops in the historic downtown, with a themed dress-up each month.",
    "know": [
     "21+ only; bring a valid physical ID.",
@@ -314,6 +313,95 @@
    "id": "bc-reaper-madness-mtb-races-2027-01",
    "lat": 35.97881,
    "lng": -114.86096
+  },
+  {
+   "name": "Annual Turkey Shoot",
+   "category": "Family",
+   "place": "ABC Park Gymnasium, 801 Adams Blvd",
+   "time": "6pm–8pm",
+   "free": false,
+   "price": "$1 per target (8 shots), cash only",
+   "source": "https://www.bouldercity.com/its-almost-time-for-the-turkey-shoot/",
+   "date": "2026-11-24",
+   "end": "2026-11-25",
+   "note": "Drop in any time 6–8pm. Cash only; bring small bills.",
+   "description": "Boulder City Parks and Recreation's family Thanksgiving target-shooting tradition at the ABC Park gym (not the fitness center); no turkeys are harmed.",
+   "know": [
+    "The gym is at the back of the park."
+   ],
+   "id": "bc-annual-turkey-shoot-2026-11-24",
+   "lat": 35.9683,
+   "lng": -114.83122
+  },
+  {
+   "name": "Holiday Origami at the Library",
+   "category": "Art & Craft",
+   "place": "Boulder City Library, 701 Adams Blvd",
+   "time": "11am–12:30pm",
+   "free": true,
+   "source": "https://bclibrary.libnet.info/event/17284693",
+   "date": "2026-12-06",
+   "note": "Free; no registration. Ages 8+.",
+   "description": "Cut and fold festive trees and ornaments with kirigami and modular origami. No supplies needed; beginners welcome.",
+   "id": "bc-holiday-origami-at-the-library-2026-12-06",
+   "lat": 35.96851,
+   "lng": -114.82946
+  },
+  {
+   "name": "Duffy Hudson Presents Christmas Magic",
+   "category": "Holiday",
+   "place": "Boulder City Library, 701 Adams Blvd",
+   "time": "12pm–1pm",
+   "free": true,
+   "source": "https://bclibrary.libnet.info/event/17495071",
+   "date": "2026-12-19",
+   "note": "Free library program. All ages.",
+   "description": "Duffy the Magic Elf performs holiday magic for kids and adults at the Boulder City Library.",
+   "id": "bc-duffy-hudson-presents-christmas-magic-2026-12-19",
+   "lat": 35.96851,
+   "lng": -114.82946
+  },
+  {
+   "name": "A Christmas Carol – One Man Show by Duffy Hudson",
+   "category": "Holiday",
+   "place": "Boulder City Library, 701 Adams Blvd",
+   "time": "2pm–3:30pm",
+   "free": true,
+   "source": "https://bclibrary.libnet.info/event/17494993",
+   "date": "2026-12-19",
+   "note": "Free library program. 75-minute family show.",
+   "description": "Broadway and film actor Duffy Hudson plays all 30 characters of A Christmas Carol without props or costumes.",
+   "id": "bc-a-christmas-carol-one-man-show-by-duf-2026-12-19",
+   "lat": 35.96851,
+   "lng": -114.82946
+  },
+  {
+   "name": "Holiday Handicrafts for Kids",
+   "category": "Family",
+   "place": "Boulder City Library, 701 Adams Blvd",
+   "time": "11:30am–12:30pm",
+   "free": true,
+   "source": "https://bclibrary.libnet.info/event/17004452",
+   "date": "2026-12-22",
+   "note": "Free library program for kids and caregivers.",
+   "description": "An hour of holiday and winter crafts for young children and their caregivers.",
+   "id": "bc-holiday-handicrafts-for-kids-2026-12-22",
+   "lat": 35.96851,
+   "lng": -114.82946
+  },
+  {
+   "name": "Noon Year's Eve at Boulder City Library",
+   "category": "Holiday",
+   "place": "Boulder City Library, 701 Adams Blvd",
+   "time": "11:30am–12:30pm",
+   "free": true,
+   "source": "https://bclibrary.libnet.info/event/17873298",
+   "date": "2026-12-31",
+   "note": "Free kids' New Year's countdown at noon.",
+   "description": "New Year's activities for kids with a countdown at noon in the library's Community Room.",
+   "id": "bc-noon-years-eve-at-boulder-city-librar-2026-12-31",
+   "lat": 35.96851,
+   "lng": -114.82946
   }
  ],
  "center": [

@@ -1,6 +1,6 @@
 {
  "city": "Salt Lake City, UT",
- "checked": "2026-11-16",
+ "checked": "2026-11-18",
  "events": [
   {
    "name": "Downtown Winter Farmers Market",
@@ -155,20 +155,6 @@
    "id": "sl-spirit-of-the-season-at-camp-floyd-2026-12",
    "lat": 40.25247,
    "lng": -112.09895
-  },
-  {
-   "name": "Dolly & Denim at the Utah Capitol",
-   "category": "Family",
-   "place": "Utah State Capitol Rotunda, 350 N State St, Salt Lake City",
-   "time": "7pm–9pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/dolly-denim-at-the-utah-capitol-tickets-1999054288189",
-   "date": "2026-11-16",
-   "note": "Free; RSVP on Eventbrite.",
-   "description": "A free party for early literacy supporting Dolly Parton's Imagination Library in Utah. It features a conversation with Sheri Dew and live music, and guests are invited to come in their best Dolly-inspired denim.",
-   "id": "sl-dolly-denim-at-the-utah-capitol-eb",
-   "lat": 40.77218,
-   "lng": -111.88833
   },
   {
    "name": "Red Butte Garden Holiday Open House & Art Fair",
@@ -327,20 +313,6 @@
    "lng": -111.88143
   },
   {
-   "name": "Shoreline Sentinels of Great Salt Lake: Film & Panel",
-   "category": "Outdoors & Nature",
-   "date": "2026-11-17",
-   "place": "Sorenson Unity Center, 1383 S 900 W",
-   "time": "7pm–8:30pm",
-   "free": true,
-   "source": "https://www.eventbrite.com/e/shoreline-sentinels-of-great-salt-lake-film-screening-panel-discussion-tickets-2003383618332",
-   "description": "Great Salt Lake Audubon screens a 17-minute film about the snowy plovers that nest on the lake's shore, followed by a panel discussion.",
-   "note": "Free; register on Eventbrite.",
-   "id": "sl-shoreline-sentinels-of-great-salt-lake-film-panel",
-   "lat": 40.73954,
-   "lng": -111.9167
-  },
-  {
    "name": "Festival of Trees",
    "category": "Holiday",
    "place": "Mountain America Expo Center, 9575 S State St, Sandy",
@@ -368,23 +340,6 @@
    "note": "Free admission. 3rd annual; presented by Cyprus Credit Union.",
    "description": "Utah's largest veteran-owned business holiday market, with handcrafted products, specialty foods and holiday gifts from veteran-owned businesses.",
    "id": "sl-veteran-owned-business-holiday-market-2026-12-12",
-   "convention": true,
-   "lat": 40.5745,
-   "lng": -111.8907
-  },
-  {
-   "name": "Salt Lake Handmade Holiday Expo",
-   "category": "Art & Craft",
-   "place": "Mountain America Expo Center, 9575 S State St, Sandy",
-   "time": "10am–5pm",
-   "free": false,
-   "price": "See Eventbrite",
-   "source": "https://www.eventbrite.com/e/salt-lake-handmade-holiday-expo-tickets-2003248411926",
-   "date": "2026-12-18",
-   "end": "2026-12-20",
-   "note": "Handmade goods, local artists, craft and food vendors.",
-   "description": "American Makers Alliance's three-day holiday expo of handmade goods, local artists and craft vendors at the Mountain America Expo Center.",
-   "id": "sl-salt-lake-handmade-holiday-expo-2026-12",
    "convention": true,
    "lat": 40.5745,
    "lng": -111.8907
@@ -456,6 +411,98 @@
    "id": "sl-gingerbread-jamboree-2026-12-12",
    "lat": 40.76069,
    "lng": -111.88389
+  },
+  {
+   "name": "Last Hurrah New Year's Eve at The Gateway",
+   "category": "Holiday",
+   "place": "The Gateway, 400 W 200 S",
+   "time": "8pm–11:59pm",
+   "free": true,
+   "source": "https://atthegateway.com/calendars/last-hurrah-2026/",
+   "date": "2026-12-31",
+   "note": "Free. RSVP online. Fireworks at midnight.",
+   "description": "The Gateway and Downtown Alliance's free New Year's Eve party with live music on an outdoor stage, street performers, a family game room with hot chocolate, pop-up bars, late-night shops and a midnight countdown.",
+   "know": [
+    "Clutch bags only (4.5 x 6.5 in); diaper and medical bags allowed.",
+    "Strollers OK, no wagons, no outside food or drinks, no party poppers."
+   ],
+   "id": "sl-last-hurrah-new-years-eve-at-the-gate-2026-12-31",
+   "lat": 40.76501,
+   "lng": -111.89173
+  },
+  {
+   "name": "Solitude New Year's Eve Torchlight Parade & Fireworks",
+   "category": "Holiday",
+   "place": "Last Chance Lodge, Solitude Mountain Resort, 12000 Big Cottonwood Canyon Rd",
+   "time": "3pm–7:30pm (torchlight & fireworks 6:30pm)",
+   "free": true,
+   "source": "https://www.solitudemountain.com/things-to-do/events-and-activities/torchlight-parade-and-firework-celebration_december-31",
+   "date": "2026-12-31",
+   "note": "Free. Park at Moonbeam; free shuttle until 8:30pm.",
+   "description": "Solitude staff ski down in a synchronized torch-lit parade followed by fireworks, with an alphorn concert, magic show and avalanche dog demo earlier in the afternoon.",
+   "know": [
+    "Lasagna dinner and drinks are for purchase.",
+    "Free shuttle between Moonbeam, Last Chance Lodge and the Village."
+   ],
+   "id": "sl-solitude-new-years-eve-torchlight-par-2026-12-31",
+   "lat": 40.62311,
+   "lng": -111.59763
+  },
+  {
+   "name": "Noon Year's Eve at Daybreak Library",
+   "category": "Family",
+   "place": "Daybreak Library, South Jordan",
+   "time": "10:30am–12:30pm",
+   "free": true,
+   "source": "https://events.slcolibrary.org/event/17709263",
+   "date": "2026-12-31",
+   "note": "Free, all ages. Balloon drop at noon.",
+   "description": "Ring in 2027 early with crafts, games, food and a noon balloon drop at the Salt Lake County Library's Daybreak branch.",
+   "id": "sl-noon-years-eve-at-daybreak-library-2026-12-31",
+   "lat": 40.54478,
+   "lng": -112.0157
+  },
+  {
+   "name": "A Visit with Santa & Mrs. Claus at Daybreak Library",
+   "category": "Holiday",
+   "place": "Daybreak Library, South Jordan",
+   "time": "7pm–8pm",
+   "free": true,
+   "source": "https://events.slcolibrary.org/event/16899098",
+   "date": "2026-12-07",
+   "note": "Free, all ages. Bilingual (English/Spanish) listing.",
+   "description": "Storytime with Mrs. Claus, a visit with Santa and a wintery craft at the library.",
+   "id": "sl-a-visit-with-santa-mrs-claus-at-daybr-2026-12-07",
+   "lat": 40.54478,
+   "lng": -112.0157
+  },
+  {
+   "name": "Nutcracker Suite Holiday Celebration",
+   "category": "Family",
+   "place": "Holladay Library, 2150 E Murray Holladay Rd, Holladay",
+   "time": "4pm–5:30pm",
+   "free": true,
+   "source": "https://events.slcolibrary.org/event/17551289",
+   "date": "2026-12-17",
+   "note": "Free. For kids 0–9.",
+   "description": "Kids make crafts, 'skate' to Tchaikovsky's Nutcracker Suite and enjoy party favors and treats.",
+   "id": "sl-nutcracker-suite-holiday-celebration-2026-12-17",
+   "lat": 40.66619,
+   "lng": -111.82866
+  },
+  {
+   "name": "Winter Celebrations Crafts at Whitmore Library",
+   "category": "Family",
+   "place": "Whitmore Library, 2197 E Fort Union Blvd, Cottonwood Heights",
+   "time": "11am–1pm",
+   "free": true,
+   "source": "https://events.slcolibrary.org/event/17068851",
+   "date": "2026-12-05",
+   "note": "Free drop-in crafts.",
+   "description": "Explore winter celebrations from many faith traditions through hands-on crafts.",
+   "id": "sl-winter-celebrations-crafts-at-whitmor-2026-12-05",
+   "lat": 40.62477,
+   "lng": -111.82802
   }
  ],
  "center": [

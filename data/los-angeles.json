@@ -1,6 +1,6 @@
 {
  "city": "Los Angeles, CA",
- "checked": "2026-11-16",
+ "checked": "2026-11-18",
  "events": [
   {
    "name": "Griffith Observatory Public Star Party",
@@ -11,7 +11,6 @@
    "source": "https://griffithobservatory.lacity.gov/event/public-star-party-november-14-2026/",
    "rule": {
     "dates": [
-     "2026-11-14",
      "2026-12-19"
     ]
    },
@@ -513,6 +512,109 @@
    "id": "lac-killer-rides-christmas-show-2026-12-13",
    "lat": 33.98318,
    "lng": -118.45669
+  },
+  {
+   "name": "138th Rose Parade",
+   "category": "Holiday",
+   "place": "Orange Grove Blvd & Colorado Blvd, Pasadena",
+   "time": "8am–10am",
+   "free": true,
+   "source": "https://tournamentofroses.com/events/rose-parade/",
+   "date": "2027-01-01",
+   "note": "Free curbside viewing; reserved grandstand seats are paid.",
+   "description": "The Tournament of Roses' New Year's Day parade of floral floats, marching bands and equestrian units along the 5.5-mile Colorado Boulevard route in Pasadena.",
+   "know": [
+    "Route closes to traffic from 10pm Dec 31 to 2pm Jan 1.",
+    "Metro A Line stations Del Mar, Memorial Park, Lake and Allen are closest."
+   ],
+   "id": "lac-138th-rose-parade-2027-01-01",
+   "lat": 34.14582,
+   "lng": -118.16026
+  },
+  {
+   "name": "Collect-A-Con Los Angeles",
+   "category": "Shows & Expos",
+   "place": "Los Angeles Convention Center, 1201 S Figueroa St",
+   "time": "See site",
+   "free": false,
+   "price": "Tickets required (see site)",
+   "source": "https://www.laconventioncenter.com/events/index/3",
+   "date": "2026-12-19",
+   "end": "2026-12-20",
+   "note": "Open to the public.",
+   "description": "A trading card, anime and collectibles convention at the LA Convention Center.",
+   "convention": true,
+   "id": "lac-collect-a-con-los-angeles-2026-12-19",
+   "lat": 34.04147,
+   "lng": -118.26898
+  },
+  {
+   "name": "LA Art Show 2027",
+   "category": "Art & Craft",
+   "place": "Los Angeles Convention Center, 1201 S Figueroa St",
+   "time": "See site",
+   "free": false,
+   "price": "Tickets required (see site)",
+   "source": "https://www.laconventioncenter.com/events/index/3",
+   "date": "2027-01-06",
+   "end": "2027-01-10",
+   "note": "Open to the public.",
+   "description": "LA's long-running international contemporary art fair with galleries from around the world at the LA Convention Center.",
+   "convention": true,
+   "id": "lac-la-art-show-2027-2027-01-06",
+   "lat": 34.04147,
+   "lng": -118.26898
+  },
+  {
+   "name": "Oddities & Curiosities Expo",
+   "category": "Shows & Expos",
+   "place": "Los Angeles Convention Center, 1201 S Figueroa St",
+   "time": "See site",
+   "free": false,
+   "price": "Tickets required (see site)",
+   "source": "https://www.laconventioncenter.com/events/index/3",
+   "date": "2027-01-09",
+   "end": "2027-01-10",
+   "note": "Open to the public.",
+   "description": "A traveling expo of vendors selling oddities, taxidermy, horror art and curiosities.",
+   "convention": true,
+   "id": "lac-oddities-curiosities-expo-2027-01-09",
+   "lat": 34.04147,
+   "lng": -118.26898
+  },
+  {
+   "name": "The Fitness Expo Los Angeles",
+   "category": "Shows & Expos",
+   "place": "Los Angeles Convention Center, South Hall, 1201 S Figueroa St",
+   "time": "See site",
+   "free": false,
+   "price": "Tickets required (see site)",
+   "source": "https://www.thefitexpo.com/cities/los-angeles/",
+   "date": "2027-01-23",
+   "end": "2027-01-24",
+   "note": "Open to the public.",
+   "description": "A consumer fitness and health expo with exhibitor samples, competitions, challenges and fitness influencer meet-and-greets.",
+   "convention": true,
+   "id": "lac-the-fitness-expo-los-angeles-2027-01-23",
+   "lat": 34.04147,
+   "lng": -118.26898
+  },
+  {
+   "name": "Asian American Expo 2027 (Lunar New Year)",
+   "category": "Festival",
+   "place": "Fairplex, 1101 W McKinley Ave, Pomona",
+   "time": "See site",
+   "free": false,
+   "price": "Tickets required (see site)",
+   "source": "https://aaexpo.com/",
+   "date": "2027-01-16",
+   "end": "2027-01-17",
+   "note": "45th annual. Tickets online.",
+   "description": "Billed as the largest Lunar New Year celebration in America: seven exhibition halls at Fairplex with 1,400+ vendors, food and 50+ performances celebrating Chinese, Taiwanese, Japanese, Korean, Vietnamese and Filipino communities.",
+   "convention": true,
+   "id": "lac-asian-american-expo-2027-lunar-new-y-2027-01-16",
+   "lat": 34.08031,
+   "lng": -117.7641
   }
  ],
  "center": [

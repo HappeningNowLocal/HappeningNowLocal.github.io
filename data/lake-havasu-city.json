@@ -1,6 +1,6 @@
 {
  "city": "Lake Havasu City, AZ",
- "checked": "2026-11-16",
+ "checked": "2026-11-18",
  "center": [
   34.4839,
   -114.3225
@@ -296,6 +296,52 @@
    "id": "lh-the-night-market-2026-12-04",
    "lat": 34.47474,
    "lng": -114.32647
+  },
+  {
+   "name": "The Gathering Car Show and Swap Meet (January)",
+   "category": "Shows & Expos",
+   "place": "Havasu 95 Speedway, 7260 Dub Campbell Pkwy",
+   "time": "8am–12pm",
+   "free": true,
+   "source": "https://www.golakehavasu.com/events/the-gathering-car-show-and-swap-meet-3/",
+   "date": "2027-01-09",
+   "note": "Free to the public; $5 per show car, $15 swap vendors.",
+   "description": "Havasu 95 Speedway and the Christian Rods & Customs Car Club's car show and swap meet. All proceeds benefit local families in need.",
+   "id": "lh-the-gathering-car-show-and-swap-meet--2027-01-09",
+   "lat": 34.44604,
+   "lng": -114.24874
+  },
+  {
+   "name": "Lake Havasu City Community Dinner",
+   "category": "Holiday",
+   "place": "Lake Havasu Aquatic Center, 100 Park Ave",
+   "time": "Seatings 4pm–5:30pm and 6pm–7:30pm",
+   "free": true,
+   "source": "https://www.golakehavasu.com/events/lake-havasu-city-community-dinner/",
+   "date": "2026-12-11",
+   "note": "Free annual holiday dinner, two seatings.",
+   "description": "Lake Havasu City's annual free community holiday dinner at the Aquatic Center.",
+   "know": [
+    "Call 928-453-8686 for details."
+   ],
+   "id": "lh-lake-havasu-city-community-dinner-2026-12-11",
+   "lat": 34.46348,
+   "lng": -114.33667
+  },
+  {
+   "name": "Pickleball & Pancakes",
+   "category": "Holiday",
+   "place": "Lake Havasu Aquatic Center, 100 Park Ave",
+   "time": "9am–12pm",
+   "free": false,
+   "price": "Call 928-453-8686 for cost",
+   "source": "https://www.golakehavasu.com/events/pickleball-and-pancakes/",
+   "date": "2026-12-24",
+   "note": "Holiday outfits encouraged.",
+   "description": "A Christmas Eve morning of holiday-themed pickleball games and a pancake breakfast at the Aquatic Center.",
+   "id": "lh-pickleball-pancakes-2026-12-24",
+   "lat": 34.46348,
+   "lng": -114.33667
   }
  ]
 }

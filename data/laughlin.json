@@ -1,6 +1,6 @@
 {
  "city": "Laughlin, NV",
- "checked": "2026-11-16",
+ "checked": "2026-11-18",
  "events": [
   {
    "name": "28th Annual CRWC Boom Box Parade",
@@ -180,9 +180,9 @@
    "place": "Bullhead City Hall, 2355 Trane Rd",
    "time": "3:30pm–6pm Laughlin time (4:30pm–7pm Arizona time)",
    "free": true,
-   "source": "https://www.bullheadcity.com/2026/12/18/651005/christmas-on-the-city-hall-deck-holiday-fun-with-santa/",
-   "date": "2026-12-18",
-   "note": "Free. Holiday fun with Santa.",
+   "source": "https://www.bullheadcity.com/2026/12/8/651005/christmas-on-the-city-hall-deck-holiday-fun-with-santa/",
+   "date": "2026-12-08",
+   "note": "Free. Santa arrives 5:30pm Arizona time.",
    "description": "Christmas on the City Hall Deck at Bullhead City Hall, 2355 Trane Rd. Free. Holiday fun with Santa.",
    "id": "lau-christmas-on-the-city-hall-deck",
    "lat": 35.101715,
@@ -210,20 +210,6 @@
    "date": "2026-12-05",
    "description": "The Laughlin Library's annual sale of books, magazines, DVDs and CDs.",
    "id": "lau-laughlin-library-annual-book-sale",
-   "lat": 35.14551,
-   "lng": -114.62487
-  },
-  {
-   "name": "Winter Knot Wreath Craft",
-   "category": "Art & Craft",
-   "place": "Laughlin Library, 2840 S Needles Hwy",
-   "time": "3:30pm–4:30pm",
-   "free": true,
-   "source": "https://events.thelibrarydistrict.org/event/16913038",
-   "date": "2026-11-16",
-   "note": "Tweens, teens and adults. While supplies last.",
-   "description": "Make a mini macramé wreath with soft cotton cord and a wooden ring, a beginner-friendly winter decoration.",
-   "id": "lau-winter-knot-wreath-craft",
    "lat": 35.14551,
    "lng": -114.62487
   },
@@ -287,6 +273,67 @@
    "id": "lau-mohave-college-shines-2026-12-03",
    "lat": 35.06038,
    "lng": -114.58914
+  },
+  {
+   "name": "Lights in the Park & Christmas Tree Lighting",
+   "category": "Holiday",
+   "place": "Gary Keith Civic Center Park, 2295 Hoppas Dr, Bullhead City",
+   "time": "6pm–9pm Laughlin time (7pm–10pm Arizona time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/12/4/668092/lights-in-the-park-christmas-tree-lighting/",
+   "date": "2026-12-04",
+   "note": "Free. Tree lighting at 8pm Laughlin time (9pm Arizona).",
+   "description": "Holiday light displays you can vote on, Bullhead City's Christmas tree lighting, hot dogs, hot cocoa and adult beverages, right after the Boom Box Parade. Presented by Community Pride Advocates to benefit Harmony Park.",
+   "id": "lau-lights-in-the-park-christmas-tree-li-2026-12-04"
+  },
+  {
+   "name": "25th Annual Black Mountain Art Show",
+   "category": "Art & Craft",
+   "place": "Mohave College Bullhead Campus, Room 600, 3400 Highway 95, Bullhead City",
+   "time": "9am–6pm Laughlin time (10am–7pm Arizona time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/11/18/674772/25th-annual-black-mountain-valley-art-show-colorado-river-valley-artists/",
+   "date": "2026-11-18",
+   "end": "2026-11-21",
+   "note": "Free. Artist reception Nov 20, 4–6pm Laughlin time (5–7pm Arizona).",
+   "description": "The River Valley Artists Guild's free exhibition of work by Colorado River Valley artists, with an artist reception and awards on Friday, Nov 20.",
+   "id": "lau-25th-annual-black-mountain-art-show-2026-11-18",
+   "lat": 35.17944,
+   "lng": -114.85017
+  },
+  {
+   "name": "Free Santa Photos at The Venue 837",
+   "category": "Holiday",
+   "place": "The Venue 837, 837 Hancock Rd, Bullhead City",
+   "time": "10am–2pm Laughlin time (11am–3pm Arizona time)",
+   "free": true,
+   "source": "https://www.bullheadcity.com/2026/11/21/668132/free-santa-photos-at-the-venue-837/",
+   "date": "2026-11-21",
+   "note": "Free photos with Santa and a kids' craft.",
+   "description": "Free photos with Santa and a holiday craft for kids, benefiting CASA Council Helping Children of Mohave County.",
+   "id": "lau-free-santa-photos-at-the-venue-837-2026-11-21",
+   "lat": 35.10783,
+   "lng": -114.62061
+  },
+  {
+   "name": "Oatman Christmas Bush Decorating",
+   "category": "Holiday",
+   "place": "Oatman Hwy / Main Street, Oatman, AZ",
+   "time": "Any time; bush numbers at Jackass Junction Nov 20",
+   "free": false,
+   "price": "$20 bush fee ($10 back after cleanup)",
+   "source": "https://www.bullheadcity.com/2026/11/20/656585/oatman-christmas-bush-decorating-contest/",
+   "date": "2026-11-20",
+   "end": "2026-12-19",
+   "note": "Decorate through Dec 19; judging Dec 20.",
+   "description": "Oatman's holiday tradition: decorate a desert bush along the road to Oatman. Pick up a bush number at Jackass Junction on Nov 20; judging is Dec 20 and cleanup is Jan 10.",
+   "know": [
+    "No glass ornaments, batteries or edible decorations.",
+    "The decorated bushes are free to drive by and view."
+   ],
+   "id": "lau-oatman-christmas-bush-decorating-2026-11-20",
+   "lat": 35.02639,
+   "lng": -114.38357
   }
  ],
  "center": [

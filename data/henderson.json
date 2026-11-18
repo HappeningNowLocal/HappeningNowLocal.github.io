@@ -1,6 +1,6 @@
 {
  "city": "Henderson, NV",
- "checked": "2026-11-16",
+ "checked": "2026-11-18",
  "events": [
   {
    "name": "Henderson Farmers Market – Cornerstone Park",
@@ -393,7 +393,6 @@
    "source": "https://shopthedistrictgvr.com/events/the-district-at-green-valley-ranch-the-makers-hive-market-946de5cf-26b1-45dc-9e4b-dd81384512e9/",
    "rule": {
     "dates": [
-     "2026-11-14",
      "2026-11-28",
      "2026-12-19"
     ]
@@ -571,9 +570,6 @@
    "source": "https://henderson.libnet.info/event/16329166",
    "rule": {
     "dates": [
-     "2026-11-14",
-     "2026-11-16",
-     "2026-11-17",
      "2026-11-18",
      "2026-11-19",
      "2026-11-20",
@@ -950,6 +946,168 @@
    "id": "he-second-time-around-vintage-market-2026-12-05",
    "lat": 36.02178,
    "lng": -115.08659
+  },
+  {
+   "name": "Christmas Baking with Bluey",
+   "category": "Family",
+   "place": "Henderson Multigenerational Center, 250 S Green Valley Pkwy",
+   "time": "10:10am–11:10am or 11:20am–12:20pm",
+   "free": false,
+   "price": "$35 supply fee (3-week session)",
+   "source": "https://pubt.io/view/047BCB434083E9CA8C40D1F742B0E858D2939934",
+   "rule": {
+    "dates": [
+     "2026-12-02",
+     "2026-12-09",
+     "2026-12-16"
+    ]
+   },
+   "note": "NEW · ages 2–7 with a parent; registration required.",
+   "description": "A new City of Henderson kids' kitchen class pairing a Christmas recipe with a Bluey story or coloring page. Runs Wednesdays Dec 2–16.",
+   "know": [
+    "One parent or guardian must take part.",
+    "Strollers aren't allowed in the kitchen.",
+    "Supply fee is paid to the instructor on day one."
+   ],
+   "id": "he-christmas-baking-with-bluey",
+   "lat": 36.01778,
+   "lng": -115.08305
+  },
+  {
+   "name": "Make a Gnome (50+)",
+   "category": "Art & Craft",
+   "place": "Downtown Senior Center, 27 E Texas Ave",
+   "time": "1:30pm–3:30pm",
+   "free": true,
+   "source": "https://pubt.io/view/047BCB434083E9CA8C40D1F742B0E858D2939934",
+   "date": "2026-12-09",
+   "note": "Free registration; $5 supply fee. Ages 50+.",
+   "description": "A new City of Henderson craft session for adults 50+: sew a garden, kitchen or Christmas gnome. Bring 1/2 yard of cotton (or 2 fat quarters) and matching thread.",
+   "know": [
+    "$5 supply fee covers stuffing and noses."
+   ],
+   "id": "he-make-a-gnome-50-2026-12-09",
+   "lat": 36.03342,
+   "lng": -114.98244
+  },
+  {
+   "name": "Naughty or Nice Gala (50+)",
+   "category": "Holiday",
+   "place": "Heritage Park Senior Facility, 300 S Racetrack Rd",
+   "time": "See site",
+   "free": false,
+   "price": "$10",
+   "source": "https://pubt.io/view/047BCB434083E9CA8C40D1F742B0E858D2939934",
+   "date": "2026-12-10",
+   "note": "Ages 50+. Registration $10.",
+   "description": "A holiday dance for adults 50+ with entertainment and light refreshments. Dress in your winter finest or naughty-or-nice holiday attire.",
+   "id": "he-naughty-or-nice-gala-50-2026-12-10",
+   "lat": 36.03294,
+   "lng": -114.95156
+  },
+  {
+   "name": "Winter Bird House Holiday Workshop",
+   "category": "Art & Craft",
+   "place": "Henderson Multigenerational Center, 250 S Green Valley Pkwy",
+   "time": "4pm–7pm",
+   "free": false,
+   "price": "$25 supply fee",
+   "source": "https://pubt.io/view/047BCB434083E9CA8C40D1F742B0E858D2939934",
+   "date": "2026-12-16",
+   "note": "NEW · $25 supply fee due at the start.",
+   "description": "Build a snowy winter birdhouse from cardboard paper, glue and a wooden dowel to take home as a holiday decoration.",
+   "id": "he-winter-bird-house-holiday-workshop-2026-12-16",
+   "lat": 36.01778,
+   "lng": -115.08305
+  },
+  {
+   "name": "Parents Night Out: S'MORE Santa Fun",
+   "category": "Family",
+   "place": "Whitney Mesa Recreation Area and Nature Preserve, 1661 Galleria Dr",
+   "time": "See site",
+   "free": false,
+   "price": "$25",
+   "source": "https://pubt.io/view/047BCB434083E9CA8C40D1F742B0E858D2939934",
+   "date": "2026-12-18",
+   "note": "Kids' drop-off program. Registration $25.",
+   "description": "Kids hike, play Reindeer Games, make s'mores and hear campfire stories with Santa while parents get a night out for holiday shopping.",
+   "id": "he-parents-night-out-smore-santa-fun-2026-12-18",
+   "lat": 36.08017,
+   "lng": -115.05873
+  },
+  {
+   "name": "Cosmic Swim Winter Wonderland",
+   "category": "Family",
+   "place": "Henderson Multigenerational Center Indoor Pool, 250 S Green Valley Pkwy",
+   "time": "See site",
+   "free": false,
+   "price": "$5",
+   "source": "https://pubt.io/view/047BCB434083E9CA8C40D1F742B0E858D2939934",
+   "date": "2026-12-18",
+   "note": "All ages. Registration $5.",
+   "description": "A festive cosmic-themed night swim with music, lights, glow gear and winter activities at the indoor pool.",
+   "id": "he-cosmic-swim-winter-wonderland-2026-12-18",
+   "lat": 36.01778,
+   "lng": -115.08305
+  },
+  {
+   "name": "Merry Grinchmas at Heritage Bark Park",
+   "category": "Holiday",
+   "place": "Heritage Bark Park, Heritage Park, 350 E Racetrack Rd",
+   "time": "10am–12pm",
+   "free": false,
+   "price": "$7 per dog ($10 day of event)",
+   "source": "https://pubt.io/view/047BCB434083E9CA8C40D1F742B0E858D2939934",
+   "date": "2026-12-19",
+   "note": "Dog event. $7 per pup, $10 day of.",
+   "description": "Bring your dog to meet and take photos with the Grinch, with holiday treats and pop-up agility courses.",
+   "id": "he-merry-grinchmas-at-heritage-bark-park-2026-12-19",
+   "lat": 36.01412,
+   "lng": -114.95333
+  },
+  {
+   "name": "Escape Room: Nightmare Before Christmas",
+   "category": "Family",
+   "place": "Downtown Recreation Center, 105 W Basic Rd",
+   "time": "Reserved time slots",
+   "free": false,
+   "price": "$15 per person",
+   "source": "https://pubt.io/view/047BCB434083E9CA8C40D1F742B0E858D2939934",
+   "date": "2026-12-19",
+   "end": "2026-12-30",
+   "note": "Groups up to 10; register by Dec 14.",
+   "description": "A City of Henderson Nightmare Before Christmas escape room. Groups get one hour to escape.",
+   "know": [
+    "Only one person needs to pay early to hold the slot; others pay on the day.",
+    "Registration ends Dec 14."
+   ],
+   "id": "he-escape-room-nightmare-before-christma-2026-12-19",
+   "lat": 36.03021,
+   "lng": -114.98854
+  },
+  {
+   "name": "2nd Sunday Swap & Shop at Atomic Motors",
+   "category": "Market",
+   "place": "Atomic Motors, 704 W Sunset Rd",
+   "time": "8am–2pm",
+   "free": true,
+   "source": "https://mycarculture.com/events/2nd-sunday-swap-shop-2027-01-10",
+   "rule": {
+    "dow": [
+     0
+    ],
+    "nth": [
+     2
+    ]
+   },
+   "note": "Every 2nd Sunday. Free.",
+   "description": "A free monthly swap meet with car and motorcycle parts, collectibles, art and antiques at Atomic Motors.",
+   "know": [
+    "Free 10x10 vendor spaces; register by the first Sunday of the month."
+   ],
+   "id": "he-2nd-sunday-swap-shop-at-atomic-motors",
+   "lat": 36.06399,
+   "lng": -115.02134
   }
  ],
  "center": [

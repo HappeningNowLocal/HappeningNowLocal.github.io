@@ -1,6 +1,6 @@
 {
  "city": "St. George, UT",
- "checked": "2026-11-16",
+ "checked": "2026-11-18",
  "events": [
   {
    "name": "Downtown Farmers Market",
@@ -14,10 +14,7 @@
      6
     ],
     "from": "2026-11-07",
-    "until": "2026-12-19",
-    "skip": [
-     "2026-11-14"
-    ]
+    "until": "2026-12-19"
    },
    "note": "Every Saturday, 50+ regional vendors and live music. No market Nov 14.",
    "description": "The largest farmers market in Washington County, at Vernon Worthen Park every Saturday. Vendors from Washington and Iron counties bring produce, pasture-raised meats, cheeses and artisan goods, and live music starts about 30 minutes after opening.",
@@ -598,19 +595,6 @@
    "lng": -113.65873
   },
   {
-   "name": "America 250 featuring the Snow Canyon Veterans Choir",
-   "category": "Movies & Music",
-   "place": "Santa Clara Library, 1099 N Lava Flow Dr, Santa Clara",
-   "time": "1pm–3pm",
-   "free": true,
-   "source": "https://washco.libcal.com/event/17696975",
-   "date": "2026-11-17",
-   "description": "A free all-ages America 250 community program at the Santa Clara branch of the Washington County Library, featuring the Snow Canyon Veterans Choir.",
-   "id": "st-america-250-featuring-the-snow-canyon-ve",
-   "lat": 37.12733,
-   "lng": -113.63678
-  },
-  {
    "name": "Christmas Karaoke Night",
    "category": "Holiday",
    "place": "Washington Branch Library, 220 N 300 E, Washington",
@@ -651,9 +635,6 @@
    "source": "https://www.sltrib.com/news/2026/11/09/southern-utah-listings-events-week/",
    "rule": {
     "dates": [
-     "2026-11-14",
-     "2026-11-16",
-     "2026-11-17",
      "2026-11-18",
      "2026-11-19",
      "2026-11-20",
@@ -677,19 +658,6 @@
    "id": "st-artist-s-choice-southern-utah-art-guild",
    "lat": 37.11352,
    "lng": -113.57905
-  },
-  {
-   "name": "Middleton Wash Trail Grand Opening",
-   "category": "Outdoors & Nature",
-   "place": "Middleton Wash Trail, 1642 E Middleton Dr",
-   "time": "4pm–5pm",
-   "free": true,
-   "source": "https://sgwom.com/events/middleton-wash-trail-grand-opening-2026/",
-   "date": "2026-11-17",
-   "description": "The City of St. George cuts the ribbon on the new Middleton Wash Trail extension, built with the city's 2023 recreation bond.",
-   "id": "st-middleton-wash-trail-grand-opening",
-   "lat": 37.10365,
-   "lng": -113.54182
   },
   {
    "name": "Chamber Thanksgiving Turkey Giveaway",
@@ -804,7 +772,6 @@
    "category": "Movies & Music",
    "rule": {
     "dates": [
-     "2026-11-14",
      "2026-11-21",
      "2026-11-28",
      "2026-12-05",
@@ -865,6 +832,94 @@
    "id": "st-up-and-away-balloon-festival-2027",
    "lat": 37.078436,
    "lng": -113.498143
+  },
+  {
+   "name": "Santa in the Park (Ivins)",
+   "category": "Holiday",
+   "place": "Ivins Heritage Park, 100 N 100 W, Ivins",
+   "time": "6pm",
+   "free": true,
+   "source": "https://events.greaterzion.com/event/santa-in-the-park/",
+   "date": "2026-12-02",
+   "note": "Free.",
+   "description": "Ivins City Parks & Recreation's holiday night with hot chocolate, s'mores, a kids' craft, Christmas music and photos with Santa and the Grinch.",
+   "id": "st-santa-in-the-park-ivins-2026-12-02",
+   "lat": 37.11493,
+   "lng": -113.58538
+  },
+  {
+   "name": "Hungry Hustle Ugly Sweater 5K",
+   "category": "Outdoors & Nature",
+   "place": "Sullivan Virgin River Soccer Park, 965 S Washington Fields Rd, Washington",
+   "time": "10:30am",
+   "free": false,
+   "price": "Registration fee; see site",
+   "source": "https://events.greaterzion.com/event/2026-hungry-hustle-5k-fundraiser/",
+   "date": "2026-12-05",
+   "note": "Ugly sweaters encouraged. Fundraiser for Tan's Treats.",
+   "description": "A holiday fun run on the Virgin River Trail benefiting Tan's Treats, which fights childhood hunger in Southern Utah. Wear your ugliest Christmas sweater; walkers and cheerers welcome.",
+   "id": "st-hungry-hustle-ugly-sweater-5k-2026-12-05",
+   "lat": 37.04335,
+   "lng": -113.4904
+  },
+  {
+   "name": "Run Run Reindeer 5K Family Fun Run",
+   "category": "Outdoors & Nature",
+   "place": "Ivins City Park, 100 N 100 W, Ivins",
+   "time": "9am",
+   "free": false,
+   "price": "$49",
+   "source": "https://runsignup.com/Race/UT/Ivins/RunRunReindeer5KFunRun",
+   "date": "2026-12-19",
+   "note": "Untimed; pets welcome.",
+   "description": "The 15th annual untimed holiday fun run with Christmas music on the course, reindeer selfie stations, sponsor booths and post-race treats.",
+   "id": "st-run-run-reindeer-5k-family-fun-run-2026-12-19",
+   "lat": 37.11493,
+   "lng": -113.58538
+  },
+  {
+   "name": "Dragon's Tail Stair Climb Challenge",
+   "category": "Outdoors & Nature",
+   "place": "Tech Ridge Staircase, S Tech Ridge Pkwy, St. George",
+   "time": "7:30am",
+   "free": false,
+   "price": "Registration fee; see site",
+   "source": "https://sgcityutah.gov/activity/special_events/st._george_races/index.php",
+   "date": "2027-01-16",
+   "note": "City of St. George race. Sprint, endurance, 5K and 1K options.",
+   "description": "The city's toughest race: down and up the 333-step Tech Ridge staircase as many times as you can, plus a 5K/1K course that finishes with the full climb. The last runner standing is crowned Dragon King or Queen.",
+   "id": "st-dragons-tail-stair-climb-challenge-2027-01-16",
+   "lat": 37.09799,
+   "lng": -113.59526
+  },
+  {
+   "name": "Lunch and Learn at Snow Canyon (January)",
+   "category": "Outdoors & Nature",
+   "place": "Upper Galoot Picnic Area, Snow Canyon State Park",
+   "time": "12pm–1pm",
+   "free": false,
+   "price": "Park entry",
+   "source": "https://stateparks.utah.gov/event/lunch-and-learn/2027-01-15/",
+   "date": "2027-01-15",
+   "note": "Bring your lunch; topic changes each month.",
+   "description": "Pack a lunch and join a Snow Canyon naturalist at Upper Galoot Picnic Area to learn what makes the park unique. Topics change monthly.",
+   "id": "st-lunch-and-learn-at-snow-canyon-januar-2027-01-15",
+   "lat": 37.1957,
+   "lng": -113.64952
+  },
+  {
+   "name": "Electric Film Series (December)",
+   "category": "Movies & Music",
+   "place": "The Electric Theater Center, 68 E Tabernacle St",
+   "time": "6pm",
+   "free": true,
+   "source": "https://events.greaterzion.com/event/2026-electric-film-series-9/",
+   "date": "2026-12-15",
+   "note": "Free monthly classic film screening.",
+   "description": "A free classic film night at the historic Electric Theater with an intro and a post-screening discussion. This year's series moves through film history one decade at a time.",
+   "id": "st-electric-film-series-december-2026-12-15",
+   "lat": 37.10821,
+   "lng": -113.58673
   }
  ],
  "center": [

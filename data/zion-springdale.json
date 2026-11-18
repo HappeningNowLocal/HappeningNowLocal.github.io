@@ -1,6 +1,6 @@
 {
  "city": "Zion / Springdale, UT",
- "checked": "2026-11-16",
+ "checked": "2026-11-18",
  "events": [
   {
    "name": "Zion Canyon Visitor Center Ranger Talk",
@@ -122,6 +122,40 @@
    "id": "zi-bumbleberry-free-christmas-movies",
    "lat": 37.18861,
    "lng": -112.99911
+  },
+  {
+   "name": "Christmas Karaoke at Bumbleberry Theater",
+   "category": "Holiday",
+   "place": "Bumbleberry Theater, 897 Zion Park Blvd, Springdale",
+   "time": "6pm–9pm (approx.)",
+   "free": true,
+   "source": "https://suindependent.com/holidays-at-the-bumbleberry-features-movies-karaoke-and-a-joshua-creek-christmas/",
+   "date": "2026-12-03",
+   "note": "Free community karaoke night.",
+   "description": "Sing Christmas favorites at a free community karaoke night at Springdale's Bumbleberry Theater.",
+   "know": [
+    "The Springdale community calendar lists the time as 'probably 6–9pm'."
+   ],
+   "id": "zi-christmas-karaoke-at-bumbleberry-thea-2026-12-03",
+   "lat": 37.19952,
+   "lng": -112.99047
+  },
+  {
+   "name": "Springdale Cookbook Club: Winter Solstice or Christmas",
+   "category": "Holiday",
+   "place": "Canyon Community Center reading room, 126 Lion Blvd, Springdale",
+   "time": "12pm–2pm",
+   "free": true,
+   "source": "https://springdalesun.com/events",
+   "date": "2026-12-03",
+   "note": "Community potluck. Bring a dish, plates and cutlery.",
+   "description": "Springdale's monthly cookbook club goes festive: pick a Winter Solstice or Christmas recipe and share it at a community potluck.",
+   "know": [
+    "For a dish everyone can eat, skip gluten, cucumbers and meat."
+   ],
+   "id": "zi-springdale-cookbook-club-winter-solst-2026-12-03",
+   "lat": 37.19539,
+   "lng": -112.99831
   }
  ],
  "center": [

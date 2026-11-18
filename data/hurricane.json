@@ -1,6 +1,6 @@
 {
  "city": "Hurricane, UT",
- "checked": "2026-11-16",
+ "checked": "2026-11-18",
  "events": [
   {
    "name": "Movie Meetup at Sand Hollow",
@@ -186,9 +186,6 @@
    "source": "https://www.sltrib.com/news/2026/11/09/southern-utah-listings-events-week/",
    "rule": {
     "dates": [
-     "2026-11-14",
-     "2026-11-16",
-     "2026-11-17",
      "2026-11-18",
      "2026-11-19",
      "2026-11-20",
@@ -278,6 +275,137 @@
    "id": "hu-red-rock-chocolate-fine-foods-festival-2027",
    "lat": 37.16248,
    "lng": -113.41287
+  },
+  {
+   "name": "Community Action – Weed Pulling at Sand Hollow",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "4pm",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/community-action-weed-pulling-10/",
+   "date": "2026-12-02",
+   "note": "Free volunteer event.",
+   "description": "Help Sand Hollow State Park rangers pull invasive weeds around the park.",
+   "id": "hu-community-action-weed-pulling-at-sand-2026-12-02",
+   "lat": 37.10561,
+   "lng": -113.39361
+  },
+  {
+   "name": "Winged Wonders Birding at Sand Hollow",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "8am–9am",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/winged-wonders-18/",
+   "date": "2026-12-09",
+   "note": "Free; park entry required. Binoculars provided.",
+   "description": "Join a park ranger off the main boat ramp near the dam to spot some of the 250+ bird species that visit Sand Hollow, and chat with local birders. Bring a chair or blanket.",
+   "know": [
+    "The event is free; park entry fee applies."
+   ],
+   "id": "hu-winged-wonders-birding-at-sand-hollow-2026-12-09",
+   "lat": 37.10561,
+   "lng": -113.39361
+  },
+  {
+   "name": "Art of Adventure at Sand Hollow",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "10am–11am",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/art-of-adventure-10/",
+   "date": "2026-12-12",
+   "note": "Free; park entry required.",
+   "description": "A ranger-led nature journaling session along the water's edge. Follow the guided prompt or draw and color at your own pace.",
+   "know": [
+    "The event is free; park entry fee applies."
+   ],
+   "id": "hu-art-of-adventure-at-sand-hollow-2026-12-12",
+   "lat": 37.10561,
+   "lng": -113.39361
+  },
+  {
+   "name": "Movie Meetup at Sand Hollow (December)",
+   "category": "Movies & Music",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "7pm–8:30pm",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/movie-meetup-11/",
+   "date": "2026-12-16",
+   "note": "Free; park entry required. Weather dependent.",
+   "description": "An outdoor winter movie night with a park ranger at the OHV staging area. Bring blankets and chairs.",
+   "know": [
+    "The event is free; park entry fee applies."
+   ],
+   "id": "hu-movie-meetup-at-sand-hollow-december-2026-12-16",
+   "lat": 37.10561,
+   "lng": -113.39361
+  },
+  {
+   "name": "EKO: Utah Forever at Sand Hollow",
+   "category": "Family",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "2pm–3pm",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/eko-utah-forever/",
+   "date": "2026-12-19",
+   "note": "Free; reduced park entry for participating kids.",
+   "description": "Meet a park ranger at Main Beach for the Utah Forever Every Kid Outdoors challenge, with supplies provided for kids 17 and under.",
+   "know": [
+    "Volunteer early and park entry is waived."
+   ],
+   "id": "hu-eko-utah-forever-at-sand-hollow-2026-12-19",
+   "lat": 37.10561,
+   "lng": -113.39361
+  },
+  {
+   "name": "Community Action – Trash Cleanup at Sand Hollow (December)",
+   "category": "Outdoors & Nature",
+   "place": "Sand Hollow State Park, 3351 Sand Hollow Rd",
+   "time": "4pm",
+   "free": true,
+   "source": "https://stateparks.utah.gov/event/community-action-trash-cleanup-10/",
+   "date": "2026-12-29",
+   "note": "Free volunteer cleanup.",
+   "description": "Help rangers clean up trash around Sand Hollow State Park.",
+   "id": "hu-community-action-trash-cleanup-at-san-2026-12-29",
+   "lat": 37.10561,
+   "lng": -113.39361
+  },
+  {
+   "name": "LaVerkin City Winterfest 5K & 10K",
+   "category": "Outdoors & Nature",
+   "place": "Wanlass Park, 320 N Main St, La Verkin",
+   "time": "9am",
+   "free": false,
+   "price": "Registration fee; see site",
+   "source": "https://events.greaterzion.com/event/2026-laverkin-city-winterfest-5k-10k-race-151/",
+   "date": "2026-12-05",
+   "note": "Part of La Verkin Winterfest.",
+   "description": "La Verkin's Winterfest race: an out-and-back 10K up Highway 9 toward the LaVerkin Look-off with Pine Valley Mountain views, plus a 5K.",
+   "id": "hu-laverkin-city-winterfest-5k-10k-2026-12-05",
+   "lat": 37.18133,
+   "lng": -113.28809
+  },
+  {
+   "name": "Winter 4x4 Jamboree",
+   "category": "Outdoors & Nature",
+   "place": "Washington County Fairgrounds (Legacy Park), 5500 W 700 S, Hurricane",
+   "time": "Runs start 8am",
+   "free": false,
+   "price": "$50 per vehicle per trail; vendor show free",
+   "source": "https://winter4x4jamboree.com/",
+   "date": "2027-01-20",
+   "end": "2027-01-23",
+   "note": "Guided 4x4 trail runs; register by Dec 31. Vendor show free.",
+   "description": "The Desert Roads and Trails Society's guided trail-ride event for full-size 4x4s, with 35+ rated trails on Sand Mountain, Warner Valley and the Hurricane Cliffs. Drivers register for specific runs; the vendor show is free to browse.",
+   "know": [
+    "No ATVs, UTVs or dirt bikes on runs.",
+    "Registration closes Dec 31."
+   ],
+   "id": "hu-winter-4x4-jamboree-2027-01-20",
+   "lat": 37.11719,
+   "lng": -113.41208
   }
  ],
  "center": [

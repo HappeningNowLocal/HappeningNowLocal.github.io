@@ -1,6 +1,6 @@
 # Happening Now Local: Source List
 
-Checked 2026-11-16. **Reachable** means the page loaded from this box. **Search-only** means I read the page text through the search index and did not load it directly. **Blocked** means 403 or a block page.
+Checked 2026-11-18. **Reachable** means the page loaded from this box. **Search-only** means I read the page text through the search index and did not load it directly. **Blocked** means 403 or a block page.
 
 ## Cross-region (all cities)
 | Name | URL | Covers | Reachable |
@@ -116,7 +116,7 @@ Checked 2026-11-16. **Reachable** means the page loaded from this box. **Search-
 | LA County Beaches & Harbors | https://beaches.lacounty.gov/holidayboatparade/ | Marina del Rey boat parade | Search-only |
 | Music Center press room | https://pressroom.musiccenter.org/ | LA County Holiday Celebration | Search-only |
 | Hollywood Christmas Parade | https://thehollywoodchristmasparade.org/ | Parade | Reachable |
-| Autry Museum | http://theautry.org/events/ | Pow Wow | Search-only |
+| Autry Museum | https://theautry.org/events/ | Pow Wow | Search-only |
 | Fun With Kids in LA (aggregator) | https://www.funwithkidsinla.com/post/free-christmas-events-los-angeles-2026 | Free holiday parades and lightings | Reachable (says it's checked against organizer sites; secondary source) |
 | Santa Monica Mountains NRA | NPS API (samo) | No events listed | Reachable (API) |
 | California State Parks | https://www.parks.ca.gov/ | Events | Not checked this pass |
@@ -358,3 +358,39 @@ Notes from 2026-11-14: sandandwaterexpo.com now shows a spam site, so the Sand, 
 Removed 2026-11-16: none (no dead sources found; every non-200 was a bot block or rate limit, not a dead page).
 
 Notes from 2026-11-16: The Afterglow Market page on Shop & Seek LV now returns 404, so the event was removed; The First Find (Jan 24) is listed instead. The UMFA Holiday Market link moved to https://umfa.utah.edu/event/holiday-market-2026-2/. cityofhenderson.com, 8newsnow, sandiego.org, visitarizona, magicfashionevents, the Havasu Chamber business calendar and cpw returned 403; stgnewsletter returned 429; suindependent returned 403. events.suu.edu still needs TLS checks skipped from this box. The Mesa Night Market page says "Saturday, December 6th", but Dec 6, 2026 is a Sunday, so it was not added until the date is confirmed. The Springdale town page still shows an old "Friday Dec 12" date; the town calendar's Dec 11 was kept. Paid holiday concerts (Ryan Shupe, SUU, Joshua Creek, He Makana Kealoha) were skipped.
+
+## Added 2026-11-18
+| City | Name | URL | Covers | Reachable |
+|---|---|---|---|---|
+| Henderson | City of Henderson press releases (via Public) | https://pubt.io/view/047BCB434083E9CA8C40D1F742B0E858D2939934 | City holiday classes, 50+ events, swim nights, escape room | Reachable |
+| Las Vegas | SHOT Show | https://shotshow.org/ | Industry-only trade show at Venetian Expo (Jan) | Reachable |
+| Las Vegas | Las Vegas Market | https://www.lasvegasmarket.com/ | Industry-only furniture/gift market at World Market Center (Jan, Jul) | Reachable |
+| Las Vegas | PPAI Expo | https://www.ppai.org/events/ppai-expo/ | Industry-only promo products expo at Mandalay Bay (Jan) | Reachable |
+| Las Vegas | AWS re:Invent | https://reinvent.awsevents.com/ | Paid cloud conference across Strip venues (Nov–Dec) | Reachable |
+| Las Vegas | Enchant Christmas Las Vegas | https://www.enchantchristmas.com/las-vegas/ | Christmas light maze at Las Vegas Ballpark | Reachable |
+| Boulder City | Boulder City Library events (LibNet) | https://bclibrary.libnet.info/events | Library programs; JSON feed at /eeventcaldata | Reachable |
+| Cedar City | Wreaths Across America location pages | https://www.wreathsacrossamerica.org/ | Local wreath-laying ceremonies (Dec) | Reachable |
+| Hurricane | Winter 4x4 Jamboree | https://winter4x4jamboree.com/ | Sand Hollow off-road jamboree (Jan) | Reachable |
+| St. George | St. George city races | https://sgcityutah.gov/activity/special_events/st._george_races/index.php | City-run races (Dragon's Tail Stair Climb, etc.) | Reachable |
+| Zion / Springdale | Springdale Sun events | https://springdalesun.com/events | Springdale community events (cookbook club, etc.) | Reachable |
+| Kingman | City of Kingman news | https://www.cityofkingman.gov/Home/Components/News/News/3938/255 | City announcements (75th anniversary) | Reachable |
+| Kingman | Kingman Concert Band | https://www.kingmanconcertband.com/schedule | Free community band concerts | Reachable |
+| Phoenix | Phoenix Zoo events | https://www.phoenixzoo.org/events/zoolights/ | ZooLights and zoo events | Reachable |
+| Phoenix | Fiesta Sports Foundation | https://www.fiestasportsfoundation.org/ | Fiesta Bowl Parade and community events | Reachable |
+| Phoenix | Arizona National Livestock Show | https://www.aznational.org/ | Livestock show at AZ State Fairgrounds (Dec–Jan) | Reachable |
+| Phoenix | Barrett-Jackson | https://www.barrett-jackson.com/ | Scottsdale collector car auction (Jan) | Reachable |
+| Salt Lake City | The Gateway calendar | https://atthegateway.com/calendars/ | Gateway events, Last Hurrah NYE | Reachable |
+| Salt Lake City | Solitude Mountain events | https://www.solitudemountain.com/things-to-do/events-and-activities | Torchlight parades, resort events | Reachable |
+| Salt Lake City | Salt Lake County Library events (LibNet) | https://events.slcolibrary.org/ | Library holiday programs countywide; JSON feed at /eeventcaldata | Reachable |
+| San Diego | San Diego Reader events | https://www.sandiegoreader.com/events/ | Local events calendar (Fiesta of Lights) | Reachable |
+| San Diego | KPBS events calendar | https://www.kpbs.org/events | Community events (Botanical Wonderland) | Reachable |
+| San Diego | City of Poway Winter Festival | https://poway.org/893/Winter-Festival | Free Poway Winter Festival (Jan) | Reachable |
+| San Diego | Coastal Christmas Del Mar | https://www.coastalchristmasdelmar.com/ | Holiday light park at Del Mar Fairgrounds | Reachable |
+| Los Angeles | Los Angeles Convention Center calendar | https://www.laconventioncenter.com/events | Public and trade shows at LACC | Reachable (via fetch) |
+| Los Angeles | Tournament of Roses | https://tournamentofroses.com/events/rose-parade/ | Rose Parade (Jan 1) | Reachable (via fetch; 202 to curl) |
+| Los Angeles | The Fitness Expo | https://www.thefitexpo.com/cities/los-angeles/ | Fitness expo at LACC (Jan) | Reachable |
+| Los Angeles | Asian American Expo | https://aaexpo.com/ | Lunar New Year expo at Fairplex, Pomona (Jan) | Reachable |
+
+Removed 2026-11-18: none (no dead sources found; every non-200 was a bot block or rate limit, and https://theautry.org/events/ works over https).
+
+Notes from 2026-11-18: Shop & Seek's Dec 20 listing (sincityspotlight) now 404s and isn't on shopandseeklv, so it was removed; the Winter Trail market moved to Dec 13. The Salt Lake Handmade Holiday Expo Eventbrite page 404s and was removed. Lake Mead Christmas Bird Count is now Dec 15; Bullhead City's Christmas on the City Hall Deck is now Dec 8. bestdamwinewalk.com needs https (http returns 500). kingmanarena.com is Kingman, KANSAS, not AZ. Coastal Christmas Del Mar's site shows Dec 11 opening and theme nights through Dec 23 but no clear closing date. laartshow.com returned 403 and tournamentofroses.com returned 202 to curl; both were read with the fetch tool. The Kingman 75th Anniversary venue is TBA, so it has no map pin. Laughlin NYE fireworks and an Eventbrite 'Laughlin Craft Fair' were skipped (no official 2026 listing / vendor-recruitment page).

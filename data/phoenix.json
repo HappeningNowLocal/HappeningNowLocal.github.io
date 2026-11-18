@@ -1,6 +1,6 @@
 {
  "city": "Phoenix, AZ",
- "checked": "2026-11-16",
+ "checked": "2026-11-18",
  "events": [
   {
    "name": "First Friday Art Walk",
@@ -29,7 +29,6 @@
    "source": "https://dtphx.org/do/pickers-playground",
    "rule": {
     "dates": [
-     "2026-11-15",
      "2026-12-20"
     ]
    },
@@ -565,6 +564,88 @@
    "convention": true,
    "lat": 33.5276,
    "lng": -112.2626
+  },
+  {
+   "name": "Crossroads of the West Gun Show (January)",
+   "category": "Shows & Expos",
+   "place": "Arizona State Fairgrounds, 1826 W. McDowell Rd",
+   "time": "Sat 9–5, Sun 9–3",
+   "free": false,
+   "price": "See source",
+   "source": "https://www.crossroadsgunshows.com/venue/arizona-state-fairgrounds/",
+   "date": "2027-01-23",
+   "end": "2027-01-24",
+   "note": "Kids 12 and under free with a parent.",
+   "description": "A two-day Crossroads of the West gun show at the Arizona State Fairgrounds. One ticket covers both days.",
+   "id": "ph-crossroads-of-the-west-gun-show-janua-2027-01-23",
+   "lat": 33.46962,
+   "lng": -112.09668
+  },
+  {
+   "name": "ZooLights at the Phoenix Zoo",
+   "category": "Holiday",
+   "place": "Phoenix Zoo, 455 N Galvin Pkwy",
+   "time": "5:30pm–10:30pm",
+   "free": false,
+   "price": "$35 general; $30 members; $10 Member Mondays",
+   "source": "https://www.phoenixzoo.org/events/zoolights/",
+   "date": "2026-11-25",
+   "end": "2027-01-15",
+   "note": "Kids 2 and under free. Sensory-friendly night Dec 8.",
+   "description": "The Phoenix Zoo's holiday light festival returns with the new 'Wander the Wonder, A Trail Less Ordinary' experience and a floating-tree show.",
+   "know": [
+    "Most animals aren't visible during ZooLights.",
+    "Sensory Friendly ZooLights is Tuesday, Dec 8."
+   ],
+   "id": "ph-zoolights-at-the-phoenix-zoo-2026-11-25",
+   "lat": 33.44969,
+   "lng": -111.95168
+  },
+  {
+   "name": "Phoenix Children's Fiesta Bowl Parade",
+   "category": "Holiday",
+   "place": "Central Phoenix (1.5-mile route)",
+   "time": "See site",
+   "free": true,
+   "source": "https://www.fiestasportsfoundation.org/sports/2019/10/22/fiesta-bowl-parade",
+   "date": "2027-01-02",
+   "note": "Free to attend.",
+   "description": "The 54th annual Fiesta Bowl Parade marches 1.5 miles through Central Phoenix with giant balloons, floats, marching bands, animals and 3,000+ participants.",
+   "id": "ph-phoenix-childrens-fiesta-bowl-parade-2027-01-02",
+   "lat": 33.44774,
+   "lng": -112.07382
+  },
+  {
+   "name": "Arizona National Livestock Show",
+   "category": "Family",
+   "place": "Arizona State Fairgrounds, 1826 W. McDowell Rd",
+   "time": "See site",
+   "free": false,
+   "price": "See site",
+   "source": "https://www.aznational.org/",
+   "date": "2026-12-27",
+   "end": "2026-12-31",
+   "note": "The Southwest's largest livestock show, held every Dec 27–31.",
+   "description": "A Phoenix tradition since 1948 with junior and open livestock shows, a ranch rodeo, stockdog trials, an AQHA horse show and farm experience activities.",
+   "id": "ph-arizona-national-livestock-show-2026-12-27",
+   "lat": 33.46962,
+   "lng": -112.09668
+  },
+  {
+   "name": "Barrett-Jackson Scottsdale 2027",
+   "category": "Shows & Expos",
+   "place": "WestWorld of Scottsdale, 16601 N Pima Rd, Scottsdale",
+   "time": "See site",
+   "free": false,
+   "price": "Tickets required; see site",
+   "source": "https://www.barrett-jackson.com/2027-scottsdale",
+   "date": "2027-01-23",
+   "end": "2027-01-31",
+   "note": "Nine days of live collector car auctions.",
+   "description": "The world-famous collector car auction with 2,000+ vehicles on display, nine days of live bidding, a food festival, an exhibitor marketplace and interactive sponsor displays.",
+   "id": "ph-barrett-jackson-scottsdale-2027-2027-01-23",
+   "lat": 33.63385,
+   "lng": -111.87568
   }
  ],
  "center": [

@@ -1,6 +1,6 @@
 {
  "city": "San Diego, CA",
- "checked": "2026-11-16",
+ "checked": "2026-11-18",
  "events": [
   {
    "name": "Balboa Park December Nights",
@@ -62,7 +62,7 @@
      6
     ],
     "from": "2026-11-04",
-    "until": "2026-12-19"
+    "until": "2026-12-26"
    },
    "note": "Saturdays, conditions permitting. Park entry fee applies.",
    "description": "Volunteers bring Point Loma's WWII coastal defenses to life on the only days visitors can tour the bunkers. See the weapons and instruments that protected the coast; closed in inclement weather.",
@@ -79,7 +79,8 @@
    "source": "https://www.nps.gov/planyourvisit/event-details.htm?id=F4C1ABE5-FD43-B1FF-BBBF81F3B564AC84",
    "rule": {
     "dates": [
-     "2026-12-04"
+     "2026-12-04",
+     "2027-01-01"
     ]
    },
    "note": "1-mile walk; all levels.",
@@ -100,7 +101,7 @@
      5
     ],
     "from": "2026-11-04",
-    "until": "2026-12-18"
+    "until": "2027-01-15"
    },
    "note": "Fridays.",
    "description": "A 30-minute ranger walk introducing Juan Rodríguez Cabrillo's 1542 expedition, the Old Point Loma Lighthouse and how the monument grew.",
@@ -581,6 +582,81 @@
    "convention": true,
    "lat": 32.70636,
    "lng": -117.16178
+  },
+  {
+   "name": "Fiesta of Lights in Old Town",
+   "category": "Holiday",
+   "place": "Fiesta de Reyes, Juan St at Calhoun St, Old Town San Diego",
+   "time": "Daily from 10am; lights after dark",
+   "free": true,
+   "source": "https://www.sandiegoreader.com/events/ongoing/fiesta-of-lights/",
+   "date": "2026-11-27",
+   "end": "2027-01-06",
+   "note": "Free. Hourly light show and artificial snow after dark.",
+   "description": "The Fiesta de Reyes plaza in Old Town San Diego State Historic Park becomes a free holiday wonderland with hand-painted decorations by local artists, live entertainment, holiday shopping and dining specials. After dark, thousands of lights, artificial snow and an hourly light show.",
+   "id": "sd-fiesta-of-lights-in-old-town-2026-11-27",
+   "lat": 32.7552,
+   "lng": -117.19726
+  },
+  {
+   "name": "Botanical Wonderland at the Botanical Building",
+   "category": "Holiday",
+   "place": "Botanical Building, Balboa Park, 1549 El Prado",
+   "time": "5:30pm–8:30pm",
+   "free": true,
+   "source": "https://www.kpbs.org/events/ongoing/botanical-wonderland",
+   "rule": {
+    "dow": [
+     0,
+     6
+    ],
+    "from": "2026-12-12",
+    "until": "2027-01-03"
+   },
+   "note": "Free, all ages. Saturday & Sunday evenings.",
+   "description": "Forever Balboa Park lights up the Botanical Building for the holidays with festive florals, pergola performances by local groups (6:30–7:30pm), and holiday drinks, hot chocolate, charcuterie and gingerbread cookies to decorate for purchase.",
+   "id": "sd-botanical-wonderland-at-the-botanical",
+   "lat": 32.73135,
+   "lng": -117.14897
+  },
+  {
+   "name": "Poway Winter Festival",
+   "category": "Festival",
+   "place": "Poway Community Park, 13094 Civic Center Dr, Poway",
+   "time": "Fri 5pm–9pm, Sat 3:30pm–8:30pm",
+   "free": true,
+   "source": "https://poway.org/893/Winter-Festival",
+   "date": "2027-01-08",
+   "end": "2027-01-09",
+   "note": "Free entry. No ATMs on site; bring cash for food.",
+   "description": "The City of Poway trucks in a snow hill for free sledding and sets up a synthetic skate rink with free rentals, plus a campfire, crafts, bounce houses, a light walk and a free photo booth.",
+   "know": [
+    "Food vendors, face painting and pony rides cost extra.",
+    "Special Needs Power Hour on Saturday, Jan 9."
+   ],
+   "id": "sd-poway-winter-festival-2027-01-08",
+   "lat": 32.95479,
+   "lng": -117.04635
+  },
+  {
+   "name": "Coastal Christmas Del Mar",
+   "category": "Holiday",
+   "place": "Del Mar Fairgrounds, 2260 Jimmy Durante Blvd, Del Mar",
+   "time": "Evenings, see site",
+   "free": false,
+   "price": "Tickets required (see site)",
+   "source": "https://www.coastalchristmasdelmar.com/",
+   "date": "2026-12-11",
+   "end": "2026-12-23",
+   "note": "Opens Dec 11. Theme nights run through at least Dec 23; check the site for the closing date.",
+   "description": "A seaside holiday light park at the Del Mar Fairgrounds with a holiday light trail, skating, s'mores, private igloos and a holiday wine walk.",
+   "know": [
+    "Community Night Dec 17: buy one, get one free GA.",
+    "First responders & nurses free Dec 18; military & veterans free Dec 20; kids under 12 free with a paid adult Dec 21."
+   ],
+   "id": "sd-coastal-christmas-del-mar-2026-12-11",
+   "lat": 32.97053,
+   "lng": -117.26301
   }
  ],
  "center": [
